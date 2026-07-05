@@ -1,0 +1,117 @@
+{
+  "symbol": "PLTR",
+  "as_of": "2026-06-26",
+  "generated_at": "2026-06-29T10:28:21",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "current_price": 112.93000030517578,
+  "structure": {
+    "major": "possible_wave_2_rebound",
+    "minor": "small_degree_rebound"
+  },
+  "levels": {
+    "start": 112.93000030517578,
+    "monitor": 160.83999633789062,
+    "target": 190.4483738861084,
+    "invalidation": 112.93000030517578
+  },
+  "scenarios": [
+    {
+      "condition": "break_above_monitor",
+      "level": 160.83999633789062,
+      "meaning": "反弹级别扩大",
+      "target": 190.4483738861084
+    },
+    {
+      "condition": "reject_below_monitor",
+      "level": 160.83999633789062,
+      "meaning": "仍在调整内"
+    },
+    {
+      "condition": "break_below_invalidation",
+      "level": 112.93000030517578,
+      "meaning": "当前反弹路径失效"
+    }
+  ],
+  "pivots": [
+    {
+      "index": 151,
+      "time": "2026-02-03T00:00:00",
+      "price": 157.8800048828125,
+      "kind": "high"
+    },
+    {
+      "index": 153,
+      "time": "2026-02-05T00:00:00",
+      "price": 130.00999450683594,
+      "kind": "low"
+    },
+    {
+      "index": 155,
+      "time": "2026-02-09T00:00:00",
+      "price": 142.91000366210938,
+      "kind": "high"
+    },
+    {
+      "index": 165,
+      "time": "2026-02-24T00:00:00",
+      "price": 128.83999633789062,
+      "kind": "low"
+    },
+    {
+      "index": 184,
+      "time": "2026-03-23T00:00:00",
+      "price": 160.83999633789062,
+      "kind": "high"
+    },
+    {
+      "index": 189,
+      "time": "2026-03-30T00:00:00",
+      "price": 137.5500030517578,
+      "kind": "low"
+    },
+    {
+      "index": 194,
+      "time": "2026-04-07T00:00:00",
+      "price": 150.07000732421875,
+      "kind": "high"
+    },
+    {
+      "index": 197,
+      "time": "2026-04-10T00:00:00",
+      "price": 128.05999755859375,
+      "kind": "low"
+    },
+    {
+      "index": 205,
+      "time": "2026-04-22T00:00:00",
+      "price": 152.6199951171875,
+      "kind": "high"
+    },
+    {
+      "index": 220,
+      "time": "2026-05-13T00:00:00",
+      "price": 130.0500030517578,
+      "kind": "low"
+    },
+    {
+      "index": 232,
+      "time": "2026-06-01T00:00:00",
+      "price": 160.64999389648438,
+      "kind": "high"
+    },
+    {
+      "index": 250,
+      "time": "2026-06-26T00:00:00",
+      "price": 112.93000030517578,
+      "kind": "low"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": null,
+    "wave3_not_shortest": null,
+    "wave4_no_overlap": null,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只讨论波浪结构，不构成交易建议"
+}

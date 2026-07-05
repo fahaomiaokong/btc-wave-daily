@@ -1,0 +1,3 @@
+display_name: Elliott Wave US Stock
+short_description: US stock wave chart and X post
+default_prompt: Analyze NVDA with Elliott Wave and generate a chart plus Chinese X post.

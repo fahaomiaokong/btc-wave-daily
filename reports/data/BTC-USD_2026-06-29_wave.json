@@ -1,0 +1,129 @@
+{
+  "symbol": "BTC-USD",
+  "as_of": "2026-06-29",
+  "generated_at": "2026-06-29T23:18:02",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "current_price": 59173.9296875,
+  "structure": {
+    "major": "possible_abc_or_complex_correction",
+    "minor": "rebound_from_candidate_c"
+  },
+  "levels": {
+    "start": 58075.921875,
+    "monitor": 67248.1328125,
+    "target": 73350.588515625,
+    "invalidation": 52242.87765625,
+    "fib_0236": 63908.96609375,
+    "fib_0382": 67517.544296875,
+    "fib_0500": 70434.06640625,
+    "fib_0618": 73350.588515625,
+    "key_high": 82792.2109375,
+    "key_low": 58075.921875
+  },
+  "fibonacci": {
+    "retracement_0_236": 63908.96609375,
+    "retracement_0_382": 67517.544296875,
+    "retracement_0_500": 70434.06640625
+  },
+  "scenarios": [
+    {
+      "condition": "break_above_monitor",
+      "level": 67248.1328125,
+      "meaning": "低点反弹级别扩大，先看斐波那契反弹位",
+      "target": 73350.588515625
+    },
+    {
+      "condition": "reject_below_monitor",
+      "level": 67248.1328125,
+      "meaning": "仍在A-B-C/复杂调整内"
+    },
+    {
+      "condition": "break_below_invalidation",
+      "level": 52242.87765625,
+      "meaning": "C浪/调整段延伸，观察更低一级目标"
+    }
+  ],
+  "impulse": null,
+  "pivots": [
+    {
+      "index": 606,
+      "time": "2026-02-25T00:00:00",
+      "price": 69953.53125,
+      "kind": "high"
+    },
+    {
+      "index": 609,
+      "time": "2026-02-28T00:00:00",
+      "price": 63062.21875,
+      "kind": "low"
+    },
+    {
+      "index": 613,
+      "time": "2026-03-04T00:00:00",
+      "price": 74051.8046875,
+      "kind": "high"
+    },
+    {
+      "index": 617,
+      "time": "2026-03-08T00:00:00",
+      "price": 65639.1953125,
+      "kind": "low"
+    },
+    {
+      "index": 626,
+      "time": "2026-03-17T00:00:00",
+      "price": 75988.3984375,
+      "kind": "high"
+    },
+    {
+      "index": 631,
+      "time": "2026-03-22T00:00:00",
+      "price": 67372.875,
+      "kind": "low"
+    },
+    {
+      "index": 634,
+      "time": "2026-03-25T00:00:00",
+      "price": 71985.7421875,
+      "kind": "high"
+    },
+    {
+      "index": 638,
+      "time": "2026-03-29T00:00:00",
+      "price": 64971.70703125,
+      "kind": "low"
+    },
+    {
+      "index": 676,
+      "time": "2026-05-06T00:00:00",
+      "price": 82792.2109375,
+      "kind": "high"
+    },
+    {
+      "index": 706,
+      "time": "2026-06-05T00:00:00",
+      "price": 59108.91796875,
+      "kind": "low"
+    },
+    {
+      "index": 716,
+      "time": "2026-06-15T00:00:00",
+      "price": 67248.1328125,
+      "kind": "high"
+    },
+    {
+      "index": 726,
+      "time": "2026-06-25T00:00:00",
+      "price": 58075.921875,
+      "kind": "low"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": null,
+    "wave3_not_shortest": null,
+    "wave4_no_overlap": null,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只分析，不建议交易"
+}

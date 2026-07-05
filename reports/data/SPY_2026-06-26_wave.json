@@ -1,0 +1,40 @@
+{
+  "symbol": "SPY",
+  "as_of": "2026-06-26",
+  "generated_at": "2026-06-29T10:28:35",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "current_price": 728.989990234375,
+  "structure": {
+    "major": "unclear",
+    "minor": "high-quality wave structure is unclear"
+  },
+  "levels": null,
+  "scenarios": [
+    {
+      "condition": "wait_for_clearer_pivots",
+      "meaning": "当前高质量波浪结构不明显"
+    }
+  ],
+  "pivots": [
+    {
+      "index": 0,
+      "time": "2025-06-27T00:00:00",
+      "price": 608.1712646484375,
+      "kind": "low"
+    },
+    {
+      "index": 250,
+      "time": "2026-06-26T00:00:00",
+      "price": 728.989990234375,
+      "kind": "high"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": null,
+    "wave3_not_shortest": null,
+    "wave4_no_overlap": null,
+    "has_invalidation_level": false
+  },
+  "disclaimer": "只讨论波浪结构，不构成交易建议"
+}

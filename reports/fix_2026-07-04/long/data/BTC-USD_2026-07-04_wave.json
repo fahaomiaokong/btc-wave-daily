@@ -1,0 +1,273 @@
+{
+  "symbol": "BTC-USD",
+  "as_of": "2026-07-04",
+  "generated_at": "2026-07-04T12:01:07",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "horizon": "long",
+  "period": "max",
+  "start_date": null,
+  "current_price": 62577.0703125,
+  "structure": {
+    "major": "abc_with_bearish_c_impulse",
+    "minor": "bearish_c_wave_impulse_1_to_5"
+  },
+  "levels": {
+    "start": 57747.765625,
+    "monitor": 60835.046875,
+    "target": 55788.05859375,
+    "invalidation": 60835.046875,
+    "fib_0236": 58938.854859375,
+    "fib_0382": 59675.7151484375,
+    "fib_0500": 60271.259765625,
+    "fib_0618": 60866.8043828125,
+    "key_high": 67248.1328125,
+    "key_low": 57747.765625
+  },
+  "main_upswing": {
+    "start_index": 2987,
+    "start_time": "2022-11-21T00:00:00",
+    "start_price": 15599.046875,
+    "high_index": 4037,
+    "high_time": "2025-10-06T00:00:00",
+    "high_price": 126198.0703125
+  },
+  "main_impulse": {
+    "direction": "bullish",
+    "points": [
+      {
+        "index": 2987,
+        "time": "2022-11-21T00:00:00",
+        "price": 15599.046875,
+        "kind": "low"
+      },
+      {
+        "index": 3466,
+        "time": "2024-03-14T00:00:00",
+        "price": 73750.0703125,
+        "kind": "high"
+      },
+      {
+        "index": 3610,
+        "time": "2024-08-05T00:00:00",
+        "price": 49121.23828125,
+        "kind": "low"
+      },
+      {
+        "index": 3732,
+        "time": "2024-12-05T00:00:00",
+        "price": 103900.46875,
+        "kind": "high"
+      },
+      {
+        "index": 3838,
+        "time": "2025-03-21T00:00:00",
+        "price": 83171.0703125,
+        "kind": "low"
+      },
+      {
+        "index": 4037,
+        "time": "2025-10-06T00:00:00",
+        "price": 126198.0703125,
+        "kind": "high"
+      }
+    ],
+    "rule_checks": {
+      "wave2_not_beyond_wave1_start": true,
+      "wave3_not_shortest": true,
+      "wave4_no_overlap_wave1": true,
+      "wave3_makes_new_high": true,
+      "wave5_makes_new_high": true
+    }
+  },
+  "correction": {
+    "kind": "wxy_combination",
+    "points": [
+      {
+        "index": 4037,
+        "time": "2025-10-06T00:00:00",
+        "price": 126198.0703125,
+        "kind": "high"
+      },
+      {
+        "index": 4083,
+        "time": "2025-11-21T00:00:00",
+        "price": 80659.8125,
+        "kind": "low"
+      },
+      {
+        "index": 4137,
+        "time": "2026-01-14T00:00:00",
+        "price": 97860.6015625,
+        "kind": "high"
+      },
+      {
+        "index": 4305,
+        "time": "2026-07-01T00:00:00",
+        "price": 57747.765625,
+        "kind": "low"
+      }
+    ],
+    "labels": [
+      "(5)",
+      "W",
+      "X",
+      "Y?"
+    ],
+    "rule_checks": {
+      "w_declines_from_completed_wave5": true,
+      "x_is_partial_retracement": true,
+      "y_breaks_below_w": true,
+      "sequence_is_high_low_high_low": true
+    }
+  },
+  "fibonacci": {
+    "retracement_0_236": 58938.854859375,
+    "retracement_0_382": 59675.7151484375,
+    "retracement_0_500": 60271.259765625
+  },
+  "scenarios": [
+    {
+      "condition": "black_5_reaches_equal_1_5",
+      "level": 55788.05859375,
+      "meaning": "按黑1=黑5测算的C浪(5)目标"
+    },
+    {
+      "condition": "rebound_above_wave_4",
+      "level": 60835.046875,
+      "meaning": "重新站上(4)附近，黑5延伸判断需要重评"
+    }
+  ],
+  "impulse": {
+    "direction": "bearish",
+    "points": [
+      {
+        "index": 4289,
+        "time": "2026-06-15T00:00:00",
+        "price": 67248.1328125,
+        "kind": "high"
+      },
+      {
+        "index": 4292,
+        "time": "2026-06-18T00:00:00",
+        "price": 62201.14453125,
+        "kind": "low"
+      },
+      {
+        "index": 4296,
+        "time": "2026-06-22T00:00:00",
+        "price": 65544.0,
+        "kind": "high"
+      },
+      {
+        "index": 4299,
+        "time": "2026-06-25T00:00:00",
+        "price": 58075.921875,
+        "kind": "low"
+      },
+      {
+        "index": 4301,
+        "time": "2026-06-27T00:00:00",
+        "price": 60835.046875,
+        "kind": "high"
+      },
+      {
+        "index": 4305,
+        "time": "2026-07-01T00:00:00",
+        "price": 57747.765625,
+        "kind": "low"
+      }
+    ],
+    "target_equal_1_5": 55788.05859375,
+    "rule_checks": {
+      "wave2_not_beyond_wave1_start": true,
+      "wave3_not_shortest": true,
+      "wave4_no_overlap_wave1": true,
+      "wave3_makes_new_low": true
+    }
+  },
+  "pivots": [
+    {
+      "index": 4266,
+      "time": "2026-05-23T00:00:00",
+      "price": 74255.234375,
+      "kind": "low"
+    },
+    {
+      "index": 4269,
+      "time": "2026-05-26T00:00:00",
+      "price": 77990.8671875,
+      "kind": "high"
+    },
+    {
+      "index": 4279,
+      "time": "2026-06-05T00:00:00",
+      "price": 59108.91796875,
+      "kind": "low"
+    },
+    {
+      "index": 4282,
+      "time": "2026-06-08T00:00:00",
+      "price": 64185.765625,
+      "kind": "high"
+    },
+    {
+      "index": 4283,
+      "time": "2026-06-09T00:00:00",
+      "price": 60756.6875,
+      "kind": "low"
+    },
+    {
+      "index": 4289,
+      "time": "2026-06-15T00:00:00",
+      "price": 67248.1328125,
+      "kind": "high"
+    },
+    {
+      "index": 4292,
+      "time": "2026-06-18T00:00:00",
+      "price": 62201.14453125,
+      "kind": "low"
+    },
+    {
+      "index": 4296,
+      "time": "2026-06-22T00:00:00",
+      "price": 65544.0,
+      "kind": "high"
+    },
+    {
+      "index": 4299,
+      "time": "2026-06-25T00:00:00",
+      "price": 58075.921875,
+      "kind": "low"
+    },
+    {
+      "index": 4301,
+      "time": "2026-06-27T00:00:00",
+      "price": 60835.046875,
+      "kind": "high"
+    },
+    {
+      "index": 4305,
+      "time": "2026-07-01T00:00:00",
+      "price": 57747.765625,
+      "kind": "low"
+    },
+    {
+      "index": 4307,
+      "time": "2026-07-04T00:00:00",
+      "price": 62856.25,
+      "kind": "high"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": true,
+    "wave3_not_shortest": true,
+    "wave4_no_overlap": true,
+    "main_wave2_not_breach_wave1_start": true,
+    "main_wave3_not_shortest": true,
+    "main_wave4_no_overlap": true,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只分析，不建议交易"
+}

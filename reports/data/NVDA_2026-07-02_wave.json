@@ -1,0 +1,145 @@
+{
+  "symbol": "NVDA",
+  "as_of": "2026-07-02",
+  "generated_at": "2026-07-04T10:31:00",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "horizon": "short",
+  "period": "1y",
+  "start_date": null,
+  "current_price": 194.8300018310547,
+  "structure": {
+    "major": "possible_abc_or_complex_correction",
+    "minor": "rebound_from_candidate_c"
+  },
+  "levels": {
+    "start": 189.8000030517578,
+    "monitor": 213.99000549316406,
+    "target": 218.68531701660157,
+    "invalidation": 178.76936535644532,
+    "fib_0236": 200.8306407470703,
+    "fib_0382": 207.65467932128905,
+    "fib_0500": 213.1699981689453,
+    "fib_0618": 218.68531701660157,
+    "key_high": 236.5399932861328,
+    "key_low": 189.8000030517578
+  },
+  "main_upswing": {
+    "start_index": 185,
+    "start_time": "2026-03-30T00:00:00",
+    "start_price": 164.27000427246094,
+    "high_index": 217,
+    "high_time": "2026-05-14T00:00:00",
+    "high_price": 236.5399932861328
+  },
+  "main_impulse": null,
+  "correction": null,
+  "fibonacci": {
+    "retracement_0_236": 200.8306407470703,
+    "retracement_0_382": 207.65467932128905,
+    "retracement_0_500": 213.1699981689453
+  },
+  "scenarios": [
+    {
+      "condition": "break_above_monitor",
+      "level": 213.99000549316406,
+      "meaning": "低点反弹级别扩大，先看斐波那契反弹位",
+      "target": 218.68531701660157
+    },
+    {
+      "condition": "reject_below_monitor",
+      "level": 213.99000549316406,
+      "meaning": "仍在A-B-C/复杂调整内"
+    },
+    {
+      "condition": "break_below_invalidation",
+      "level": 178.76936535644532,
+      "meaning": "C浪/调整段延伸，观察更低一级目标"
+    }
+  ],
+  "impulse": null,
+  "pivots": [
+    {
+      "index": 162,
+      "time": "2026-02-25T00:00:00",
+      "price": 197.6300048828125,
+      "kind": "high"
+    },
+    {
+      "index": 165,
+      "time": "2026-03-02T00:00:00",
+      "price": 174.63999938964844,
+      "kind": "low"
+    },
+    {
+      "index": 175,
+      "time": "2026-03-16T00:00:00",
+      "price": 188.8800048828125,
+      "kind": "high"
+    },
+    {
+      "index": 185,
+      "time": "2026-03-30T00:00:00",
+      "price": 164.27000427246094,
+      "kind": "low"
+    },
+    {
+      "index": 204,
+      "time": "2026-04-27T00:00:00",
+      "price": 216.8300018310547,
+      "kind": "high"
+    },
+    {
+      "index": 209,
+      "time": "2026-05-04T00:00:00",
+      "price": 194.74000549316406,
+      "kind": "low"
+    },
+    {
+      "index": 217,
+      "time": "2026-05-14T00:00:00",
+      "price": 236.5399932861328,
+      "kind": "high"
+    },
+    {
+      "index": 225,
+      "time": "2026-05-27T00:00:00",
+      "price": 208.77999877929688,
+      "kind": "low"
+    },
+    {
+      "index": 229,
+      "time": "2026-06-02T00:00:00",
+      "price": 232.27999877929688,
+      "kind": "high"
+    },
+    {
+      "index": 234,
+      "time": "2026-06-09T00:00:00",
+      "price": 199.33999633789062,
+      "kind": "low"
+    },
+    {
+      "index": 242,
+      "time": "2026-06-22T00:00:00",
+      "price": 213.99000549316406,
+      "kind": "high"
+    },
+    {
+      "index": 247,
+      "time": "2026-06-29T00:00:00",
+      "price": 189.8000030517578,
+      "kind": "low"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": null,
+    "wave3_not_shortest": null,
+    "wave4_no_overlap": null,
+    "main_wave2_not_breach_wave1_start": null,
+    "main_wave3_not_shortest": null,
+    "main_wave4_no_overlap": null,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只分析，不建议交易"
+}

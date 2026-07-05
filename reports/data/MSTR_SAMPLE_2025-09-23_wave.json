@@ -1,0 +1,170 @@
+{
+  "symbol": "MSTR_SAMPLE",
+  "as_of": "2025-09-23",
+  "generated_at": "2026-06-29T16:16:29",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "current_price": 75.6012297668432,
+  "structure": {
+    "major": "abc_with_bearish_c_impulse",
+    "minor": "bearish_c_wave_impulse_1_to_5"
+  },
+  "levels": {
+    "start": 75,
+    "monitor": 200,
+    "target": 30,
+    "invalidation": 200,
+    "fib_0236": 115.12,
+    "fib_0382": 139.94,
+    "fib_0500": 160.0,
+    "fib_0618": 180.06,
+    "key_high": 455,
+    "key_low": 75
+  },
+  "fibonacci": {
+    "retracement_0_236": 115.12,
+    "retracement_0_382": 139.94,
+    "retracement_0_500": 160.0
+  },
+  "scenarios": [
+    {
+      "condition": "black_5_reaches_equal_1_5",
+      "level": 30,
+      "meaning": "按黑1=黑5测算的C浪(5)目标"
+    },
+    {
+      "condition": "rebound_above_wave_4",
+      "level": 200,
+      "meaning": "重新站上(4)附近，黑5延伸判断需要重评"
+    }
+  ],
+  "impulse": {
+    "direction": "bearish",
+    "points": [
+      {
+        "index": 96,
+        "time": "2025-05-15T00:00:00",
+        "price": 455,
+        "kind": "high"
+      },
+      {
+        "index": 112,
+        "time": "2025-06-06T00:00:00",
+        "price": 285,
+        "kind": "low"
+      },
+      {
+        "index": 118,
+        "time": "2025-06-16T00:00:00",
+        "price": 365,
+        "kind": "high"
+      },
+      {
+        "index": 142,
+        "time": "2025-07-18T00:00:00",
+        "price": 105,
+        "kind": "low"
+      },
+      {
+        "index": 166,
+        "time": "2025-08-21T00:00:00",
+        "price": 200,
+        "kind": "high"
+      },
+      {
+        "index": 184,
+        "time": "2025-09-16T00:00:00",
+        "price": 75,
+        "kind": "low"
+      }
+    ],
+    "target_equal_1_5": 30,
+    "rule_checks": {
+      "wave2_not_beyond_wave1_start": true,
+      "wave3_not_shortest": true,
+      "wave4_no_overlap_wave1": true,
+      "wave3_makes_new_low": true
+    }
+  },
+  "pivots": [
+    {
+      "index": 28,
+      "time": "2025-02-10T00:00:00",
+      "price": 450,
+      "kind": "high"
+    },
+    {
+      "index": 46,
+      "time": "2025-03-06T00:00:00",
+      "price": 250,
+      "kind": "low"
+    },
+    {
+      "index": 56,
+      "time": "2025-03-20T00:00:00",
+      "price": 360,
+      "kind": "high"
+    },
+    {
+      "index": 62,
+      "time": "2025-03-28T00:00:00",
+      "price": 240,
+      "kind": "low"
+    },
+    {
+      "index": 74,
+      "time": "2025-04-15T00:00:00",
+      "price": 420,
+      "kind": "high"
+    },
+    {
+      "index": 82,
+      "time": "2025-04-25T00:00:00",
+      "price": 340,
+      "kind": "low"
+    },
+    {
+      "index": 96,
+      "time": "2025-05-15T00:00:00",
+      "price": 455,
+      "kind": "high"
+    },
+    {
+      "index": 112,
+      "time": "2025-06-06T00:00:00",
+      "price": 285,
+      "kind": "low"
+    },
+    {
+      "index": 118,
+      "time": "2025-06-16T00:00:00",
+      "price": 365,
+      "kind": "high"
+    },
+    {
+      "index": 142,
+      "time": "2025-07-18T00:00:00",
+      "price": 105,
+      "kind": "low"
+    },
+    {
+      "index": 166,
+      "time": "2025-08-21T00:00:00",
+      "price": 200,
+      "kind": "high"
+    },
+    {
+      "index": 184,
+      "time": "2025-09-16T00:00:00",
+      "price": 75,
+      "kind": "low"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": true,
+    "wave3_not_shortest": true,
+    "wave4_no_overlap": true,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只分析，不建议交易"
+}

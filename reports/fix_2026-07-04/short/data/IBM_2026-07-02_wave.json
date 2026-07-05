@@ -1,0 +1,186 @@
+{
+  "symbol": "IBM",
+  "as_of": "2026-07-02",
+  "generated_at": "2026-07-04T11:51:02",
+  "data_source": "yfinance",
+  "method_version": "0.1.0",
+  "horizon": "short",
+  "period": "1y",
+  "start_date": null,
+  "current_price": 289.5199890136719,
+  "structure": {
+    "major": "abc_with_bearish_c_impulse",
+    "minor": "bearish_c_wave_impulse_1_to_5"
+  },
+  "levels": {
+    "start": 233.75,
+    "monitor": 260.3800048828125,
+    "target": 219.44000244140625,
+    "invalidation": 260.3800048828125,
+    "fib_0236": 243.41184057617187,
+    "fib_0382": 249.3890809326172,
+    "fib_0500": 254.22000122070312,
+    "fib_0618": 259.0509215087891,
+    "key_high": 319.8999938964844,
+    "key_low": 233.75
+  },
+  "main_upswing": {
+    "start_index": 216,
+    "start_time": "2026-05-13T00:00:00",
+    "start_price": 212.33999633789062,
+    "high_index": 229,
+    "high_time": "2026-06-02T00:00:00",
+    "high_price": 332.4599914550781
+  },
+  "main_impulse": null,
+  "correction": null,
+  "fibonacci": {
+    "retracement_0_236": 243.41184057617187,
+    "retracement_0_382": 249.3890809326172,
+    "retracement_0_500": 254.22000122070312
+  },
+  "scenarios": [
+    {
+      "condition": "black_5_reaches_equal_1_5",
+      "level": 219.44000244140625,
+      "meaning": "按黑1=黑5测算的C浪(5)目标"
+    },
+    {
+      "condition": "rebound_above_wave_4",
+      "level": 260.3800048828125,
+      "meaning": "重新站上(4)附近，黑5延伸判断需要重评"
+    }
+  ],
+  "impulse": {
+    "direction": "bearish",
+    "points": [
+      {
+        "index": 144,
+        "time": "2026-01-29T00:00:00",
+        "price": 319.8999938964844,
+        "kind": "high"
+      },
+      {
+        "index": 148,
+        "time": "2026-02-04T00:00:00",
+        "price": 278.9599914550781,
+        "kind": "low"
+      },
+      {
+        "index": 150,
+        "time": "2026-02-06T00:00:00",
+        "price": 299.8900146484375,
+        "kind": "high"
+      },
+      {
+        "index": 160,
+        "time": "2026-02-23T00:00:00",
+        "price": 220.72000122070312,
+        "kind": "low"
+      },
+      {
+        "index": 168,
+        "time": "2026-03-05T00:00:00",
+        "price": 260.3800048828125,
+        "kind": "high"
+      },
+      {
+        "index": 184,
+        "time": "2026-03-27T00:00:00",
+        "price": 233.75,
+        "kind": "low"
+      }
+    ],
+    "target_equal_1_5": 219.44000244140625,
+    "rule_checks": {
+      "wave2_not_beyond_wave1_start": true,
+      "wave3_not_shortest": true,
+      "wave4_no_overlap_wave1": true,
+      "wave3_makes_new_low": true
+    }
+  },
+  "pivots": [
+    {
+      "index": 184,
+      "time": "2026-03-27T00:00:00",
+      "price": 233.75,
+      "kind": "low"
+    },
+    {
+      "index": 191,
+      "time": "2026-04-08T00:00:00",
+      "price": 250.0,
+      "kind": "high"
+    },
+    {
+      "index": 193,
+      "time": "2026-04-10T00:00:00",
+      "price": 230.50999450683594,
+      "kind": "low"
+    },
+    {
+      "index": 199,
+      "time": "2026-04-20T00:00:00",
+      "price": 258.5,
+      "kind": "high"
+    },
+    {
+      "index": 202,
+      "time": "2026-04-23T00:00:00",
+      "price": 221.72999572753906,
+      "kind": "low"
+    },
+    {
+      "index": 208,
+      "time": "2026-05-01T00:00:00",
+      "price": 235.9499969482422,
+      "kind": "high"
+    },
+    {
+      "index": 216,
+      "time": "2026-05-13T00:00:00",
+      "price": 212.33999633789062,
+      "kind": "low"
+    },
+    {
+      "index": 223,
+      "time": "2026-05-22T00:00:00",
+      "price": 264.3800048828125,
+      "kind": "high"
+    },
+    {
+      "index": 224,
+      "time": "2026-05-26T00:00:00",
+      "price": 245.4499969482422,
+      "kind": "low"
+    },
+    {
+      "index": 229,
+      "time": "2026-06-02T00:00:00",
+      "price": 332.4599914550781,
+      "kind": "high"
+    },
+    {
+      "index": 241,
+      "time": "2026-06-18T00:00:00",
+      "price": 243.67999267578125,
+      "kind": "low"
+    },
+    {
+      "index": 249,
+      "time": "2026-07-01T00:00:00",
+      "price": 294.489990234375,
+      "kind": "high"
+    }
+  ],
+  "rule_checks": {
+    "wave2_not_breach_wave1_start": true,
+    "wave3_not_shortest": true,
+    "wave4_no_overlap": true,
+    "main_wave2_not_breach_wave1_start": null,
+    "main_wave3_not_shortest": null,
+    "main_wave4_no_overlap": null,
+    "has_invalidation_level": true
+  },
+  "disclaimer": "只分析，不建议交易"
+}
