@@ -1,0 +1,37 @@
+name: Daily US Tech News WeCom Push
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC. 00:45 UTC = 08:45 Beijing time.
+    - cron: "45 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  daily-us-tech-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build digest and push to WeCom
+        env:
+          WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}
+          NEWS_LLM_API_KEY: ${{ secrets.NEWS_LLM_API_KEY }}
+          NEWS_LLM_BASE_URL: ${{ vars.NEWS_LLM_BASE_URL }}
+          NEWS_LLM_MODEL: ${{ vars.NEWS_LLM_MODEL }}
+        run: python scripts/daily_us_tech_news_push.py
+
+      - name: Commit generated digest
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily US tech news digest"
+          file_pattern: reports/news/*.md reports/news/*.json
