@@ -630,23 +630,29 @@ def build_post(
         if wave4_reclaimed:
             if prefers_cycle_low(symbol):
                 support_label = f"{fmt_floor(support_floor, 1000)}-{fmt_round(p4.price, 100)}"
+                immediate_support = p4.price + (p1.price - p4.price) * 0.35
+                immediate_support_label = fmt_round(immediate_support, 100)
                 first_target_label = fmt_round(p1.price, 100)
                 core_label = f"{confirm_floor:,.0f}-{confirm_ceiling:,.0f}"
                 confirm_break_label = f"{confirm_ceiling:,.0f}"
                 failure_watch_label = fmt_floor(support_floor, 1000)
                 failure_low_label = fmt_round(p5.price, 100)
+                extension_low_label = fmt_round(p5.price - (p4.price - p5.price) * 0.32, 100)
             else:
                 support_label = f"{fmt_price(support_floor)}-{fmt_price(p4.price)}"
+                immediate_support = p4.price + (p1.price - p4.price) * 0.35
+                immediate_support_label = fmt_price(immediate_support)
                 first_target_label = fmt_price(p1.price)
                 core_label = f"{fmt_price(core_low)}-{fmt_price(core_high)}"
                 confirm_break_label = fmt_price(core_high)
                 failure_watch_label = fmt_price(support_floor)
                 failure_low_label = fmt_price(p5.price)
+                extension_low_label = fmt_price(p5.price - (p4.price - p5.price) * 0.32)
             first_target_reclaimed = current_price is not None and current_price >= p1.price
             rebound_sentence = (
                 f"当前约 {fmt_round(current_price, 100) if prefers_cycle_low(symbol) else fmt_price(current_price)}，"
-                f"已收复 {first_target_label} 第一反弹目标；只要回踩不重新跌破 {first_target_label}，"
-                f"短线继续观察 {core_label} 核心确认区。\n"
+                f"已收复 {first_target_label} 第一反弹目标；短线强弱线看 {immediate_support_label}。"
+                f"只要不跌破这里，反弹可继续按推动浪早期结构观察，并继续看 {core_label} 核心确认区。\n"
                 if first_target_reclaimed
                 else f"上方先看 {first_target_label}，核心确认区看 {core_label}。\n"
             )
@@ -655,7 +661,8 @@ def build_post(
                 f"只要不跌破 {support_label}，反弹仍可继续观察；"
                 f"{rebound_sentence}"
                 f"突破 {confirm_break_label}，这组下跌大概率结束，进入更大级别反弹；"
-                f"跌破 {failure_watch_label} 警惕再探低点，跌破 {failure_low_label} 则反弹失败。\n\n"
+                f"跌破 {immediate_support_label} 则推动浪延伸判断降级，警惕回到震荡/锯齿abc；"
+                f"跌破 {failure_watch_label} 警惕再探低点，跌破 {failure_low_label} 后再看 {extension_low_label} 附近补最后一低的可能。\n\n"
             )
         else:
             body_detail = (
