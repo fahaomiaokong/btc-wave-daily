@@ -3,9 +3,9 @@
 企业微信群机器人自动推送项目：
 
 - 每日 BTC 波浪分析和走势图
-- 每日美股科技新闻摘要
+- 每日美股科技新闻标题
 
-## 美股科技新闻摘要
+## 美股科技新闻标题
 
 ```bash
 python3 scripts/daily_us_tech_news_push.py --sample --dry-run
@@ -19,7 +19,7 @@ python3 scripts/daily_us_tech_news_push.py --sample --dry-run
 WECHAT_WEBHOOK=https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxxxxxx
 ```
 
-可选：如果想让日报自动改写成更自然的中文，在 Secrets/Variables 中添加：
+可选：如果想让标题自动改写成更自然的中文，在 Secrets/Variables 中添加：
 
 ```text
 NEWS_LLM_API_KEY=你的 API Key

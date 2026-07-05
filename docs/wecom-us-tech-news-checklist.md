@@ -1,4 +1,4 @@
-# 企业微信群机器人美股科技新闻推送清单
+# 企业微信群机器人美股科技新闻标题推送清单
 
 ## 需要配置
 
@@ -15,10 +15,10 @@ https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxxxxxx
    - 值：企业微信群机器人 Webhook
    - 路径：`Settings -> Secrets and variables -> Actions -> New repository secret`
 
-3. 可选 LLM 摘要 Secret
+3. 可选 LLM 标题改写 Secret
    - 名称：`NEWS_LLM_API_KEY`
    - 值：OpenAI、DeepSeek 或其他 OpenAI-compatible 服务的 API Key
-   - 不配置也能运行，但标题和摘要会更多保留 RSS 原文英文。
+   - 不配置也能运行，但标题会保留 RSS 原文英文。
 
 4. 可选 GitHub Actions Variables
    - `NEWS_LLM_BASE_URL`：默认 `https://api.openai.com/v1`
@@ -54,7 +54,7 @@ python3 scripts/daily_us_tech_news_push.py --dry-run --rss-url "https://example.
 
 - 推送时间：北京时间每天 08:45
 - 回看窗口：最近 30 小时
-- 推送数量：最多 8 条
+- 推送数量：最多 8 条标题
 - 关注方向：美股科技、AI、半导体、云计算、大型互联网平台、科技股财报和评级
 - 默认股票池：`NVDA, MSFT, AAPL, GOOGL, AMZN, META, TSLA, AMD, AVGO, ORCL, PLTR, CRWD, NET, ARM, SMCI, TSM`
 
@@ -62,4 +62,4 @@ python3 scripts/daily_us_tech_news_push.py --dry-run --rss-url "https://example.
 
 - 没有 `WECHAT_WEBHOOK` 时脚本会自动 dry-run，方便先跑通。
 - 脚本会保存 Markdown 和 JSON 到 `reports/news/`。
-- 第一版使用 RSS 标题和描述生成中文结构化摘要；后续可以接 OpenAI/DeepSeek 做更自然的中文总结和影响判断。
+- 企业微信正文只推新闻标题列表；JSON 中仍保留 RSS 原始摘要，方便以后扩展。

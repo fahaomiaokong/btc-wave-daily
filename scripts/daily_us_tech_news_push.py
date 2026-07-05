@@ -14,7 +14,6 @@ import json
 import os
 import re
 import sys
-import textwrap
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -317,25 +316,6 @@ def dedupe_and_rank(entries: list[dict], lookback_hours: int, max_items: int) ->
     return items[:max_items]
 
 
-def zh_label(item: NewsItem) -> str:
-    tickers = "/".join(item.tickers) if item.tickers else "科技板块"
-    if any(term in item.title.lower() for term in ("beats", "raises", "rise", "surge", "upgrade")):
-        impact = "偏正面"
-    elif any(term in item.title.lower() for term in ("falls", "drop", "cut", "probe", "lawsuit", "downgrade")):
-        impact = "偏负面"
-    else:
-        impact = "中性观察"
-    return f"{tickers} | {impact}"
-
-
-def summarize(item: NewsItem) -> str:
-    text = item.summary or item.title
-    text = re.sub(r"\[[^\]]+\]", "", text)
-    if len(text) > 170:
-        text = textwrap.shorten(text, width=170, placeholder="...")
-    return text
-
-
 def extract_json_array(text: str) -> list[dict]:
     cleaned = text.strip()
     cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
@@ -369,10 +349,9 @@ def call_llm(items: list[NewsItem]) -> dict[str, AiSummary]:
         for index, item in enumerate(items)
     ]
     prompt = (
-        "把这些美股科技新闻改写成适合企业微信群的中文日报条目。"
-        "只返回 JSON 数组，每项包含 id、title_cn、summary_cn、impact。"
-        "title_cn 保留公司和股票代码；summary_cn 用 1 句中文说明大致内容和对美股科技板块的意义；"
-        "impact 只能是 偏正面、偏负面、中性观察。"
+        "把这些美股科技新闻标题改写成适合企业微信群标题列表的中文。"
+        "只返回 JSON 数组，每项包含 id、title_cn。"
+        "title_cn 要简洁，保留公司名、股票代码和关键事件，不要添加摘要。"
     )
     payload = {
         "model": model,
@@ -405,8 +384,8 @@ def call_llm(items: list[NewsItem]) -> dict[str, AiSummary]:
         if item_id:
             summaries[item_id] = AiSummary(
                 title=strip_html(str(row.get("title_cn", ""))),
-                summary=strip_html(str(row.get("summary_cn", ""))),
-                impact=strip_html(str(row.get("impact", ""))),
+                summary="",
+                impact="",
             )
     return summaries
 
@@ -419,7 +398,7 @@ def build_markdown(
 ) -> str:
     ai_summaries = ai_summaries or {}
     header = [
-        f"**美股科技新闻摘要 | {report_date}**",
+        f"**美股科技新闻标题 | {report_date}**",
         f"> 最近 {lookback_hours} 小时，聚焦科技股、AI、半导体、云计算和大型平台公司。",
         "",
     ]
@@ -450,28 +429,7 @@ def build_markdown(
     for index, item in enumerate(items, start=1):
         ai = ai_summaries.get(str(index - 1))
         title = ai.title if ai and ai.title else item.title
-        summary = ai.summary if ai and ai.summary else summarize(item)
-        impact = ai.impact if ai and ai.impact else zh_label(item)
-        if ai and ai.impact:
-            tickers = "/".join(item.tickers) if item.tickers else "科技板块"
-            impact = f"{tickers} | {ai.impact}"
-        published = item.published.astimezone(timezone(timedelta(hours=8))).strftime("%m-%d %H:%M")
-        lines.extend(
-            [
-                f"{index}. **{title}**",
-                f"> {impact} | {item.source} | 北京时间 {published}",
-                f"> {summary}",
-                f"[来源]({item.link})",
-                "",
-            ]
-        )
-
-    lines.extend(
-        [
-            "**盘前/盘后观察：**",
-            "重点留意 AI 资本开支、半导体供需、云业务增速、监管诉讼、财报指引和分析师评级变化。",
-        ]
-    )
+        lines.append(f"{index}. [{title}]({item.link})")
     return "\n".join(lines)
 
 
