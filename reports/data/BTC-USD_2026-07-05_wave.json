@@ -1,13 +1,13 @@
 {
   "symbol": "BTC-USD",
   "as_of": "2026-07-05",
-  "generated_at": "2026-07-05T19:48:41",
+  "generated_at": "2026-07-05T15:48:05",
   "data_source": "yfinance",
   "method_version": "0.1.0",
   "horizon": "short",
   "period": "1y",
   "start_date": null,
-  "current_price": 62661.78125,
+  "current_price": 62662.6015625,
   "structure": {
     "major": "abc_with_bearish_c_impulse",
     "minor": "bearish_c_wave_impulse_1_to_5"
@@ -168,8 +168,8 @@
     },
     {
       "index": 364,
-      "time": "2026-07-05T00:00:00",
-      "price": 63087.7421875,
+      "time": "2026-07-04T00:00:00",
+      "price": 63398.41015625,
       "kind": "high"
     }
   ],
