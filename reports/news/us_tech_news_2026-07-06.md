@@ -1,13 +1,13 @@
 **美股科技新闻标题 | 2026-07-06**
 > 最近 30 小时，聚焦科技股、AI、半导体、云计算和大型平台公司。
 
-**今日关注：** NVDA, MSFT, AMZN, META, TSLA, AMD, SMCI, PLTR, AAPL, AVGO
+**今日关注：** GOOGL, AMZN, AAPL, AVGO, TSM, META, AMD
 
-1. [NVDA/MSFT/AMZN｜英伟达披露 Claude 模型运行在 Blackwell Ultra GPU 上的进展](https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html?.tsrc=rss)
-2. [META/TSLA｜散户交易者上周重点关注这些热门股票](https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk?.tsrc=rss)
-3. [AMD｜富国银行维持 AMD 增持评级](https://finance.yahoo.com/markets/stocks/articles/wells-fargo-upholds-overweight-rating-004536367.html?.tsrc=rss)
-4. [SMCI｜Super Micro 扩展边缘 AI 计算硬件产品](https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-expands-004425764.html?.tsrc=rss)
-5. [MSFT｜微软计划将 Copilot AI 聊天机器人整合为统一应用](https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-plans-turn-001859230.html?.tsrc=rss)
-6. [PLTR｜Palantir 入选贝莱德重要 AI 股票观察名单](https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html?.tsrc=rss)
-7. [AAPL｜道指期货上涨，科技股领涨，苹果等个股受关注](https://finance.yahoo.com/m/ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8/dow-jones-futures-rise%2C-techs.html?.tsrc=rss)
-8. [AVGO｜Broadcom 入选贝莱德重要 AI 股票观察名单](https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-one-blackrock-30-004458300.html?.tsrc=rss)
+1. [GOOGL/AMZN｜AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says](https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html?.tsrc=rss)
+2. [AAPL/AVGO｜相关科技股上涨催化因素受关注](https://investorshub.advfn.com/market-news/article/31425/broadcom-shares-rise-after-extending-apple-chip-supply-partnership-through-2031-avgo?.tsrc=rss)
+3. [AAPL/AVGO｜AVGO Stock Is Rising Today – What's The Apple Connection?](https://stocktwits.com/news-articles/markets/equity/avgo-stock-is-rising-today-what-s-the-apple-connection/cZm1XvPR7lW?.tsrc=rss)
+4. [TSM｜Artificial Intelligence (AI) Stocks Are Selling Off, But Taiwan Semiconductor Is Holding Strong. Is It the Ultimate AI Stock?](https://www.fool.com/investing/2026/07/06/artificial-intelligence-ai-stocks-are-selling-off/?.tsrc=rss)
+5. [AAPL/AVGO｜Apple and Broadcom extend custom chip supply deal through 2031](https://qz.com/apple-broadcom-custom-chip-partnership-2031-070626?.tsrc=rss)
+6. [AAPL/META｜Even Realities raises $150M, hits $1B valuation with smart glasses](https://qz.com/even-realities-smart-glasses-funding-valuation-apple-meta-070626?.tsrc=rss)
+7. [AAPL/META｜Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta](https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html)
+8. [AMD｜Western Digital, Sandisk, AMD, ASML, TeraWulf, Strategy, and More Stocks That Explain Today’s Market](https://finance.yahoo.com/m/668796e0-7705-3d22-a7ea-5126ebd9dbc8/western-digital%2C-sandisk%2C.html?.tsrc=rss)

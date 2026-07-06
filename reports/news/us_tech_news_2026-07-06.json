@@ -1,92 +1,95 @@
 [
   {
-    "title": "NVIDIA Corp. (NVDA) Shares Updates Around Claude Models Running on Blackwell Ultra GPUs",
-    "summary": "NVIDIA Corp. (NASDAQ:NVDA) is one of BlackRock’s 30 most important AI stocks right now. On June 29, the company shared that Anthropic’s Claude models in Microsoft Foundry, hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs, are now publicly available. It provides Azure-native businesses a robust new way to develop domain-specific and […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html?.tsrc=rss",
+    "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
+    "summary": "Morgan Stanley said the recent weakness in U.S. semiconductor stocks is a sign that the market ‌gains are broadening, with investors likely to turn toward ‌AI \"hyperscalers\" as well as consumer discretionary, transport and biotechnology shares. In a note dated ​Monday, the brokerage said hyperscalers — an industry term for tech companies that are spending big on data centers — could benefit from a rotation away from semiconductor stocks as the AI cycle shifts. Although the ‌likes of Alphabet ⁠and Amazon have committed billions to scale up their AI infrastructure, skyrocketing the share prices of semiconductor ⁠companies, clear evidence that AI products can generate returns that justify the spending is yet to be seen.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html?.tsrc=rss",
     "source": "Yahoo Finance",
-    "published": "2026-07-06T00:45:25+00:00",
+    "published": "2026-07-06T13:30:26+00:00",
     "tickers": [
-      "NVDA",
-      "MSFT",
+      "GOOGL",
       "AMZN"
     ],
-    "score": 17
+    "score": 14
   },
   {
-    "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
-    "summary": "Artificial intelligence, semiconductors, automotive and space technology dominated headlines during the week.",
-    "link": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk?.tsrc=rss",
+    "title": "Broadcom Shares Rise After Extending Apple Chip Supply Partnership Through 2031 (AVGO)",
+    "summary": "Multi-Year Agreement Strengthens Long-Term RelationshipBroadcom Inc. (NASDAQ:AVGO) shares gained 4% on Monday after the semiconductor company announced a long-term extension of its silicon supply partnership with Apple Inc.",
+    "link": "https://investorshub.advfn.com/market-news/article/31425/broadcom-shares-rise-after-extending-apple-chip-supply-partnership-through-2031-avgo?.tsrc=rss",
     "source": "Yahoo Finance",
-    "published": "2026-07-06T02:11:01+00:00",
+    "published": "2026-07-06T13:21:23+00:00",
     "tickers": [
-      "META",
-      "TSLA"
+      "AAPL",
+      "AVGO"
     ],
     "score": 13
   },
   {
-    "title": "Wells Fargo Upholds Overweight Rating for Advanced Micro Devices (AMD)",
-    "summary": "Advanced Micro Devices Inc. (NASDAQ:AMD) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional owner in the company, holding approximately 145.57 million shares, or around 8.93% of outstanding shares, according to Yahoo Finance data. On June 30, Wells Fargo increased the firm’s target price on Advanced Micro Devices […]",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-upholds-overweight-rating-004536367.html?.tsrc=rss",
+    "title": "AVGO Stock Is Rising Today – What's The Apple Connection?",
+    "summary": "Broadcom disclosed in an SEC filing that it will develop and supply the iPhone maker with a range of custom ASIC chips.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-is-rising-today-what-s-the-apple-connection/cZm1XvPR7lW?.tsrc=rss",
     "source": "Yahoo Finance",
-    "published": "2026-07-06T00:45:36+00:00",
+    "published": "2026-07-06T13:37:48+00:00",
+    "tickers": [
+      "AAPL",
+      "AVGO"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Artificial Intelligence (AI) Stocks Are Selling Off, But Taiwan Semiconductor Is Holding Strong. Is It the Ultimate AI Stock?",
+    "summary": "Taiwan Semiconductor is one of the top AI stocks available.",
+    "link": "https://www.fool.com/investing/2026/07/06/artificial-intelligence-ai-stocks-are-selling-off/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-06T13:43:00+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple and Broadcom extend custom chip supply deal through 2031",
+    "summary": "The two companies signed new multi-year agreements for Broadcom to develop and supply custom ASIC chips across multiple generations of Apple products",
+    "link": "https://qz.com/apple-broadcom-custom-chip-partnership-2031-070626?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-06T13:40:56+00:00",
+    "tickers": [
+      "AAPL",
+      "AVGO"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Even Realities raises $150M, hits $1B valuation with smart glasses",
+    "summary": "The Shenzhen-based startup, founded by a former Apple Watch engineer, is targeting Meta's dominance in the fast-growing smart glasses market",
+    "link": "https://qz.com/even-realities-smart-glasses-funding-valuation-apple-meta-070626?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-06T13:25:18+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
+    "summary": "The Shenzhen-based startup joined a slew of global peers to build advanced gadgets and electronics that bring the benefits of AI to individual users.",
+    "link": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html",
+    "source": "Tech",
+    "published": "2026-07-06T10:00:01+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Western Digital, Sandisk, AMD, ASML, TeraWulf, Strategy, and More Stocks That Explain Today’s Market",
+    "summary": "FEATURE Maybe the stock market just needed a long weekend to regain its confidence. Stocks were gaining in premarket Monday with technology stocks among those trading higher. Semiconductor companies were particularly prominent as the artificial-intelligence trade regained momentum.",
+    "link": "https://finance.yahoo.com/m/668796e0-7705-3d22-a7ea-5126ebd9dbc8/western-digital%2C-sandisk%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-06T13:22:00+00:00",
     "tickers": [
       "AMD"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Super Micro Computer (SMCI) Expands Its Edge AI Computing Hardware Offerings",
-    "summary": "Super Micro Computer Inc. (NASDAQ:SMCI) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional owner in the company, with 7.21% or 43.36 million outstanding shares, according to Yahoo Finance data. On June 23, Super Micro Computer Inc. (NASDAQ:SMCI) broadened its offering of edge AI computing hardware by incorporating […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-expands-004425764.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "published": "2026-07-06T00:44:25+00:00",
-    "tickers": [
-      "SMCI"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App",
-    "summary": "Microsoft Corp. (NASDAQ:MSFT) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional holder, with 7.99% or 593.33 million outstanding shares in the company, as per the filings on March 31. As of the close of July 2, the consensus sentiment around Microsoft Corp. (NASDAQ:MSFT) was also strongly bullish. […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-plans-turn-001859230.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "published": "2026-07-06T00:18:59+00:00",
-    "tickers": [
-      "MSFT"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Here is Why Palantir Technologies (PLTR) is One of BlackRock’s 30 Most Important AI Stock Picks",
-    "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional investor in the company, holding 8.67% or 188.99 million of outstanding shares, as per the filings on March 31. On June 29, Palantir Technologies Inc. (NASDAQ:PLTR) shared that the company has entered into a strategic […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "published": "2026-07-06T00:18:15+00:00",
-    "tickers": [
-      "PLTR"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Dow Jones Futures Rise, Techs Lead; Apple, SpaceX, Sandisk, Robinhood In Focus",
-    "summary": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood.",
-    "link": "https://finance.yahoo.com/m/ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "published": "2026-07-06T03:17:18+00:00",
-    "tickers": [
-      "AAPL"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Broadcom (AVGO) is One of BlackRock’s 30 Most Important AI Stocks, Here is Why",
-    "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of BlackRock’s 30 most important AI stocks right now. In early June, Broadcom Inc. (NASDAQ:AVGO) highlighted its broadband Edge AI portfolio. The range of AI-powered broadband offerings consists of a 50G PON gateway SoC, an extensive Wi-Fi 8 product portfolio, and a joint 5G and Wi-Fi 8 fixed wireless access […]",
-    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-one-blackrock-30-004458300.html?.tsrc=rss",
-    "source": "Yahoo Finance",
-    "published": "2026-07-06T00:44:58+00:00",
-    "tickers": [
-      "AVGO"
     ],
     "score": 8
   }
