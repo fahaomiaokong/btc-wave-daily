@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 163.74,
+      "previous_close": 159.5399932861328,
+      "change_pct": 2.632572953876555,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.76,
+      "previous_close": 44.77000045776367,
+      "change_pct": 2.2113011662135307,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.99,
+      "previous_close": 83.30000305175781,
+      "change_pct": 2.028807786708131,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.01,
+      "previous_close": 51.02000045776367,
+      "change_pct": 1.940414608690344,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.62,
+      "previous_close": 54.779998779296875,
+      "change_pct": 1.5334086152272608,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.68,
+      "previous_close": 44.18000030517578,
+      "change_pct": 1.1317331176334156,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 53.22,
+      "previous_close": 52.810001373291016,
+      "change_pct": 0.7763654914736406,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 183.91,
+      "previous_close": 183.36000061035156,
+      "change_pct": 0.2999560361134579,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.6,
+      "previous_close": 109.73999786376953,
+      "change_pct": -0.12757232230251603,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.12,
+      "previous_close": 118.08999633789062,
+      "change_pct": -0.8214043254901715,
+      "as_of": "2026-07-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 180.59,
+      "previous_close": 185.6199951171875,
+      "change_pct": -2.709834742755979,
+      "as_of": "2026-07-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates",
+      "summary": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
+      "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T03:31:37+00:00"
+    },
+    {
+      "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
+      "summary": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.",
+      "link": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T03:21:27+00:00"
+    },
+    {
+      "title": "Yen to extend historic slump, while AI and energy 'supply bust' to support the U.S. dollar: Goldman",
+      "summary": "Goldman Sachs has turned more bearish on the Japanese yen, arguing that the currency is likely to weaken further even with an intervention.",
+      "link": "https://www.cnbc.com/2026/07/06/yen-slump-dollar-currencies-ai-energy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T03:21:01+00:00"
+    },
+    {
+      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-06T03:09:00+00:00"
+    },
+    {
+      "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+      "summary": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.",
+      "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T02:51:03+00:00"
+    },
+    {
+      "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+      "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
+      "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T02:37:06+00:00"
+    },
+    {
+      "title": "Oil slips after OPEC+ agrees to raise output targets",
+      "summary": "Oil fell on Monday after OPEC+ agreed to further increase output targets from August while exports from key producers via the Strait are recovering, potentially adding to global supplies.",
+      "link": "https://www.cnbc.com/2026/07/06/oil-slips-after-opec-agrees-to-raise-output-targets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T01:34:00+00:00"
+    },
+    {
+      "title": "Dollar near two-week lows as rate-hike bets recede, embattled yen in focus",
+      "summary": "The U.S. dollar steadied near a 2-week low on Monday as investors scaled back bets on a Fed rate hike this year, while the yen remained near a 40-year low.",
+      "link": "https://www.cnbc.com/2026/07/06/dollar-near-2-week-low-as-rate-hike-bets-fall-embattled-yen-in-focus.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-06T01:28:58+00:00"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await Fed Minutes: SLS, ONDS, HOOD, MARA, HUT In Focus",
+      "summary": "U.S. stock futures edged higher in the overnight session ahead of Monday’s open following a strong rally in the prior week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-06T00:58:06+00:00"
+    },
+    {
+      "title": "QYLD’s $10,000 Problem: How a Covered-Call ETF Left Investors With a Fraction of Nasdaq Gains",
+      "summary": "Over the past decade, an investor who put $10,000 into QYLD walked away with a fraction of what a plain Nasdaq-100 index holder pocketed. The fat monthly checks papered over that gap rather than closing it. What You’re Actually Paying The Global X NASDAQ 100 Covered Call ETF (NASDAQ:QYLD) sells the story of income. The ... QYLD’s $10,000 Problem: How a Covered-Call ETF Left Investors With a Fraction of Nasdaq Gains",
+      "link": "https://247wallst.com/investing/2026/07/05/qylds-10000-problem-how-a-covered-call-etf-left-investors-with-a-fraction-of-nasdaq-gains/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-06T00:38:31+00:00"
+    },
+    {
+      "title": "What caused the pre-holiday chip stock slump and what to do about it",
+      "summary": "The problem is that we have seen this horror movie before.",
+      "link": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-05T22:31:26+00:00"
+    },
+    {
+      "title": "OPEC+ raises output levels again despite tumbling crude prices",
+      "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
+      "link": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-05T22:30:00+00:00"
+    },
+    {
+      "title": "Delta pilot says ‘big bang’ felt after flight apparently hit by fireworks while landing in Chicago",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/07/05/delta-pilot-heard-big-bang-after-flight-hit-by-fireworks-in-chicago.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-05T22:26:27+00:00"
+    },
+    {
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
+      "summary": "Iranian state TV showed Khamenei's sons Mostafa, Meysam and Masoud praying at the funeral. Supreme leader Mojtaba Khamenei was not seen.",
+      "link": "https://www.cnbc.com/2026/07/05/successor-to-irans-slain-leader-khamenei-does-not-appear-at-funeral.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-05T21:52:55+00:00"
+    },
+    {
+      "title": "Trump to meet with Ukraine's Zelenskyy and Syria's al-Sharaa during the NATO summit",
+      "summary": "Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday, the White House said.",
+      "link": "https://www.cnbc.com/2026/07/05/trump-to-meet-ukraines-zelenskyy-and-syrias-al-sharaa-at-nato-summit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-05T21:14:35+00:00"
+    },
+    {
+      "title": "The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
+      "summary": "If you bought ProShares UltraPro QQQ (NASDAQ:TQQQ) expecting a clean 3x version of the Nasdaq-100, look at the last five years. The index proxy Invesco QQQ Trust (NASDAQ:QQQ) returned 107.69%. Triple that is 323%. TQQQ actually returned 177.7%. That gap, roughly 145 percentage points of missing upside on a rising index, is the hidden cost ... The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
+      "link": "https://247wallst.com/investing/2026/07/05/the-82-annual-fee-is-just-the-start-tqqqs-hidden-cost-structure-explained/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T20:33:52+00:00"
+    },
+    {
+      "title": "UK budget airline easyJet ready to accept $7.3 billion takeover bid from Castlelake",
+      "summary": "The new offer ⁠at £6.90 a share represents a 73% premium to easyJet's closing price on May 29.",
+      "link": "https://www.cnbc.com/2026/07/05/uk-budget-airline-easyjet-agrees-to-7point3-billion-takeover.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-05T19:52:05+00:00"
+    },
+    {
+      "title": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
+      "summary": "You can't know the one thing you need to know about timing the market.",
+      "link": "https://www.fool.com/investing/2026/07/05/buying-voo-all-time-highs-still-smart-spy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T19:50:00+00:00"
+    },
+    {
+      "title": "Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
+      "summary": "A 68-year-old who retired recently with most of his savings in a traditional 401(k) or IRA is watching his account statements with mixed feelings. Goldman Sachs strategists led by Ben Snider project S&P 500 Q2 earnings will jump roughly 22% year over year, powered by the AI investment boom and energy-sector gains. The S&P 500 ... Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
+      "link": "https://247wallst.com/personal-finance/2026/07/05/goldman-says-ai-is-driving-a-22-earnings-surge-for-a-68-year-old-the-rally-swelling-his-401k-is-inflating-the-rmd-tax-hit-waiting-at-73/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T18:03:27+00:00"
+    },
+    {
+      "title": "VOO vs. QQQ: Which Is the Better Buy for Long-Term Investors?",
+      "summary": "The Vanguard S&P 500 ETF (VOO) and the Invesco QQQ ETF (QQQ) can both serve as long-term holdings. But one is clearly better suited than the other.",
+      "link": "https://www.fool.com/investing/2026/07/05/voo-vs-qqq-which-is-better-buy-long-term-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T15:20:00+00:00"
+    }
+  ]
+}
