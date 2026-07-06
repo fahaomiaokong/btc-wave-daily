@@ -4,6 +4,7 @@
 
 - 每日 BTC 波浪分析和走势图
 - 每日美股科技新闻标题
+- 每日美股板块涨跌与波动原因
 
 ## 美股科技新闻标题
 
@@ -28,3 +29,11 @@ NEWS_LLM_MODEL=gpt-4o-mini
 ```
 
 然后手动运行 `Daily US Tech News WeCom Push`，或等待北京时间每天 08:45 自动运行。
+
+## 美股板块涨跌
+
+```bash
+python3 scripts/daily_us_sector_push.py --sample --dry-run --no-ai
+```
+
+手动运行 `Daily US Sector WeCom Push`，或等待北京时间每天 08:55 自动运行。

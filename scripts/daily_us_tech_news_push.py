@@ -351,7 +351,11 @@ def call_llm(items: list[NewsItem]) -> dict[str, AiSummary]:
     prompt = (
         "把这些美股科技新闻标题改写成适合企业微信群标题列表的中文。"
         "只返回 JSON 数组，每项包含 id、title_cn。"
-        "title_cn 要简洁，保留公司名、股票代码和关键事件，不要添加摘要。"
+        "title_cn 必须使用格式：股票代码｜中文标题。"
+        "股票代码可以是一个或多个，例如 NVDA/AMD｜。"
+        "中文标题要简洁、股票化，突出上市公司、行业或市场影响，不要添加摘要。"
+        "如果原新闻是泛 AI/科技内容但能关联上市公司，请把最相关的美股代码放在前面；"
+        "如果无法关联具体股票，则使用 科技板块｜。"
     )
     payload = {
         "model": model,
@@ -388,6 +392,52 @@ def call_llm(items: list[NewsItem]) -> dict[str, AiSummary]:
                 impact="",
             )
     return summaries
+
+
+def ticker_prefix(item: NewsItem) -> str:
+    return "/".join(item.tickers) if item.tickers else "科技板块"
+
+
+def fallback_chinese_title(item: NewsItem) -> str:
+    title = item.title
+    lowered = title.lower()
+    prefix = ticker_prefix(item)
+
+    if "wells fargo" in lowered and "overweight rating" in lowered and "advanced micro devices" in lowered:
+        return f"{prefix}｜富国银行维持 AMD 增持评级"
+    if "super micro computer" in lowered and "edge ai" in lowered:
+        return f"{prefix}｜Super Micro 扩展边缘 AI 计算硬件产品"
+    if "microsoft" in lowered and "copilot" in lowered and "unified app" in lowered:
+        return f"{prefix}｜微软计划将 Copilot AI 聊天机器人整合为统一应用"
+    if "palantir" in lowered and "blackrock" in lowered and "ai stock" in lowered:
+        return f"{prefix}｜Palantir 入选贝莱德重要 AI 股票观察名单"
+    if "broadcom" in lowered and "blackrock" in lowered and "ai stock" in lowered:
+        return f"{prefix}｜Broadcom 入选贝莱德重要 AI 股票观察名单"
+    if "nvidia" in lowered and "blackwell" in lowered and "claude" in lowered:
+        return f"{prefix}｜英伟达披露 Claude 模型运行在 Blackwell Ultra GPU 上的进展"
+    if "retail traders" in lowered:
+        return f"{prefix}｜散户交易者上周重点关注这些热门股票"
+    if "dow jones futures rise" in lowered:
+        return f"{prefix}｜道指期货上涨，科技股领涨，苹果等个股受关注"
+    if "undervalued" in lowered or "overvalued" in lowered:
+        return f"{prefix}｜市场再议相关科技股估值高低"
+    if "shares rise" in lowered or "stock soaring" in lowered:
+        return f"{prefix}｜相关科技股上涨催化因素受关注"
+    if "downgrade" in lowered or "falls" in lowered or "delayed" in lowered:
+        return f"{prefix}｜相关科技股承压因素受到市场关注"
+
+    return f"{prefix}｜{title}"
+
+
+def normalized_title(item: NewsItem, ai: Optional[AiSummary]) -> str:
+    title = ai.title if ai and ai.title else fallback_chinese_title(item)
+    if "｜" in title:
+        return title
+    if "|" in title:
+        left, right = title.split("|", 1)
+        if left.strip() and right.strip():
+            return f"{left.strip()}｜{right.strip()}"
+    return f"{ticker_prefix(item)}｜{title}"
 
 
 def build_markdown(
@@ -428,7 +478,7 @@ def build_markdown(
 
     for index, item in enumerate(items, start=1):
         ai = ai_summaries.get(str(index - 1))
-        title = ai.title if ai and ai.title else item.title
+        title = normalized_title(item, ai)
         lines.append(f"{index}. [{title}]({item.link})")
     return "\n".join(lines)
 
