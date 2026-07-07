@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.57,
+      "previous_close": 180.58999633789062,
+      "change_pct": 1.6501488025580713,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.14,
+      "previous_close": 55.619998931884766,
+      "change_pct": 0.9349174363560309,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.56,
+      "previous_close": 183.91000366210938,
+      "change_pct": 0.8971759583682681,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.01,
+      "previous_close": 117.12000274658203,
+      "change_pct": 0.7599020086634489,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.21,
+      "previous_close": 109.5999984741211,
+      "change_pct": 0.5565707430396749,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.98,
+      "previous_close": 52.0099983215332,
+      "change_pct": -0.05767798981217709,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 53.13,
+      "previous_close": 53.220001220703125,
+      "change_pct": -0.16911164719799476,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.29,
+      "previous_close": 44.68000030517578,
+      "change_pct": -0.8728744460876903,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.3,
+      "previous_close": 45.7599983215332,
+      "change_pct": -1.005241124138645,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.1,
+      "previous_close": 84.98999786376953,
+      "change_pct": -1.047179534227205,
+      "as_of": "2026-07-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.96,
+      "previous_close": 163.74000549316406,
+      "change_pct": -1.087092606234441,
+      "as_of": "2026-07-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq futures fall as chip stocks struggle: Live updates",
+      "summary": "Monday night's action follows a winning session on Wall Street.",
+      "link": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T11:30:46+00:00"
+    },
+    {
+      "title": "Far more real estate agents now report seeing a balanced market, CNBC Housing Market Survey finds",
+      "summary": "Agents who reported at least one price cut to active listings dropped dramatically from prior surveys.",
+      "link": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T11:29:21+00:00"
+    },
+    {
+      "title": "Trump arrives in Turkey as NATO is strained by Russian attacks, U.S. impatience",
+      "summary": "Trump frequently vented about NATO members' refusal to heed U.S. calls for help clearing the Strait of Hormuz during its campaign against Iran.",
+      "link": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T11:28:52+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Fiserv, Crinetics Pharmaceuticals, Micron & more",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "link": "https://www.cnbc.com/2026/07/07/stocks-making-the-biggest-moves-premarket-fisv-crnx-mu.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T11:26:21+00:00"
+    },
+    {
+      "title": "SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
+      "summary": "The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.",
+      "link": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T11:11:00+00:00"
+    },
+    {
+      "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy for Long-Term Investors?",
+      "summary": "QQQ delivered better returns over the past five years, but also suffered a higher maximum drawdown. VOO offers lower fees and a higher dividend for more conservative investors.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/07/voo-vs-qqq-which-index-fund-is-the-better-buy-for-long-term-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-07T11:03:16+00:00"
+    },
+    {
+      "title": "The bull market got a new lease on life — can it last?",
+      "summary": "The market-timers’ bullishness is a mile wide but only an inch deep",
+      "link": "https://www.marketwatch.com/story/the-bull-market-got-a-new-lease-on-life-can-it-last-026a8a0a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T11:00:00+00:00"
+    },
+    {
+      "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+      "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
+      "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T11:00:00+00:00"
+    },
+    {
+      "title": "These global stocks benefit from high barriers to entry. And they’re winning the war against AI disruption.",
+      "summary": "Goldman Sachs says the HALO trade has worked well this year, but a tougher phase relying on earnings performance lies ahead.",
+      "link": "https://www.marketwatch.com/story/why-these-global-stocks-with-a-high-barrier-to-entry-are-winning-the-war-on-ai-disruption-43e88c2c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T10:56:00+00:00"
+    },
+    {
+      "title": "Why oil investors fear the next toll fight could be the Strait of Malacca",
+      "summary": "The prospect of fees to transit the Strait of Hormuz has sparked alarm, not least by investors who fear it could be replicated in other maritime corridors.",
+      "link": "https://www.cnbc.com/2026/07/07/malacca-hormuz-oil-shipping-indonesia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:54:13+00:00"
+    },
+    {
+      "title": "World Cup in photos: Belgium beats U.S. 4-1 after Balogun controversy, Ronaldo exits",
+      "summary": "The U.S. is out of the World Cup, losing 4-1 to Belgium in the Round of 16 in a match blemished by suspension of Folarin Balogun's red card. Ronaldo exits.",
+      "link": "https://www.cnbc.com/2026/07/07/world-cup-in-photos-balogun-and-us-belgium-match-ronaldo-bows-out.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:42:32+00:00"
+    },
+    {
+      "title": "The $1,500-A-Month Portfolio: Conservative, Moderate, And High-Yield Paths Compared",
+      "summary": "Replacing $1,500 a month in portfolio income looks simple until yield enters the equation. At a 3.5% yield, you need roughly $514,000 invested. At 6%, the target falls to $300,000. At 10%, it drops to $180,000. Those numbers seem to reward the highest-yielding portfolio, but the real question is what you may have to give ... The $1,500-A-Month Portfolio: Conservative, Moderate, And High-Yield Paths Compared",
+      "link": "https://247wallst.com/personal-finance/2026/07/07/the-1500-a-month-portfolio-conservative-moderate-and-high-yield-paths-compared/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-07T10:39:57+00:00"
+    },
+    {
+      "title": "Buy the dip on this struggling solar stock, says Deutsche Bank",
+      "summary": "The bank upgraded the solar name to buy from hold.",
+      "link": "https://www.cnbc.com/2026/07/07/buy-the-dip-on-this-struggling-solar-stock-says-deutsche-bank.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:37:32+00:00"
+    },
+    {
+      "title": "Just how K-shaped is the U.S. economy? The top 10% spend nearly as much, excluding essentials, as bottom 70% combined",
+      "summary": "The gulf between the rich and everyone else is laid out in a stark analysis done by Bank of America’s economists on household spending.",
+      "link": "https://www.marketwatch.com/story/just-how-k-shaped-is-the-u-s-economy-the-top-10-spend-nearly-as-much-excluding-essentials-as-bottom-70-combined-94a3a918?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T10:19:00+00:00"
+    },
+    {
+      "title": "Ukrainian drones hit Russia’s largest oil refinery as Zelenskyy says Siberia now ‘within reach’",
+      "summary": "The attack underscores Kyiv's enhanced long-range drone capabilities and comes on the eve of a crucial NATO summit.",
+      "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:17:30+00:00"
+    },
+    {
+      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
+      "summary": "Brent and U.S. crude futures rose after a report of an Iranian attack on commercial ships in the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:10:40+00:00"
+    },
+    {
+      "title": "Billionaire John Arnold commits $2.6 million to study online sports betting risk",
+      "summary": "John Arnold, who runs Arnold Ventures with his wife, Laura, is investing $2.6 million for university research into potential harms of online sports betting.",
+      "link": "https://www.cnbc.com/2026/07/07/john-arnold-online-sports-betting-research-grants.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T10:00:01+00:00"
+    },
+    {
+      "title": "‘I make my own pizza.’ What’s the best way you’ve found to save money?",
+      "summary": "“Saving money doesn’t have to be about pizza — it could be coffee, cooking, cleaning, vacations, or anything else.”",
+      "link": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-07T10:00:00+00:00"
+    },
+    {
+      "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
+      "summary": "Samsung Electronics shares fell even after record preliminary second-quarter profit as capex and demand concerns clouded the outlook.",
+      "link": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T09:46:36+00:00"
+    },
+    {
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+      "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-07T09:30:59+00:00"
+    }
+  ]
+}
