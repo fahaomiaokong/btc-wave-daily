@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Is Cerebras Systems (CBRS) Undervalued After Q1 2026 Earnings And A Sharp Pullback?",
+    "summary": "Cerebras Systems (CBRS) is back in focus after its Q1 2026 earnings release and call on June 23, where the AI infrastructure company paired sharp year-over-year revenue growth with a narrower net loss. See our latest analysis for Cerebras Systems. Despite the strong Q1 revenue update and high profile partnerships with OpenAI and Amazon, Cerebras Systems’ share price return is under pressure, with a 1 day move down of 6.27%, a 7 day share price return down 11.17%, a 30 day share price return...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-undervalued-q1-101749386.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:17:49+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "NET"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Tech Weekly: Tesla's surge, robot footballers target glory",
+    "summary": "STORY: From Tesla driving up sales to robot footballers competing in their own competition... This is Tech Weekly. :: Tech Weekly Tesla beat Wall Street estimates when it posted record second-quarter deliveries. The electric vehicle maker delivered more than 480,000 vehicles between April and June - up about a quarter from a year ago. The results were partly driven by a rebound in Europe. China was another bright spot, although demand was still under pressure in the U.S. The World Cup witnessed a technological first during Norway's 2-1 win over Brazil in the Round of 16. An advanced humanoid robot called Atlas delivered the match ball to the referee at half-time. The robot was developed by U.S. firm Boston Dynamics and presented by tournament sponsor Hyundai Motor. Atlas can impersonate famous goal celebrations, including Norway striker Erling Haaland's meditation pose. While Atlas delivered a ball, robots in South Korea showed they could actually play soccer. They competed at the finals of RoboCup 2026 in Incheon - a major robotics and AI competition. Organisers said more than 3,000 competitors from 45 countries took part, and many teams reportedly used platforms developed by China's Booster Robotics. The robots stumbled around and collided with rivals but got back up to keep playing, with Team Hephaestus of Tsinghua University winning the contest. Google lost its long fight against a record $4 billion plus fine imposed by the EU eight years ago. The European Commission had punished the tech giant for its dealings with phone manufacturers. The phone makers were forced to pre-install Google Search, the Chrome browser and the Google Play app store on their Android devices - and prevented from using rival systems. A Google spokesperson said the judgment didn't account for its efforts to make sure Android is open, interoperable and free. And customers at the Lounge X coffee shop in Seoul are now assisted by a robot named Baris. Its a technological sight which has become more common across South Korea. Lounge X CEO Kim Dongjin said the firm turned to robots and self-service to overcome rising labor costs. Kim says his company runs eight such unstaffed 24-hour coffee shops across South Korea, while four stores are still operated by humans.",
+    "link": "https://finance.yahoo.com/video/tech-weekly-teslas-surge-robot-101226793.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:12:26+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Company News for July 7, 2026",
+    "summary": "Companies In The News Are: ORLY, GPC, AVGO, AAPL, MSFT, DELL.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-july-7-2026-100700851.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:07:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "AVGO"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+    "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+    "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+    "source": "Tech",
+    "published": "2026-07-07T09:30:59+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
+    "summary": "The Shenzhen-based startup joined a slew of global peers to build advanced gadgets and electronics that bring the benefits of AI to individual users.",
+    "link": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html",
+    "source": "Tech",
+    "published": "2026-07-07T00:45:52+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Palantir Expands Its Presence in Mexico and Strengthens Its AI Offering in the Insurance Sector with GNP Seguros",
+    "summary": "MIAMI, July 07, 2026--Palantir Technologies Inc. (NASDAQ: PLTR) announced today an enterprise expansion agreement with GNP Seguros (Grupo Nacional Provincial), the largest insurer in Mexico and part of the prominent Grupo BAL consortium. This alliance marks a milestone for Palantir, as GNP Seguros becomes Palantir’s first publicly announced commercial customer in Latin America.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-expands-presence-mexico-strengthens-105900464.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:59:00+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Exclusive-China's DeepSeek developing its own AI chip, sources say",
+    "summary": "Chinese startup DeepSeek is developing its own AI chip, according to three people familiar with the matter, a push that could reduce its reliance on Nvidia and Huawei chips, which it has depended on to train and run its globally popular models. The chip is designed for ‌inference — the stage of AI computing in which a trained model generates responses for users — rather than for training new models, the sources said. If successful, DeepSeek's expansion ‌into semiconductor development would mark a major strategic shift for a company widely hailed in China as the country's AI champion, potentially adding to challenges faced by Chinese tech giant Huawei.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-deepseek-developing-own-103352764.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:33:52+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Should You Buy Tesla Stock Before July 22?",
+    "summary": "Tesla stock reports second-quarter earnings on July 22.",
+    "link": "https://www.fool.com/investing/2026/07/07/should-you-buy-tesla-stock-before-july-22/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-07T10:25:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  }
+]
