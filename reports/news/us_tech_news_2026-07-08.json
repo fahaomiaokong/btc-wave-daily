@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Xero Announces New AI Innovations at Xerocon London as it Powers 5 Million Customers Globally",
+    "summary": "LONDON & SAN MATEO, Calif., July 08, 2026--Xero (ASX: XRO), the global small business platform, today announced new AI-powered features within its agentic platform JAX that make it easier for small businesses and accountants and bookkeepers to keep their books clean, automate time-consuming financial workflows, and stay on top of cash flow. Also showcased were recently introduced integrations with Microsoft 365 and Anthropic which bring Xero financial intelligence and data into the everyday tool",
+    "link": "https://finance.yahoo.com/small-business/articles/xero-announces-ai-innovations-xerocon-090000067.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-08T09:00:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
+    "summary": "(Bloomberg) -- After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.’s stock is the cheapest it’s been since before the AI boom kicked off and sent the shares into the stratosphere.Most Read from BloombergGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaChip Stocks Sink After Blistering Run as Oil Jumps: Markets WrapUS Strikes Iran and Blocks Oil Sales in New Test of TruceTwo Millennium Trading Pods Made About $3.7 Billion Last MonthChina Sentences",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-1-trillion-slide-sends-084308296.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-08T08:43:08+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+    "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+    "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+    "source": "Tech",
+    "published": "2026-07-07T09:30:59+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Commvault Systems (CVLT) Launches Recovery Simulation, Is The Stock 14% Overvalued?",
+    "summary": "Commvault Systems (CVLT) has drawn investor attention after launching \"Commvault Minutes to Recovery,\" a global, hands-on cyber resilience simulation that allows security and IT teams to rehearse AI-driven attacks and benchmark clean recovery performance. See our latest analysis for Commvault Systems. Recent product launches, a new Chief Partner Officer, an expanded Microsoft Azure partnership, and the newly filed securities class action have all landed as Commvault Systems’ 30-day share...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/commvault-systems-cvlt-launches-recovery-091423438.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-08T09:14:23+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Cramer says 'everything still revolves around Nvidia' despite its lagging stock",
+    "summary": "CNBC's Jim Cramer said that Nvidia remains at the center of the artificial intelligence boom.",
+    "link": "https://www.cnbc.com/2026/07/07/cramer-everything-still-revolves-around-nvidia-even-as-stock-lags.html",
+    "source": "Tech",
+    "published": "2026-07-07T16:00:50+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+    "summary": "",
+    "link": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html",
+    "source": "Tech",
+    "published": "2026-07-08T09:28:50+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+    "summary": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
+    "link": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+    "source": "Tech",
+    "published": "2026-07-08T09:03:53+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration",
+    "summary": "PARIS, July 08, 2026--DDN, the global leader in AI and data intelligence solutions, today announced continued progress in its collaboration with Nebul, a European leader in providing sovereign-hybrid cloud solutions, to optimize large-scale AI inference performance through advanced KV Cache acceleration and high-performance data infrastructure.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ddn-nebul-nvidia-collaborate-advance-090000507.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-08T09:00:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
