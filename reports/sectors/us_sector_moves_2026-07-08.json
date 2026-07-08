@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 54.64,
+      "previous_close": 53.130001068115234,
+      "change_pct": 2.8420833832637715,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 164.44,
+      "previous_close": 161.9600067138672,
+      "change_pct": 1.5312380731832054,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.89,
+      "previous_close": 44.290000915527344,
+      "change_pct": 1.354705513817911,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.86,
+      "previous_close": 84.0999984741211,
+      "change_pct": 0.9036879187492186,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.7,
+      "previous_close": 45.29999923706055,
+      "change_pct": 0.883003906570079,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.02,
+      "previous_close": 110.20999908447266,
+      "change_pct": 0.7349613667145594,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.05,
+      "previous_close": 56.13999938964844,
+      "change_pct": -0.1603124165067915,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.39,
+      "previous_close": 118.01000213623047,
+      "change_pct": -0.5253810058529984,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.51,
+      "previous_close": 51.97999954223633,
+      "change_pct": -0.9041930480480853,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 182.38,
+      "previous_close": 185.55999755859375,
+      "change_pct": -1.7137301144820372,
+      "as_of": "2026-07-07"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 179.18,
+      "previous_close": 183.57000732421875,
+      "change_pct": -2.3914621937477953,
+      "as_of": "2026-07-07"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump says Iran ceasefire is 'over' after latest round of strikes",
+      "summary": "The president was asked about the ceasefire after an escalation of fighting in the Middle East.",
+      "link": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:42:13+00:00"
+    },
+    {
+      "title": "Trump pours cold water on NATO allies' united front",
+      "summary": "NATO chief Mark Rutte said Wednesday that the alliance was entering its \"NATO 3.0\" era.",
+      "link": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:40:28+00:00"
+    },
+    {
+      "title": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
+      "summary": "U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey.",
+      "link": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:31:15+00:00"
+    },
+    {
+      "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:28:50+00:00"
+    },
+    {
+      "title": "Trump doubles down on push for control over Greenland as Denmark vows to defend it",
+      "summary": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+      "link": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:21:20+00:00"
+    },
+    {
+      "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over",
+      "summary": "Brent crude and West Texas Intermediate contracts climbed on President Donald Trump saying dealing with Tehran is “a waste of time”",
+      "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T09:21:00+00:00"
+    },
+    {
+      "title": "I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+      "summary": "“I’m actually earning more each week than I ever have before.”",
+      "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T09:16:00+00:00"
+    },
+    {
+      "title": "Oil surges 6% after Trump says ceasefire with Iran is over",
+      "summary": "\"To me, I think it's over,\" Trump said of the ceasefire with Iran. \"I don't want to deal with them anymore.\"",
+      "link": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:12:23+00:00"
+    },
+    {
+      "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+      "summary": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
+      "link": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T09:03:53+00:00"
+    },
+    {
+      "title": "Dakota Johnson quickly sells $6 million midcentury modern home in L.A.",
+      "summary": "“Fifty Shades” star Dakota Johnson has officially sold her stunning Los Angeles home for just a few dollars under her $6 million asking price—just days after putting it on the market.",
+      "link": "https://www.marketwatch.com/story/dakota-johnson-quickly-sells-6-million-midcentury-modern-home-in-l-a-b6fb5e00?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T09:01:00+00:00"
+    },
+    {
+      "title": "After selling her $5 million Westchester home, Drew Barrymore shows off her RV",
+      "summary": "Drew Barrymore is going back to basics for her summer getaway this year—revealing that she is ready to take an adventure in an RV.",
+      "link": "https://www.marketwatch.com/story/after-selling-her-5-million-westchester-home-drew-barrymore-shows-off-her-rv-1d2cccf7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T08:58:00+00:00"
+    },
+    {
+      "title": "Alibaba just had its best day in 10 months. Is it time for China techs to catch up?",
+      "summary": "Alibaba on Wednesday saw its best single share-price gain in 10 months, as the broader Chinese tech sector revved higher after missing the rally propelling U.S., Korean and Taiwanese companies.",
+      "link": "https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T08:57:00+00:00"
+    },
+    {
+      "title": "It was the world’s hottest stock market. Now South Korea’s stock market has entered bear-market territory",
+      "summary": "The cumulative impact of several different narratives – competition, sustainability, excessive leverage, international outflows- has sapped the Korean market of its upward mobility since clocking up a record high in June.",
+      "link": "https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-08T08:53:00+00:00"
+    },
+    {
+      "title": "Singapore's Temasek hits record portfolio value, eyes more investment in AI, infrastructure and private credit",
+      "summary": "Over the course of its financial year, Temasek recorded a gain of S$49 billion and a 10.5% total shareholder return.",
+      "link": "https://www.cnbc.com/2026/07/08/singapores-temasek-eyes-ai-private-credit-with-portfolio-at-record.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T08:37:52+00:00"
+    },
+    {
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+      "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T08:14:28+00:00"
+    },
+    {
+      "title": "Samsung-backed AI chip firm Rebellions targets IPO in South Korea next year, CEO tells CNBC",
+      "summary": "Sunghyun Park, CEO of Rebellions, told CNBC that the company is leaning toward a listing on the KOSPI over the KOSDAQ.",
+      "link": "https://www.cnbc.com/2026/07/08/rebellions-ipo-south-korea-ai-chips.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T07:34:15+00:00"
+    },
+    {
+      "title": "This former Apple executive is betting on Shenzhen, not Silicon Valley, to create the 'next Apple'",
+      "summary": "Startups building consumer electronics will have a better shot at becoming the next Apple in Shenzhen than in Silicon Valley, said Will Wang, CEO of China's smart-glasses startup.",
+      "link": "https://www.cnbc.com/2026/07/08/apple-shenzhen-silicon-valley-even-realities.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T07:16:47+00:00"
+    },
+    {
+      "title": "Halo stocks are benefiting from the AI boom, Goldman Sachs says. Here are the European firms they're backing",
+      "summary": "\"This is a global shift,\" the investment bank's researchers said.",
+      "link": "https://www.cnbc.com/2026/07/08/ai-goldman-sachs-boom-capex-halo-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T06:02:28+00:00"
+    },
+    {
+      "title": "Andy Burnham's theory of devolution for Britain",
+      "summary": "The U.K.'s prime minister in waiting wants to devolve power from London to the nation’s regions. But past efforts have been anything but successful.",
+      "link": "https://www.cnbc.com/2026/07/08/uk-pm-andy-burnham-devolution-manchester.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-08T05:30:01+00:00"
+    },
+    {
+      "title": "Hedging Is Disappearing. It’s a Huge Market Risk.",
+      "summary": "Investor positioning is so optimistic that earnings disappointments could trigger a massive stock reversal.",
+      "link": "https://finance.yahoo.com/m/62c234ef-282b-35df-910f-0f997d2b0413/hedging-is-disappearing.-it%E2%80%99s.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-08T05:30:00+00:00"
+    }
+  ]
+}
