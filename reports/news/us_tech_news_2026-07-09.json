@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Exclusive-Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+    "summary": "Meta Platforms plans to start manufacturing an artificial intelligence chip from September as part of its plan to boost overall ‌computing power to 14 gigawatts next year, showed an internal memo reviewed by Reuters. The tech firm's data center ‌chip, code-named \"Iris\", is part of a four-generation project for Meta Training and Inference Accelerators (MTIA) that it will design in-house. Meta tailored the chip for its own needs and is working with Broadcom ‌to help design it and Taiwan Semiconductor ⁠Manufacturing Co to manufacture it.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-meta-put-ai-chip-112222555.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T11:22:22+00:00",
+    "tickers": [
+      "META",
+      "AVGO",
+      "TSM"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus",
+    "summary": "As Nvidia heats up its AI battle versus Broadcom partner Arista Networks, shares of Arista stock take aim at a breakout.",
+    "link": "https://finance.yahoo.com/m/82e58872-3c66-354c-82ad-c76e9669a2d3/three-enticing-clues-put-this.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T11:16:51+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
+    "summary": "Apple is expanding its Broadcom partnership in a $30 billion-plus chipmaking agreement, its largest American manufacturing commitment to date.",
+    "link": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+    "source": "Tech",
+    "published": "2026-07-08T20:03:53+00:00",
+    "tickers": [
+      "AAPL",
+      "AVGO"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+    "summary": "OpenAI's chief rival, Anthropic, recently restored access to its latest models following a weeks-long clash with the government.",
+    "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+    "source": "Tech",
+    "published": "2026-07-08T17:28:38+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Ultra Clean Holdings (UCTT) Appoints Michael Keogh As CFO For Its Next AI Push",
+    "summary": "Ultra Clean Holdings (NasdaqGS:UCTT) appointed Michael Keogh as Chief Financial Officer. Keogh brings experience from senior roles at Ford Motor Co., Apple, Intel, and Bright Machines. The appointment comes as Ultra Clean advances its UCT 3.0 strategy in the AI focused semiconductor market. Ultra Clean Holdings enters this leadership change with the stock at $100.91 and performance that has drawn attention, including a return of 269.4% year to date and 309.9% over the past year. The share...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ultra-clean-holdings-uctt-appoints-111538771.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T11:15:38+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It.",
+    "summary": "Tesla stock isn’t a buy right now, for one analyst, despite “immense” potential for AI to transform the company. Citizens analyst Andrew Boone launched coverage of Tesla stock with a Hold rating and no price target, according to ratings aggregators.",
+    "link": "https://finance.yahoo.com/m/635dc150-10fd-304e-a362-290ac47aec02/tesla-stock-has-%E2%80%98immense%E2%80%99-ai.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T11:11:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Why Shares in Nvidia Partner, Navitas Semiconductor, Soared Higher by 151% in the First Half of 2026",
+    "summary": "The technology company's stock has almost become a de facto play on sentiment over growth in AI investment.",
+    "link": "https://www.fool.com/investing/2026/07/09/why-shares-in-nvidia-partner-navitas-semiconductor/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T10:57:23+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia H200 Chips Could Return to China as Beijing Weighs Limited Approval (NVDA)",
+    "summary": "Report Suggests China May Permit Limited H200 Chip SalesNvidia (NASDAQ:NVDA) could regain limited access to the Chinese artificial intelligence market, according to a report from The Information, which said Beijing is considering allowing domestic companies to purchase a restricted number of the chipmaker’s H200 AI processors. The report says Chinese technology groups including Alibaba, ByteDance and DeepSeek have been informed they may be eligible to acquire the chips, provided they disclose bo",
+    "link": "https://investorshub.advfn.com/market-news/article/31583/nvidia-h200-chips-could-return-to-china-as-beijing-weighs-limited-approval-nvda?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-09T10:50:24+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
