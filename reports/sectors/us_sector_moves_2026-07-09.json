@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 55.6,
+      "previous_close": 54.63999938964844,
+      "change_pct": 1.75695574867345,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 181.4,
+      "previous_close": 179.17999267578125,
+      "change_pct": 1.2389817027371741,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.39,
+      "previous_close": 84.86000061035156,
+      "change_pct": -0.5538541208709669,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.36,
+      "previous_close": 45.70000076293945,
+      "change_pct": -0.7439841515608392,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.42,
+      "previous_close": 182.3800048828125,
+      "change_pct": -1.0746818896467891,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.3,
+      "previous_close": 164.44000244140625,
+      "change_pct": -1.301387989317726,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.46,
+      "previous_close": 111.0199966430664,
+      "change_pct": -1.4051492435924517,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.15,
+      "previous_close": 44.88999938964844,
+      "change_pct": -1.6484727104252972,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.3,
+      "previous_close": 117.38999938964844,
+      "change_pct": -1.780389641805158,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.97,
+      "previous_close": 56.04999923706055,
+      "change_pct": -1.9268496909210397,
+      "as_of": "2026-07-08"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.16,
+      "previous_close": 51.5099983215332,
+      "change_pct": -2.620847147201044,
+      "as_of": "2026-07-08"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump says Iran called to make a deal after U.S. strikes; adds it's unclear if war is back on",
+      "summary": "When asked whether the U.S. and Iran are returning to a full-scale military conflict, Trump responded: \"I don't know.\"",
+      "link": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T12:18:14+00:00"
+    },
+    {
+      "title": "Goldman Sachs thinks this HVAC play will be a big winner from the AI boom",
+      "summary": "The investment bank initiated coverage of the HVAC servicing name with a buy rating.",
+      "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-thinks-this-hvac-play-will-be-a-big-winner-from-the-ai-boom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T12:13:45+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls Amid U.S.-Iran News; Micron Stock, Sandisk Rally (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index fell Thursday amid the latest U.S.-Iran news. Micron stock and Sandisk rallied premarket.",
+      "link": "https://finance.yahoo.com/m/8c0acb4d-329f-354e-84a5-d2254939eee8/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-09T12:09:30+00:00"
+    },
+    {
+      "title": "Major drugmaker loses $27 billion in market value after failed trial",
+      "summary": "Two companies announced on Thursday that the heart disease drug they had been developing failed its Phase III trial.",
+      "link": "https://www.marketwatch.com/story/major-drugmaker-loses-27-billion-in-market-value-after-failed-trial-b891fc61?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T12:03:00+00:00"
+    },
+    {
+      "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
+      "summary": "Following a more than sevenfold rally in its stock price over the past year, South Korea's SK Hynix is listing on the Nasdaq.",
+      "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T12:00:01+00:00"
+    },
+    {
+      "title": "Gen Z-ers share how they’re achieving financial freedom — and the old ideas they’re leaving behind",
+      "summary": "A stable job and a nice home have become less accessible to young Americans. Many are taking new paths to pursue their dreams.",
+      "link": "https://www.marketwatch.com/story/gen-z-ers-share-how-theyre-achieving-financial-freedom-and-the-old-ideas-theyre-leaving-behind-c36c5980?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T12:00:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: AstraZeneca, PepsiCo, Salesforce, Levi & more",
+      "summary": "These are the stocks posting the largest moves in the premarket.",
+      "link": "https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:59:47+00:00"
+    },
+    {
+      "title": "PepsiCo cuts prices on snacks. It’s not enough to drive growth in North America.",
+      "summary": "PepsiCo’s stock was set to fall as the company’s North America business lagged, but strength in international business led to an earnings beat.",
+      "link": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T11:57:00+00:00"
+    },
+    {
+      "title": "A warning for the U.S. dollar: The historic bond-market buffer that protected the currency is fading.",
+      "summary": "Major dislocations in America’s foreign policy have given a stimulus to a dedollarization trend among central banks.",
+      "link": "https://www.marketwatch.com/story/a-warning-for-the-u-s-dollar-the-historic-bond-market-buffer-that-protected-the-currency-is-fading-3da8e6da?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T11:52:00+00:00"
+    },
+    {
+      "title": "Clean power comeback? Don't count out renewable energy and this one stock in particular",
+      "summary": "Clean power is responsible for roughly 90% of all new electrical capacity being added to the grid, according to the CEO of the American Clean Power Association.",
+      "link": "https://www.cnbc.com/2026/07/09/clean-power-comeback-dont-count-out-renewable-energy-and-this-one-stock-in-particular.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:49:01+00:00"
+    },
+    {
+      "title": "Meta to put AI chip into production in September as it looks to double computing capacity, Reuters reports",
+      "summary": "Meta plans to start manufacturing an artificial intelligence chip from September as part of its plan to boost overall computing power, Reuters reports.",
+      "link": "https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:44:40+00:00"
+    },
+    {
+      "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+      "summary": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+      "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:44:00+00:00"
+    },
+    {
+      "title": "PepsiCo earnings miss estimates as North American consumers tighten their budgets",
+      "summary": "PepsiCo reported weaker-than-expected quarterly earnings despite strong international demand.",
+      "link": "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:43:58+00:00"
+    },
+    {
+      "title": "This chart shows stamp prices since 1885 as USPS hikes postage again this weekend",
+      "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
+      "link": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T11:41:00+00:00"
+    },
+    {
+      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+      "summary": "The next global financial crisis is already under way. Here is how it will unfold.",
+      "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T11:37:00+00:00"
+    },
+    {
+      "title": "Coca-Cola vs Exxon: Which Blue Chip Won the Decade?",
+      "summary": "One blue chip quietly compounded dividends for 64 straight years while the other got kicked out of the Dow during a historic crash. A thousand dollars placed in each tells a surprisingly complicated story about which path actually paid off.",
+      "link": "https://247wallst.com/investing/2026/07/09/coca-cola-vs-exxon-which-blue-chip-won-the-decade/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-09T11:15:24+00:00"
+    },
+    {
+      "title": "What AI companies want for the millions they're spending on elections",
+      "summary": "Lawmakers are working on AI legislation — and two major industry PACs are each pushing for their own version of regulation.",
+      "link": "https://www.cnbc.com/2026/07/09/ai-companies-election-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:12:02+00:00"
+    },
+    {
+      "title": "AstraZeneca stock drops 9% after heart drug trial miss deals rare blow to pharma powerhouse",
+      "summary": "A late-stage clinical trial failed to miss its primary endpoint, U.K.'s laregst drugmaker said Thursday.",
+      "link": "https://www.cnbc.com/2026/07/09/astrazeneca-stock-trial-heart-drug-pharma.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:11:02+00:00"
+    },
+    {
+      "title": "Schwab strategists warn of a major market shift: The era of easy index gains is officially over",
+      "summary": "More geopolitical instability, more frequent supply shocks and macro volatility are facing investors in an era that’s just starting, says Charles Schwab.",
+      "link": "https://www.marketwatch.com/story/schwab-strategists-warn-of-a-major-market-shift-the-era-of-easy-index-gains-is-officially-over-2396d139?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-09T11:09:00+00:00"
+    },
+    {
+      "title": "Jeep's parent stock has underperformed. JPMorgan doesn't see an improvement in the near future",
+      "summary": "The investment bank downgraded the automotive manufacturing name to neutral from overweight.",
+      "link": "https://www.cnbc.com/2026/07/09/this-car-manufacturer-is-likely-to-keep-underperforming-jpmorgan-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-09T11:03:44+00:00"
+    }
+  ]
+}
