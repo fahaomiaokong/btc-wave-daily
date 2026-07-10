@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+    "summary": "Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.",
+    "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+    "source": "Tech",
+    "published": "2026-07-09T14:00:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
+    "summary": "(Bloomberg) -- In the weeks leading up to SpaceX’s monster IPO, many Wall Street pros feared the deal represented an existential threat for Elon Musk’s other giant, Tesla Inc. But after a month in the stock market, the outcome is far from clear. Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameNvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsZuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AITrump Vents Anger With Ira",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/month-spacex-ipo-tesla-stock-110001358.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-10T11:00:01+00:00",
+    "tickers": [
+      "META",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source": "TechCrunch",
+    "published": "2026-07-09T23:38:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause",
+    "summary": "It appears that the president did very well in his trades.",
+    "link": "https://www.fool.com/investing/2026/07/10/trump-made-327-stock-trades-in-apple-nvidia-and-ot/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-10T10:45:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "source": "TechCrunch",
+    "published": "2026-07-09T18:22:39+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google’s Nest Thermostat has hit its best price of the year",
+    "summary": "If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is its best price of the year, at Amazon. The smart thermostat is quick to […]",
+    "link": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
+    "source": "The Verge",
+    "published": "2026-07-09T17:33:46+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "3 Top Stocks to Double Up on Right Now -- Including Broadcom (AVGO) Stock",
+    "summary": "One of these stocks is up 683% over the past year and may still be worth buying today.",
+    "link": "https://www.fool.com/investing/2026/07/10/3-top-stocks-to-double-up-on-avgo-broadcom/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-10T11:22:00+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree",
+    "summary": "(Bloomberg) -- The largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform the economy. Most Read from BloombergMicrosoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video GameNvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom LevelsZuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AITrump Vents Anger With Iran and",
+    "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-doubles-debt-load-103000041.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-10T10:30:00+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  }
+]
