@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.35,
+      "previous_close": 181.39999389648438,
+      "change_pct": 2.1775117069572136,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.85,
+      "previous_close": 115.30000305175781,
+      "change_pct": 1.3443164850103217,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.54,
+      "previous_close": 54.970001220703125,
+      "change_pct": 1.0369269904294542,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.51,
+      "previous_close": 109.45999908447266,
+      "change_pct": 0.9592553666267101,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 181.11,
+      "previous_close": 180.4199981689453,
+      "change_pct": 0.38244198983339306,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.26,
+      "previous_close": 50.15999984741211,
+      "change_pct": 0.1993623462760885,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.23,
+      "previous_close": 44.150001525878906,
+      "change_pct": 0.1811969906143629,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.17,
+      "previous_close": 162.3000030517578,
+      "change_pct": -0.08010046168414053,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.13,
+      "previous_close": 45.36000061035156,
+      "change_pct": -0.5070560124707524,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 54.82,
+      "previous_close": 55.599998474121094,
+      "change_pct": -1.4028749919555161,
+      "as_of": "2026-07-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.2,
+      "previous_close": 84.38999938964844,
+      "change_pct": -1.4101189693744742,
+      "as_of": "2026-07-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures are little changed as index heads for winning week: Live updates",
+      "summary": "Wall Street is coming off a winning day, following a jump in chipmakers and falling oil prices.",
+      "link": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:36:19+00:00"
+    },
+    {
+      "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
+      "summary": "Delta is the first of the U.S. airlines to report second-quarter results.",
+      "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:35:48+00:00"
+    },
+    {
+      "title": "The Tech Download: Teen social media bans miss a key part of the puzzle: AI chatbots",
+      "summary": "Teenagers are increasingly becoming dependent on AI chatbots, echoing a familiar problem with social media in the 2010s.",
+      "link": "https://www.cnbc.com/2026/07/10/tech-download-social-media-bans-ai-chatbots.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:32:53+00:00"
+    },
+    {
+      "title": "Corporate America is pumping $1 trillion into stock buybacks — but look at what insiders are doing",
+      "summary": "These 22 U.S. stocks are backed by company buybacks and insider cash.",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:28:00+00:00"
+    },
+    {
+      "title": "Volkswagen to slash model lineup and shrink capacity — but no word on job cuts",
+      "summary": "The update followed a high-stakes boardroom showdown with the group's supervisory board.",
+      "link": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:22:17+00:00"
+    },
+    {
+      "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
+      "summary": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
+      "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:20:25+00:00"
+    },
+    {
+      "title": "As SK Hynix lands in the U.S., here’s why investors should be wary of the chip sector’s ‘bubblelike’ volatility",
+      "summary": "Traders can only hope South Korea–style turbulence won’t be imported to Wall Street.",
+      "link": "https://www.marketwatch.com/story/as-sk-hynix-lands-in-the-u-s-heres-why-investors-should-be-wary-of-the-chip-sectors-bubble-like-volatility-3db579c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:14:00+00:00"
+    },
+    {
+      "title": "Delta reports record revenue and a profit beat, even as fuel costs surge",
+      "summary": "Delta Air Lines’ stock was set to gain despite the company saying that profit fell — but beat expectations — even after the air carrier absorbed the highest quarterly fuel expense in its history.",
+      "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:12:00+00:00"
+    },
+    {
+      "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+      "summary": "Fidji Simo stepped away from OpenAI in April for a medical leave, says she now has to focus on recovery.",
+      "link": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:10:28+00:00"
+    },
+    {
+      "title": "This luxury homebuilding stock is a good play on 'K-shaped economy,' Citi says",
+      "summary": "As a luxury homebuilding stock, Toll Brothers offers a way to play the increasing bifurcation of the economy, per Citi Research.",
+      "link": "https://www.cnbc.com/2026/07/10/toll-brothers-is-a-good-play-on-k-shaped-economy-citi-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:05:41+00:00"
+    },
+    {
+      "title": "Dow Jones Futures Rise; Delta Gains On Guidance, SK Hynix Raises $26.5 Billion; Micron, Sandisk Slide",
+      "summary": "Delta rose on earnings. Memory giant SK Hynix is set for its Nasdaq debut after a huge offering. Micron and Sandisk fell.",
+      "link": "https://finance.yahoo.com/m/6e8baca0-b324-3166-b745-36b306c19567/dow-jones-futures-rise%3B-delta.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-10T11:04:48+00:00"
+    },
+    {
+      "title": "Stocks are seeing increasingly wild swings post-earnings. Why even good numbers often aren’t enough to impress.",
+      "summary": "The second-quarter earnings season is off to a volatile start, offering an early test of whether investors’ high expectations for corporate profits can hold up.",
+      "link": "https://www.marketwatch.com/story/stocks-are-seeing-increasingly-wild-swings-post-earnings-why-even-good-numbers-often-arent-enough-to-impress-f4ce5169?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:04:00+00:00"
+    },
+    {
+      "title": "AI, data center fears could be key in closely watched Michigan Democratic Senate primary",
+      "summary": "Abdul El-Sayed and Rep. Haley Stevens will face off in the Michigan Democratic Senate primary on Aug. 4.",
+      "link": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T11:00:01+00:00"
+    },
+    {
+      "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+      "summary": "“She said it’s the second message they have left.”",
+      "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:00:00+00:00"
+    },
+    {
+      "title": "1,500 Americans filed for bankruptcy each day last year. They should have done this instead.",
+      "summary": "Personal bankruptcy filings surged 47% between 2022 and 2025. Here’s what you should do before deciding to file.",
+      "link": "https://www.marketwatch.com/story/1-500-americans-filed-for-bankruptcy-each-day-last-year-they-should-have-done-this-instead-d4d278a6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T11:00:00+00:00"
+    },
+    {
+      "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
+      "summary": "Meta is an apparent breach of EU laws due to addictive design features on Instagram and Facebook, according to preliminary findings on Friday.",
+      "link": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T10:32:54+00:00"
+    },
+    {
+      "title": "Abivax $920 million cash haul lets it prepare for solo U.S. launch instead of relying on a buyer, CEO tells CNBC",
+      "summary": "Its latest fundraising round provides the French biotech with enough cash to finance operations through 2029.",
+      "link": "https://www.cnbc.com/2026/07/10/abivax-stock-takeover-us-launch-obefazimod-ulcerative-colitis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T10:10:15+00:00"
+    },
+    {
+      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+      "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T10:00:00+00:00"
+    },
+    {
+      "title": "As AI spending concerns grow, here’s the bet to make ahead of critical stress test, says veteran Jefferies strategist",
+      "summary": "Pick and shovel stocks benefit from hyperscaler capex upfront, while those spending the money must wait years to find out if there will be a return on their investments",
+      "link": "https://www.marketwatch.com/story/as-ai-spending-concerns-grow-heres-the-bet-to-make-ahead-of-critical-stress-test-says-veteran-jefferies-strategist-4503ba4f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T09:31:00+00:00"
+    },
+    {
+      "title": "World oil demand set for first annual decline since 2020, IEA says",
+      "summary": "Renewed escalation in the U.S.-Iran war could complicate matters and further cloud the outlook, the IEA warned Friday.",
+      "link": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T09:15:22+00:00"
+    }
+  ]
+}
