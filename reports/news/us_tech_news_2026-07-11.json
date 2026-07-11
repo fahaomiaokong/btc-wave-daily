@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Has Meta ever had a stock split? What sets this ‘Mag 7’ stock apart",
+    "summary": "Meta Platforms has a lot in common with its “Magnificent 7” brethren. Like Nvidia, Apple, Alphabet, Microsoft, Amazon, and Tesla, Meta is a technology giant with a market capitalization exceeding $1 trillion. Its stock has dramatically outperformed the broader S&P 500 over the past decade, and ...",
+    "link": "https://www.thestreet.com/investing/stocks/meta-platforms-stock-split?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-11T01:47:54+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AAPL",
+      "GOOGL",
+      "AMZN",
+      "META",
+      "TSLA"
+    ],
+    "score": 30
+  },
+  {
+    "title": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
+    "summary": "Alex Karp called out OpenAI and Anthropic by name on live television, sent Palantir stock surging 8%, and argued that enterprises are done paying for tokens. The question is whether his numbers back up the swagger or just paper over a valuation that has Michael Burry betting against it.",
+    "link": "https://247wallst.com/investing/2026/07/10/palantir-ceo-something-has-gone-completely-wrong-with-openai-and-anthropic-2/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-11T01:29:37+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "PLTR"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Rackspace Technology (RXT) Is Down 6.6% After Revenue Cut And Dilutive AI Pivot Announcement – Has The Bull Case Changed?",
+    "summary": "Earlier this week, Rackspace Technology cut its 2026 revenue guidance to US$2.45–2.55 billion, reduced expected adjusted EBITDA, and outlined exits from low-margin public cloud resale and legacy hosting while launching a US$250 million at-the-market equity program to fund an enterprise AI push. At the same time, Rackspace deepened its AI focus by becoming Palantir’s preferred operator for regulated and sovereign deployments and committing to expand AMD-powered AI capacity, effectively...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/rackspace-technology-rxt-down-6-041606933.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-11T04:16:06+00:00",
+    "tickers": [
+      "AMD",
+      "PLTR"
+    ],
+    "score": 12
+  },
+  {
+    "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
+    "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
+    "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+    "source": "Tech",
+    "published": "2026-07-10T20:34:32+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+    "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+    "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+    "source": "Tech",
+    "published": "2026-07-11T04:09:20+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple sues OpenAI alleging trade secret theft",
+    "summary": "In a classic “Friday news dump,” Apple filed a federal lawsuit in California against OpenAI, accusing its once-partner of stealing some of its trade secrets. Specifically, it’s alleging that two of its former employees brought proprietary and confidential information about its hardware to OpenAI when they joined. The lawsuit calls to mind Waymo’s trade secret theft lawsuit against Uber, filed in 2017. Similarly, a well-established tech giant publicly accused a fast-ascending private company, loc",
+    "link": "https://pitchbook.com/news/articles/apple-sues-openai-alleging-trade-secret-theft?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-11T02:46:10+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Cloudflare (NET) Is Up 10.7% After Launching AI Search Pilot With OpenAI And New Monetization Tools",
+    "summary": "In early July 2026, Cloudflare, Inc. revealed new AI-focused tools and partnerships, plus a first-of-its-kind research pilot with OpenAI using its real-time network insights to improve how AI search engines crawl, index, and answer from the open web. Together, these initiatives position Cloudflare at the center of emerging AI search and content monetization workflows, potentially reshaping how publishers control, measure, and get paid for how AI systems use their content. Next, we’ll examine...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-10-7-launching-020941088.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-11T02:09:41+00:00",
+    "tickers": [
+      "MSFT",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "source": "The Verge",
+    "published": "2026-07-10T22:33:47+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  }
+]
