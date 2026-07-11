@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.89,
+      "previous_close": 50.2599983215332,
+      "change_pct": 1.253485275579247,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.12,
+      "previous_close": 83.19999694824219,
+      "change_pct": 1.1057729393068927,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.64,
+      "previous_close": 110.51000213623047,
+      "change_pct": 1.0225299447343517,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.41,
+      "previous_close": 45.130001068115234,
+      "change_pct": 0.6204274878304439,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.45,
+      "previous_close": 44.22999954223633,
+      "change_pct": 0.49740099489168355,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 55.08,
+      "previous_close": 54.81999969482422,
+      "change_pct": 0.47428001937825925,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 181.92,
+      "previous_close": 181.11000061035156,
+      "change_pct": 0.44724166910643515,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.24,
+      "previous_close": 116.8499984741211,
+      "change_pct": 0.3337625425517521,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.71,
+      "previous_close": 55.540000915527344,
+      "change_pct": 0.30608405054082244,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.78,
+      "previous_close": 185.35000610351562,
+      "change_pct": 0.2319902251550099,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 160.84,
+      "previous_close": 162.1699981689453,
+      "change_pct": -0.8201259073578715,
+      "as_of": "2026-07-10"
+    }
+  ],
+  "news": [
+    {
+      "title": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
+      "summary": "For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.",
+      "link": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T05:00:01+00:00"
+    },
+    {
+      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+      "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T04:09:20+00:00"
+    },
+    {
+      "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
+      "summary": "The iPhone maker claims “misconduct is normalized and exemplified by leadership” at OpenAI.",
+      "link": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T23:06:00+00:00"
+    },
+    {
+      "title": "You Didn’t Need Alphabet: XLK Returned 29.35% to GOOGL’s 14.26%",
+      "summary": "Alphabet crushed earnings, grew cloud revenue at a jaw-dropping pace, and dominated every tech headline in 2026. So why did the investor who never bought a single share of GOOGL end up with more money?",
+      "link": "https://247wallst.com/investing/etf/2026/07/10/you-didnt-need-alphabet-xlk-returned-29-35-to-googls-14-26/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-10T22:57:57+00:00"
+    },
+    {
+      "title": "Meta’s stock roars back to life as it notches its best week in years",
+      "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
+      "link": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T22:24:00+00:00"
+    },
+    {
+      "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
+      "summary": "The South Korean memory-chip company’s new American depositary receipts began trading on Friday and logged gains of nearly 13%.",
+      "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T22:18:00+00:00"
+    },
+    {
+      "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+      "summary": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
+      "link": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T22:02:04+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Week Higher Following Strong SK Hynix Debut — META, SKHVY, CRCL, BA, DAL In Focus",
+      "summary": "The S&P 500 and Nasdaq gained for the second straight week, while the Dow recorded weekly losses.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-week-higher-following-strong-sk-hynix-debut-meta-skhvy-crcl-ba-dal-in-focus/cZmr12VR78N?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-10T21:31:32+00:00"
+    },
+    {
+      "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+      "summary": "“I’m actually earning more each week than I ever have before.”",
+      "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T21:30:00+00:00"
+    },
+    {
+      "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+      "summary": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+      "link": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T21:27:18+00:00"
+    },
+    {
+      "title": "Week’s Best: SpaceX Created an IPO Road Map",
+      "summary": "It is estimated that the SpaceX IPO created more than 4,000 millionaires. SpaceX, which joined the Nasdaq-100 index on Tuesday, isn’t likely to be the only mega IPO this year. BlackRock joins the QQQ fray.",
+      "link": "https://finance.yahoo.com/m/1d0cc0d9-bf8f-3d25-a00a-f774df92d282/week%E2%80%99s-best%3A-spacex-created.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-10T21:23:00+00:00"
+    },
+    {
+      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+      "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T21:12:00+00:00"
+    },
+    {
+      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+      "summary": "“My house shook violently from the wind.”",
+      "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-10T21:11:00+00:00"
+    },
+    {
+      "title": "XLE vs ICLN ETF Showdown Traditional Energy Meets Clean Energy. Which ETF Is the Better Buy?",
+      "summary": "XLE's lower costs and higher yields appeal to value investors, while ICLN's global renewable exposure attracts those betting on the energy transition.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-10T20:57:01+00:00"
+    },
+    {
+      "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
+      "summary": "With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.",
+      "link": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:51:09+00:00"
+    },
+    {
+      "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'",
+      "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
+      "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:34:32+00:00"
+    },
+    {
+      "title": "Looking for your first credit card? The Chase Freedom Rise earns 3% cash back for a limited time",
+      "summary": "Building or rebuilding your credit? The Chase Freedom Rise offers a limited-time 3% cash-back bonus on dining, plus rewards and perks for new cardholders.",
+      "link": "https://www.cnbc.com/select/chase-freedom-rise-limited-time-bonus/",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:31:35+00:00"
+    },
+    {
+      "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+      "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
+      "link": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:25:11+00:00"
+    },
+    {
+      "title": "S&P 500 closes higher to notch a winning week, helped by tech gains",
+      "summary": "The S&P 500 rose on Friday, bolstered by a couple Big Tech names, to notch a weekly gain.",
+      "link": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:16:42+00:00"
+    },
+    {
+      "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
+      "summary": "Meta released two AI models this week as part of its new Muse Spark family, under the leadership of Alexandr Wang.",
+      "link": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-10T20:06:19+00:00"
+    }
+  ]
+}
