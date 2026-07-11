@@ -24,8 +24,8 @@
 - 公用事业 XLU +0.62%：公用事业板块上涨幅度靠前，需结合盘后新闻和隔夜宏观数据继续确认原因。
 
 **参考新闻：**
-- [AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?](https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html)
-- [Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html)
-- [Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories)
-- [You Didn’t Need Alphabet: XLK Returned 29.35% to GOOGL’s 14.26%](https://247wallst.com/investing/etf/2026/07/10/you-didnt-need-alphabet-xlk-returned-29-35-to-googls-14-26/?.tsrc=rss)
-- [Meta’s stock roars back to life as it notches its best week in years](https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories)
+- [Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy](https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories)
+- [China evacuates more than one million people as Typhoon Bavi nears](https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html)
+- [‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?](https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories)
+- [This “Boring” ETF Could Be One of the Biggest Winners from the AI Boom](https://247wallst.com/investing/etf/2026/07/11/this-boring-etf-could-be-one-of-the-biggest-winners-from-the-ai-boom/?.tsrc=rss)
+- [Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier](https://www.cnbc.com/2026/07/11/trump-threat.html)
