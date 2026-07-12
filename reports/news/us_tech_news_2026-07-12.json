@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Can Meta Platforms (META) Turn Surplus AI Capacity Into a Durable Enterprise Revenue Engine?",
+    "summary": "In recent weeks, Meta Platforms announced a plan to launch “Meta Compute” to rent out excess AI capacity, accelerate production of its in-house Iris data-center chip with Broadcom and TSMC from September, and roll out advanced AI models like Muse Spark 1.1 and Muse Image alongside a new chief data officer appointment. These moves signal Meta’s push to turn its vast AI infrastructure and models into an enterprise-facing cloud and tooling business, even as it balances cost efficiency gains...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-turn-surplus-061155319.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T06:11:55+00:00",
+    "tickers": [
+      "META",
+      "AVGO",
+      "TSM"
+    ],
+    "score": 16
+  },
+  {
+    "title": "$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More?",
+    "summary": "The answer flips depending on when you would have bought. And the outcomes differ dramatically for three different time periods.",
+    "link": "https://www.fool.com/investing/2026/07/12/1000-in-nvidia-vs-1000-in-broadcom-which-ai-chip-b/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T08:18:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+    "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+    "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+    "source": "Tech",
+    "published": "2026-07-11T04:09:20+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "IREN (IREN), BE Networks Partner to Simulate NVIDIA Blackwell GPU Infrastructure",
+    "summary": "IREN Limited (NASDAQ:IREN) is one of the stocks set to explode in the next 2 years. On June 1, IREN and BE Networks announced a collaboration to utilize NVIDIA DSX Air to simulate and validate the network architecture for an upcoming deployment of over 50,000 NVIDIA Blackwell Ultra GPUs. By creating a production-representative digital twin, […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-networks-partner-simulate-075912782.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T07:59:12+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Big Tech’s Massive AI Spending Is Just Starting. Earnings Will Show It.",
+    "summary": "Analysts expect Alphabet’s second-quarter capital expenditures to reach $44.9 billion, a 100% increase from the prior year period.",
+    "link": "https://finance.yahoo.com/m/4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce/big-tech%E2%80%99s-massive-ai.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T07:00:00+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
+    "summary": "The social media company's plan to become a cloud computing provider could shift the market's sentiment toward the stock.",
+    "link": "https://www.fool.com/investing/2026/07/11/meta-platforms-just-unveiled-a-shocking-new-artifi/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T03:50:00+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+    "summary": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+    "link": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+    "source": "Tech",
+    "published": "2026-07-11T16:25:58+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Mark Zuckerberg Said Meta's AI Bets \"Haven't Come to Fruition Yet\" as Shares Fell 5%",
+    "summary": "The tech executive admitted that things are taking longer than he originally hoped.",
+    "link": "https://www.fool.com/investing/2026/07/12/mark-zuckerberg-metas-ai-bets-fruition-shares-fell/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-12T08:23:00+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  }
+]
