@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.89,
+      "previous_close": 50.2599983215332,
+      "change_pct": 1.253485275579247,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.12,
+      "previous_close": 83.19999694824219,
+      "change_pct": 1.1057729393068927,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.64,
+      "previous_close": 110.51000213623047,
+      "change_pct": 1.0225299447343517,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.41,
+      "previous_close": 45.130001068115234,
+      "change_pct": 0.6204274878304439,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.45,
+      "previous_close": 44.22999954223633,
+      "change_pct": 0.49740099489168355,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 55.08,
+      "previous_close": 54.81999969482422,
+      "change_pct": 0.47428001937825925,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 181.92,
+      "previous_close": 181.11000061035156,
+      "change_pct": 0.44724166910643515,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.24,
+      "previous_close": 116.8499984741211,
+      "change_pct": 0.3337625425517521,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.71,
+      "previous_close": 55.540000915527344,
+      "change_pct": 0.30608405054082244,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.78,
+      "previous_close": 185.35000610351562,
+      "change_pct": 0.2319902251550099,
+      "as_of": "2026-07-10"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 160.84,
+      "previous_close": 162.1699981689453,
+      "change_pct": -0.8201259073578715,
+      "as_of": "2026-07-10"
+    }
+  ],
+  "news": [
+    {
+      "title": "Senator Lindsey Graham has died after a brief illness, his office says",
+      "summary": "Graham, a prominent Republican senator from South Carolina, was 71.",
+      "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-12T08:04:37+00:00"
+    },
+    {
+      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+      "summary": "Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.",
+      "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-12T05:51:05+00:00"
+    },
+    {
+      "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+      "summary": "AI-related chip stocks have been volatile amid a debate over AI demand and spending.",
+      "link": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-12T05:00:01+00:00"
+    },
+    {
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T22:58:53+00:00"
+    },
+    {
+      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+      "summary": "“My house shook violently from the wind.”",
+      "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T21:45:00+00:00"
+    },
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "summary": "The Trump administration issued subpoenas to several journalists after its report on security concerns involving the new Air Force One, according to the paper.",
+      "link": "https://www.cnbc.com/2026/07/11/new-york-times-reporters-issued-subpoenas-over-air-force-one-reporting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T21:24:26+00:00"
+    },
+    {
+      "title": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says",
+      "summary": "The highly anticipated SpaceX IPO was an event to be remembered by investors. The event also saw calls for major stock market indexes to change their inclusion rules to fast-track one of the world’s largest companies for inclusion. While the...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-cheated-changed-laws-fit-193113947.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T19:31:13+00:00"
+    },
+    {
+      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+      "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T19:00:00+00:00"
+    },
+    {
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+      "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T18:46:00+00:00"
+    },
+    {
+      "title": "Typhoon Bavi makes landfall in eastern China's Taizhou after nearly 2 million evacuated",
+      "summary": "Typhoon Bavi made landfall late on Saturday in the coastal city of Taizhou in eastern China, where nearly 2 million people were evacuated,",
+      "link": "https://www.cnbc.com/2026/07/11/china-evacuates-more-than-one-million-people-as-typhoon-bavi-nears.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T18:26:18+00:00"
+    },
+    {
+      "title": "Which is Best for Investors: Healthcare Stability (XLV) or Biotech Growth (IBBQ)?",
+      "summary": "IBBQ surged 54.5% in one year but carries deeper drawdowns. XLV offers broader diversification, lower costs, and double dividend yield for steadier returns.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/11/which-is-best-for-investors-healthcare-stability-xlv-or-biotech-growth-ibbq/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T18:05:01+00:00"
+    },
+    {
+      "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
+      "summary": "“By claiming earlier, I could preserve more of my portfolio and allow those assets to continue compounding.”",
+      "link": "https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:44:00+00:00"
+    },
+    {
+      "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+      "summary": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+      "link": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-11T16:25:58+00:00"
+    },
+    {
+      "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
+      "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
+      "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:01:00+00:00"
+    },
+    {
+      "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+      "summary": "Financial literacy just hit a 10-year low — and it is devastating bank accounts.",
+      "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:00:00+00:00"
+    },
+    {
+      "title": "You want a portfolio that matches your morals. Your retirement plan might disagree.",
+      "summary": "More investors want their money to reflect their values. It feels righteous — but the reality is a lot messier.",
+      "link": "https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:00:00+00:00"
+    },
+    {
+      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+      "summary": "The next global financial crisis is already under way. Here is how it will unfold.",
+      "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:00:00+00:00"
+    },
+    {
+      "title": "Stocks rally when Congress goes on summer break. Here’s why.",
+      "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
+      "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:00:00+00:00"
+    },
+    {
+      "title": "Your investing expectations are more than double the reality. Here is the tough truth.",
+      "summary": "Long-term real returns above 10% annualized are exceedingly rare.",
+      "link": "https://www.marketwatch.com/story/your-investing-expectations-are-more-than-double-the-reality-here-is-the-tough-truth-dea61820?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-11T16:00:00+00:00"
+    },
+    {
+      "title": "This Covered Call ETF Just Proved Double Digit Income Doesn’t Mean NAV Bleed",
+      "summary": "SPYI has paid double-digit yields every single month since inception while its share price keeps climbing, and that combination raises an uncomfortable question about where the money is actually coming from.",
+      "link": "https://247wallst.com/investing/2026/07/11/this-covered-call-etf-just-proved-double-digit-income-doesnt-mean-nav-bleed/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T15:39:37+00:00"
+    }
+  ]
+}
