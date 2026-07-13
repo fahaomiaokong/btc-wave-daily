@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+    "summary": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
+    "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+    "source": "Tech",
+    "published": "2026-07-12T20:29:06+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple Stock Gets Price Target Hike as IPhone 18’s Launch Seen as ‘Important Catalyst’",
+    "summary": "Citi Research raises its price target on Apple shares, asserting the iPhone maker will continue to snap up market share.",
+    "link": "https://finance.yahoo.com/m/cdd019ac-6c63-34da-966f-e8f9603f116b/apple-stock-gets-price-target.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-13T11:31:00+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+    "summary": "Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.",
+    "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+    "source": "Tech",
+    "published": "2026-07-13T07:29:26+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Why TSMC’s Record Revenue Isn’t Reviving the AI Trade",
+    "summary": "The chip maker reports a 68% monthly sales jump, but investors are still questioning how long the AI spending boom can last.",
+    "link": "https://finance.yahoo.com/m/6ef9b2e8-e562-344a-af4d-dd77a6b79dfc/why-tsmc%E2%80%99s-record-revenue.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-13T11:42:00+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 7
+  },
+  {
+    "title": "SK Hynix stock drops, chip sector declines as AI trade angst returns",
+    "summary": "Chip stocks moved lower on Monday as shares of SK Hynix in Asia sank.",
+    "link": "https://finance.yahoo.com/markets/article/sk-hynix-stock-drops-chip-sector-declines-as-ai-trade-angst-returns-120751185.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-13T12:07:51+00:00",
+    "tickers": [],
+    "score": 6
+  },
+  {
+    "title": "Apple Heads Into Earnings This Month With This Analyst Seeing Margin Expansion, 16% Upside Ahead",
+    "summary": "Citi expects Apple to report higher margins for the third quarter due to recent price hikes across its product portfolio.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/apple-stock-citi-price-target-higher-margins-earnings-preview/cZmzFH9R7oC?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-13T11:44:01+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "TSMC Sales Surge as the AI Boom Rolls On",
+    "summary": "June up 68%, first-half revenue near $75 billion, and the whole industry’s ambitions still running through one very busy island",
+    "link": "https://app.moby.co/home/news/news-tsmc-sales-surge-as-the-ai-boom-rolls-on?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-13T11:38:05+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]",
+    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "source": "The Verge",
+    "published": "2026-07-13T09:24:23+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 6
+  }
+]
