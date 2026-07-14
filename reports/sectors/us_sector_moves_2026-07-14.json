@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 56.74,
+      "previous_close": 55.08000183105469,
+      "change_pct": 3.013794687293192,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.72,
+      "previous_close": 45.40999984741211,
+      "change_pct": 0.6826693539519146,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.07,
+      "previous_close": 55.709999084472656,
+      "change_pct": 0.6462052081197767,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.7,
+      "previous_close": 44.45000076293945,
+      "change_pct": 0.5624279702352464,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.59,
+      "previous_close": 84.12000274658203,
+      "change_pct": 0.5587223467334868,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.41,
+      "previous_close": 160.83999633789062,
+      "change_pct": 0.35439174029319176,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.59,
+      "previous_close": 111.63999938964844,
+      "change_pct": -0.0447862682925404,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.58,
+      "previous_close": 50.88999938964844,
+      "change_pct": -0.6091558132568897,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.37,
+      "previous_close": 181.9199981689453,
+      "change_pct": -0.852021869253683,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.04,
+      "previous_close": 117.23999786376953,
+      "change_pct": -1.023539649978411,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 181.28,
+      "previous_close": 185.77999877929688,
+      "change_pct": -2.4222191887528166,
+      "as_of": "2026-07-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures mixed as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
+      "summary": "Oil prices surged and stocks slid on Monday after President Donald Trump said he would reinstate a blockade on Iranian shipping through the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T07:24:32+00:00"
+    },
+    {
+      "title": "Oil jumps 3% as U.S.-Iran ceasefire fractures; Trump's Hormuz toll plans reignite supply fears",
+      "summary": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T07:08:34+00:00"
+    },
+    {
+      "title": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
+      "summary": "The U.S. has completed a third consecutive night of strikes against Iran, as Tehran targets U.S. military facilities in the region.",
+      "link": "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T07:02:30+00:00"
+    },
+    {
+      "title": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
+      "summary": "China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data.",
+      "link": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T05:59:27+00:00"
+    },
+    {
+      "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
+      "summary": "Taiwan’s UMC has kicked off mass production of silicon photonics wafers at its Singapore facility amid positive Citi forecast.",
+      "link": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T05:44:04+00:00"
+    },
+    {
+      "title": "'Nobody underwrote for that': Private credit faces a key test as higher rates squeeze borrowers",
+      "summary": "Private credit is facing a new pressure point from elevated rates, which could hit under-pressure borrowers.",
+      "link": "https://www.cnbc.com/2026/07/14/private-credit-stress-test-inflation-borrowers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T05:00:02+00:00"
+    },
+    {
+      "title": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
+      "summary": "While the proposed levy would raise shipping costs, an escalating conflict could remove barrels from the market altogether.",
+      "link": "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T04:56:13+00:00"
+    },
+    {
+      "title": "AI agents could change how software companies get paid, Sierra co-founder says",
+      "summary": "AI agents are designed to do more than answer questions. They are meant to complete tasks. Sierra co-founder Clay Bavor joins CNBC's Arjun Kharpal to discuss how AI agents are moving from demos into real business workflows, especially in customer service, sales and support.",
+      "link": "https://www.cnbc.com/video/2026/07/14/ai-agents-saas-pricing-sierra-clay-bavor.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T04:00:01+00:00"
+    },
+    {
+      "title": "Singapore's economy expands 5.7% in the second quarter, beating expectations",
+      "summary": "The growth figure was higher than the 5.5% expected, but lower than the revised 6.3% in the first quarter.",
+      "link": "https://www.cnbc.com/2026/07/14/singapore-gdp-iran-war-impact-takes-hold.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T02:50:55+00:00"
+    },
+    {
+      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+      "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
+      "link": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-14T02:30:00+00:00"
+    },
+    {
+      "title": "Sandisk’s stock is plunging, but some analysts are getting even more bullish",
+      "summary": "One new stock-price target implies nearly 85% upside from current levels.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-14T00:55:00+00:00"
+    },
+    {
+      "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+      "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+      "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T00:31:01+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "President Donald Trump said he planned to reinstate what he called a blockade on Iranian shipping, sending oil prices higher and stocks lower on Monday.",
+      "link": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-13T23:36:15+00:00"
+    },
+    {
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+      "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-13T23:30:00+00:00"
+    },
+    {
+      "title": "The Monthly Check Trap: How JEPQ’s Covered-Call Strategy Left Investors 12.57% Behind QQQ in Just Five Years",
+      "summary": "JEPQ's monthly payouts look generous until you add up what the covered-call strategy, the expense ratio, and the tax bill quietly take back. There are actually three separate costs eating into your returns, and most investors only notice one.",
+      "link": "https://247wallst.com/investing/etf/2026/07/13/the-monthly-check-trap-how-jepqs-covered-call-strategy-left-investors-12-57-behind-qqq-in-just-five-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-13T23:20:49+00:00"
+    },
+    {
+      "title": "Japan’s bond market is back in play after decades in the wilderness",
+      "summary": "JGBs have been selling off amid policy normalization and concerns over Tokyo's spending plans, but experts say that they deserve another look from investors.",
+      "link": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-13T23:19:08+00:00"
+    },
+    {
+      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+      "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-13T23:03:00+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
+      "summary": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
+      "link": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-13T23:00:01+00:00"
+    },
+    {
+      "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+      "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
+      "link": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-13T22:52:19+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",
+      "summary": "President Donald Trump said the U.S. would resume a blockade of Iranian ships transiting the Strait of Hormuz.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-us-iran-war-fear-remerges-meta-skhvy-crcl-ba-dal-in-focus/cZmC5BQR7YA?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-13T22:36:49+00:00"
+    }
+  ]
+}
