@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 56.95,
+      "previous_close": 55.08000183105469,
+      "change_pct": 3.395058291176367,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.18,
+      "previous_close": 55.709999084472656,
+      "change_pct": 0.8436562973456185,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.69,
+      "previous_close": 45.40999984741211,
+      "change_pct": 0.6166046102813239,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.45,
+      "previous_close": 111.58999633789062,
+      "change_pct": -0.1254559929070309,
+      "as_of": "2026-07-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.64,
+      "previous_close": 50.88999938964844,
+      "change_pct": -0.4912544559772414,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.48,
+      "previous_close": 44.70000076293945,
+      "change_pct": -0.4921717207706622,
+      "as_of": "2026-07-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.45,
+      "previous_close": 181.9199981689453,
+      "change_pct": -0.808046495020387,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.42,
+      "previous_close": 84.12000274658203,
+      "change_pct": -0.8321477933029064,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.9,
+      "previous_close": 117.23999786376953,
+      "change_pct": -1.142952821720944,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.62,
+      "previous_close": 185.77999877929688,
+      "change_pct": -1.1626648689253671,
+      "as_of": "2026-07-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 158.29,
+      "previous_close": 160.83999633789062,
+      "change_pct": -1.585424270051361,
+      "as_of": "2026-07-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+      "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-15T07:19:00+00:00"
+    },
+    {
+      "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand",
+      "summary": "ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.",
+      "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T07:11:43+00:00"
+    },
+    {
+      "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+      "summary": "Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T06:47:19+00:00"
+    },
+    {
+      "title": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
+      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
+      "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T05:54:52+00:00"
+    },
+    {
+      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+      "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
+      "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T05:14:11+00:00"
+    },
+    {
+      "title": "Why Europe is suddenly betting big on drones",
+      "summary": "Drones and autonomous systems are moving from niche battlefield tools to a core part of modern warfare.",
+      "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T05:05:26+00:00"
+    },
+    {
+      "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters",
+      "summary": "Stripe and Advent International have made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
+      "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T05:04:46+00:00"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher On Cooling Inflation Signs, Strong Big Bank Earnings: IBM, APLD, SKYH, NBIS in Focus",
+      "summary": "According to data from the Bureau of Labor Statistics (BLS), the Consumer Price Index (CPI) for June rose 3.5% year-on-year, below market expectations.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-on-cooling-inflation-signs-strong-big-bank-earnings/cZZ28svR7qU?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-15T02:46:57+00:00"
+    },
+    {
+      "title": "How Much SanDisk (SNDK) Are You Really Betting On?",
+      "summary": "Your quiet, diversified funds may have made a concentrated bet on one high-flying stock without you ever knowing.",
+      "link": "https://www.trefis.com/articles/607072/how-much-sandisk-sndk-are-you-really-betting-on/2026-07-14?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-15T01:29:53+00:00"
+    },
+    {
+      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+      "summary": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
+      "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-15T01:22:34+00:00"
+    },
+    {
+      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+      "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
+      "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-15T00:28:00+00:00"
+    },
+    {
+      "title": "This overlooked index is a better investment than the S&P 500",
+      "summary": "We did the math over a 30-year period, and it’s not even close.",
+      "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-14T23:32:00+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Stocks closed higher on Tuesday, helped by signs of easing inflation, which boosted investor hopes that the Federal Reserve can hold off on rate hikes for the moment.",
+      "link": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T23:12:08+00:00"
+    },
+    {
+      "title": "Yum's Taco Bell removes select items, says no confirmed link to U.S. cyclosporiasis outbreak",
+      "summary": "Yum Brands' Taco Bell said on Tuesday it had removed limited items from some restaurants as a precaution but said U.S. health officials have not linked the widening outbreak of cyclosporiasis to the chain or any specific food product.",
+      "link": "https://www.cnbc.com/2026/07/14/yums-taco-bell-removes-select-items-says-no-confirmed-link-to-us-cyclosporiasis-outbreak.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T22:26:09+00:00"
+    },
+    {
+      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
+      "link": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T22:20:46+00:00"
+    },
+    {
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+      "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-14T22:15:00+00:00"
+    },
+    {
+      "title": "Your monthly Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
+      "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
+      "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-14T22:11:00+00:00"
+    },
+    {
+      "title": "Elon Musk likely broke the law by giving voters $1 million, Wisconsin board says",
+      "summary": "Elon Musk likely broke Wisconsin law when he handed out $1 million checks to voters in the 2025 state Supreme Court election, a bipartisan panel found.",
+      "link": "https://www.cnbc.com/2026/07/14/elon-musk-likely-broke-the-law-by-giving-voters-1-million-wisconsin-board-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-14T22:07:46+00:00"
+    },
+    {
+      "title": "Bank Stocks Diverge Post-Earnings. Citi Drops, While Goldman Hits Fresh Record.",
+      "summary": "Many of the same factors have propelled big banks’ strong performance: a solid economic backdrop with low unemployment, corporate clients’ appetite for executing big deals, and lots of trading activity.",
+      "link": "https://finance.yahoo.com/m/84f6d081-1d65-36b2-8399-d8d208c63528/bank-stocks-diverge.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-14T21:46:15+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Higher On Support From Chipmakers, Cybersecurity Stocks And Soft Inflation Data — NVDA, GS, SKHY, VZ, LCID In Focus",
+      "summary": "The consumer price index in June fell 0.4% on the month, bringing the annual inflation rate to 3.5%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-as-consumer-price-inflation-eases/cZZRBCFR7qq?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-14T21:43:04+00:00"
+    }
+  ]
+}
