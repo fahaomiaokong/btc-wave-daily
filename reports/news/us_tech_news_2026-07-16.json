@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Nasdaq, S&P 500 Futures Slip As Iran Tensions, Chip Weakness Keep Investors On Edge: Why TSM, NVDA, NFLX, ATAI, ASTS Are In Focus",
+    "summary": "Stocktwits data showed retail sentiment remained ‘bullish’ on SPY and QQQ.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-iran-tensions-chip-weakness-why-tsm-nvda-nflx-atai-asts-are-in-focus/cZZE5BtR7r6?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-16T08:36:13+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Why AMD Stock Is Falling Premarket Today Despite Fresh Price Target Hikes",
+    "summary": "Advanced Micro Devices slipped premarket after Taiwan Semiconductor Manufacturing’s massive capex outlook raised investor concerns.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-amd-stock-is-falling-premarket-today-despite-fresh-price-target-hikes/cZZEPmER7rw?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-16T08:09:08+00:00",
+    "tickers": [
+      "AMD",
+      "TSM"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing Q2 Earnings Call Highlights",
+    "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) raised its 2026 capital spending plan and full-year revenue outlook as executives said demand for leading-edge chips tied to artificial intelligence remains “extremely robust,” even as some consumer and price-sensitive end markets face pressure. On the",
+    "link": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-q2-earnings-call-highlights-2026-07-16/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-16T08:02:34+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+    "source": "Tech",
+    "published": "2026-07-15T17:22:51+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "source": "TechCrunch",
+    "published": "2026-07-15T23:59:44+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "source": "TechCrunch",
+    "published": "2026-07-15T19:41:38+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings",
+    "summary": "Optimus is the second-biggest concern, with investors seeking production and deployment updates.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/tsla-retail-musk-robotaxi-targets-q2-earnings/cZZE55JR7rC?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-16T08:30:21+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple bans home services from its upcoming Maps ads",
+    "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
+    "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+    "source": "TechCrunch",
+    "published": "2026-07-15T18:21:22+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 8
+  }
+]
