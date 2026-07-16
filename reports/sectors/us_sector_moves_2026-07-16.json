@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.38,
+      "previous_close": 111.44999694824219,
+      "change_pct": 1.7317210449580456,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.0,
+      "previous_close": 115.9000015258789,
+      "change_pct": 0.9490927175488162,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.56,
+      "previous_close": 56.18000030517578,
+      "change_pct": 0.6763967475258426,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.56,
+      "previous_close": 44.47999954223633,
+      "change_pct": 0.17985714610384562,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.47,
+      "previous_close": 83.41999816894531,
+      "change_pct": 0.0599398611270896,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 158.29,
+      "previous_close": 158.2899932861328,
+      "change_pct": 4.241498174906155e-06,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.06,
+      "previous_close": 180.4499969482422,
+      "change_pct": -0.21612466325174884,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.5,
+      "previous_close": 50.63999938964844,
+      "change_pct": -0.27646009347515044,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 56.5,
+      "previous_close": 56.95000076293945,
+      "change_pct": -0.790168142073655,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.22,
+      "previous_close": 45.689998626708984,
+      "change_pct": -1.0286685069721968,
+      "as_of": "2026-07-15"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 181.58,
+      "previous_close": 183.6199951171875,
+      "change_pct": -1.1109874585747304,
+      "as_of": "2026-07-15"
+    }
+  ],
+  "news": [
+    {
+      "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
+      "summary": "Trump warned that the U.S. will target Iranian infrastructure next week if negotiations do not resume.",
+      "link": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T09:18:55+00:00"
+    },
+    {
+      "title": "$100 million New Jersey deli fraud defendant Patten wants no prison time despite past conviction",
+      "summary": "James Patten is the person to be sentenced for a scheme that sent the market capitalization of a company that owned just a small New Jersey deli soaring.",
+      "link": "https://www.cnbc.com/2026/07/15/new-jersey-deli-fraud-james-patten-sentencing-request.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T09:15:23+00:00"
+    },
+    {
+      "title": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
+      "summary": "Ukrainian protesters took to the streets of Kyiv on Thursday, decrying Zelenskyy's surprise decision to dismiss Defense Minister Mykhailo Fedorov.",
+      "link": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T09:07:26+00:00"
+    },
+    {
+      "title": "Catching up in the AI race? India gets its second AI unicorn in a month",
+      "summary": "Two Indian AI startups have become unicorns in a month, which has raised hopes that the country could shed its reputation as an AI laggard.",
+      "link": "https://www.cnbc.com/2026/07/16/catching-up-in-the-ai-race-india-gets-its-second-ai-unicorn-in-a-month.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T09:03:27+00:00"
+    },
+    {
+      "title": "Alec and Hilaria Baldwin pull $19 million Hamptons home off the market—again",
+      "summary": "The Baldwins have once again pulled their longtime Hamptons property off the market—just weeks after trimming $1 million off its asking price and revealing they would be spending the summer in Spain.",
+      "link": "https://www.marketwatch.com/story/alec-and-hilaria-baldwin-pull-19-million-hamptons-home-off-the-marketagain-6505ebdd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-16T09:01:00+00:00"
+    },
+    {
+      "title": "The $1 Million Portfolio With Two Very Different Futures",
+      "summary": "Picture two retirees, each with a fresh $1 million to invest, staring at the same market on the same morning. One builds a portfolio of high-yield covered-call funds, mortgage REITs, and business development companies, aiming for roughly $100,000 in annual distributions. The other buys dividend growers yielding closer to 2%, collecting about $20,000 in year one. ... The $1 Million Portfolio With Two Very Different Futures",
+      "link": "https://247wallst.com/personal-finance/2026/07/16/the-1-million-portfolio-with-two-very-different-futures/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-16T09:00:51+00:00"
+    },
+    {
+      "title": "Ex-Fed advisor gets over three years in prison for lying about China ties",
+      "summary": "The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.",
+      "link": "https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T08:59:24+00:00"
+    },
+    {
+      "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
+      "summary": "TSMC announced a second-quarter profit, following its June revenue figures released earlier this week.",
+      "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T08:24:49+00:00"
+    },
+    {
+      "title": "Foreign investors sweeten on Indian government bonds as equities see a sell-off",
+      "summary": "The Indian government bond market is drawing interest from foreign investors as it readies for a likely inclusion in Bloomberg index.",
+      "link": "https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T08:01:32+00:00"
+    },
+    {
+      "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
+      "summary": "Asian semiconductor stocks tumbled on Thursday as a selloff in U.S. chipmakers spilled into the region.",
+      "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T07:02:36+00:00"
+    },
+    {
+      "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
+      "summary": "A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.",
+      "link": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T06:32:39+00:00"
+    },
+    {
+      "title": "Consumer-Discretionary Stocks Are ‘Coiled’ for a Rebound. But Which Ones?",
+      "summary": "“The U.S. is operating as two distinct consumer economies, requiring a very different investment approach than in a more uniform spending environment,” says one fund manager.",
+      "link": "https://finance.yahoo.com/m/180bb4ad-ce90-34b5-93c2-68e15c99c371/consumer-discretionary-stocks.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-16T05:30:00+00:00"
+    },
+    {
+      "title": "Our Dominion Energy Pick Has Produced Returns. Time to Sell.",
+      "summary": "Let’s cut to the chase: owning Dominion Energy stock has paid off. It’s now mostly tracking its buyer, NextEra Energy Take the money and run. With companies needing to power their artificial intelligence, Dominion’s valuation had more room to reflect the tailwind.",
+      "link": "https://finance.yahoo.com/m/dfb85054-73cd-3e1d-99c5-f107deb670b7/our-dominion-energy-pick-has.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-16T03:40:00+00:00"
+    },
+    {
+      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+      "summary": "The technological rivalry between China and the U.S. has intensified, as they race for AI dominance.",
+      "link": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T03:17:20+00:00"
+    },
+    {
+      "title": "Bank of Korea raises rates to 2.75% in first hike in over three years",
+      "summary": "The 25 basis point hike by the Bank of Korea was in line with a survey of economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-16T02:12:44+00:00"
+    },
+    {
+      "title": "Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",
+      "summary": "June’s Producer Price Index (PPI) declined 0.3% from the previous month, marking its steepest drop in more than a year.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-edge-higher-as-record-bank-earnings-cooling-inflation-lift-risk-appetite-asts-atai-aapl-pypl-in-focus/cZZ3MwDR7rl?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-16T01:29:39+00:00"
+    },
+    {
+      "title": "AI is so big, it’s now impossible for investors to avoid",
+      "summary": "Exposure to the artificial-intelligence boom has become virtually impossible for investors to avoid. The theme hasn’t just cornered the stock market. It has systematically swallowed up corporate credit and venture capital, too.",
+      "link": "https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-16T00:59:00+00:00"
+    },
+    {
+      "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
+      "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
+      "link": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-16T00:25:00+00:00"
+    },
+    {
+      "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+      "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
+      "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-16T00:22:00+00:00"
+    },
+    {
+      "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+      "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
+      "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-16T00:00:00+00:00"
+    }
+  ]
+}
