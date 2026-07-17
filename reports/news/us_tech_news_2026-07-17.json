@@ -1,0 +1,92 @@
+[
+  {
+    "title": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic’s Fable 5 ‘Editorially Controlled’ Amid Backlash Over Safeguards",
+    "summary": "Users on social media, too, are criticizing what they believe are excessively stringent guardrails in Fable 5.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/msft-stock-dips-overnight-satya-nadella-calls-anthropic-s-fable-5-editorially-controlled-amid-backlash-over-safeguards/cZZ74K6R7t9?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-17T05:31:19+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+    "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+    "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+    "source": "TechCrunch",
+    "published": "2026-07-16T20:07:14+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google is better than Apple at playing the AI regulations game",
+    "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory […]",
+    "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+    "source": "The Verge",
+    "published": "2026-07-16T19:41:51+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Arm Holdings chief says AI boom is being hampered by supply constraints",
+    "summary": "The artificial intelligence boom is being held back by what the industry cannot build rather than what customers will not buy, according to Rene Haas, chief executive of Arm Holdings PLC (NASDAQ:ARM), the chip designer. Haas told CNBC that demand for chips, data centres, energy and skilled...",
+    "link": "https://www.proactiveinvestors.com/companies/news/1095611/arm-holdings-chief-says-ai-boom-is-being-hampered-by-supply-constraints-1095611.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-17T06:56:00+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+    "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+    "link": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+    "source": "Tech",
+    "published": "2026-07-16T23:45:16+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
+    "summary": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
+    "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+    "source": "Tech",
+    "published": "2026-07-17T08:02:18+00:00",
+    "tickers": [],
+    "score": 7
+  },
+  {
+    "title": "The Oracle Paradox: Record AI Demand, Mounting Debt, And A Stock Wall Street Still Loves",
+    "summary": "ORCL stock has fallen 62% from its peak last September, wiping nearly $600 billion off the company’s market value. Analysts and retail traders believe there’s an opportunity here.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/the-oracle-paradox-record-ai-demand-mounting-debt-and-a-stock-wall-street-still-loves/cZZ7BvsR7ti?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-17T07:38:14+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 7
+  },
+  {
+    "title": "NOK Stock Faces Worst Week In 5 Years – But Retail Traders Are Not Giving Up On Nokia’s 'AI RAN Technology' Push",
+    "summary": "Retail investors remain optimistic on Nokia’s AI-RAN platform, Nvidia partnership, and cloud growth.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nok-stock-faces-worst-week-in-5-years-but-retail-traders-are-not-giving-up-on-nokia-s-ai-ran-technology-push/cZZ7dzoR7tJ?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-17T04:34:28+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
