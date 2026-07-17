@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.81,
+      "previous_close": 83.47000122070312,
+      "change_pct": 2.803400916587595,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.8,
+      "previous_close": 158.2899932861328,
+      "change_pct": 2.2174533215895353,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.46,
+      "previous_close": 44.560001373291016,
+      "change_pct": 2.019745509362658,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.02,
+      "previous_close": 56.5,
+      "change_pct": 0.9203539823008811,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.89,
+      "previous_close": 50.5,
+      "change_pct": 0.772277227722773,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.47,
+      "previous_close": 45.220001220703125,
+      "change_pct": 0.5528500056351637,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.75,
+      "previous_close": 56.560001373291016,
+      "change_pct": 0.33592401360638124,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.34,
+      "previous_close": 117.0,
+      "change_pct": 0.29059829059829845,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.15,
+      "previous_close": 180.05999755859375,
+      "change_pct": 0.04998469544961193,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.65,
+      "previous_close": 113.37999725341797,
+      "change_pct": -0.6438501244503736,
+      "as_of": "2026-07-16"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 177.52,
+      "previous_close": 181.5800018310547,
+      "change_pct": -2.2359300529318116,
+      "as_of": "2026-07-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "Buyer snaps up Josh Duhamel’s $3 million L.A. home as actor embraces his Minnesota ‘doomsday prepper’ cabin",
+      "summary": "“Ransom Canyon” star Josh Duhamel’s Los Angeles home has come under offer just days after it was put on the market—as the actor and his family continue to spend more time living at their rural off-grid cabin.",
+      "link": "https://www.marketwatch.com/story/buyer-snaps-up-josh-duhamels-3-million-l-a-home-as-actor-embraces-his-minnesota-doomsday-prepper-cabin-6666879e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-17T09:01:00+00:00"
+    },
+    {
+      "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
+      "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
+      "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T08:53:55+00:00"
+    },
+    {
+      "title": "Fighter jet maker Saab smashes expectations as CEO urges procurement rethink",
+      "summary": "European governments ramp up defense spending and book orders with the region's companies.",
+      "link": "https://www.cnbc.com/2026/07/17/saab-stock-earnings-q2-report-defense-sales-orders.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T08:37:34+00:00"
+    },
+    {
+      "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
+      "summary": "The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling",
+      "link": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T08:20:28+00:00"
+    },
+    {
+      "title": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
+      "summary": "BP and ConocoPhillips are set to announce billions of dollars of new investments in Iraq on Friday.",
+      "link": "https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T08:10:21+00:00"
+    },
+    {
+      "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
+      "summary": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
+      "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T08:02:18+00:00"
+    },
+    {
+      "title": "Stock futures fall as global chip sell-off continues: Live updates",
+      "summary": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
+      "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T07:52:51+00:00"
+    },
+    {
+      "title": "Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz",
+      "summary": "Oil prices rose Friday as investors weighed escalating threats between the U.S. and Iran.",
+      "link": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T07:36:10+00:00"
+    },
+    {
+      "title": "Seven & i shares end 3.6% higher on report of stake talks with Polish convenience chain Zabka",
+      "summary": "Shares of Seven & i Holdings Co. jumped after a report said the company was looking to buy a stake in Poland's Zabka Group.",
+      "link": "https://www.cnbc.com/2026/07/17/seven-i-zabka-investment-poland.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T06:51:31+00:00"
+    },
+    {
+      "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
+      "summary": "China will provide developing countries with 5,000 opportunities in AI training and seminar programs, as well as develop AI cooperation with various blocs.",
+      "link": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T06:16:04+00:00"
+    },
+    {
+      "title": "World’s largest olive oil company says market has 'definitively' entered new phase",
+      "summary": "The update comes as analysts raise concerns about the prospect of global olive oil supplies swinging dramatically from one season to the next.",
+      "link": "https://www.cnbc.com/2026/07/17/spain-olive-oil-europe-heat-climate.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T05:00:01+00:00"
+    },
+    {
+      "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
+      "summary": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
+      "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T03:54:47+00:00"
+    },
+    {
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+      "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+      "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T02:24:46+00:00"
+    },
+    {
+      "title": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years — HSBC Sees Another 10% Upside",
+      "summary": "Apple shares have climbed over 15% this month, the second highest move among the Magnificent Seven stocks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-hits-fresh-record-as-july-rally-nears-best-month-in-nearly-4-years-hsbc-sees-another-10-upside/cZZ7TWVR7t3?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-17T02:20:34+00:00"
+    },
+    {
+      "title": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
+      "summary": "While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.",
+      "link": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-17T02:11:00+00:00"
+    },
+    {
+      "title": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",
+      "summary": "U.S. markets bled amid rising AI concerns after Taiwan Semiconductor Manufacturing massively hiked its capital expenditures for 2026.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-slip-as-chip-selloff-overshadows-strong-earnings-season/cZZ7beBR7tP?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-17T01:36:42+00:00"
+    },
+    {
+      "title": "Trump suspends teleprompter operator over Kalshi bets allegations, White House says",
+      "summary": "Kalshi retained most of the profits, which were more than $90,000, from the trades made on public statements by President Trump.",
+      "link": "https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T01:11:29+00:00"
+    },
+    {
+      "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+      "summary": "Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.",
+      "link": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T00:49:45+00:00"
+    },
+    {
+      "title": "SpaceX aborts Starship test flight, sending stock lower",
+      "summary": "Elon Musk said it would make another attempt \"hopefully in a few days.\" SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+      "link": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-17T00:16:37+00:00"
+    },
+    {
+      "title": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
+      "summary": "Netflix’s stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of ‘What We Watched’ reports.",
+      "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-17T00:14:00+00:00"
+    }
+  ]
+}
