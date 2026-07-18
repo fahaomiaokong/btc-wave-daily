@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+    "summary": "Microsoft Corp. has reportedly instructed its sales team on Tuesday to position in-house AI models above rival offerings from OpenAI, Alphabet’s Google and Anthropic, as part of a fiscal 2027 strategy session. Executive Vice President Jay Parikh told staff, “Everyone...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-wants-sales-team-push-023123802.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-18T02:31:23+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "source": "TechCrunch",
+    "published": "2026-07-17T17:45:46+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
+    "summary": "Meta Platforms Inc. (NASDAQ: $META) is in talks to lease as much as $10 billion of computing capacity to Anthropic,...",
+    "link": "https://www.cryptoprowl.com/releases/meta-and-anthropic-discuss-10b-ai-infrastructure-agreement-6196?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-18T02:47:00+00:00",
+    "tickers": [
+      "AMZN",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple, Nvidia vie for title of world's most valuable company",
+    "summary": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout.",
+    "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+    "source": "Tech",
+    "published": "2026-07-17T20:22:41+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+    "source": "Tech",
+    "published": "2026-07-17T14:42:04+00:00",
+    "tickers": [
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+    "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+    "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+    "source": "TechCrunch",
+    "published": "2026-07-17T19:49:53+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple’s plot to crush OpenAI",
+    "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]",
+    "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+    "source": "The Verge",
+    "published": "2026-07-17T17:41:32+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
+    "summary": "Micron and Nvidia look like great deals now -- and despite its recent stellar gains, so does Sandisk.",
+    "link": "https://www.fool.com/investing/2026/07/18/missed-out-on-sandisks-580-rally-3-chip-stocks/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-18T05:30:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
