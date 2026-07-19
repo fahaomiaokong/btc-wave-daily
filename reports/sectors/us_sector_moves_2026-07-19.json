@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.68,
+      "previous_close": 57.02000045776367,
+      "change_pct": 1.1574877883861356,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.42,
+      "previous_close": 45.459999084472656,
+      "change_pct": -0.08798742912055069,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.41,
+      "previous_close": 180.14999389648438,
+      "change_pct": -0.41076542967277696,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.09,
+      "previous_close": 161.8000030517578,
+      "change_pct": -0.4388152276676327,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.17,
+      "previous_close": 45.470001220703125,
+      "change_pct": -0.6597783431915305,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.53,
+      "previous_close": 50.88999938964844,
+      "change_pct": -0.7074069443232522,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.19,
+      "previous_close": 85.80999755859375,
+      "change_pct": -0.7225236874880414,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.26,
+      "previous_close": 56.75,
+      "change_pct": -0.8634361233480159,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.59,
+      "previous_close": 177.52000427246094,
+      "change_pct": -1.0872038226738212,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.44,
+      "previous_close": 117.33999633789062,
+      "change_pct": -1.6192231099270038,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.65,
+      "previous_close": 112.6500015258789,
+      "change_pct": -1.7754118941751162,
+      "as_of": "2026-07-17"
+    }
+  ],
+  "news": [
+    {
+      "title": "DIA’s 10-Year Shortfall: How a 186.7% Return Masks a $128K Hidden Cost",
+      "summary": "Buying DIA because the Dow sounds like America's safest bet felt reasonable a decade ago, but the fund's own return record quietly reveals a cost that never appears on any fact sheet.",
+      "link": "https://247wallst.com/investing/etf/2026/07/18/dias-10-year-shortfall-how-a-186-7-return-masks-a-128k-hidden-cost/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-18T23:38:36+00:00"
+    },
+    {
+      "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement",
+      "summary": "When asked about Iran no longer abiding by the interim peace agreement, U.S. President Donald Trump reportedly said, \"I couldn't care less.\"",
+      "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T23:04:22+00:00"
+    },
+    {
+      "title": "Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say",
+      "summary": "At MetLife Stadium, where the World Cup final is scheduled to take place, the sky was a thick, soupy gray even after a drenching thunderstorm.",
+      "link": "https://www.cnbc.com/2026/07/18/storms-will-clear-wildfire-smoke-from-northeast-ahead-of-world-cup-final.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T22:55:26+00:00"
+    },
+    {
+      "title": "The $26.75 Million Bet Against Your Gains: Inside RYLD’s Hidden Cost Structure",
+      "summary": "RYLD pays a headline yield that looks generous until you compare it to what the same small-cap stocks returned without the options overlay. The gap between those two numbers has a name, and it never appears on the factsheet as a fee.",
+      "link": "https://247wallst.com/investing/etf/2026/07/18/the-26-75-million-bet-against-your-gains-inside-rylds-hidden-cost-structure/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-18T22:49:44+00:00"
+    },
+    {
+      "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+      "summary": "Taylor Farms is recalling iceberg lettuce in 27 states because of the potential that the greens could be contaminated with cyclosporiasis.",
+      "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T22:04:02+00:00"
+    },
+    {
+      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "summary": "A viral clip claims collectibles crush the stock market using 20 years of returns, but a financial advisor spotted a flaw in the comparison so fundamental he called it a math crime. The numbers only hold up if you never ask where they came from.",
+      "link": "https://247wallst.com/investing/2026/07/18/pokemon-cards-beat-the-sp-500-by-2-5x-but-the-math-is-a-lie/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-18T21:45:00+00:00"
+    },
+    {
+      "title": "Equal-Weight Strategy RSP Could Outrun SPY if This Macro Shift Continues",
+      "summary": "RSP is beating SPY for the first time in years, but two specific signals will determine whether equal-weight strategies keep their edge or surrender it back to the mega-caps before year end.",
+      "link": "https://247wallst.com/investing/etf/2026/07/18/equal-weight-strategy-rsp-could-outrun-spy-if-this-macro-shift-continues/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-18T21:11:03+00:00"
+    },
+    {
+      "title": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
+      "summary": "Yona Sahar, founder of Locksmith Girl of NYC, spent two years learning the trade. Now, she runs her own business while working around the clock.",
+      "link": "https://www.cnbc.com/2026/07/18/how-27-year-old-left-her-job-to-start-locksmith-girl-of-nyc.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T20:12:00+00:00"
+    },
+    {
+      "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+      "summary": "“I met with a financial representative who was not aware that AT&T was the shortened form of American Telephone and Telegraph.”",
+      "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T19:16:00+00:00"
+    },
+    {
+      "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+      "summary": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
+      "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T19:11:33+00:00"
+    },
+    {
+      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "summary": "“I’ve just been ignoring their attempts.”",
+      "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T19:00:00+00:00"
+    },
+    {
+      "title": "Netflix is spending big money on sports. Is the company making the right bets?",
+      "summary": "The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends.",
+      "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:54:00+00:00"
+    },
+    {
+      "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
+      "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
+      "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:49:00+00:00"
+    },
+    {
+      "title": "These are the obstacles still keeping women from retirement security",
+      "summary": "Yes, women still need a “retirement security day.” Here’s why.",
+      "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:48:00+00:00"
+    },
+    {
+      "title": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
+      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:32:00+00:00"
+    },
+    {
+      "title": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
+      "summary": "“My son was recently diagnosed with lymphoma, which may be related to burn-pit exposure during his military service in Afghanistan.”",
+      "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:30:00+00:00"
+    },
+    {
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+      "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-18T18:16:42+00:00"
+    },
+    {
+      "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+      "summary": "More than 80% of Americans worry about running out of money in retirement: “It really keeps them up at night.”",
+      "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:15:00+00:00"
+    },
+    {
+      "title": "My relative inherited money in her 80s. Will it affect her Social Security taxes or Medicare premiums?",
+      "summary": "“She lives a modest lifestyle.”",
+      "link": "https://www.marketwatch.com/story/my-relative-inherited-money-in-her-80s-will-it-affect-her-social-security-taxes-or-medicare-premiums-0f09a210?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:14:00+00:00"
+    },
+    {
+      "title": "Running out of money is not the saddest retirement mistake you can make. This is.",
+      "summary": "The saddest financial mistake in retirement has nothing to do with running out of money.",
+      "link": "https://www.marketwatch.com/story/running-out-of-money-is-not-the-saddest-retirement-mistake-you-can-make-this-is-09040acf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-18T18:00:00+00:00"
+    }
+  ]
+}
