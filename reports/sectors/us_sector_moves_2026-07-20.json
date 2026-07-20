@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.68,
+      "previous_close": 57.02000045776367,
+      "change_pct": 1.1574877883861356,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.42,
+      "previous_close": 45.459999084472656,
+      "change_pct": -0.08798742912055069,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.41,
+      "previous_close": 180.14999389648438,
+      "change_pct": -0.41076542967277696,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.09,
+      "previous_close": 161.8000030517578,
+      "change_pct": -0.4388152276676327,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.17,
+      "previous_close": 45.470001220703125,
+      "change_pct": -0.6597783431915305,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.53,
+      "previous_close": 50.88999938964844,
+      "change_pct": -0.7074069443232522,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.19,
+      "previous_close": 85.80999755859375,
+      "change_pct": -0.7225236874880414,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.26,
+      "previous_close": 56.75,
+      "change_pct": -0.8634361233480159,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.59,
+      "previous_close": 177.52000427246094,
+      "change_pct": -1.0872038226738212,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.44,
+      "previous_close": 117.33999633789062,
+      "change_pct": -1.6192231099270038,
+      "as_of": "2026-07-17"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.65,
+      "previous_close": 112.6500015258789,
+      "change_pct": -1.7754118941751162,
+      "as_of": "2026-07-17"
+    }
+  ],
+  "news": [
+    {
+      "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff",
+      "summary": "South Korean retail investors suffer heavy losses after Samsung and SK Hynix shares reverse sharply.",
+      "link": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T04:18:05+00:00"
+    },
+    {
+      "title": "Stock futures are mixed after Wall Street suffers losing week: Live updates",
+      "summary": "The three major averages posted weekly losses last week.",
+      "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T04:13:24+00:00"
+    },
+    {
+      "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
+      "summary": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
+      "link": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T04:09:38+00:00"
+    },
+    {
+      "title": "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise",
+      "summary": "American forces have started ninth consecutive night of strikes against Iranian targets.",
+      "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T03:27:10+00:00"
+    },
+    {
+      "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
+      "summary": "South Korea's Samsung Biologics said on Monday that it had made an all-cash bid of 1.46 billion Swiss francs ($1.8 billion) for Switzerland's PolyPeptide Group.",
+      "link": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T03:19:36+00:00"
+    },
+    {
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+      "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+      "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T03:02:00+00:00"
+    },
+    {
+      "title": "U.S. hits Iran for ninth consecutive night as American casualties rise",
+      "summary": "The U.S. began a ninth straight night of strikes against Iran, escalating a campaign to destroy Tehran's ability to disrupt shipping in the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T03:00:28+00:00"
+    },
+    {
+      "title": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
+      "summary": "Alphabet, Tesla, and Intel are among the key companies reporting their second-quarter results later this week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-edge-higher-ahead-of-key-earnings-week-even-as-middle-east-tensions-continue/cZZLNV8R7Ml?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-20T01:35:37+00:00"
+    },
+    {
+      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+      "summary": "Speaking in an interview with CNBC, TSMC's Wendell Huang said the fresh investment comes on the back of robust customer demand.",
+      "link": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T01:01:17+00:00"
+    },
+    {
+      "title": "Plenty of stocks are working in this market — you just have to look beyond tech",
+      "summary": "The big unanswered question is how long there can be such terrific opportunities outside tech before it dawns on those overweight the sector.",
+      "link": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T00:33:52+00:00"
+    },
+    {
+      "title": "World Cup 2026 final in photos: Spain triumphs as football crowns a new champion",
+      "summary": "Spain reclaimed football's biggest prize on Sunday, defeating Argentina 1-0 after extra time in a tense World Cup final.",
+      "link": "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T00:09:27+00:00"
+    },
+    {
+      "title": "Spain wins the World Cup by beating Argentina 1-0 on Ferran Torres' goal in extra time",
+      "summary": "Ferran Torres' first goal of this year's World Cup was the goal of his life, and it put Spain back atop the soccer world.",
+      "link": "https://www.cnbc.com/2026/07/19/spain-wins-the-world-cup-by-beating-argentina-1-0-on-ferran-torres-goal-in-extra-time.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-19T22:47:25+00:00"
+    },
+    {
+      "title": "Vice President JD Vance announces birth of son",
+      "summary": "Vance said the baby, Alec Neel Vance, was born on Sunday at Walter Reed National Military Medical Center in Bethesda, Maryland.",
+      "link": "https://www.cnbc.com/2026/07/19/vice-president-jd-vance-announces-birth-of-son.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-19T22:40:29+00:00"
+    },
+    {
+      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-19T22:29:00+00:00"
+    },
+    {
+      "title": "FSTA vs. XLP: How These Popular Consumer Staples ETFs Compare for Investors",
+      "summary": "These consumer defensive ETFs share many similarities, but a couple of key differentiators set them apart.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/19/fsta-vs-xlp-how-these-popular-consumer-staples-etfs-compare-for-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-19T21:45:23+00:00"
+    },
+    {
+      "title": "Russia pounds Kyiv in major ballistic missile attack",
+      "summary": "Powerful explosions thundered across the darkened city in an attack that involved 41 missiles of various types and ravaged buildings across several districts.",
+      "link": "https://www.cnbc.com/2026/07/19/russia-pounds-kyiv-in-major-ballistic-missile-attack.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-19T20:44:35+00:00"
+    },
+    {
+      "title": "Justice Department activates untested court for 'alien terrorist' deportations",
+      "summary": "Judge James Boasberg has suggested the Alien Terrorist Removal Court would be the natural forum for considering deportation on national security grounds.",
+      "link": "https://www.cnbc.com/2026/07/19/justice-department-activates-court-for-alien-terrorist-deportations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-19T20:34:35+00:00"
+    },
+    {
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "summary": "Legendary investor Warren Buffett is no longer the CEO of Berkshire Hathaway Inc, but remains active as Executive Chairman at providing investment ideas for the conglomerate and new CEO Greg Abel. These days, Buffett says its tough to find value...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-19T20:31:19+00:00"
+    },
+    {
+      "title": "Utility ETFs Soar 8% YTD on AI Power Demand. Here’s Which One to Buy",
+      "summary": "AI data centers are rewriting the utility sector's playbook, and four ETFs are jockeying for position as the power grid strains to keep up. Picking the wrong one could mean trading income stability for concentrated bets on a theme that may already be priced in.",
+      "link": "https://247wallst.com/investing/2026/07/19/utility-etfs-soar-8-ytd-on-ai-power-demand-heres-which-one-to-buy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-19T19:58:46+00:00"
+    },
+    {
+      "title": "FBI will no longer investigate ICE confrontations, The New York Times reports",
+      "summary": "The Department of Justice and the Department of Homeland Security have both denied that any change in oversight has taken place.",
+      "link": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-19T19:51:38+00:00"
+    }
+  ]
+}
