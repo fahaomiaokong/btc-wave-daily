@@ -1,0 +1,99 @@
+[
+  {
+    "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
+    "summary": "AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
+    "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+    "source": "Tech",
+    "published": "2026-07-20T16:16:18+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "META",
+      "AMD",
+      "ORCL"
+    ],
+    "score": 21
+  },
+  {
+    "title": "Does US$2.8 Billion in AI Cloud Deals with Tech Giants Change The Bull Case For IREN (IREN)?",
+    "summary": "In July 2026, IREN Limited announced it had secured US$2.80 billion in new multi-year AI cloud services contracts with customers including Microsoft, NVIDIA, and several AI developers, lifting its 2026 AI Cloud annualized run-rate revenue target to more than US$4.00 billion, about 85% of which is now under contract. A key feature of these agreements is sizable customer prepayments covering roughly 45% of related GPU capital expenditure, which, together with IREN’s US$7.60 billion cash...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/does-us-2-8-billion-001801443.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T00:18:01+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Cramer Says Dump Tech Before Intel, Tesla, Alphabet Earnings: Will Inverse-Cramer Strike?",
+    "summary": "Jim Cramer dumped tech stocks ahead of Intel, Tesla, and Alphabet earnings, reviving bets on the Inverse-Cramer Effect.",
+    "link": "https://beincrypto.com/cramer-dumps-tech-earnings-week/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T03:09:20+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
+    "summary": "Chip stocks staged a comeback on Monday, gaining at the close after a sharp selloff last week.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-rise-as-chip-rally-counters-iran-jitters-ahead-of-big-tech-earnings/cZZ1tCdR7HO?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T01:43:08+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios",
+    "summary": "AMD has launched its Helios AI rack server platform, directly targeting the same rack-scale AI infrastructure segment as NVIDIA. The new AMD platform is being rolled out with agreements from major industry players that intend to deploy Helios in upcoming AI data center builds. This development introduces a fresh competitive threat to NVIDIA's AI rack systems, with potential implications for how large customers allocate future AI infrastructure spending. NVIDIA, traded as NasdaqGS:NVDA, now...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-faces-fresh-rack-010846712.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T01:08:46+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Better \"Magnificent Seven\" Stock: Alphabet vs. Microsoft",
+    "summary": "This battle between tech heavyweights is much closer than you might guess.",
+    "link": "https://www.fool.com/investing/2026/07/20/better-magnificent-seven-stock-alphabet-vs-microso/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T00:50:00+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+    "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+    "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+    "source": "TechCrunch",
+    "published": "2026-07-20T15:15:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside",
+    "summary": "The stake is higher than estimated in March, when Nvidia announced a $2 billion investment in the neocloud operator.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-jumps-overnight-as-nvidia-reveals-over-9-stake-analyst-sees-more-upside/cZZ1uV9R7HQ?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-21T02:06:41+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
