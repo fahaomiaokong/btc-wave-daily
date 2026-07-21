@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.94,
+      "previous_close": 57.68000030517578,
+      "change_pct": 0.45076229793445943,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.8,
+      "previous_close": 110.6500015258789,
+      "change_pct": 0.13556120384328185,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.71,
+      "previous_close": 175.58999633789062,
+      "change_pct": 0.06834310872612104,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.86,
+      "previous_close": 85.19000244140625,
+      "change_pct": -0.3873722642903199,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.04,
+      "previous_close": 56.2599983215332,
+      "change_pct": -0.39103862086146135,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.23,
+      "previous_close": 45.41999816894531,
+      "change_pct": -0.4183139071001096,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.94,
+      "previous_close": 45.16999816894531,
+      "change_pct": -0.5091834807809281,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.61,
+      "previous_close": 115.44000244140625,
+      "change_pct": -0.7189903186527902,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.12,
+      "previous_close": 179.41000366210938,
+      "change_pct": -0.719025492323655,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.03,
+      "previous_close": 50.529998779296875,
+      "change_pct": -0.9895087895821053,
+      "as_of": "2026-07-20"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 159.25,
+      "previous_close": 161.08999633789062,
+      "change_pct": -1.142216388180417,
+      "as_of": "2026-07-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say",
+      "summary": "Inflation fears are back in focus amid worries over escalating tensions between the U.S. and Iran in the Middle East conflict which has kept oil prices elevated",
+      "link": "https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T04:01:09+00:00"
+    },
+    {
+      "title": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care",
+      "summary": "Rising prices for care and managing chronic conditions helped drive up the forecast.",
+      "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-21T04:01:00+00:00"
+    },
+    {
+      "title": "Dimitri de Vreeze helped build DSM’s materials business. Then he had to sell it",
+      "summary": "After more than three decades at science-based firm DSM, Dimitri de Vreeze faced what he calls the hardest decision of his career: selling the materials business where he had grown up professionally. In this episode of \"Executive Decisions,\" the DSM-Firmenich CEO reflects on why the decision made strategic sense, even as it felt deeply personal, and how it shaped his view that success is not a finish line.",
+      "link": "https://www.cnbc.com/video/2026/07/21/dsm-firmenich-ceo-dimitri-de-vreeze-executive-decisions-with-steve-sedgwick.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T04:00:01+00:00"
+    },
+    {
+      "title": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
+      "summary": "The flare-up came before Rubio is expected to visit Manila for meetings of Southeast Asian foreign ministers, with Chinese diplomat Wang Yi also in attendance.",
+      "link": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T03:28:20+00:00"
+    },
+    {
+      "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
+      "summary": "Vessel traffic through the Strait of Hormuz has slumped since U.S. President Donald Trump's blockade took effect last week.",
+      "link": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T02:33:54+00:00"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
+      "summary": "Chip stocks staged a comeback on Monday, gaining at the close after a sharp selloff last week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-rise-as-chip-rally-counters-iran-jitters-ahead-of-big-tech-earnings/cZZ1tCdR7HO?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-21T01:43:08+00:00"
+    },
+    {
+      "title": "Cash In Your SPYV Gain, Or Let It Ride?",
+      "summary": "The fund is trading near its high, but acting on that feeling might be the costliest move you can make.",
+      "link": "https://www.trefis.com/articles/607966/cash-in-your-spyv-gain-or-let-it-ride/2026-07-20?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-21T00:38:25+00:00"
+    },
+    {
+      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+      "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
+      "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-21T00:13:00+00:00"
+    },
+    {
+      "title": "Why XLK Investors Pay Twice for the Same Mega-Cap Exposure",
+      "summary": "XLK's expense ratio looks almost free, but the fee that will actually hurt your portfolio never appears on the factsheet. Before you add another tech position, check what you are quietly paying twice for.",
+      "link": "https://247wallst.com/investing/etf/2026/07/20/why-xlk-investors-pay-twice-for-the-same-mega-cap-exposure/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-20T23:51:54+00:00"
+    },
+    {
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
+      "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T23:15:00+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "A turn higher in oil prices kept stocks under pressure on Monday. The Dow Industrials slid more than 300 points as Apple shares lost 2%.",
+      "link": "https://www.cnbc.com/2026/07/20/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T23:12:07+00:00"
+    },
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "summary": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+      "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T23:01:01+00:00"
+    },
+    {
+      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+      "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+      "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T22:55:00+00:00"
+    },
+    {
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T22:30:00+00:00"
+    },
+    {
+      "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+      "summary": "Moonshot AI’s Kimi K3 could encourage a surge in enterprise workloads and provide a long-term tailwind to chip demand.",
+      "link": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T22:21:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+      "summary": "CNBC's Jim Cramer says the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.",
+      "link": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T22:20:22+00:00"
+    },
+    {
+      "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+      "summary": "Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pact with Mexico.",
+      "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T22:13:57+00:00"
+    },
+    {
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "summary": "“We would rather pay taxes upfront than pay mortgage interest.”",
+      "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T22:00:00+00:00"
+    },
+    {
+      "title": "Buying This ILF Dip Has A Price",
+      "summary": "The fund's history shows that buying a drop has often paid off, but not without some serious bumps along the way.",
+      "link": "https://www.trefis.com/articles/607984/buying-this-ilf-dip-has-a-price/2026-07-20?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-20T21:50:23+00:00"
+    },
+    {
+      "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+      "summary": "Israel's prime minister, Benjamin Netanyahu, is the target of an arrest warrant issued by the International Criminal Court related to the war on Gaza.",
+      "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-20T21:50:17+00:00"
+    }
+  ]
+}
