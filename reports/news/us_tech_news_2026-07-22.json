@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
+    "summary": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
+    "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-22T03:16:54+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 12
+  },
+  {
+    "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+    "summary": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
+    "link": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+    "source": "Tech",
+    "published": "2026-07-21T20:58:29+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
+    "summary": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
+    "link": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+    "source": "Tech",
+    "published": "2026-07-21T15:00:02+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source": "TechCrunch",
+    "published": "2026-07-22T03:20:57+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+    "summary": "Chinese open-weight models are gaining steam against leading offerings from American companies like OpenAI and Anthropic.",
+    "link": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+    "source": "Tech",
+    "published": "2026-07-21T17:15:10+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "After TikTok, Snap settles social media addiction case",
+    "summary": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant.",
+    "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+    "source": "TechCrunch",
+    "published": "2026-07-21T14:54:19+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Why AMD Stock Jumped Today",
+    "summary": "The semiconductor specialist's new AI systems will help power a leading cloud computing platform.",
+    "link": "https://www.fool.com/investing/2026/07/21/why-amd-stock-jumped-today/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-22T03:25:17+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Can Dell (DELL) Sustain Its AI Server Momentum Without Reshaping Its Risk Profile?",
+    "summary": "In recent days, Dell Technologies raised its fiscal 2027 revenue guidance and increased its outlook for AI-optimized server sales, reflecting stronger expectations for AI-related infrastructure demand than previously communicated. This guidance shift, supported by robust AI server order trends across competitors like Super Micro, highlights how sector-wide AI investment is increasingly validating Dell’s role in next-generation data center build-outs. Next, we’ll examine how Dell’s higher...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-sustain-ai-server-021046649.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-22T02:10:46+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 8
+  }
+]
