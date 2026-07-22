@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 180.78,
+      "previous_close": 175.7100067138672,
+      "change_pct": 2.885432298906565,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.5,
+      "previous_close": 57.939998626708984,
+      "change_pct": 0.9665194797447985,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 160.25,
+      "previous_close": 159.25,
+      "change_pct": 0.6279434850863463,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.66,
+      "previous_close": 178.1199951171875,
+      "change_pct": 0.3031691542868087,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.87,
+      "previous_close": 114.61000061035156,
+      "change_pct": 0.2268557615075606,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.1,
+      "previous_close": 50.029998779296875,
+      "change_pct": 0.13991849372598786,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.11,
+      "previous_close": 56.040000915527344,
+      "change_pct": 0.124909142271723,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.92,
+      "previous_close": 44.939998626708984,
+      "change_pct": -0.04450072834915053,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.2,
+      "previous_close": 45.22999954223633,
+      "change_pct": -0.06632664722516779,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.03,
+      "previous_close": 110.80000305175781,
+      "change_pct": -0.6949485835285762,
+      "as_of": "2026-07-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.06,
+      "previous_close": 84.86000061035156,
+      "change_pct": -0.9427299135017608,
+      "as_of": "2026-07-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
+      "summary": "A toilet maker, a glass fiber manufacturer and the maker of MSG have in Japan have become major beneficiaries of the AI boom.",
+      "link": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T02:25:18+00:00"
+    },
+    {
+      "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+      "summary": "The notorious New Jersey deli fraud case led to losses of more than $5 million for victims that included two U.S. universities.",
+      "link": "https://www.cnbc.com/2026/07/21/new-jersey-deli-fraud-james-patten-sentenced.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T02:04:23+00:00"
+    },
+    {
+      "title": "Mamdani says New York lacks authority to arrest Netanyahu, calls him ‘war criminal’",
+      "summary": "Israel's prime minister, Benjamin Netanyahu, is the target of an arrest warrant issued by the International Criminal Court related to the war on Gaza.",
+      "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T01:20:27+00:00"
+    },
+    {
+      "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production",
+      "summary": "The phased schedule is intended to push generic drugmakers to move production onshore.",
+      "link": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T01:17:37+00:00"
+    },
+    {
+      "title": "Japan exports and imports grow at fastest pace in June since November 2022, beating estimates",
+      "summary": "Exports climbed 19.3%, while imports spiked 25.4% compared to June last year.",
+      "link": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T00:36:15+00:00"
+    },
+    {
+      "title": "Super Micro’s stock soars as its margins unexpectedly double",
+      "summary": "The AI server maker now expects gross margins to be in the range of 15% to 17% thanks to an improving customer and product mix",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-22T00:33:00+00:00"
+    },
+    {
+      "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+      "summary": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked.",
+      "link": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T00:30:24+00:00"
+    },
+    {
+      "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+      "summary": "Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.",
+      "link": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T00:15:19+00:00"
+    },
+    {
+      "title": "Your SPLG Position Is Stretched, What's Next?",
+      "summary": "The large-cap fund's price is well above its trend, but the advance was narrow, raising a tough question for holders.",
+      "link": "https://www.trefis.com/articles/608209/your-splg-position-is-stretched-whats-next/2026-07-21?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T00:01:12+00:00"
+    },
+    {
+      "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+      "summary": "Nike is streamlining its online business in China as the company looks to stabilize pricing and branding and get back to growth.",
+      "link": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T00:00:01+00:00"
+    },
+    {
+      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+      "summary": "Plus, more ways to lower how much you pay out of pocket for medical care in retirement.",
+      "link": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-21T23:56:00+00:00"
+    },
+    {
+      "title": "Capital One earnings were good enough but didn't answer the big question hanging over the stock",
+      "summary": "Investors want to know when Capital One will begin to see more tangible benefits from its Discover and Brex deals.",
+      "link": "https://www.cnbc.com/2026/07/21/capital-one-earnings-were-good-enough-but-didnt-answer-our-biggest-question.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T23:31:47+00:00"
+    },
+    {
+      "title": "The world's top fintech companies: 2026",
+      "summary": "Fintech is entering an era of scale and maturity, just as AI forces innovation. CNBC and Statista name the key players shaping the industry — and shaking it up.",
+      "link": "https://www.cnbc.com/worlds-top-fintech-companies-2026/",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T23:01:45+00:00"
+    },
+    {
+      "title": "JPMorgan's Jamie Dimon made bearish call on treasury bond market. Many investors already acted on it",
+      "summary": "JPMorgan CEO Jamie Dimon warned this week long-term treasuries are not a good buy, even if stocks fall. Many investors already acted on that message this year.",
+      "link": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T22:46:36+00:00"
+    },
+    {
+      "title": "Prediction markets and their opponents are spending more to influence Congress in 2026",
+      "summary": "Kalshi and groups representing the casino and gaming industry and online sports betting apps, all have boosted their lobbying spending in 2026.",
+      "link": "https://www.cnbc.com/2026/07/21/prediction-market-kalshi-polymarket-casino-gaming-lobby-congress.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T22:38:04+00:00"
+    },
+    {
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+      "link": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T22:34:35+00:00"
+    },
+    {
+      "title": "Is This the Most Undervalued Sector ETF on the Market?",
+      "summary": "While investors pour capital into AI and mega-cap tech, one overlooked sector keeps quietly delivering solid earnings and shareholder returns at a fraction of the market's valuation. The case for financials may be stronger than most investors realize.",
+      "link": "https://247wallst.com/investing/etf/2026/07/21/is-this-the-most-undervalued-sector-etf-on-the-market/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-21T22:30:29+00:00"
+    },
+    {
+      "title": "What Are You Really Paying For Inside VOO?",
+      "summary": "The popular index fund asks a higher price than its recent past, but the powerful growth of its biggest holdings makes a strong case for the premium.",
+      "link": "https://www.trefis.com/articles/608204/what-are-you-really-paying-for-inside-voo/2026-07-21?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-21T22:16:19+00:00"
+    },
+    {
+      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+      "summary": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
+      "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T22:10:56+00:00"
+    },
+    {
+      "title": "RFK Jr. says cyclospora outbreak is 'under control'",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control.\"",
+      "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-21T22:06:30+00:00"
+    }
+  ]
+}
