@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.93,
+      "previous_close": 44.91999816894531,
+      "change_pct": 2.2484458419967934,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.82,
+      "previous_close": 50.099998474121094,
+      "change_pct": 1.4371288379396274,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.2,
+      "previous_close": 58.5,
+      "change_pct": 1.1965811965811923,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.38,
+      "previous_close": 84.05999755859375,
+      "change_pct": 0.38068338175145655,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.85,
+      "previous_close": 178.66000366210938,
+      "change_pct": 0.10634519981873591,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.05,
+      "previous_close": 56.11000061035156,
+      "change_pct": -0.10693389716430746,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 180.27,
+      "previous_close": 180.77999877929688,
+      "change_pct": -0.28211017963303275,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.01,
+      "previous_close": 45.20000076293945,
+      "change_pct": -0.4203556631247718,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 159.43,
+      "previous_close": 160.25,
+      "change_pct": -0.5117004680187165,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.02,
+      "previous_close": 114.87000274658203,
+      "change_pct": -0.7399692924681567,
+      "as_of": "2026-07-22"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.2,
+      "previous_close": 110.02999877929688,
+      "change_pct": -0.7543386244706962,
+      "as_of": "2026-07-22"
+    }
+  ],
+  "news": [
+    {
+      "title": "Gen Z protests led by India’s 'Cockroach party' are testing Modi’s leadership",
+      "summary": "Student protests organized by a pseudo-political outfit, Cockroach Janta Party, are gaining momentum as they challenge the political establishment.",
+      "link": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T04:02:27+00:00"
+    },
+    {
+      "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+      "summary": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
+      "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T03:28:22+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
+      "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
+      "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T02:37:12+00:00"
+    },
+    {
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+      "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+      "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T01:48:22+00:00"
+    },
+    {
+      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+      "summary": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T01:34:22+00:00"
+    },
+    {
+      "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+      "summary": "The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.",
+      "link": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T00:57:01+00:00"
+    },
+    {
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
+      "link": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T00:27:00+00:00"
+    },
+    {
+      "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+      "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T00:18:00+00:00"
+    },
+    {
+      "title": "IBM lowers full-year forecast after earnings warning",
+      "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T00:17:38+00:00"
+    },
+    {
+      "title": "IBM just cut its outlook, but not by as much as investors feared",
+      "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
+      "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T00:17:00+00:00"
+    },
+    {
+      "title": "When the Market Drops, the IRS Quietly Discounts Your Roth Conversion. Here’s the Math at $500,000",
+      "summary": "Every market dip quietly shrinks the tax bill on a Roth conversion, and most investors never notice until they see the math on a real portfolio at a real loss.",
+      "link": "https://247wallst.com/personal-finance/2026/07/22/when-the-market-drops-the-irs-quietly-discounts-your-roth-conversion-heres-the-math-at-500000/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-23T00:01:38+00:00"
+    },
+    {
+      "title": "Brent Sullivan: Why 351 Exchange ETFs Are Now Everywhere",
+      "summary": "Sensational, pearl-clutching headlines about the IRS tax shenanigans and risk of 351 exchanges dominate most media coverage of this increasingly popular form of ETF conversion. While the risk of bad actors is real, according to Tax Alpha Insider’s Brent Sullivan, it misses the actual question investors should be asking: is the created ETF even interesting?",
+      "link": "http://www.etf.com/sections/etf-basics/brent-sullivan-why-351-exchange-etfs-are-now-everywhere?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T23:53:53+00:00"
+    },
+    {
+      "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+      "summary": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+      "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T23:25:25+00:00"
+    },
+    {
+      "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+      "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
+      "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T23:21:42+00:00"
+    },
+    {
+      "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+      "summary": "“I never heard a rock hit the windshield.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-22T23:00:00+00:00"
+    },
+    {
+      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+      "summary": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+      "link": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T22:56:13+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics — TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
+      "summary": "Alphabet hiked its 2026 capex spending outlook in its earnings call shortly after market close.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-extend-declines-as-attention-shifts-to-tech-earnings-geopolitics/cZZmDGrR7DH?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T22:53:31+00:00"
+    },
+    {
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
+      "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-22T22:46:00+00:00"
+    },
+    {
+      "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+      "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+      "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-22T22:30:40+00:00"
+    },
+    {
+      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "summary": "“We live in a house that I purchased entirely with money I had before we were married.”",
+      "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-22T22:30:00+00:00"
+    }
+  ]
+}
