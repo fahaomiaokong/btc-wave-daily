@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Pichai pushes back on claims Google is losing ground in AI race",
+    "summary": "Alphabet CEO Sundar Pichai used Wednesday's earnings call to mount a robust defence of Google's AI strategy, pushing back on concerns that the company has fallen behind rivals after ‌delaying a flagship model and ceding ground in AI coding. Investors have become increasingly uneasy over Google delaying the release of ‌Gemini 3.5 Pro, a model originally slated for June that was expected to bolster the company's standing in AI coding and autonomous \"agent\" tasks, two of the industry's most ​fiercely contested areas. The latest setback has fueled worries that Google was losing momentum just as OpenAI and Anthropic and a host of Chinese rivals have accelerated the pace of model releases.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/pichai-pushes-back-claims-google-011727016.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T01:17:27+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
+    "summary": "Dell Technologies (NYSE:DELL) surged by 9.32 percent on Wednesday to finish at $441.80 apiece as investors drew encouragement from the surging demand for AI servers using Nvidia chips. The stock rallied alongside its counterparts, Super Micro Computer (SMCI) and Hewlett Packard Enterprises, helped buoyed by SMCI’s record backlog of $60 billion in the fourth quarter […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T02:29:11+00:00",
+    "tickers": [
+      "NVDA",
+      "SMCI"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+    "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+    "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+    "source": "Tech",
+    "published": "2026-07-23T01:48:22+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test",
+    "summary": "Jim Cramer said CrowdStrike is the stock to buy after OpenAI's agentic breach.",
+    "link": "https://www.cnbc.com/2026/07/22/this-is-the-stock-to-buy-after-openais-ai-agent-goes-rogue-in-a-cybersecurity-test.html",
+    "source": "Tech",
+    "published": "2026-07-22T17:57:40+00:00",
+    "tickers": [
+      "MSFT",
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
+    "summary": "U.S. chipmaking giants Intel and Advanced Micro Devices are signing longer-term purchase commitments with Chinese server customers for data-centre processors as prices ‌surge, two people familiar with the talks said. The move highlights a broader consequence of the ‌AI boom: demand has spread beyond AI accelerators to memory, networking gear and server processors, giving suppliers greater leverage to seek long-term purchase ​deals. AI data centres require not only Nvidia-style graphics processors (GPUs) but also large numbers of central processing units (CPUs) to support servers, storage, networking and inference workloads.",
+    "link": "https://finance.yahoo.com/technology/articles/exclusive-intel-amd-sign-long-032439242.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T03:24:39+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capital Spending",
+    "summary": "Futures edged higher. Google and Tesla retreated on earnings and heavy capital spending, but AI hardware plays rose.",
+    "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T03:06:21+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+    "summary": "Earnings dominated the narrative in the U.S. markets on Wednesday, with Alphabet, Tesla, and IBM reporting Q2 results.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-edge-higher-brushing-off-fresh-us-iran-clashes-as-earnings-take-center-stage-tsla-now-googl-nok-in-focus/cZZnIS5R7Dz?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T01:52:33+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "X Energy (XE) Joins Project Prometheus As Founding Partner In AI Nuclear Push",
+    "summary": "X-Energy (NasdaqGS:XE) has been named a founding member of Project Prometheus, a new AI-driven partnership focused on advanced nuclear deployment. The company joins Tier 1 partners including Idaho National Laboratory, NVIDIA, and AWS in this government-backed initiative. Project Prometheus is intended to apply AI tools across nuclear design, licensing, construction, and operations. X-Energy is known for its work on advanced nuclear technologies. Project Prometheus places the company...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/x-energy-xe-joins-project-010948944.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-23T01:09:48+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  }
+]
