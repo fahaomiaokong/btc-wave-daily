@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Wall Street Analyst Says AI Spending Arms Race Is at 15% After Tesla and Google Selloff",
+    "summary": "A leading Wall Street analyst says the AI spending arms race is still early, even as Tesla and Alphabet shares sink.",
+    "link": "https://beincrypto.com/analyst-ai-spending-arms-race-tesla/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-24T02:53:35+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+    "summary": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+    "link": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+    "source": "Tech",
+    "published": "2026-07-23T20:26:38+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+    "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+    "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+    "source": "Tech",
+    "published": "2026-07-23T15:26:07+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "2 Hidden Businesses to Watch as AI Keeps Heating Up",
+    "summary": "Many investors feel like the AI trend has peaked, but the recent performances of Taiwan Semiconductor and Meta Platform suggest the AI build-out is still on.",
+    "link": "https://www.fool.com/investing/2026/07/23/2-hidden-businesses-to-watch-as-ai-keeps-heating-up/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-24T01:27:16+00:00",
+    "tickers": [
+      "META",
+      "TSM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch",
+    "published": "2026-07-24T01:00:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "NVIDIA vs. Planet Labs: Which High-Growth Tech Stock Is a Better Buy in 2026?",
+    "summary": "NVIDIA commands a 55% net margin and fortress balance sheet, while Planet Labs burns cash despite 26% revenue growth, a tale of profitability versus potential.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/07/23/nvidia-vs-planet-labs-which-high-growth-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-24T00:46:01+00:00",
+    "tickers": [
+      "NVDA",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch",
+    "published": "2026-07-23T20:33:02+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late",
+    "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. Intel jumped late.",
+    "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-24T03:03:48+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 9
+  }
+]
