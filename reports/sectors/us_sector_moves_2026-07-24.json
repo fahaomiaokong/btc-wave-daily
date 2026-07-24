@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 181.94,
+      "previous_close": 178.85000610351562,
+      "change_pct": 1.7277013089370241,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 161.44,
+      "previous_close": 159.42999267578125,
+      "change_pct": 1.2607460431277362,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 46.19,
+      "previous_close": 45.93000030517578,
+      "change_pct": 0.5660781473910026,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.38,
+      "previous_close": 59.20000076293945,
+      "change_pct": 0.3040527613864974,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.95,
+      "previous_close": 45.0099983215332,
+      "change_pct": -0.13329998615995153,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.83,
+      "previous_close": 56.04999923706055,
+      "change_pct": -0.39250533462109605,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 178.45,
+      "previous_close": 180.27000427246094,
+      "change_pct": -1.0095990621435735,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.29,
+      "previous_close": 50.81999969482422,
+      "change_pct": -1.0428959032012686,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.21,
+      "previous_close": 84.37999725341797,
+      "change_pct": -1.3865812888143703,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.38,
+      "previous_close": 109.19999694824219,
+      "change_pct": -3.4981658012799843,
+      "as_of": "2026-07-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 108.76,
+      "previous_close": 114.0199966430664,
+      "change_pct": -4.613222941527129,
+      "as_of": "2026-07-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+      "summary": "U.S. trading partners have rejected the forced-labor rationale behind Trump's new global tariffs, while most signaled plans to keep negotiating.",
+      "link": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T03:15:46+00:00"
+    },
+    {
+      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+      "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
+      "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T02:42:21+00:00"
+    },
+    {
+      "title": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite",
+      "summary": "This is the first rise in core inflation since March, and was in line with the1.6% growth expected by economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/07/24/japan-cpi-june-inflation-oil-prices-yen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T02:24:48+00:00"
+    },
+    {
+      "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
+      "summary": "CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.",
+      "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T02:24:40+00:00"
+    },
+    {
+      "title": "China's largest memory chipmaker sparks fears of a cash drain as it readies for public debut",
+      "summary": "CXMT is stoking fears that its blockbuster stock market debut could pull cash from China's equities.",
+      "link": "https://www.cnbc.com/2026/07/24/cxmt-china-ipo-listing-chip-memory.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T02:08:13+00:00"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Shake Off Iran Jitters As Investors Turn To AI Hyperscaler Earnings: INTC, TSLA, TTD, HIMS In Focus",
+      "summary": "Markets were primarily focused on earnings from major companies, alongside rising oil prices due to the continued tensions between the U.S. and Iran.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-shake-off-iran-jitters-as-investors-turn-to-ai-hyperscaler-earnings-intc-tsla-ttd-hims-in-focus/cZZYW1bR7UM?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T01:46:05+00:00"
+    },
+    {
+      "title": "Amazon cracks down on use of AI images by sellers after New York law",
+      "summary": "A recently enacted New York law mandates that companies disclose when an ad includes a \"synthetic performer\" in place of a human actor.",
+      "link": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T00:36:42+00:00"
+    },
+    {
+      "title": "Allianz to buy HSBC’s Singapore insurance unit for $2.09 billion",
+      "summary": "Allianz to acquire Singapore insurance business from HSBC",
+      "link": "https://www.cnbc.com/2026/07/24/allianz-to-buy-hsbcs-singapore-insurance-unit-for-2billion.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T00:18:30+00:00"
+    },
+    {
+      "title": "Intel's turnaround under CEO Lip-Bu Tan gains steam with another strong quarter",
+      "summary": "It's hard not to be impressed by Tan, who, in a little more than a year, has transformed the company.",
+      "link": "https://www.cnbc.com/2026/07/23/intels-turnaround-under-ceo-lip-bu-tan-gains-steam-with-another-strong-quarter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T23:53:57+00:00"
+    },
+    {
+      "title": "How to save for retirement when you're living paycheck to paycheck",
+      "summary": "CNBC Select provides a decade-by-decade guide to building retirement savings on a tight budget.",
+      "link": "https://www.cnbc.com/select/how-to-save-for-retirement-living-paycheck-to-paycheck/",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T23:47:44+00:00"
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+      "summary": "The FDA is deciding whether seven peptides can be legally compounded, potentially opening the door to broader use in Americans.",
+      "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T23:43:00+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Stocks tumbled on Thursday, pressured by a sharp sell-off in Alphabet and Tesla, as well as a spike in oil prices. The Dow Industrials shed over 500 points.",
+      "link": "https://www.cnbc.com/2026/07/23/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T23:08:57+00:00"
+    },
+    {
+      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+      "summary": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
+      "link": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T22:40:53+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil — CBRS, AMD, GOOGL, TSLA, MSTR In Focus",
+      "summary": "Brent crude topped $100 a barrel, stoking inflation fears and driving Treasury yields to their highest levels of the year.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-over-capex-concerns-surging-oil/cZZFcFFR7Un?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-23T22:34:00+00:00"
+    },
+    {
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "summary": "Intel rallied after the company reported blowout earnings and guidance.",
+      "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T22:17:09+00:00"
+    },
+    {
+      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+      "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
+      "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T22:12:00+00:00"
+    },
+    {
+      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
+      "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T22:03:00+00:00"
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+      "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T22:02:00+00:00"
+    },
+    {
+      "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
+      "summary": "The chip makers are best known for competing in the GPU business, but they’re stepping up their offerings in the attractive market for server CPUs.",
+      "link": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T21:59:00+00:00"
+    },
+    {
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+      "summary": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+      "link": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-23T21:56:31+00:00"
+    }
+  ]
+}
