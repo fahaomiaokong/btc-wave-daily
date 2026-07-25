@@ -1,0 +1,154 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.13,
+      "previous_close": 83.20999908447266,
+      "change_pct": 1.1056374542119274,
+      "as_of": "2026-07-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
+      "summary": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
+      "link": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T02:17:11+00:00"
+    },
+    {
+      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
+      "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T00:18:53+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus",
+      "summary": "Oil prices, however, eased on Friday amid hopes that Pakistan could help mediate talks between the U.S. and Iran.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-second-week-lower-over-elevated-oil-prices-chipmaker-rout/cZZp9fpR7zL?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T22:54:48+00:00"
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T22:43:56+00:00"
+    },
+    {
+      "title": "You’re 58 and Your $350K Is Just Sitting There. These 3 ETFs Turn It Into a Retirement Engine",
+      "summary": "Idle money at 58 does not just miss out on growth, it actively costs you the retirement you planned. Three ETFs can divide your savings into distinct jobs, but the tradeoffs buried in each one are what most near-retirees never think to ask about.",
+      "link": "https://247wallst.com/investing/etf/2026/07/24/youre-58-and-your-350k-is-just-sitting-there-these-3-etfs-turn-it-into-a-retirement-engine/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T22:40:07+00:00"
+    },
+    {
+      "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+      "summary": "“I would likely be the one responsible for dealing with the house.”",
+      "link": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T22:30:00+00:00"
+    },
+    {
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "summary": "“I own my home outright, have no children or other dependents.”",
+      "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T22:00:00+00:00"
+    },
+    {
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+      "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T21:57:01+00:00"
+    },
+    {
+      "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
+      "summary": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
+      "link": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T21:48:45+00:00"
+    },
+    {
+      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
+      "summary": "Your answer to this viral poll question probably says a lot about the state of your finances.",
+      "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:48:00+00:00"
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:45:00+00:00"
+    },
+    {
+      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
+      "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:38:00+00:00"
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:30:00+00:00"
+    },
+    {
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+      "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:30:00+00:00"
+    },
+    {
+      "title": "IGV ETF Is A More Focused Bet Than You Think",
+      "summary": "A fund's name tells you its category, but rarely reveals the true shape of the portfolio inside.",
+      "link": "https://www.trefis.com/articles/608767/igv-etf-is-a-more-focused-bet-than-you-think/2026-07-24?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T21:25:52+00:00"
+    },
+    {
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+      "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T21:24:09+00:00"
+    },
+    {
+      "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
+      "summary": "One solution is getting a different job — but that’s not so simple.",
+      "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:22:00+00:00"
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
+      "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:21:00+00:00"
+    },
+    {
+      "title": "What Are You Really Paying For Inside IJH?",
+      "summary": "The fund has delivered strong returns, but the price you pay today asks you to accept less compensation for risk than you could get from the government.",
+      "link": "https://www.trefis.com/articles/608765/what-are-you-really-paying-for-inside-ijh/2026-07-24?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T21:19:36+00:00"
+    },
+    {
+      "title": "Why bond investors are pushing up some of your interest rates",
+      "summary": "Many types of consumer loans such as mortgages peg their interest rate to the yield on 10-year Treasury bonds, which has been moving higher.",
+      "link": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-24T21:09:24+00:00"
+    }
+  ]
+}
