@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+    "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+    "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+    "source": "Tech",
+    "published": "2026-07-24T19:39:50+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+    "summary": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
+    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "source": "Tech",
+    "published": "2026-07-24T17:55:37+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "source": "Tech",
+    "published": "2026-07-24T22:43:56+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Bond market anxiety is growing over AI capex budgets",
+    "summary": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+    "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+    "source": "Tech",
+    "published": "2026-07-24T20:07:36+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Waymo vs. human drivers: Experts reveal which is safer",
+    "summary": "Are autonomous vehicles like Waymo really safer than human drivers? That's the question some of the biggest tech companies in the world are investing billions of dollars to answer. Alphabet owns Waymo, Amazon owns Zoox, and Tesla has its own Robotaxi division. The advantages robots have over human ...",
+    "link": "https://www.thestreet.com/automotive/waymo-vs-human-drivers-experts-reveal-which-is-safer?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T03:07:00+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
+    "summary": "Riot Platforms has delivered a 59.1% gain year to date, yet the stock screens as expensive on broader valuation checks. This raises the question of how much of the AI data center story is already reflected in the current price. Year to date, Riot Platforms is up 59.1%, which indicates investors have already priced in a meaningful shift in sentiment toward the stock. The expanded AI and high performance computing leasing opportunity tied to AMD and Anthropic can support long term revenue...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-too-pricey-011108545.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T01:11:08+00:00",
+    "tickers": [
+      "AMZN",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia (NVDA) Expands AI Reach With KAIST Lab And Amkor Partnership",
+    "summary": "NVIDIA (NasdaqGS:NVDA) has agreed to create a joint AI research lab with KAIST in South Korea focused on agentic AI systems. The company has also entered a multi year advanced semiconductor packaging and testing partnership with Amkor Technology in the U.S. Both initiatives target next generation AI and accelerated computing platforms and have not featured in recent NVIDIA news coverage. NVIDIA enters these agreements with KAIST and Amkor as one of the most closely watched AI chip...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-expands-ai-reach-020831722.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T02:08:31+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
+    "summary": "Investing.com -- Apple and Micron Technology are pressing the Trump administration to take opposing positions on the use of Chinese memory chips, forcing the president to weigh lower consumer prices against his goal of expanding domestic semiconductor production, The Wall Street Journal exclusively reported.",
+    "link": "https://finance.yahoo.com/economy/policy/articles/trump-faces-apple-micron-clash-030900453.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T03:09:00+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 7
+  }
+]
