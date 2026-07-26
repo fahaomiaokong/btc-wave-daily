@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.95,
+      "previous_close": 44.95000076293945,
+      "change_pct": 2.2246923694938747,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.26,
+      "previous_close": 50.290000915527344,
+      "change_pct": 1.9288110296557193,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.13,
+      "previous_close": 83.20999908447266,
+      "change_pct": 1.1056374542119274,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 106.3,
+      "previous_close": 105.37999725341797,
+      "change_pct": 0.8730335647756826,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.31,
+      "previous_close": 55.83000183105469,
+      "change_pct": 0.8597495131700272,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.57,
+      "previous_close": 161.44000244140625,
+      "change_pct": 0.6999489231325207,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 109.41,
+      "previous_close": 108.76000213623047,
+      "change_pct": 0.5976442175454899,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.62,
+      "previous_close": 59.380001068115234,
+      "change_pct": 0.404174684351144,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 182.66,
+      "previous_close": 181.94000244140625,
+      "change_pct": 0.39573351046073846,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 46.29,
+      "previous_close": 46.189998626708984,
+      "change_pct": 0.21650005686120188,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.88,
+      "previous_close": 178.4499969482422,
+      "change_pct": -1.440177636420803,
+      "as_of": "2026-07-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T22:30:00+00:00"
+    },
+    {
+      "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T21:11:49+00:00"
+    },
+    {
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
+      "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T21:00:00+00:00"
+    },
+    {
+      "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+      "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T20:29:41+00:00"
+    },
+    {
+      "title": "U.S. appeals court rules Trump cannot implement mail-in voting order",
+      "summary": "The 1st U.S. ‌Circuit Court ‌of Appeals rejected the request to ⁠lift an injunction several Democratic-led ⁠states ⁠secured from a ​lower-court judge.",
+      "link": "https://www.cnbc.com/2026/07/25/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T20:19:21+00:00"
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T20:15:00+00:00"
+    },
+    {
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "summary": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
+      "link": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T19:56:55+00:00"
+    },
+    {
+      "title": "After Comparing Every Covered Call Nasdaq-100 ETF These 3 Pay Up to 14 Percent Without Capping Your AI Upside",
+      "summary": "Not all covered call ETFs on the Nasdaq-100 are built the same, and choosing the wrong one could mean sacrificing the AI rally you bought the index to capture in the first place. Three funds solve that problem in radically different ways.",
+      "link": "https://247wallst.com/investing/2026/07/25/after-comparing-every-covered-call-nasdaq-100-etf-these-3-pay-up-to-14-percent-without-capping-your-ai-upside/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-25T19:34:14+00:00"
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+      "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:59:00+00:00"
+    },
+    {
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
+      "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:54:00+00:00"
+    },
+    {
+      "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
+      "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
+      "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:45:00+00:00"
+    },
+    {
+      "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+      "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
+      "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:34:00+00:00"
+    },
+    {
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "summary": "“I own my home outright, have no children or other dependents.”",
+      "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:31:00+00:00"
+    },
+    {
+      "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+      "summary": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
+      "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:15:00+00:00"
+    },
+    {
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:00:00+00:00"
+    },
+    {
+      "title": "For Energy Investors, Is a Traditional Energy ETF a Better Bet Than Clean Energy?",
+      "summary": "State Street's fossil fuel fund delivered 41% returns over one year with far lower volatility, while iShares' renewable basket posted 33% gains but carries five times higher fees.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/25/for-energy-investors-is-a-traditional-energy-etf-a-better-bet-than-clean-energy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-25T16:50:01+00:00"
+    },
+    {
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+      "link": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T16:26:11+00:00"
+    },
+    {
+      "title": "Is an Oil & Gas ETF or a Solar Stock Fund the Better Buy in 2026?",
+      "summary": "XLE charges just 0.08% annually versus TAN's 0.7%, but TAN delivered stronger 10-year returns despite far steeper drawdowns.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/25/is-an-oil-and-gas-etf-or-a-solar-stock-fund-the-better-buy-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-25T16:23:09+00:00"
+    },
+    {
+      "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face U.S. Sen. Susan Collins",
+      "summary": "Democrats see Maine as their best chance to flip a Senate seat this year because it is a competitive race in a state that President Donald Trump lost in 2024.",
+      "link": "https://www.cnbc.com/2026/07/25/maine-democrats-are-meeting-to-pick-a-new-senate-nominee.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T16:06:02+00:00"
+    },
+    {
+      "title": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
+      "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "link": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-25T14:48:15+00:00"
+    }
+  ]
+}
