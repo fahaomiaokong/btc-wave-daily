@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
+    "summary": "Super Micro Computer (NasdaqGS:SMCI) announced its new H15 server portfolio, powered by 6th Gen AMD EPYC 9006 CPUs. The launch includes systems supporting up to 256 CPU cores, new rack scale AI infrastructure, and the Helios Platform with up to 72 GPUs for large scale AI training. Super Micro Computer is leaning further into AI, cloud, and high performance computing with its latest H15 server portfolio built around next generation AMD CPUs and GPUs. For investors watching AI infrastructure,...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-smci-launches-h15-servers-001639306.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-26T00:16:39+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "SMCI"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+    "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "source": "Tech",
+    "published": "2026-07-24T22:43:56+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+    "summary": "Investing.com -- Bank of America raised its price objectives for Cloudflare, Palo Alto Networks, SentinelOne and CrowdStrike, citing expanding cybersecurity valuations, accelerating artificial intelligence adoption and a stronger long-term growth outlook.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-cybersecurity-stock-targets-232723642.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T23:27:23+00:00",
+    "tickers": [
+      "CRWD",
+      "NET"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
+    "summary": "The Nvidia CEO publishes an open letter in support of the open-weight artificial-intelligence models competing with OpenAI and Anthropic.",
+    "link": "https://finance.yahoo.com/m/ae22dc7a-e688-3361-91b9-acdbe80645c5/why-nvidia-ceo-jensen-huang.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T22:07:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "3 Top AI Bargain Stocks to Buy Today",
+    "summary": "Nvidia, Micron, and TSMC all look cheap at current levels.",
+    "link": "https://www.fool.com/investing/2026/07/25/3-top-ai-bargain-stocks-to-buy-today/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-26T00:35:00+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
+    "summary": "Nvidia dominated AI chips, AMD rewarded shareholders, and Intel's surprising rally came from an entirely different story.",
+    "link": "https://www.fool.com/investing/2026/07/25/nvidia-vs-amd-vs-intel-which-one-actually-won-the/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T23:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Amkor Technology (AMKR) Stock Trades At A Discount Even After A 210% Run",
+    "summary": "Amkor Technology stock has delivered a very strong 209.6% return over the past year, and the broad valuation checks still suggest the shares lean cheap rather than stretched at recent levels. Over the last 1 year, Amkor Technology has returned 209.6%, which puts extra focus on whether the current share price already reflects improved expectations. A multi year, US$1.5b packaging partnership with Nvidia and productivity gains from LG Chem's new process materials can support higher earnings...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-stock-trades-230812820.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-25T23:08:12+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Cathie Wood buys $50.1 million of tumbling megacap stock",
+    "summary": "Cathie Wood, chief of Ark Investment Management, is an active trader during earnings season. That's exactly what she's doing with Tesla, buying more shares after the EV maker reported mixed quarterly results and the stock slumped more than 14%. In 2025, Wood's flagship Ark Innovation ETF ...",
+    "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-50-1-million-of-tumbling-megacap-stock-tesla-tsla?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-26T02:47:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  }
+]
