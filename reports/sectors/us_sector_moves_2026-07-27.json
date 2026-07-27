@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.95,
+      "previous_close": 44.95000076293945,
+      "change_pct": 2.2246923694938747,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.26,
+      "previous_close": 50.290000915527344,
+      "change_pct": 1.9288110296557193,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.13,
+      "previous_close": 83.20999908447266,
+      "change_pct": 1.1056374542119274,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 106.3,
+      "previous_close": 105.37999725341797,
+      "change_pct": 0.8730335647756826,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.31,
+      "previous_close": 55.83000183105469,
+      "change_pct": 0.8597495131700272,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.57,
+      "previous_close": 161.44000244140625,
+      "change_pct": 0.6999489231325207,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 109.41,
+      "previous_close": 108.76000213623047,
+      "change_pct": 0.5976442175454899,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.62,
+      "previous_close": 59.380001068115234,
+      "change_pct": 0.404174684351144,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 182.66,
+      "previous_close": 181.94000244140625,
+      "change_pct": 0.39573351046073846,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 46.29,
+      "previous_close": 46.189998626708984,
+      "change_pct": 0.21650005686120188,
+      "as_of": "2026-07-24"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.88,
+      "previous_close": 178.4499969482422,
+      "change_pct": -1.440177636420803,
+      "as_of": "2026-07-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "Goldman Sachs lists Asian currencies riding the AI boom",
+      "summary": "The artificial intelligence boom is reshaping Asia's currency markets, with Goldman Sachs arguing that technology exposure has become a key differentiator.",
+      "link": "https://www.cnbc.com/2026/07/27/goldman-sachs-asian-currencies-ai-boom-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T04:18:35+00:00"
+    },
+    {
+      "title": "Seattle shooting leaves two dead, five injured",
+      "summary": "At least two people were killed and five others, including a 2-year-old, wounded in a shooting at a downtown Seattle food festival Sunday, reports say.",
+      "link": "https://www.cnbc.com/2026/07/27/seattle-shooting-leaves-two-dead-five-injured.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T04:15:43+00:00"
+    },
+    {
+      "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+      "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
+      "link": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T03:36:08+00:00"
+    },
+    {
+      "title": "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
+      "summary": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
+      "link": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T03:29:54+00:00"
+    },
+    {
+      "title": "Indonesia central bank governor Perry Warjiyo steps down in surprise move",
+      "summary": "Indonesia's central bank governor, Perry Warjiyo, resigned on Mon. in a surprise move, raising investor fears over central bank independence and fiscal policy.",
+      "link": "https://www.cnbc.com/2026/07/27/indonesia-central-bank-governor-perry-warjiyo-steps-down.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T03:29:11+00:00"
+    },
+    {
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+      "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-27T03:02:00+00:00"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",
+      "summary": "Markets will be watching out for quarterly results from Amazon, Apple, Meta and Microsoft this week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-rise-as-iran-pause-eases-oil-fears-ahead-of-big-tech-earnings-fed-meeting-orcl-nvda-vg-del-in-focus/cZZxGxcR7Cc?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-27T02:22:28+00:00"
+    },
+    {
+      "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+      "summary": "Corporate earnings have staged one of the strongest turnarounds in the economy this year, swinging from barely positive growth in 2025 to double-digit gains.",
+      "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T02:02:04+00:00"
+    },
+    {
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-26T23:58:00+00:00"
+    },
+    {
+      "title": "Here's the tech stock to buy in a market losing patience with tech",
+      "summary": "It's not the spend, it's the return.",
+      "link": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-26T23:39:46+00:00"
+    },
+    {
+      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
+      "summary": "Leveraged ETFs promise amplified gains, but SPXL hides a counterintuitive flaw that can turn a rising market into a losing trade. Understanding what actually happens inside this fund each day changes everything about how you should use it.",
+      "link": "https://247wallst.com/investing/etf/2026/07/26/why-this-leveraged-sp-500-etf-can-lose-money-even-when-stocks-rise/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-26T22:55:23+00:00"
+    },
+    {
+      "title": "PINK vs. XLV: How Do These Two Health Care ETFs Match Up?",
+      "summary": "PINK outperformed XLV by 8.7 percentage points over one year, but carries higher fees and volatility. XLV offers lower costs and a higher dividend yield for passive healthcare exposure.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/26/pink-vs-xlv-how-do-these-two-health-care-etfs-match-up/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-26T22:00:01+00:00"
+    },
+    {
+      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "summary": "It's a busy week filled with Big Tech earnings, a Fed meeting and inflation data.",
+      "link": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-26T20:50:54+00:00"
+    },
+    {
+      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says",
+      "summary": "Equal weighting the S&P 500 sounds like a clean fix for mega-cap concentration, but the strategy carries trade-offs that rarely get the attention they deserve, and the long-term numbers tell a story most investors haven't heard.",
+      "link": "https://247wallst.com/investing/2026/07/26/is-equal-weighting-the-sp-500-worth-it-heres-what-the-data-says/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-26T20:02:46+00:00"
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T20:00:00+00:00"
+    },
+    {
+      "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+      "summary": "“I would likely be the one responsible for dealing with the house.”",
+      "link": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
+      "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:15:00+00:00"
+    },
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:01:00+00:00"
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T18:30:00+00:00"
+    },
+    {
+      "title": "Is the VanEck Pharmaceutical ETF or State Street Health Care ETF the Better Buy for Your Portfolio?",
+      "summary": "PPH targets drugmakers exclusively with higher returns but steeper costs, while XLV diversifies across medical equipment and providers at a fraction of the fee.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/26/is-the-vaneck-pharmaceutical-etf-or-state-street-health-care-etf-the-better-buy-for-your-portfolio/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-26T17:21:01+00:00"
+    }
+  ]
+}
