@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.36,
+      "previous_close": 84.12999725341797,
+      "change_pct": 1.462026371969305,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.84,
+      "previous_close": 109.41000366210938,
+      "change_pct": 1.3070069372329796,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.66,
+      "previous_close": 106.30000305175781,
+      "change_pct": 1.2793950227640183,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.88,
+      "previous_close": 56.310001373291016,
+      "change_pct": 1.0122511326724037,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 163.4,
+      "previous_close": 162.57000732421875,
+      "change_pct": 0.5105447735669788,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 183.2,
+      "previous_close": 182.66000366210938,
+      "change_pct": 0.29562921661248076,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.39,
+      "previous_close": 51.2599983215332,
+      "change_pct": 0.2536123346148944,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.76,
+      "previous_close": 45.95000076293945,
+      "change_pct": -0.4134945805979173,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 174.3,
+      "previous_close": 175.8800048828125,
+      "change_pct": -0.8983425283989654,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.68,
+      "previous_close": 46.290000915527344,
+      "change_pct": -1.3177811697185127,
+      "as_of": "2026-07-27"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.36,
+      "previous_close": 59.619998931884766,
+      "change_pct": -2.113383016534942,
+      "as_of": "2026-07-27"
+    }
+  ],
+  "news": [
+    {
+      "title": "U.S. stock futures slip, South Korea's Kospi plunges over 8%: Live updates",
+      "summary": "S&P 500 futures drop. Investors are bracing for a big week of megacap earnings and a Federal Reserve meeting.",
+      "link": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T03:41:35+00:00"
+    },
+    {
+      "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+      "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+      "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T03:38:41+00:00"
+    },
+    {
+      "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
+      "summary": "In a rare occurrence, Modi's government was forced to concede demands of Gen Z protesters, underscoring their rising influence in the country's polity.",
+      "link": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T03:27:43+00:00"
+    },
+    {
+      "title": "Shares of SK Hynix plunge 10% in Seoul as semiconductor sell-off deepens",
+      "summary": "South Korean semiconductor shares tumbled on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
+      "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T02:41:03+00:00"
+    },
+    {
+      "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+      "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+      "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T01:34:28+00:00"
+    },
+    {
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+      "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-28T01:19:00+00:00"
+    },
+    {
+      "title": "The Tech Bet Hiding Inside EWY ETF",
+      "summary": "A fund's label tells you the category, but rarely reveals the concentrated bet you might be making inside.",
+      "link": "https://www.trefis.com/articles/608960/the-tech-bet-hiding-inside-ewy-etf/2026-07-27?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T01:04:26+00:00"
+    },
+    {
+      "title": "What Should You Do With DVY At A New High?",
+      "summary": "The dividend ETF just hit a record, and while it feels like a moment to act, the data suggests a different kind of discipline.",
+      "link": "https://www.trefis.com/articles/608958/what-should-you-do-with-dvy-at-a-new-high/2026-07-27?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T00:55:20+00:00"
+    },
+    {
+      "title": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
+      "summary": "A 53-year-old with two decades of maxed-out 401(k) contributions thinks she built a diversified retirement. She may have accidentally built a concentrated AI bet instead, and the one safety net she overlooked could be worth far more than she realizes.",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/07/27/only-14-of-gen-x-has-a-pension-for-a-53-year-old-riding-an-ai-heavy-sp-500-social-security-is-the-only-floor-left/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T00:36:08+00:00"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+      "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+      "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T23:43:50+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials rose more than 260 points on Monday. Tune in to CNBC on Tuesday for Boeing CEO Kelly Ortberg and JetBlue CEO Joanna Geraghty.",
+      "link": "https://www.cnbc.com/2026/07/27/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T23:36:49+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+      "summary": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
+      "link": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T23:00:02+00:00"
+    },
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-27T22:30:00+00:00"
+    },
+    {
+      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus",
+      "summary": "China has begun developing deep ultraviolet lithography machines used to build semiconductors, according to media reports.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-ends-higher-on-support-from-weak-oil-but-ai-concerns-weigh-on-nasdaq/cZZxvPrR76H?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-27T22:29:03+00:00"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
+      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T22:23:50+00:00"
+    },
+    {
+      "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+      "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
+      "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-27T22:20:01+00:00"
+    },
+    {
+      "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-27T22:00:00+00:00"
+    },
+    {
+      "title": "How Much Union Pacific (UNP) Are You Really Betting On?",
+      "summary": "Your diversified ETF portfolio may be leaning heavily on a single railroad stock that has run far ahead of its trend.",
+      "link": "https://www.trefis.com/articles/608962/how-much-union-pacific-unp-are-you-really-betting-on/2026-07-27?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-27T21:55:49+00:00"
+    },
+    {
+      "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+      "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
+      "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-27T21:46:00+00:00"
+    },
+    {
+      "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "summary": "A new study found cognitive improvements for shorter durations of eating",
+      "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-27T21:37:00+00:00"
+    }
+  ]
+}
