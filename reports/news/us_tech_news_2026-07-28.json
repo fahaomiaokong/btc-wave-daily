@@ -1,0 +1,102 @@
+[
+  {
+    "title": "US Stock Futures Retreat Amid Chip Pressure Even As Oil Pulls Back On Iran Optimism: APLD, CAPR, NVDA, AMKR In Focus",
+    "summary": "Markets are largely focused on pivotal earnings from major hyperscalers this week, including Amazon.com, Apple, Meta and Microsoft.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-retreat-amid-chip-pressure-even-as-oil-pulls-back-on-iran-optimism-apld-capr-nvda-amkr-in-focus/cZZC43pR76z?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-28T01:49:50+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AAPL",
+      "AMZN",
+      "META"
+    ],
+    "score": 23
+  },
+  {
+    "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
+    "summary": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
+    "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+    "source": "Tech",
+    "published": "2026-07-27T11:32:45+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "PLTR"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Apple ends day as world's most valuable company, passing Nvidia",
+    "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+    "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+    "source": "Tech",
+    "published": "2026-07-27T21:12:26+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing",
+    "summary": "(Bloomberg) -- Silicon Valley leaders, including Anthropic PBC Chief Executive Officer Dario Amodei and Nvidia Corp. CEO Jensen Huang, are warning against a broad government crackdown on open-weight artificial intelligence systems as a response to a breakthrough Chinese AI model that’s challenged US leadership in the technology.Most Read from BloombergNvidia’s $750 Billion in Deals Reignite Circular AI FearsDeepSeek Suspends Fundraising After Viral US-China PostsS&P 500 Wobbles as AI Angst Offse",
+    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-amodei-rejects-open-model-015132572.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-28T01:51:32+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft touts cost-saving AI model for cybersecurity",
+    "summary": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+    "link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "source": "Tech",
+    "published": "2026-07-27T23:46:25+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation",
+    "summary": "New Chinese AI technologies and a remarkably strong listing by the country’s largest memory chip firm weighed on sentiment toward U.S. semiconductors.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/sndk-nvda-skhy-asml-stocks-extend-slide-overnight-amid-china-ai-challenge-tech-rotation/cZZCeckR766?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-28T02:23:17+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+    "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
+    "link": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+    "source": "Tech",
+    "published": "2026-07-27T22:20:01+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+    "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "source": "Tech",
+    "published": "2026-07-27T21:29:40+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  }
+]
