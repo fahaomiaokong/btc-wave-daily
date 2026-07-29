@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Anthropic clarifies stance on open-weight AI models",
+    "summary": "Jensen Huang had never posted on X before July 24. His first post on the platform wasn't about chips or Nvidia's earnings or the next GPU architecture. It was a letter. An open letter signed by more than 20 tech companies, including Nvidia, Microsoft, Meta, Google, OpenAI, Hugging Face, Mistral, ...",
+    "link": "https://www.thestreet.com/technology/anthropic-open-weight-ai-ban-dario-amodei-dario-amodei?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-29T02:33:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 23
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "source": "The Verge",
+    "published": "2026-07-28T23:14:53+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+    "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+    "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+    "source": "Tech",
+    "published": "2026-07-28T19:45:10+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "SK hynix posts 1,200% net profit boost on AI chip boom",
+    "summary": "South Korea's SK hynix said Wednesday second-quarter net profit soared a whopping 1,242 percent year-on-year, driven by the artificial intelligence industry's explosive demand for its advanced memory chips.SK hynix is a specialist supplier of high-bandwidth memory chips to US industry behemoth Nvidia, and a pillar of South Korea's tech-led economy.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-posts-1-200-015118972.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-29T01:51:18+00:00",
+    "tickers": [
+      "NVDA",
+      "NET"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Nvidia (NVDA) Pours $5 Billion Into Safe AI And Expands Data Center Reach",
+    "summary": "Nvidia (NasdaqGS:NVDA) is committing US$5b to Safe Superintelligence, a new AI safety startup led by former OpenAI chief scientist Ilya Sutskever. The company is entering multibillion dollar AI data center lease deals, including a large buildout with Hut 8 in Texas. Nvidia is expanding its Agent Toolkit platform through new partnerships with Synopsys, Siemens, and Cadence to support chip and system design automation. Nvidia sits at the center of AI computing, with its GPUs and software...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-pours-5-billion-031308100.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-29T03:13:08+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia Partner SK Hynix Misses Q2 Sales Target But Profit Surprises",
+    "summary": "South Korean memory-chip maker SK Hynix missed Q2 sales estimates but its net profit rocketed due to investment gains. SKHY stock rose late.",
+    "link": "https://finance.yahoo.com/m/6ad9c396-e77c-37fe-a5f4-682e6bf81ad4/nvidia-partner-sk-hynix.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-29T00:47:21+00:00",
+    "tickers": [
+      "NVDA",
+      "NET"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Apple touches $5 trillion market cap for first time",
+    "summary": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
+    "link": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+    "source": "Tech",
+    "published": "2026-07-28T20:02:50+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft touts cost-saving AI model for cybersecurity",
+    "summary": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+    "link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "source": "Tech",
+    "published": "2026-07-28T16:33:09+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  }
+]
