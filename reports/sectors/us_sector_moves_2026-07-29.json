@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.26,
+      "previous_close": 163.39999389648438,
+      "change_pct": 2.3623049251525474,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.06,
+      "previous_close": 85.36000061035156,
+      "change_pct": 1.9915644066224258,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.67,
+      "previous_close": 107.66000366210938,
+      "change_pct": 1.866985202971927,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.34,
+      "previous_close": 51.38999938964844,
+      "change_pct": 1.84860988837241,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.48,
+      "previous_close": 110.83999633789062,
+      "change_pct": 1.4796136018535355,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.6,
+      "previous_close": 56.880001068115234,
+      "change_pct": 1.2658208832003082,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 46.01,
+      "previous_close": 45.7599983215332,
+      "change_pct": 0.5463323593461578,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 45.52,
+      "previous_close": 45.68000030517578,
+      "change_pct": -0.3502633627558205,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 182.49,
+      "previous_close": 183.1999969482422,
+      "change_pct": -0.38755292580204825,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.57,
+      "previous_close": 58.36000061035156,
+      "change_pct": -1.3536679268153384,
+      "as_of": "2026-07-28"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 171.09,
+      "previous_close": 174.3000030517578,
+      "change_pct": -1.8416540422002248,
+      "as_of": "2026-07-28"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures edge lower as oil climbs; South Korea stocks fall 8% amid chip rout: Live updates",
+      "summary": "The Dow is coming off its third straight winning day.",
+      "link": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T03:55:37+00:00"
+    },
+    {
+      "title": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
+      "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
+      "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T03:02:57+00:00"
+    },
+    {
+      "title": "SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations",
+      "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+      "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T02:37:16+00:00"
+    },
+    {
+      "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+      "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
+      "link": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T02:27:03+00:00"
+    },
+    {
+      "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+      "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
+      "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T02:06:49+00:00"
+    },
+    {
+      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+      "summary": "Loadings at a Mediterranean port have picked up as Saudi Arabia races to offer its oil to buyers through a lengthier — and more expensive — backdoor.",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-29T01:28:00+00:00"
+    },
+    {
+      "title": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
+      "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
+      "link": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T01:17:13+00:00"
+    },
+    {
+      "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+      "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T00:52:49+00:00"
+    },
+    {
+      "title": "Seagate’s earnings are welcome news for the battered AI trade",
+      "summary": "The storage maker’s June-quarter results come in ahead of Wall Street’s expectations, and the stock rallies after hours",
+      "link": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-29T00:21:00+00:00"
+    },
+    {
+      "title": "Ford matches GM in one crucial way, and the stock jumps",
+      "summary": "Ford leans on pickup trucks and other traditionally powered vehicles to limit sales decline.",
+      "link": "https://www.marketwatch.com/story/ford-matches-gm-in-one-crucial-way-and-the-stock-jumps-bf2f708c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-29T00:18:00+00:00"
+    },
+    {
+      "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology",
+      "summary": "Fuel-cell maker also raises its 2026 guidance for the second straight time",
+      "link": "https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-29T00:17:00+00:00"
+    },
+    {
+      "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
+      "summary": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.",
+      "link": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T00:04:25+00:00"
+    },
+    {
+      "title": "Senate sets up votes to sanction Russia for Ukraine war",
+      "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+      "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T00:03:14+00:00"
+    },
+    {
+      "title": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
+      "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
+      "link": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T23:49:14+00:00"
+    },
+    {
+      "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+      "summary": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
+      "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T22:49:50+00:00"
+    },
+    {
+      "title": "Dow Ends Higher For Third Straight Session As Oil Cools, Nasdaq Slides On Chipmaker Rout — PYPL, SPCX, AAPL, V, F Stocks In Focus",
+      "summary": "Nasdaq dropped for the fifth straight session on Tuesday, its longest losing streak since January this year.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-continues-to-drop-on-chipmaker-rout/cZZ6TnzRJbt?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:44:01+00:00"
+    },
+    {
+      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
+      "summary": "Experts say this could mean that more seniors will switch to Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-28T22:06:00+00:00"
+    },
+    {
+      "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+      "summary": "Investors are worried about China’s domestic supply of chips and manufacturing tools, analysts noted.",
+      "link": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-28T21:56:00+00:00"
+    },
+    {
+      "title": "The average car loan term is nearly 6 years — here's what that means for your wallet",
+      "summary": "A longer car loan term means lower monthly payments now, but a higher total cost over time.",
+      "link": "https://www.cnbc.com/select/average-car-loan-term/",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-28T21:22:40+00:00"
+    },
+    {
+      "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
+      "summary": "Volatility around the AI trade has been rough this week for bullish bets on stocks via leveraged ETFs",
+      "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-28T21:08:00+00:00"
+    }
+  ]
+}
