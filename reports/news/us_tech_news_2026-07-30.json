@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Dow, S&P 500, Nasdaq Futures Rise As Investors Shrug Off Fed Hold, Big Tech Earnings: IBRX, MSFT, SOFI, META In Focus",
+    "summary": "The Federal Reserve held benchmark interest rates steady for a fifth consecutive session.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rise-as-investors-shrug-off-fed-hold-big-tech-earnings-ibrx-msft-sofi-meta-in-focus/cZNPmOkRJTM?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-30T01:44:39+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",
+    "summary": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late.",
+    "link": "https://finance.yahoo.com/m/58bee05c-df37-343b-b099-b9d3d5fa6440/dow-jones-futures-rise%3B.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-30T03:07:36+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+    "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
+    "link": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+    "source": "Tech",
+    "published": "2026-07-29T23:09:42+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch",
+    "published": "2026-07-29T22:46:03+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Zuckerberg Loses $15 Billion As Meta Shares Plunge Following Earnings Disappointment",
+    "summary": "Meta beat on revenue and Zuckerberg called AI a generational opportunity, yet the stock cratered in after-hours trading and wiped out billions from his personal fortune. The gap between the bullish pitch and the brutal numbers tells a complicated story.",
+    "link": "https://247wallst.com/investing/2026/07/29/zuckerberg-loses-15-billion-as-meta-shares-plunge-following-earnings-disappointment/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-07-30T01:35:16+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch",
+    "published": "2026-07-30T00:21:06+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "source": "The Verge",
+    "published": "2026-07-29T18:19:30+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges",
+    "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks after Xbox head Asha Sharma […]",
+    "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+    "source": "The Verge",
+    "published": "2026-07-29T21:53:54+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 8
+  }
+]
