@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.65,
+      "previous_close": 57.56999969482422,
+      "change_pct": 1.8759776114309679,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.36,
+      "previous_close": 87.05999755859375,
+      "change_pct": 0.3445927519172498,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.96,
+      "previous_close": 46.0099983215332,
+      "change_pct": -0.10866838373649879,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.51,
+      "previous_close": 109.66999816894531,
+      "change_pct": -0.14589055495271008,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.24,
+      "previous_close": 167.25999450683594,
+      "change_pct": -0.6098257445501964,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.61,
+      "previous_close": 112.4800033569336,
+      "change_pct": -0.7734738006477504,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.74,
+      "previous_close": 52.34000015258789,
+      "change_pct": -1.1463510715297942,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.91,
+      "previous_close": 45.52000045776367,
+      "change_pct": -1.3400712909255597,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.68,
+      "previous_close": 57.599998474121094,
+      "change_pct": -1.597219615438772,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 166.57,
+      "previous_close": 171.08999633789062,
+      "change_pct": -2.641882304424137,
+      "as_of": "2026-07-29"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 176.66,
+      "previous_close": 182.49000549316406,
+      "change_pct": -3.194698513712546,
+      "as_of": "2026-07-29"
+    }
+  ],
+  "news": [
+    {
+      "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
+      "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T03:16:30+00:00"
+    },
+    {
+      "title": "Microsoft jumps 8% as it boosts capital spending plans, citing demand",
+      "summary": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T03:09:11+00:00"
+    },
+    {
+      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+      "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+      "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T02:52:30+00:00"
+    },
+    {
+      "title": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
+      "summary": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.",
+      "link": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T02:36:58+00:00"
+    },
+    {
+      "title": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation",
+      "summary": "The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.",
+      "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T02:29:33+00:00"
+    },
+    {
+      "title": "China AI supplier Zhongji Innolight slips in Hong Kong debut after $6.8 billion IPO",
+      "summary": "Shares of Zhongji Innolight fell on Thursday after the Chinese optical transceiver maker made its trading debut on the Hong Kong Stock Exchange.",
+      "link": "https://www.cnbc.com/2026/07/30/china-ai-supplier-zhongji-innolight-hong-kong-debut.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T02:15:40+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Meta's clout in the world's largest democracy is surging — inviting scrutiny",
+      "summary": "Meta Platforms has strengthened its influence on India as Gen Z protesters widely relied on Instagram to raise their concerns against the Modi government.",
+      "link": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T01:58:00+00:00"
+    },
+    {
+      "title": "Todd Blanche AG nomination vote by Senate Judiciary postponed amid Trump-IRS settlement concerns",
+      "summary": "Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+      "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T01:20:46+00:00"
+    },
+    {
+      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+      "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T01:02:00+00:00"
+    },
+    {
+      "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
+      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T01:01:00+00:00"
+    },
+    {
+      "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+      "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
+      "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T01:00:01+00:00"
+    },
+    {
+      "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep",
+      "summary": "For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.",
+      "link": "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T00:58:44+00:00"
+    },
+    {
+      "title": "Microsoft aces earnings call, while Meta frustration grows: 'Do we just need to be a bit more patient?'",
+      "summary": "Wall Street wants bang for its buck after massive capital expenditures",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-aces-earnings-call-while-meta-frustration-grows-do-we-just-need-to-be-a-bit-more-patient.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T00:55:21+00:00"
+    },
+    {
+      "title": "We're raising our price target on Starbucks after a home-run quarter",
+      "summary": "Shares jumped in extended trading Thursday as CEO Brian Niccol's turnaround gathers momentum.",
+      "link": "https://www.cnbc.com/2026/07/29/were-raising-our-price-target-on-starbucks-after-a-home-run-quarter-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T00:54:16+00:00"
+    },
+    {
+      "title": "Qualcomm’s stock falls as memory woes weigh on earnings",
+      "summary": "The chip company came up short on its bottom line.",
+      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T00:20:00+00:00"
+    },
+    {
+      "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
+      "summary": "Trendier products, faster service and more food options boost Starbucks’ earnings.",
+      "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T00:19:00+00:00"
+    },
+    {
+      "title": "Robinhood puts up record revenue as volatility drives a trading bonanza",
+      "summary": "Prediction-market revenues on the popular trading app increased tenfold during the second quarter.",
+      "link": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T00:18:00+00:00"
+    },
+    {
+      "title": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
+      "summary": "Mexican fast-casual chain acknowledged ‘softening’ traffic in the second half of July, but it’s taking a rosier view of its full-year prospects.",
+      "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-30T00:16:00+00:00"
+    },
+    {
+      "title": "SpaceX faces House Energy Committee demand to tour its AI data centers in Memphis",
+      "summary": "The ranking member of the House Committee on Energy is demanding SpaceX records and a tour of its data centers and power plants in and around Memphis.",
+      "link": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T00:11:50+00:00"
+    },
+    {
+      "title": "What a divided Fed means for investors",
+      "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+      "link": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-29T23:36:34+00:00"
+    }
+  ]
+}
