@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.73,
+      "previous_close": 166.57000732421875,
+      "change_pct": 5.499184891042153,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.39,
+      "previous_close": 176.66000366210938,
+      "change_pct": 0.9792801437950249,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.39,
+      "previous_close": 111.61000061035156,
+      "change_pct": 0.6988615584472058,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.0,
+      "previous_close": 56.68000030517578,
+      "change_pct": 0.564572500178695,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.96,
+      "previous_close": 58.650001525878906,
+      "change_pct": 0.528556634366506,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.64,
+      "previous_close": 51.7400016784668,
+      "change_pct": -0.19327730039176982,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.66,
+      "previous_close": 44.90999984741211,
+      "change_pct": -0.5566685554698747,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.3,
+      "previous_close": 45.959999084472656,
+      "change_pct": -1.4360293681895175,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 163.52,
+      "previous_close": 166.24000549316406,
+      "change_pct": -1.636191893217842,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.47,
+      "previous_close": 87.36000061035156,
+      "change_pct": -2.1634622220087385,
+      "as_of": "2026-07-30"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 106.58,
+      "previous_close": 109.51000213623047,
+      "change_pct": -2.675556642383725,
+      "as_of": "2026-07-30"
+    }
+  ],
+  "news": [
+    {
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+      "summary": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
+      "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T04:11:13+00:00"
+    },
+    {
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "summary": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
+      "link": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T03:54:52+00:00"
+    },
+    {
+      "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+      "summary": "China's factory activity unexpectedly contracted in July, as the export rush that powered a second-quarter rebound began to unwind.",
+      "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T03:49:55+00:00"
+    },
+    {
+      "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+      "summary": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings.",
+      "link": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T03:47:31+00:00"
+    },
+    {
+      "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T03:04:39+00:00"
+    },
+    {
+      "title": "How Much RTX Are You Quietly Betting On?",
+      "summary": "Your diversified fund may have quietly made a concentrated bet on this one high-flying aerospace stock for you.",
+      "link": "https://www.trefis.com/articles/609481/how-much-rtx-are-you-quietly-betting-on/2026-07-30?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T01:21:30+00:00"
+    },
+    {
+      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+      "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+      "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T01:11:49+00:00"
+    },
+    {
+      "title": "TQQQ: What a $10,000 Bet on This 3X Nasdaq ETF Would Actually Be Worth Today",
+      "summary": "The AI boom turned TQQQ into one of the market's most talked-about leveraged ETFs, but the same structure that creates explosive gains can just as easily destroy wealth. Here is what actually happened to investors who bought in at a pivotal moment.",
+      "link": "https://247wallst.com/investing/etf/2026/07/30/tqqq-what-a-10000-bet-on-this-3x-nasdaq-etf-would-actually-be-worth-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T01:08:27+00:00"
+    },
+    {
+      "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+      "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T00:52:26+00:00"
+    },
+    {
+      "title": "Is This XLK Tech Dip A Gift?",
+      "summary": "The fund's history of bouncing from pullbacks is encouraging, but what's inside the basket makes this a concentrated play.",
+      "link": "https://www.trefis.com/articles/609469/is-this-xlk-tech-dip-a-gift/2026-07-30?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T00:48:40+00:00"
+    },
+    {
+      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO",
+      "summary": "Apple reported third-quarter earnings on Thursday after the closing bell, and Tim Cook addressed investors for the last time as CEO.",
+      "link": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T00:36:00+00:00"
+    },
+    {
+      "title": "Corporate insiders are sending warning signals about the stock market",
+      "summary": "Corporate insiders haven’t been this bearish in more than 20 years.",
+      "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T00:31:00+00:00"
+    },
+    {
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T00:24:00+00:00"
+    },
+    {
+      "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+      "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+      "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T00:23:53+00:00"
+    },
+    {
+      "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
+      "summary": "“Her husband is open to a trust, but he wants to be the administrator.”",
+      "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T00:16:00+00:00"
+    },
+    {
+      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
+      "summary": "In the wake of online chatter about high-profile tour cancellations, Ticketmaster’s parent company said artists aren’t ditching shows any more than usual.",
+      "link": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T00:14:00+00:00"
+    },
+    {
+      "title": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+      "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
+      "link": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T23:30:34+00:00"
+    },
+    {
+      "title": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+      "summary": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T23:27:04+00:00"
+    },
+    {
+      "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
+      "summary": "Indonesia's state-owned telecom giant is exploring a sale of MDI Ventures, according to people familiar with the matter.",
+      "link": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T22:50:12+00:00"
+    },
+    {
+      "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+      "link": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-30T22:48:30+00:00"
+    }
+  ]
+}
