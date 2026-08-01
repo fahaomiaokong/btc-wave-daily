@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.09,
+      "previous_close": 112.38999938964844,
+      "change_pct": 3.2921083997197176,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.24,
+      "previous_close": 106.58000183105469,
+      "change_pct": 1.5575137365606784,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.55,
+      "previous_close": 58.959999084472656,
+      "change_pct": 1.000679994384046,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.84,
+      "previous_close": 178.38999938964844,
+      "change_pct": 0.8128261759698718,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.94,
+      "previous_close": 57.0,
+      "change_pct": -0.10526315789474161,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.35,
+      "previous_close": 175.72999572753906,
+      "change_pct": -0.2162383979842808,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.05,
+      "previous_close": 85.47000122070312,
+      "change_pct": -0.49140191260625965,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.07,
+      "previous_close": 45.29999923706055,
+      "change_pct": -0.5077245936736863,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.55,
+      "previous_close": 163.52000427246094,
+      "change_pct": -0.5932022059176867,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.35,
+      "previous_close": 44.65999984741211,
+      "change_pct": -0.6941331134600826,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.43,
+      "previous_close": 51.63999938964844,
+      "change_pct": -2.3431436947131123,
+      "as_of": "2026-07-31"
+    }
+  ],
+  "news": [
+    {
+      "title": "The 12% Yield Trap: How SPYI Returns Your Own Capital as ‘Income’",
+      "summary": "SPYI's 12% monthly yield looks like income until you examine what it's actually made of. Three compounding costs hide inside a single headline number, and the fund's own factsheet never adds them up.",
+      "link": "https://247wallst.com/investing/etf/2026/07/31/the-12-yield-trap-how-spyi-returns-your-own-capital-as-income/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T02:35:43+00:00"
+    },
+    {
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T00:45:00+00:00"
+    },
+    {
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T00:25:00+00:00"
+    },
+    {
+      "title": "Soccer-FIFA scraps World Cup sell-off plan after resistance from members",
+      "summary": "FIFA said on Friday it will not proceed with its proposal to sell a piece of its business empire to outside investors after the project was met with fierce resistance from some of its member associations.",
+      "link": "https://www.cnbc.com/2026/07/31/soccer-fifa-scraps-world-cup-sell-off-plan-after-resistance-from-members.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-01T00:16:41+00:00"
+    },
+    {
+      "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+      "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
+      "link": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T23:19:16+00:00"
+    },
+    {
+      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+      "summary": "Investors are seeing more signs that the bottom is near, if not already in.",
+      "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T22:21:00+00:00"
+    },
+    {
+      "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
+      "summary": "There are more similarities between the two hedge-fund blowups than one might expect.",
+      "link": "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T22:09:00+00:00"
+    },
+    {
+      "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+      "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.",
+      "link": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T22:04:03+00:00"
+    },
+    {
+      "title": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year — PSKY, BABA, RDDT, RIVN, AMZN In Focus",
+      "summary": "The benchmark 10-year Treasury yield topped 4.7% on the day, its highest level since January 2025.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-indices-end-week-higher-as-amazon-earnings-lift-sentiment/cZN4nG4RJ5b?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T22:02:55+00:00"
+    },
+    {
+      "title": "Forget IWM: SPSM Has Quietly Beaten It by 12.68 Points Over 10 Years",
+      "summary": "IWM is the default small-cap trade, liquid and familiar, but a quieter alternative has been compounding ahead of it for years thanks to two structural advantages most investors overlook completely.",
+      "link": "https://247wallst.com/investing/2026/07/31/forget-iwm-spsm-has-quietly-beaten-it-by-12-68-points-over-10-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T21:56:49+00:00"
+    },
+    {
+      "title": "The S&P 500 is making a change by adding this little-known industrial stock",
+      "summary": "Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S&P 500 index, edging out better-known names for inclusion.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T21:53:00+00:00"
+    },
+    {
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+      "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T21:49:40+00:00"
+    },
+    {
+      "title": "Trump's AI executive order nears key deadline as regulation debate intensifies",
+      "summary": "OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.",
+      "link": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T21:46:32+00:00"
+    },
+    {
+      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T21:28:00+00:00"
+    },
+    {
+      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
+      "summary": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
+      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T21:10:00+00:00"
+    },
+    {
+      "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
+      "summary": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
+      "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T21:06:36+00:00"
+    },
+    {
+      "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+      "summary": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
+      "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T20:40:51+00:00"
+    },
+    {
+      "title": "August kicks off next week with jobs report, earnings as momentum recovers. Here's what's ahead",
+      "summary": "This week's stock recovery implies that there's some near-term upside for momentum but there are challenges ahead.",
+      "link": "https://www.cnbc.com/2026/07/31/stock-market-next-week-outlook-for-aug-3-7-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-07-31T20:27:40+00:00"
+    },
+    {
+      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+      "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
+      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T20:23:00+00:00"
+    },
+    {
+      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+      "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
+      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-31T20:20:00+00:00"
+    }
+  ]
+}
