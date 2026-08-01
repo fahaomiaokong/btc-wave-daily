@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+    "summary": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.",
+    "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+    "source": "Tech",
+    "published": "2026-07-31T20:17:54+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 21
+  },
+  {
+    "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+    "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
+    "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+    "source": "Tech",
+    "published": "2026-07-31T19:55:13+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META",
+      "TSLA"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+    "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+    "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+    "source": "Tech",
+    "published": "2026-07-30T22:28:58+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Jim Cramer Can’t Help But Gloat At Apple Inc (NASDAQ:AAPL)’s AI Developments",
+    "summary": "Ever the Apple Inc. (NASDAQ:AAPL) bull, Jim Cramer is nothing but ecstatic about the firm’s recent fortunes. With a market capitalization of $4.90 trillion when Cramer made his remarks, the firm was the most valuable company in the world once again after losing the place to NVIDIA. Most of the debate surrounding Apple Inc (NASDAQ:AAPL) […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-t-help-gloat-023735112.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-01T02:58:35+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Believe In Elon Musk, Says Jim Cramer About Tesla, Inc. (NASDAQ:TSLA)",
+    "summary": "As is the case with NVIDIA, Jim Cramer continues to believe in Tesla, Inc. (NASDAQ:TSLA) even though the shares have been weak. They are down by close to 1% over the past year and by a whopping 30% year-to-date. On the 23rd, Tesla Inc. (NASDAQ:TSLA)’s shares closed 14.5% lower. On the 22nd, the firm had […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/believe-elon-musk-says-jim-024130381.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-01T02:41:30+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer Believes Cybersecurity Stocks Like Palo Alto & CrowdStrike Will Do Well",
+    "summary": "Palo Alto Networks, Inc. (NASDAQ:PANW) and CrowdStrike Holdings, Inc. (NASDAQ:CRWD) are part of the cybersecurity sector, which Cramer has been a fan of. The former’s shares are up by 91% while the latter’s stock has gained 67% over the past year. In his Monday morning appearance, Cramer briefly commented on the firm’s support for the Open […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-cybersecurity-stocks-023451210.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-01T02:34:51+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch",
+    "published": "2026-07-31T01:06:54+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer Was Left “Shocked” By Alphabet Inc. (NASDAQ:GOOGL)’s Shares",
+    "summary": "Alphabet Inc. (NASDAQ:GOOGL)’s shares are up by 6.8% year-to-date and by 71% over the past year. More recently, the shares are down by 5.7% over the past month. On July 23rd, the stock closed 7% lower after the firm had reported its second-quarter earnings on the 22nd after market close. The results saw Alphabet Inc. […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-left-shocked-alphabet-024036035.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-01T02:40:36+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 9
+  }
+]
