@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.09,
+      "previous_close": 112.38999938964844,
+      "change_pct": 3.2921083997197176,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.24,
+      "previous_close": 106.58000183105469,
+      "change_pct": 1.5575137365606784,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.55,
+      "previous_close": 58.959999084472656,
+      "change_pct": 1.000679994384046,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.84,
+      "previous_close": 178.38999938964844,
+      "change_pct": 0.8128261759698718,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.94,
+      "previous_close": 57.0,
+      "change_pct": -0.10526315789474161,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.35,
+      "previous_close": 175.72999572753906,
+      "change_pct": -0.2162383979842808,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.05,
+      "previous_close": 85.47000122070312,
+      "change_pct": -0.49140191260625965,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.07,
+      "previous_close": 45.29999923706055,
+      "change_pct": -0.5077245936736863,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.55,
+      "previous_close": 163.52000427246094,
+      "change_pct": -0.5932022059176867,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.35,
+      "previous_close": 44.65999984741211,
+      "change_pct": -0.6941331134600826,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.43,
+      "previous_close": 51.63999938964844,
+      "change_pct": -2.3431436947131123,
+      "as_of": "2026-07-31"
+    }
+  ],
+  "news": [
+    {
+      "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+      "summary": "The disclosure marks the first time a bank has formally tied money-laundering concerns to U.S. President Donald Trump's family business.",
+      "link": "https://www.cnbc.com/2026/08/01/capital-one-closed-trump-organization-accounts-after-investigation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T01:56:07+00:00"
+    },
+    {
+      "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+      "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
+      "link": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T01:35:50+00:00"
+    },
+    {
+      "title": "Return of Capital Disguised as Yield: Why QDTE’s $13.33 Trailing Payout Is Slowly Returning Your Own Money",
+      "summary": "QDTE has made 123 consecutive weekly distributions and markets itself as a Nasdaq-100 income machine, but the fund's own holdings file reveals something most investors never think to check before cashing that weekly check.",
+      "link": "https://247wallst.com/investing/etf/2026/08/01/return-of-capital-disguised-as-yield-why-qdtes-13-33-trailing-payout-is-slowly-returning-your-own-money/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T23:39:26+00:00"
+    },
+    {
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+      "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-01T23:19:46+00:00"
+    },
+    {
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T22:00:00+00:00"
+    },
+    {
+      "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
+      "summary": "IBBQ posted the stronger return over the past year, but has also experienced much higher historical volatility than XLV.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-ibbq-is-broad-healthcare-exposure-or-biotech-growth-the-better-etf-buy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T21:31:01+00:00"
+    },
+    {
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T21:15:00+00:00"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T21:00:00+00:00"
+    },
+    {
+      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+      "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+      "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-01T20:22:15+00:00"
+    },
+    {
+      "title": "Let’s elect candidates who will make the wealthy pay taxes",
+      "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
+      "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T18:30:00+00:00"
+    },
+    {
+      "title": "XLV vs PBE: Is a Low-Cost Healthcare ETF the Better Buy Than a Focused Biotech Specialist?",
+      "summary": "PBE surged 41% in one year but endured a 35% drawdown, while XLV's diversified approach delivered steadier gains with half the volatility.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/01/xlv-vs-pbe-is-a-low-cost-healthcare-etf-the-better-buy-than-a-focused-biotech-specialist/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T18:17:01+00:00"
+    },
+    {
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T18:15:00+00:00"
+    },
+    {
+      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
+      "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T18:06:00+00:00"
+    },
+    {
+      "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+      "summary": "A new announcement from Trump appeared to put the fund back on the table — and dinged the two senators who are leaving Capitol Hill when their terms end.",
+      "link": "https://www.cnbc.com/2026/08/01/trumps-settlement-fund-threat-injects-uncertainty-into-ag-talks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-01T17:41:47+00:00"
+    },
+    {
+      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+      "summary": "Watch out for these 4 major financial pitfalls.",
+      "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T17:32:00+00:00"
+    },
+    {
+      "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T17:15:00+00:00"
+    },
+    {
+      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T17:09:00+00:00"
+    },
+    {
+      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
+      "summary": "Spending down assets can be unsettling after a lifetime of saving.",
+      "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T16:41:00+00:00"
+    },
+    {
+      "title": "What's Inside URA Decides This Dip's Fate",
+      "summary": "The uranium fund's history of deep dives offers a tough lesson for anyone tempted by the current discount.",
+      "link": "https://www.trefis.com/articles/609653/whats-inside-ura-decides-this-dips-fate/2026-08-01?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T16:36:32+00:00"
+    },
+    {
+      "title": "These 3 ETFs Can Turn $500,000 Into $40,000 a Year Without Touching Principal",
+      "summary": "Most income strategies force a painful choice between yield and principal, but three overlooked ETFs attack that tradeoff from completely different angles, and the math behind blending them together might surprise you.",
+      "link": "https://247wallst.com/investing/2026/08/01/these-3-etfs-can-turn-500000-into-40000-a-year-without-touching-principal/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T16:29:57+00:00"
+    }
+  ]
+}
