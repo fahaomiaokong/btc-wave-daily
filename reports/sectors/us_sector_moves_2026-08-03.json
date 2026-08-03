@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.09,
+      "previous_close": 112.38999938964844,
+      "change_pct": 3.2921083997197176,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.24,
+      "previous_close": 106.58000183105469,
+      "change_pct": 1.5575137365606784,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.55,
+      "previous_close": 58.959999084472656,
+      "change_pct": 1.000679994384046,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.84,
+      "previous_close": 178.38999938964844,
+      "change_pct": 0.8128261759698718,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.94,
+      "previous_close": 57.0,
+      "change_pct": -0.10526315789474161,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 175.35,
+      "previous_close": 175.72999572753906,
+      "change_pct": -0.2162383979842808,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.05,
+      "previous_close": 85.47000122070312,
+      "change_pct": -0.49140191260625965,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.07,
+      "previous_close": 45.29999923706055,
+      "change_pct": -0.5077245936736863,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.55,
+      "previous_close": 163.52000427246094,
+      "change_pct": -0.5932022059176867,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.35,
+      "previous_close": 44.65999984741211,
+      "change_pct": -0.6941331134600826,
+      "as_of": "2026-07-31"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.43,
+      "previous_close": 51.63999938964844,
+      "change_pct": -2.3431436947131123,
+      "as_of": "2026-07-31"
+    }
+  ],
+  "news": [
+    {
+      "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
+      "summary": "Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.",
+      "link": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T04:03:53+00:00"
+    },
+    {
+      "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+      "summary": "Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.",
+      "link": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T04:03:08+00:00"
+    },
+    {
+      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates",
+      "summary": "The first week of August kicks off with the July jobs report and another batch of key earnings reports.",
+      "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T03:52:48+00:00"
+    },
+    {
+      "title": "Oil drops over 4% as Middle East tensions ebb on diplomatic efforts",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T02:33:19+00:00"
+    },
+    {
+      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
+      "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
+      "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T02:23:21+00:00"
+    },
+    {
+      "title": "Two die as firefighting helicopters collide in Greece; French blaze changes course",
+      "summary": "Two people on one helicopter died, while the crew on the other survived, the fire service said. Investigations had started into what caused the collision.",
+      "link": "https://www.cnbc.com/2026/08/02/two-die-as-firefighting-helicopters-collide-in-greece.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T22:53:32+00:00"
+    },
+    {
+      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+      "summary": "U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.",
+      "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T22:17:47+00:00"
+    },
+    {
+      "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
+      "summary": "Apple just posted its strongest June quarter ever and surged double digits, yet one popular income ETF built around Nasdaq-100 giants moved in the opposite direction. Understanding why reveals a hidden cost that never appears on the fund's expense-ratio line.",
+      "link": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-02T21:40:55+00:00"
+    },
+    {
+      "title": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "summary": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+      "link": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T20:27:44+00:00"
+    },
+    {
+      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+      "summary": "Miller has denied the allegations made against him by his ex-wife Emily Moreno, daughter of Ohio Sen. Bernie Moreno.",
+      "link": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T19:13:47+00:00"
+    },
+    {
+      "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+      "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T18:23:03+00:00"
+    },
+    {
+      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+      "summary": "“I realize that probate can be lengthy, public and expensive.”",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-02T17:00:00+00:00"
+    },
+    {
+      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+      "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T16:54:18+00:00"
+    },
+    {
+      "title": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts",
+      "summary": "Due to export disruptions from caused by the Iran and Ukraine wars, monthly OPEC+ hikes over most of this year have had little impact on the market.",
+      "link": "https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T16:02:53+00:00"
+    },
+    {
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-02T16:00:00+00:00"
+    },
+    {
+      "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+      "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.",
+      "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T15:54:05+00:00"
+    },
+    {
+      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+      "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-02T15:19:00+00:00"
+    },
+    {
+      "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
+      "summary": "Candidates giving up in the face of relentless job searches could be part of the reason behind recent declines in the labor force participation rate.",
+      "link": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-02T14:30:01+00:00"
+    },
+    {
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-02T14:00:00+00:00"
+    },
+    {
+      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+      "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
+      "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-02T14:00:00+00:00"
+    }
+  ]
+}
