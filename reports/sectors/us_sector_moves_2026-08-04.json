@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.34,
+      "previous_close": 108.23999786376953,
+      "change_pct": 2.8640079429160137,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 183.16,
+      "previous_close": 179.83999633789062,
+      "change_pct": 1.846087483160086,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.21,
+      "previous_close": 116.08999633789062,
+      "change_pct": 1.8261725635160708,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 178.04,
+      "previous_close": 175.35000610351562,
+      "change_pct": 1.534071173568341,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.01,
+      "previous_close": 50.43000030517578,
+      "change_pct": 1.1501084499590863,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.38,
+      "previous_close": 56.939998626708984,
+      "change_pct": 0.7727456689551548,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.18,
+      "previous_close": 45.06999969482422,
+      "change_pct": 0.24406546687509856,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.36,
+      "previous_close": 44.349998474121094,
+      "change_pct": 0.022551355632494108,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.24,
+      "previous_close": 162.5500030517578,
+      "change_pct": -0.19071242444645975,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.86,
+      "previous_close": 85.05000305175781,
+      "change_pct": -0.22340158135231158,
+      "as_of": "2026-08-03"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.79,
+      "previous_close": 59.54999923706055,
+      "change_pct": -1.2762371902560243,
+      "as_of": "2026-08-03"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures rise slightly after rip-roaring rally leads Dow to record closing high: Live updates",
+      "summary": "The major stock averages surged Monday, with the Dow closing at a record high, as Amazon eclipsed $3 trillion in market cap for the first time.",
+      "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T03:50:09+00:00"
+    },
+    {
+      "title": "The Hidden Price of Monthly Income: DIVO’s Option Overlay Cost Investors Billions in Foregone Gains",
+      "summary": "DIVO pays you every month, but buried inside that steady income stream sits a cost the fund's factsheet keeps in fine print, one that has quietly compounded into a startling gap for long-term investors who thought they were getting the best of both worlds.",
+      "link": "https://247wallst.com/investing/etf/2026/08/03/the-hidden-price-of-monthly-income-divos-option-overlay-cost-investors-billions-in-foregone-gains/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-04T03:15:15+00:00"
+    },
+    {
+      "title": "AI is helping Grab ship products 3 times faster, CFO says, as company raises forecasts",
+      "summary": "Grab reported second-quarter results on Tuesday and raised its full-year outlook.",
+      "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T03:03:18+00:00"
+    },
+    {
+      "title": "India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount",
+      "summary": "Indian government plans to raise up to $3.3 billion by selling its stake in the country's top life insurance company.",
+      "link": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T03:00:01+00:00"
+    },
+    {
+      "title": "A Major Bitcoin Signal Is Flashing Green",
+      "summary": "Why Bitcoin’s comeback may hinge on AI’s unwind and the CLARITY Act.",
+      "link": "https://www.coinage.media/2026/a-major-bitcoin-signal-is-flashing-green?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-04T00:00:00+00:00"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-04T00:00:00+00:00"
+    },
+    {
+      "title": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen",
+      "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasurys into a sensitive U.S. bond market. The Federal Reserve could help.",
+      "link": "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T23:20:54+00:00"
+    },
+    {
+      "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+      "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”",
+      "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T23:15:00+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+      "summary": "From a surprise yuan devaluation in 2015 to crackdowns in recent years, many of Beijing's policy moves appear abrupt to outsiders.",
+      "link": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T23:00:01+00:00"
+    },
+    {
+      "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+      "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+      "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:48:18+00:00"
+    },
+    {
+      "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+      "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+      "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:47:54+00:00"
+    },
+    {
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T22:45:00+00:00"
+    },
+    {
+      "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+      "summary": "The rally in Microsoft shares “has legs” because its capital spending is showing a payoff.",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T22:44:00+00:00"
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+      "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T22:30:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+      "summary": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
+      "link": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:20:01+00:00"
+    },
+    {
+      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+      "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
+      "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T22:15:00+00:00"
+    },
+    {
+      "title": "Larry Berg named next Major League Soccer commissioner",
+      "summary": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+      "link": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:10:13+00:00"
+    },
+    {
+      "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
+      "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+      "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:03:52+00:00"
+    },
+    {
+      "title": "The best 5-year CD rates of August 2026: Up to 4.50%",
+      "summary": "Lock in a high interest rate for a long-term savings goal with one of these top five-year CDs.",
+      "link": "https://www.cnbc.com/select/best-5-year-cds/",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-03T22:00:59+00:00"
+    },
+    {
+      "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
+      "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-03T21:59:00+00:00"
+    }
+  ]
+}
