@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Louis Navellier sees uncommon August rebound after Palantir blowout",
+    "summary": "Notable earnings came from Palantir (PLTR), which took some air out of the short seller’s narrative that AI is going to replace all software stocks. For a while, that worry hurt Microsoft (MSFT). But between Microsoft's recent beat from monetizing OpenAI and Palantir's phenomenal beat following two ...",
+    "link": "https://www.thestreet.com/investing/louis-navellier-sees-uncommon-august-rebound-after-palantir-blowout?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-05T02:03:00+00:00",
+    "tickers": [
+      "MSFT",
+      "PLTR"
+    ],
+    "score": 12
+  },
+  {
+    "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat",
+    "summary": "Elon Musk said SpaceX will buy chips exclusively from Nvidia going forward, passing on rival Advanced Micro Devices.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-tumbles-overnight-as-cap-ex-surge-and-space-x-s-nvidia-switch-overshadow-q2-beat/cZo4BNHRJ4F?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-05T01:58:58+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast",
+    "summary": "On Tuesday, shares of Advanced Micro Devices, Inc. (NASDAQ:AMD) fell sharply in after-hours trading despite beating second-quarter expectations, as analysts said investors had been looking for a more dramatic AI-driven outlook tied to the company’s Helios platform. AMD Analysts Say Wall Street Wanted a Bigger Helios Forecast Futurum Group CEO Daniel Newman said AMD’s results were solid, but the market had been expecting a stronger forecast driven by Helios, the company’s upcoming rack-scale AI p",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-were-good-says-015720661.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-05T01:57:20+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+    "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+    "source": "TechCrunch",
+    "published": "2026-08-04T20:36:30+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch",
+    "published": "2026-08-04T14:03:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+    "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "source": "Tech",
+    "published": "2026-08-03T22:48:18+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Better Robotics Stock: Tesla vs. Nvidia",
+    "summary": "Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.",
+    "link": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-05T02:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+    "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "source": "Tech",
+    "published": "2026-08-04T14:49:22+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 9
+  }
+]
