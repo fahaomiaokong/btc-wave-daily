@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 186.9,
+      "previous_close": 178.0399932861328,
+      "change_pct": 4.976413754199616,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.0,
+      "previous_close": 51.0099983215332,
+      "change_pct": 1.9407992766956816,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 186.4,
+      "previous_close": 183.16000366210938,
+      "change_pct": 1.7689431497652341,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.88,
+      "previous_close": 57.380001068115234,
+      "change_pct": 0.871381879709654,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.04,
+      "previous_close": 111.33999633789062,
+      "change_pct": 0.6287081777738068,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.37,
+      "previous_close": 84.86000061035156,
+      "change_pct": 0.6009891420932112,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.29,
+      "previous_close": 118.20999908447266,
+      "change_pct": 0.06767694454525852,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.17,
+      "previous_close": 45.18000030517578,
+      "change_pct": -0.022134362789349993,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 162.1,
+      "previous_close": 162.24000549316406,
+      "change_pct": -0.08629529611916542,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.52,
+      "previous_close": 58.790000915527344,
+      "change_pct": -0.4592633293462489,
+      "as_of": "2026-08-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.11,
+      "previous_close": 44.36000061035156,
+      "change_pct": -0.5635721526415449,
+      "as_of": "2026-08-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures are little changed after massive rally lifts index to fresh record: Live updates",
+      "summary": "Stocks rallied on Tuesday as the S&P 500 and the Dow Industrials closed at new records.",
+      "link": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T03:38:18+00:00"
+    },
+    {
+      "title": "Covered-Call Trap: Why JEPQ’s Income Distributions Are Taxed Like a Paycheck, Not Dividends",
+      "summary": "JEPQ's monthly checks look generous until the IRS shows up and takes a cut that most yield-focused investors never see coming. Before you chase that 10% distribution rate, find out what the fund's structure quietly costs you.",
+      "link": "https://247wallst.com/investing/etf/2026/08/04/covered-call-trap-why-jepqs-income-distributions-are-taxed-like-a-paycheck-not-dividends/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-05T03:15:57+00:00"
+    },
+    {
+      "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+      "summary": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
+      "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T02:30:01+00:00"
+    },
+    {
+      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+      "summary": "In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.",
+      "link": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T01:43:06+00:00"
+    },
+    {
+      "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+      "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+      "link": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T01:27:06+00:00"
+    },
+    {
+      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close",
+      "summary": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
+      "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T01:26:27+00:00"
+    },
+    {
+      "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO",
+      "summary": "Follow SpaceX’s Q2 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
+      "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T00:51:10+00:00"
+    },
+    {
+      "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+      "summary": "Beijing's move to tax offshore trusts, long used by China's ultra-rich to hold money, has set off a rush to lawyers and a scramble for cash.",
+      "link": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T00:32:29+00:00"
+    },
+    {
+      "title": "A 'Market Wizard' Is Running One of the Worst ETFs of 2026",
+      "summary": "His fund has lost 96% in 2026.",
+      "link": "http://www.etf.com/sections/features/market-wizard-running-one-worst-etfs-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-04T23:59:44+00:00"
+    },
+    {
+      "title": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
+      "summary": "Asian travelers' appetite for Europe remains resilient despite record-breaking heat, with spending in Northern Europe projected to increase.",
+      "link": "https://www.cnbc.com/2026/08/05/europe-heatwave-travel-demand-asia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T23:27:44+00:00"
+    },
+    {
+      "title": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
+      "summary": "Twenty-five of the 27 biggest single-day point gains in Dow history share a surprising common thread, but the full picture behind that stat challenges almost everything the headline implies.",
+      "link": "https://247wallst.com/investing/2026/08/04/the-dow-just-gained-1000-points-for-the-27th-day-ever-25-of-these-days-happened-under-donald-trump/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-04T22:59:01+00:00"
+    },
+    {
+      "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
+      "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:47:49+00:00"
+    },
+    {
+      "title": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+      "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
+      "link": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:47:43+00:00"
+    },
+    {
+      "title": "US Stock Futures Flat After S&P500, Dow End At Record Highs On Strong Earnings, Easing Geopolitical Concerns — PLTR, AZN, CMG, MRNA In Focus",
+      "summary": "President Donald Trump discussed efforts to de-escalate US-Iran tensions with Qatari Emir Tamim bin Hamad Al Thani.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-flat-after-s-and-p500-dow-end-at-record-highs/cZo5yAlRJ4k?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-04T22:45:34+00:00"
+    },
+    {
+      "title": "Pinterest shares fall on lukewarm sales guidance",
+      "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
+      "link": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:45:26+00:00"
+    },
+    {
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "summary": "The S&P 500 booked its 25th record close of 2026, after a 42-day break.",
+      "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-04T22:40:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves after the bell: SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts & more",
+      "summary": "These are the stocks posting the largest moves after the bell.",
+      "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-after-the-bell-spcx-amd-pins-anet-wynn.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:25:44+00:00"
+    },
+    {
+      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
+      "link": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:22:22+00:00"
+    },
+    {
+      "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+      "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
+      "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-04T22:22:00+00:00"
+    },
+    {
+      "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
+      "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
+      "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-04T22:09:17+00:00"
+    }
+  ]
+}
