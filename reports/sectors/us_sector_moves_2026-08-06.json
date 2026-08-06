@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 164.16,
+      "previous_close": 162.10000610351562,
+      "change_pct": 1.2708166680566846,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.64,
+      "previous_close": 52.0,
+      "change_pct": 1.2307692307692353,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.64,
+      "previous_close": 118.29000091552734,
+      "change_pct": 0.2958822231496905,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.0,
+      "previous_close": 57.880001068115234,
+      "change_pct": 0.2073236518146393,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.2,
+      "previous_close": 45.16999816894531,
+      "change_pct": 0.066419819063257,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 186.35,
+      "previous_close": 186.39999389648438,
+      "change_pct": -0.02682076079473239,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.33,
+      "previous_close": 85.37000274658203,
+      "change_pct": -0.046858082810163904,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.91,
+      "previous_close": 186.89999389648438,
+      "change_pct": -0.5296917757165343,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.66,
+      "previous_close": 44.11000061035156,
+      "change_pct": -1.020178200237798,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.87,
+      "previous_close": 112.04000091552734,
+      "change_pct": -1.0442707122159556,
+      "as_of": "2026-08-05"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.31,
+      "previous_close": 58.52000045776367,
+      "change_pct": -2.0676699389928666,
+      "as_of": "2026-08-05"
+    }
+  ],
+  "news": [
+    {
+      "title": "Salmonella outbreak linked to Mexican jalapenos sickens 345 across 27 U.S. states",
+      "summary": "CDC and FDA are investigating a Salmonella outbreak linked to Mexican jalapeños that has sickened 345 people in 27 states. Recall underway.",
+      "link": "https://www.cnbc.com/2026/08/06/salmonella-outbreak-linked-to-mexican-jalapenos-sickens-345-across-27-us-states.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T03:47:22+00:00"
+    },
+    {
+      "title": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here’s the Hidden Cost Nobody Talks About",
+      "summary": "VNQ's 0.13% expense ratio looks like a bargain until you see what the IRS quietly collects every quarter, and it has nothing to do with management fees.",
+      "link": "https://247wallst.com/investing/etf/2026/08/05/vnq-returned-62-61-in-10-years-spy-returned-253-49-heres-the-hidden-cost-nobody-talks-about/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-06T03:45:46+00:00"
+    },
+    {
+      "title": "Asia tech sell-off has not derailed AI investment cycle, J.P. Morgan says",
+      "summary": "The recent 25%-30% correction in Asian tech stocks and the Philadelphia Semiconductor Index marks the third major drawdown since the upcycle began in late-2022.",
+      "link": "https://www.cnbc.com/2026/08/06/asia-tech-sell-off-has-not-derailed-ai-investment-cycle-jp-morgan-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T03:43:32+00:00"
+    },
+    {
+      "title": "Laid Off at 63 Means Retired, Ready or Not. These 4 ETFs Turn Your Severance Into a Salary",
+      "summary": "A Tuesday phone call ended 26 years of steady paychecks, and now a severance check sits on the kitchen table with no real retirement plan behind it. Four income ETFs can turn that lump sum into monthly cash flow, but each one comes with trade-offs that could quietly erode what you worked decades to build.",
+      "link": "https://247wallst.com/investing/etf/2026/08/05/laid-off-at-63-means-retired-ready-or-not-these-4-etfs-turn-your-severance-into-a-salary/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-06T03:35:12+00:00"
+    },
+    {
+      "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
+      "summary": "Iran denied it was in talks with Washington, despite claims by Trump to the contrary.",
+      "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T03:00:05+00:00"
+    },
+    {
+      "title": "Dow futures inch higher after blue-chip index posts new record close: Live updates",
+      "summary": "Markets ended divided Wednesday as a record close in the Dow Industrials contrasted with losses in the Nasdaq Composite and S&P 500.",
+      "link": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T02:35:55+00:00"
+    },
+    {
+      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "summary": "JPMorgan Chief Executive Officer Jamie Dimon warned that leverage across financial markets remains elevated, adding that investors should be mindful that hidden borrowing could amplify market disruptions.",
+      "link": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T02:02:39+00:00"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T01:33:00+00:00"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T01:31:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+      "summary": "India is ramping up stake sales in state-owned companies to keep the growth engine running amid growing fiscal constraints",
+      "link": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T00:11:08+00:00"
+    },
+    {
+      "title": "We're downgrading Honeywell Aerospace after a shockingly bad earnings debut",
+      "summary": "The company slashed its full-year guidance on key metrics in its first earnings report since separating from the Honeywell conglomerate in June.",
+      "link": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T00:09:36+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials rose more than 260 points on Wednesday, closing at a new record. Tune in to CNBC for Occidental Petroleum CEO Richard Jackson.",
+      "link": "https://www.cnbc.com/2026/08/05/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T23:35:44+00:00"
+    },
+    {
+      "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
+      "summary": "CNBC’s Jim Cramer said investors should view SpaceX as a multigenerational investment, whose biggest opportunities may take decades to fully materialize.",
+      "link": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T23:26:03+00:00"
+    },
+    {
+      "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
+      "summary": "Etsy announced the layoffs along with second-quarter earnings.",
+      "link": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T23:20:15+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Sandisk, Western Digital, E.l.f. Beauty, AppLovin & more",
+      "summary": "Here are some of the companies making big moves in extended trading.",
+      "link": "https://www.cnbc.com/2026/08/05/stocks-making-the-biggest-moves-after-hours-sndk-wdc-elf-app.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T22:48:30+00:00"
+    },
+    {
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
+      "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T22:35:26+00:00"
+    },
+    {
+      "title": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+      "summary": "The midpoint of the company’s revenue forecast was below what analysts had been modeling.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T22:25:00+00:00"
+    },
+    {
+      "title": "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
+      "summary": "“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report",
+      "link": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T22:19:00+00:00"
+    },
+    {
+      "title": "Figma’s stock falls as the company’s AI push requires steep investments",
+      "summary": "While Figma’s consumption-based AI monetization strategy is showing promise, the company’s margins are taking a hit.",
+      "link": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T22:12:00+00:00"
+    },
+    {
+      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+      "summary": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
+      "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-05T21:55:46+00:00"
+    }
+  ]
+}
