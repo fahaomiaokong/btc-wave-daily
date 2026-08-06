@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currently Investigating…'",
+    "summary": "Meta Platforms, Inc. (NASDAQ:META) has joined OpenAI and Anthropic in facing fresh AI safety concerns after one of its models gained unintended internet access during cybersecurity testing and exploited a security vulnerability involving another company. Meta AI Model Exploits Security Flaw During Testing On Wednesday, Meta said that a configuration error by Irregular, an independent company that conducts cybersecurity evaluations for Meta, inadvertently gave one of its AI models access to the o",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-joins-openai-anthropic-ai-021055968.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-06T02:10:55+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 15
+  },
+  {
+    "title": "US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus",
+    "summary": "911.5 million shares held by SpaceX employees and early investors become eligible for sale on Thursday.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-inch-higher-following-s-and-p-500-nasdaq-drop/cZoI4gdRJeV?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-05T23:40:54+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+    "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
+    "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-06T03:09:13+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "AMD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.",
+    "summary": "Alphabet's spending plan boost is great news for several companies.",
+    "link": "https://www.fool.com/investing/2026/08/05/alphabet-ceo-sundar-pichai-just-made-a-200-billion/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-06T03:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "AVGO"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "summary": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+    "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+    "source": "Tech",
+    "published": "2026-08-05T21:03:12+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
+    "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
+    "link": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+    "source": "Tech",
+    "published": "2026-08-05T20:02:56+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'— Jim Cramer Says 'Gloves Off'",
+    "summary": "Apple Inc. has asked a U.S. judge to issue a preliminary injunction preventing two former employees and OpenAI from accessing, using, or disclosing alleged confidential information while its trade secrets lawsuit proceeds. Apple asked the court to require former employees...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-injunction-against-openai-023111508.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-06T02:31:11+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "2 Brilliant Growth Stocks That Just Hit All-Time Highs With Plenty of Room to Run",
+    "summary": "Amazon and Apple are two top stocks whose prices are on a tear.",
+    "link": "https://www.fool.com/investing/2026/08/05/2-brilliant-growth-stocks-that-just-hit-all-time-h/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-06T00:20:00+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 10
+  }
+]
