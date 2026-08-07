@@ -1,0 +1,96 @@
+[
+  {
+    "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+    "summary": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing.",
+    "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+    "source": "Tech",
+    "published": "2026-08-06T15:55:43+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "source": "TechCrunch",
+    "published": "2026-08-06T15:10:32+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "AMD buys chip startup that hardwires AI models into its silicon",
+    "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
+    "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "source": "Tech",
+    "published": "2026-08-06T21:42:31+00:00",
+    "tickers": [
+      "META",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
+    "summary": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
+    "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-07T03:05:45+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge",
+    "published": "2026-08-06T20:56:31+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The AirPods Pro are $60 off, their best price since late June",
+    "summary": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon and Walmart matching the price. That’s their lowest price since Prime […]",
+    "link": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+    "source": "The Verge",
+    "published": "2026-08-06T18:12:49+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "TEAM, NET Stocks Rally Overnight After Earnings: Is ‘SaaSpocalypse’ Finally Fading?",
+    "summary": "Strong cloud results and a July rebound in SaaS stocks, followed by select strong earnings, are boosting investor sentiment.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/team-net-stocks-rally-overnight-after-earnings-is-saa-spocalypse-finally-fading/cZoOoEIRJJD?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-07T02:07:12+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 8
+  },
+  {
+    "title": "3 Stocks to Buy Following SpaceX's First Earnings Call",
+    "summary": "Nvidia, Micron, and SK Hynix all look like big winners after SpaceX's first earnings call.",
+    "link": "https://www.fool.com/investing/2026/08/06/3-stocks-to-buy-following-spacexs-first-earnings-c/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-07T01:20:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
