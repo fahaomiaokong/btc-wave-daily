@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 58.16,
+      "previous_close": 57.310001373291016,
+      "change_pct": 1.4831593200852922,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.18,
+      "previous_close": 110.87000274658203,
+      "change_pct": 0.2796042624140016,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 164.45,
+      "previous_close": 164.16000366210938,
+      "change_pct": 0.17665468531999906,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.11,
+      "previous_close": 85.33000183105469,
+      "change_pct": -0.2578247115126886,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.33,
+      "previous_close": 185.91000366210938,
+      "change_pct": -0.31198087821219245,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.81,
+      "previous_close": 58.0,
+      "change_pct": -0.3275862068965463,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.1,
+      "previous_close": 118.63999938964844,
+      "change_pct": -0.45515795046063845,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.38,
+      "previous_close": 43.65999984741211,
+      "change_pct": -0.6413189381371587,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 184.76,
+      "previous_close": 186.35000610351562,
+      "change_pct": -0.8532364107529999,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.81,
+      "previous_close": 45.20000076293945,
+      "change_pct": -0.8628335317622859,
+      "as_of": "2026-08-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.17,
+      "previous_close": 52.63999938964844,
+      "change_pct": -0.8928559937271929,
+      "as_of": "2026-08-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures are little changed as traders await big jobs report: Live updates",
+      "summary": "Wall Street is coming off a losing session as the July jobs report looms.",
+      "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T03:12:34+00:00"
+    },
+    {
+      "title": "China's exports jump 23% in July, beating estimates; imports cool",
+      "summary": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
+      "link": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T03:04:54+00:00"
+    },
+    {
+      "title": "Micron’s stock falls but is spared the worst of the memory-chip selloff",
+      "summary": "Shares of Sandisk and Western Digital fell hard after investors were left unimpressed by those companies’ earnings reports.",
+      "link": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T02:35:00+00:00"
+    },
+    {
+      "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+      "summary": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+      "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T02:30:49+00:00"
+    },
+    {
+      "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+      "summary": "“I was shocked to learn that his monthly Social Security benefit will be only $700.”",
+      "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T02:15:00+00:00"
+    },
+    {
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+      "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T02:08:42+00:00"
+    },
+    {
+      "title": "Veteran manager buys 2 ETFs as market shifts",
+      "summary": "The S&P 500 has had a strong 2026. Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years. One portfolio manager just decided to look somewhere else. Chris Versace, portfolio manager of the TheStreet Pro Portfolio, initiated ...",
+      "link": "https://www.thestreet.com/investing/stocks/chris-versace-buys-etfs-xlv-robo?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T02:03:00+00:00"
+    },
+    {
+      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T02:00:00+00:00"
+    },
+    {
+      "title": "Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street’s Second Straight Day In The Red",
+      "summary": "WTI crude crossed $78 as uncertainty over an Iran-Oman shipping agreement fueled inflation concerns.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-slipping-overnight-wall-street-second-day-red/cZoOFqgRJJw?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T01:52:05+00:00"
+    },
+    {
+      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+      "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+      "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T01:28:57+00:00"
+    },
+    {
+      "title": "A Market Drop at 67 Does Twice the Damage of One at 57. Here’s the Math, and the Buffer That Blunts It.",
+      "summary": "Two retirees, identical average returns, wildly different retirement outcomes. The culprit is a timing quirk that turns an ordinary market drop into a permanent loss, and most people heading into retirement have no idea how exposed they are.",
+      "link": "https://247wallst.com/personal-finance/2026/08/06/a-market-drop-at-67-does-twice-the-damage-of-one-at-57-heres-the-math-and-the-buffer-that-blunts-it-2/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T00:51:53+00:00"
+    },
+    {
+      "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+      "summary": "No one knows what Congress will do if Social Security’s trust fund were actually to be depleted.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T00:31:00+00:00"
+    },
+    {
+      "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+      "summary": "The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.",
+      "link": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T00:05:26+00:00"
+    },
+    {
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+      "summary": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
+      "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T23:42:20+00:00"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T23:31:00+00:00"
+    },
+    {
+      "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
+      "summary": "The Google parent is utilizing its balance sheet with a fresh debt issuance, as heavy AI investments eat into its free cash flow.",
+      "link": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T23:14:00+00:00"
+    },
+    {
+      "title": "Trade Desk shares tumble on earnings miss and weak outlook",
+      "summary": "Trade Desk’s growth struggles deepened in the second quarter, as the company posted an earnings and revenue miss combined with disappointing guidance.",
+      "link": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T22:59:00+00:00"
+    },
+    {
+      "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
+      "summary": "The salad chain’s shares tumbled after hours, but it said it doesn’t use iceberg lettuce and only uses jalapenos in two dressings.",
+      "link": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-06T22:58:00+00:00"
+    },
+    {
+      "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
+      "summary": "Grindr says AI is boosting engineering productivity, supporting a new $350-per-month premium tier and driving stronger subscriber growth and retention.",
+      "link": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-06T22:26:01+00:00"
+    }
+  ]
+}
