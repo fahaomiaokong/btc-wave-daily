@@ -1,0 +1,97 @@
+[
+  {
+    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+    "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge",
+    "published": "2026-08-07T18:40:34+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "What’s behind the Google AI shake-up",
+    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
+    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "source": "The Verge",
+    "published": "2026-08-07T17:06:00+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Meta (META) Q2 2026 Earnings Call Transcript",
+    "summary": "Revenue surged 28% on advertising strength, but net income fell 14% due to legal charges.",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/08/07/meta-meta-q2-2026-earnings-call-transcript/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-07T23:58:47+00:00",
+    "tickers": [
+      "META",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AMD buys chip startup that hardwires AI models into its silicon",
+    "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
+    "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "source": "Tech",
+    "published": "2026-08-06T21:42:31+00:00",
+    "tickers": [
+      "META",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+    "summary": "Intel (NasdaqGS: INTC) announces a joint venture with SpaceX and Tesla to build a semiconductor fabrication facility in Texas as part of the Terafab project. The Terafab facility is intended to support chips for next generation robotics and autonomous vehicle platforms used by SpaceX and Tesla. The partnership highlights efforts by the companies to tighten control over chip supply for AI hardware and advanced manufacturing in North America. The announcement positions Intel as a key foundry...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T02:11:11+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Amazon (AMZN) Q2 2026 Earnings Call Transcript",
+    "summary": "AWS revenue surged 36.7% as AI demand and custom chips drove triple-digit growth.",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/08/07/amazon-amzn-q2-2026-earnings-call-transcript/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T01:30:19+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three […]",
+    "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "source": "The Verge",
+    "published": "2026-08-07T17:43:34+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+    "summary": "iPhone revenue surged 22% as Apple navigates supply constraints and memory cost inflation.",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/08/07/apple-aapl-q3-2026-earnings-call-transcript/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T01:30:18+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 7
+  }
+]
