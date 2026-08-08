@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.86,
+      "previous_close": 118.0999984741211,
+      "change_pct": 1.4902638006930813,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.97,
+      "previous_close": 185.3300018310547,
+      "change_pct": 1.4244850498366324,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.86,
+      "previous_close": 52.16999816894531,
+      "change_pct": 1.3226027511448413,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.68,
+      "previous_close": 164.4499969482422,
+      "change_pct": 0.7479495740853936,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.380001068115234,
+      "change_pct": 0.530195772756259,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.98,
+      "previous_close": 44.810001373291016,
+      "change_pct": 0.3793765264428428,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.18,
+      "previous_close": 184.75999450683594,
+      "change_pct": 0.22732491104751062,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.25,
+      "previous_close": 111.18000030517578,
+      "change_pct": 0.06296068954134704,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.12,
+      "previous_close": 85.11000061035156,
+      "change_pct": 0.011748783429355036,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.6,
+      "previous_close": 57.810001373291016,
+      "change_pct": -0.3632613186341116,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.5,
+      "previous_close": 58.15999984741211,
+      "change_pct": -1.1348002908247556,
+      "as_of": "2026-08-07"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+      "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
+      "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T22:05:00+00:00"
+    },
+    {
+      "title": "The smart way to invest in gold right now as the dollar slips",
+      "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
+      "link": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T21:58:00+00:00"
+    },
+    {
+      "title": "Financials or Tech: Is XLF or FTEC the Better Buy?",
+      "summary": "XLF delivers a higher dividend yield with lower volatility, while FTEC has posted a higher return over the past year.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/07/financials-or-tech-is-xlf-or-ftec-the-better-buy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T21:40:52+00:00"
+    },
+    {
+      "title": "Prediction markets take center stage in latest round of quarterly earnings reports",
+      "summary": "Recent quarterly reports from DraftKings, Flutter Entertainment and others offer a view into prediction markets businesses and their performance.",
+      "link": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T21:38:57+00:00"
+    },
+    {
+      "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus",
+      "summary": "Nonfarm payrolls fell 23,000 last month, following substantial downward revisions to the prior two months, Bureau of Labor Statistics data showed on Friday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-at-record-high-clocks-strongest-week-since-april-as-poor-jobs-data-calms-rate-hike-fear-sezl-spcx-rdw-pltr-ttd-in-focus/cZof1R8RJ9w?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T21:24:45+00:00"
+    },
+    {
+      "title": "Airlines like Delta and United are selling cheaper business-class tickets with fewer perks. Here's how your credit card can help",
+      "summary": "These cheaper fares often lack amenities such as airport lounge access, but the right credit card can help you get them back.",
+      "link": "https://www.cnbc.com/select/how-to-offset-basic-business-class-with-your-credit-card/",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T21:16:34+00:00"
+    },
+    {
+      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
+      "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:54:00+00:00"
+    },
+    {
+      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+      "summary": "The chip maker recorded its largest-ever weekly increase in market capitalization.",
+      "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:41:00+00:00"
+    },
+    {
+      "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+      "summary": "Stocks often come under pressure once insiders are able to unload shares — but in the case of SpaceX, that risk may have been already priced in.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:38:00+00:00"
+    },
+    {
+      "title": "U.S. Jobs Report Delivers Stark Warning on Economy",
+      "summary": "Downward revisions make July's slowdown harder to dismiss",
+      "link": "https://finance.yahoo.com/economy/articles/u-jobs-report-delivers-stark-203644145.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T20:36:44+00:00"
+    },
+    {
+      "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+      "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "link": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:33:38+00:00"
+    },
+    {
+      "title": "S&P 500 rises to record close Friday and posts strongest week since April: Live updates",
+      "summary": "The three major averages posted their best weekly performances since April.",
+      "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:30:18+00:00"
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+      "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:30:00+00:00"
+    },
+    {
+      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:23:09+00:00"
+    },
+    {
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+      "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:22:17+00:00"
+    },
+    {
+      "title": "Small Caps Are Beating the S&P for Once. This Fund Pays 14% While They Run",
+      "summary": "Small caps are finally outrunning the S&P 500, but IWM holders are leaving something significant on the table. Two overlooked alternatives have quietly delivered both stronger returns and a 14% income stream from the same rally.",
+      "link": "https://247wallst.com/investing/2026/08/07/small-caps-are-beating-the-sp-for-once-this-fund-pays-14-while-they-run/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07T20:21:58+00:00"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:15:00+00:00"
+    },
+    {
+      "title": "BlackRock is finding solid tax-free yields in this corner of the bond market",
+      "summary": "The municipal bond market has attractive opportunities, and it pays to be particular.",
+      "link": "https://www.cnbc.com/2026/08/07/blackrock-is-finding-solid-tax-free-yields-in-this-corner-of-the-bond-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:13:13+00:00"
+    },
+    {
+      "title": "The stakes for next week's inflation data just got higher. Here's what's ahead",
+      "summary": "Friday's jobs report for July complicated the monetary policy outlook.",
+      "link": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-07T20:07:59+00:00"
+    },
+    {
+      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
+      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T20:04:00+00:00"
+    }
+  ]
+}
