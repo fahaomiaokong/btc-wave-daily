@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+    "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+    "source": "Tech",
+    "published": "2026-08-08T12:00:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
+    "summary": "Oracle (NYSE: ORCL) and Google Cloud are expanding their partnership to bring Google's Gemini AI models into Oracle's enterprise applications. The collaboration will make Gemini's multimodal AI tools available across Oracle's cloud and business software stack. Enterprise customers are expected to gain more options for building AI powered workflows and analytics on Oracle's platforms. Oracle is far from the only stock tied to the build out of AI capabilities across software and...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/does-oracle-orcl-gain-bringing-001941124.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-09T00:19:41+00:00",
+    "tickers": [
+      "GOOGL",
+      "ORCL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "AMD just made bold move to challenge Nvidia",
+    "summary": "Advanced Micro Devices (AMD) has spent 2026 proving it can compete with Nvidia in the artificial intelligence race. Its stock has more than doubled this year, and its data center business is growing fast. Now AMD is trying something different. The company just bought a small Toronto startup ...",
+    "link": "https://www.thestreet.com/investing/stocks/amd-acquires-taalas-ai-inference-chips-nvidia-amd?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T22:07:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+    "summary": "Nvidia has posted eight straight quarters of revenue growth while Navitas Semiconductor faces a downward spiral, widening the gap between the two chipmakers.",
+    "link": "https://www.fool.com/coverage/charts/2026/08/08/nvidia-vs-navitas-semiconductor-here-s-what-their-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T23:01:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
+    "summary": "Doximity, Inc. recently reported fiscal first-quarter 2027 results, with revenue rising to US$156.62 million from US$145.91 million a year earlier, while net income and earnings per share declined year on year. Management emphasized rapid uptake and monetization of its clinical AI tools, updating guidance to US$170–171 million for second-quarter revenue and US$671–681 million for full-year revenue. We’ll now examine how Doximity’s raised revenue outlook, underpinned by accelerating adoption...",
+    "link": "https://finance.yahoo.com/healthcare/articles/doximity-docs-31-0-raising-211518315.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T21:15:18+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+    "summary": "Broadcom (NASDAQ:AVGO) has drawn significant market attention in 2026 for its custom AI chips. But the company’s August 6 announcement of new VMware vDefend and Avi Load Balancer capabilities is a reminder that its infrastructure software business, the one built to throw off steady, high-margin cash, is still evolving too. With the stock sitting roughly […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T20:42:34+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever",
+    "summary": "Despite Abel being a net buyer of stocks in the second quarter, Berkshire Hathaway's exorbitant cash pile tells a different and far more concerning story.",
+    "link": "https://www.fool.com/investing/2026/08/08/warren-buffett-abel-366-billion-warning-to-wall-st/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-09T00:11:00+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 7
+  },
+  {
+    "title": "IonQ vs. Meta Platforms: Comparing Revenue Trends Between a Cutting-Edge Quantum Computing Company and an Artificial Intelligence Giant",
+    "summary": "IonQ's revenue has accelerated fivefold in two years, while Meta maintains a vastly larger but steadier base. Their divergent growth patterns hint at very different investor risk profiles.",
+    "link": "https://www.fool.com/coverage/charts/2026/08/08/ionq-vs-meta-platforms-comparing-revenue-trends-between-a-cutting-edge-quantum-computing-company-and-an-artificial-intelligence-giant/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-08T23:05:01+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  }
+]
