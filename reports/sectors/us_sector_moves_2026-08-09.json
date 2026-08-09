@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.86,
+      "previous_close": 118.0999984741211,
+      "change_pct": 1.4902638006930813,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.97,
+      "previous_close": 185.3300018310547,
+      "change_pct": 1.4244850498366324,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.86,
+      "previous_close": 52.16999816894531,
+      "change_pct": 1.3226027511448413,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.68,
+      "previous_close": 164.4499969482422,
+      "change_pct": 0.7479495740853936,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.380001068115234,
+      "change_pct": 0.530195772756259,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.98,
+      "previous_close": 44.810001373291016,
+      "change_pct": 0.3793765264428428,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.18,
+      "previous_close": 184.75999450683594,
+      "change_pct": 0.22732491104751062,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.25,
+      "previous_close": 111.18000030517578,
+      "change_pct": 0.06296068954134704,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.12,
+      "previous_close": 85.11000061035156,
+      "change_pct": 0.011748783429355036,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.6,
+      "previous_close": 57.810001373291016,
+      "change_pct": -0.3632613186341116,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.5,
+      "previous_close": 58.15999984741211,
+      "change_pct": -1.1348002908247556,
+      "as_of": "2026-08-07"
+    }
+  ],
+  "news": [
+    {
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+      "link": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T00:36:19+00:00"
+    },
+    {
+      "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
+      "summary": "ICE defended its policy amid questions about provisions allowing it to withhold or indefinitely delay footage after serious injuries or deaths in custody.",
+      "link": "https://www.cnbc.com/2026/08/08/ice-expects-to-equip-field-officers-with-body-cams-by-end-of-august.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-08T22:26:43+00:00"
+    },
+    {
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T20:00:00+00:00"
+    },
+    {
+      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T19:00:00+00:00"
+    },
+    {
+      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+      "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
+      "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T19:00:00+00:00"
+    },
+    {
+      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+      "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+      "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T18:37:00+00:00"
+    },
+    {
+      "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
+      "summary": "JEPQ promises softer Nasdaq landings and a 10% yield, but the real question is whether those monthly checks and price cushions actually hold up when the index starts bleeding. The answer from two very different market storms might surprise income investors.",
+      "link": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-08T18:34:54+00:00"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T18:30:00+00:00"
+    },
+    {
+      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+      "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T18:30:00+00:00"
+    },
+    {
+      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T18:30:00+00:00"
+    },
+    {
+      "title": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+      "summary": "VOO is closing in on a milestone no ETF has ever reached, and the race to a trillion dollars quietly exposes a structural flaw that SPY holders have been paying for since 1993.",
+      "link": "https://247wallst.com/investing/2026/08/08/voo-is-about-to-become-the-first-1-trillion-etf-and-spy-holders-are-paying-3x-more-for-the-same-index/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-08T18:08:06+00:00"
+    },
+    {
+      "title": "Forget IWM: The Small-Cap Fund That Screens Out Money-Losers Charges 84% Less, and It’s Winning by 2.5 Points",
+      "summary": "IWM dominates small-cap portfolios by sheer habit, but a rival ETF with stricter admission standards has quietly beaten it across every major time horizon while charging a fraction of the fee.",
+      "link": "https://247wallst.com/investing/2026/08/08/forget-iwm-the-small-cap-fund-that-screens-out-money-losers-charges-84-less-and-its-winning-by-2-5-points/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-08T18:01:06+00:00"
+    },
+    {
+      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T17:58:00+00:00"
+    },
+    {
+      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-08T17:41:31+00:00"
+    },
+    {
+      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+      "summary": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
+      "link": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-08T17:25:25+00:00"
+    },
+    {
+      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+      "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
+      "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T17:23:00+00:00"
+    },
+    {
+      "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+      "summary": "No one knows what Congress will do if Social Security’s trust fund were actually to be depleted.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-08T17:00:00+00:00"
+    },
+    {
+      "title": "Vanguard Health Care ETF vs State Street XLV: Which ETF Is the Better Buy for Investors in 2026?",
+      "summary": "XLV's concentrated 60-stock portfolio beat VHT's broader 423 holdings over five years, though VHT delivered stronger 1-year returns.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/08/vanguard-health-care-etf-vs-state-street-xlv-which-etf-is-the-better-buy-for-investors-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-08T15:53:01+00:00"
+    },
+    {
+      "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
+      "summary": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
+      "link": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-08T15:43:23+00:00"
+    },
+    {
+      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+      "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+      "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-08T15:29:19+00:00"
+    }
+  ]
+}
