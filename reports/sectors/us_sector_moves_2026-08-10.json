@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.86,
+      "previous_close": 118.0999984741211,
+      "change_pct": 1.4902638006930813,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.97,
+      "previous_close": 185.3300018310547,
+      "change_pct": 1.4244850498366324,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.86,
+      "previous_close": 52.16999816894531,
+      "change_pct": 1.3226027511448413,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.68,
+      "previous_close": 164.4499969482422,
+      "change_pct": 0.7479495740853936,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.380001068115234,
+      "change_pct": 0.530195772756259,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.98,
+      "previous_close": 44.810001373291016,
+      "change_pct": 0.3793765264428428,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.18,
+      "previous_close": 184.75999450683594,
+      "change_pct": 0.22732491104751062,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.25,
+      "previous_close": 111.18000030517578,
+      "change_pct": 0.06296068954134704,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.12,
+      "previous_close": 85.11000061035156,
+      "change_pct": 0.011748783429355036,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.6,
+      "previous_close": 57.810001373291016,
+      "change_pct": -0.3632613186341116,
+      "as_of": "2026-08-07"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 57.5,
+      "previous_close": 58.15999984741211,
+      "change_pct": -1.1348002908247556,
+      "as_of": "2026-08-07"
+    }
+  ],
+  "news": [
+    {
+      "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
+      "summary": "U.S. stock-index futures were little changed on Sunday, after new demands from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon and as investors await key inflation data later this week.",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T03:02:00+00:00"
+    },
+    {
+      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
+      "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T02:32:43+00:00"
+    },
+    {
+      "title": "Taylor Farms recalls salsa and guacamole over salmonella risk",
+      "summary": "The supplier voluntarily recalled the products, including salsas and guacamole, after being notified that Coast Citrus Distributors was recalling fresh peppers.",
+      "link": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T01:39:45+00:00"
+    },
+    {
+      "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates",
+      "summary": "The three major indexes are coming off their best weeks since April, and the S&P 500 finished Friday at an all-time closing high.",
+      "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T00:29:19+00:00"
+    },
+    {
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "summary": "“She has been living with me for four years.”",
+      "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T23:30:00+00:00"
+    },
+    {
+      "title": "Trump names Will Scharf as White House counsel",
+      "summary": "Will Scharf ‌will become the White House's top lawyer ​after overseeing the administrative work of the Oval Office in his current ⁠role.",
+      "link": "https://www.cnbc.com/2026/08/09/trump-will-scharf-white-house-counsel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T22:15:28+00:00"
+    },
+    {
+      "title": "Netanyahu says Trump's new Gaza plan is unacceptable",
+      "summary": "Netanyahu is caught between far-right ministers angered by concessions in Gaza and Trump, who wants progress toward ending the conflict.",
+      "link": "https://www.cnbc.com/2026/08/09/israel-rejects-trumps-15-point-plan-for-gaza-netanyahu-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T20:31:57+00:00"
+    },
+    {
+      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+      "summary": "For the first time in four years, the average stock is beating the stock market.",
+      "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T19:11:00+00:00"
+    },
+    {
+      "title": "Typhoon Dolphin hits China's east coast, over 1 million evacuated",
+      "summary": "Typhoon Dolphin has triggered mass evacuations and widespread transport disruptions across eastern China, with more than 1 million people moved to safety.",
+      "link": "https://www.cnbc.com/2026/08/09/typhoon-dolphin-set-to-hit-chinas-east-coast-triggering-flood-warnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T18:42:01+00:00"
+    },
+    {
+      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+      "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+      "link": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T18:38:23+00:00"
+    },
+    {
+      "title": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
+      "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+      "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T18:18:34+00:00"
+    },
+    {
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T18:15:57+00:00"
+    },
+    {
+      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "summary": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
+      "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T14:45:17+00:00"
+    },
+    {
+      "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+      "summary": "Energy companies in the S&P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
+      "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T14:00:00+00:00"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T13:30:00+00:00"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "The market's attention will be on July inflation data.",
+      "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-09T13:11:52+00:00"
+    },
+    {
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T13:00:00+00:00"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-09T12:30:00+00:00"
+    }
+  ]
+}
