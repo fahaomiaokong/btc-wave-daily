@@ -1,0 +1,91 @@
+[
+  {
+    "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+    "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "source": "Tech",
+    "published": "2026-08-09T11:31:42+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Why Is Berkshire Hathaway (BRK.B) Deploying Cash More Aggressively Under Greg Abel?",
+    "summary": "Berkshire Hathaway (NYSE:BRK.B) under new CEO Greg Abel carried out its largest quarterly share repurchase since 2021, alongside major new equity investments. The company used a sizable portion of its cash reserves for substantial buybacks and fresh positions in stocks such as Alphabet. This capital deployment marks a clear shift from Berkshire Hathaway's prior pattern of net selling and more cautious use of cash. For readers looking to compare Berkshire Hathaway's capital decisions with...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-berkshire-hathaway-brk-b-011435429.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-10T01:14:35+00:00",
+    "tickers": [
+      "GOOGL",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks.",
+    "summary": "The answer to who is funding the AI build-out could matter far more for cash-burning AI companies than for Nvidia itself.",
+    "link": "https://www.fool.com/investing/2026/08/09/mark-cuban-compared-nvidia-to-a-dot-com-era-ipo-ma/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-10T00:50:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Ozempic For $50 a Month? Amazon Pharmacy Rolls Out Cheap Weight-Loss Drugs for Medicare Patients",
+    "summary": "Amazon.com Inc.‘s Amazon Pharmacy will offer eligible Medicare beneficiaries weight-loss drugs for $50 per month through a new federal program aimed at expanding access. The company announced on Thursday that the service would automate eligibility checks, prior authorizations, and billing,...",
+    "link": "https://finance.yahoo.com/healthcare/articles/ozempic-50-month-amazon-pharmacy-013108263.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-10T01:31:08+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Apple CEO Tim Cook Just Passed His Successor a Mess",
+    "summary": "Rising memory chip prices could be a difficult challenge for new CEO John Ternus.",
+    "link": "https://www.fool.com/investing/2026/08/09/apple-ceo-tim-cook-just-passed-his-successor-a-mes/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-09T22:20:00+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 5
+  },
+  {
+    "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+    "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the […]",
+    "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+    "source": "The Verge",
+    "published": "2026-08-09T15:56:58+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Sezzle Beat on Revenue and Raised Guidance. Its Stock Lost a Third of Its Value in a Day.",
+    "summary": "The quarter set records and the outlook went up for a third time this year. The market erased about $2 billion of value anyway.",
+    "link": "https://www.fool.com/investing/2026/08/09/sezzle-beat-on-revenue-and-raised-guidance-its-sto/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-09T23:01:00+00:00",
+    "tickers": [],
+    "score": 4
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch",
+    "published": "2026-08-09T19:20:32+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 4
+  }
+]
