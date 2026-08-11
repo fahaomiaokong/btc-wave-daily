@@ -1,0 +1,97 @@
+[
+  {
+    "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+    "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+    "link": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+    "source": "Tech",
+    "published": "2026-08-10T13:39:56+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "TSM"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+    "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+    "link": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    "source": "Tech",
+    "published": "2026-08-10T12:40:36+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Nvidia's CEO just sent strong signal to stock market investors",
+    "summary": "In early June 2026, AI and chip stocks lost roughly $1.3 trillion in combined market value in a matter of days. Investors who had been riding the AI wave suddenly started asking whether the trade had run too far ahead of reality. Nvidia shares had pulled back more than 15% from their May peak. ...",
+    "link": "https://www.thestreet.com/investing/stocks/nvidia-ceo-buy-the-dip-nvda?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-11T01:47:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+    "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+    "source": "TechCrunch",
+    "published": "2026-08-10T21:20:04+00:00",
+    "tickers": [
+      "GOOGL",
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+    "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+    "source": "TechCrunch",
+    "published": "2026-08-10T18:30:33+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+    "link": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+    "source": "Tech",
+    "published": "2026-08-10T14:06:08+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
+    "summary": "These might be the two best chip stocks, period.",
+    "link": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-11T00:50:00+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
+    "summary": "A number of stocks jumped in the afternoon session after the July jobs report showed an unexpected loss of 23,000 jobs, signaling a cooling labor market. Economists had forecast a gain of around 80,000 nonfarm payrolls.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/byrna-lucid-park-ohio-jeld-004522285.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-11T00:45:22+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 8
+  }
+]
