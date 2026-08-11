@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.18,
+      "previous_close": 57.5,
+      "change_pct": 4.660869565217385,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.44,
+      "previous_close": 165.67999267578125,
+      "change_pct": 1.6658663968073695,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.18,
+      "previous_close": 52.86000061035156,
+      "change_pct": 0.60537152091098,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.83,
+      "previous_close": 111.25,
+      "change_pct": 0.521348314606751,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.81,
+      "previous_close": 57.599998474121094,
+      "change_pct": 0.36458599208688547,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.67,
+      "previous_close": 119.86000061035156,
+      "change_pct": -0.15851877972972162,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.95,
+      "previous_close": 85.12000274658203,
+      "change_pct": -0.1997212653859548,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 184.6,
+      "previous_close": 185.17999267578125,
+      "change_pct": -0.3132048270445331,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 186.32,
+      "previous_close": 187.97000122070312,
+      "change_pct": -0.8778002925933892,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.13,
+      "previous_close": 43.61000061035156,
+      "change_pct": -1.100666369258485,
+      "as_of": "2026-08-10"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.4,
+      "previous_close": 44.97999954223633,
+      "change_pct": -1.289460978521595,
+      "as_of": "2026-08-10"
+    }
+  ],
+  "news": [
+    {
+      "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
+      "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
+      "link": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T02:58:27+00:00"
+    },
+    {
+      "title": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates",
+      "summary": "Investors weighed signs of progress toward reopening the Strait of Hormuz against doubts that the U.S. and Iran can reach a broader resolution to the conflict.",
+      "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T02:28:17+00:00"
+    },
+    {
+      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "summary": "Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.",
+      "link": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T02:28:00+00:00"
+    },
+    {
+      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T02:15:00+00:00"
+    },
+    {
+      "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+      "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
+      "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T01:52:04+00:00"
+    },
+    {
+      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+      "summary": "The company is looking to expand its reach in Europe and building up its backlog.",
+      "link": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T01:03:00+00:00"
+    },
+    {
+      "title": "This is the ZIP code with the hottest housing market in the country right now",
+      "summary": "Today’s residential real-estate market is not for the weak, observes one buyer in what Realtor.com is calling America’s hottest ZIP code.",
+      "link": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T00:15:00+00:00"
+    },
+    {
+      "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As Investors Brace For Key Inflation Data — SPCX, TSLA, INTC, NFLX, PLTR In Focus",
+      "summary": "Intel’s stock dropped 4%, weighing on the Nasdaq after announcing a $15 billion stock offering.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-10T23:02:45+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
+      "summary": "More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.",
+      "link": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T23:00:14+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Uncertainty around Iran lifted oil prices, dragging down the major averages Monday. Tune in to CNBC to see Ravi Ahuja, CEO of Sony Pictures Entertainment.",
+      "link": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T22:54:50+00:00"
+    },
+    {
+      "title": "EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga",
+      "summary": "Bloomberg says GameStop could propose collaborating with eBay in some way other than a merger. Some analysts doubt whether eBay would benefit much from that sort of deal.",
+      "link": "https://www.marketwatch.com/story/ebay-may-dodge-a-gamestop-takeover-but-theres-a-new-twist-in-the-ryan-cohen-saga-d779b753?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:54:00+00:00"
+    },
+    {
+      "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+      "summary": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
+      "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:52:00+00:00"
+    },
+    {
+      "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
+      "summary": "A Jefferies analyst says that it may be harder than it looks for Apple to roll out dramatically more expensive devices in a bid to boost profitability.",
+      "link": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:49:00+00:00"
+    },
+    {
+      "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+      "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging.",
+      "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:46:00+00:00"
+    },
+    {
+      "title": "This Nvidia change could spell good news for Micron",
+      "summary": "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory.",
+      "link": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:42:00+00:00"
+    },
+    {
+      "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+      "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-10T22:39:00+00:00"
+    },
+    {
+      "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
+      "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
+      "link": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T22:33:55+00:00"
+    },
+    {
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+      "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
+      "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-10T22:09:00+00:00"
+    },
+    {
+      "title": "VYM’s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
+      "summary": "A retiree who chose VYM for its reliable quarterly deposits may have traded away a surprising fortune without realizing it, and the expense ratio has almost nothing to do with it.",
+      "link": "https://247wallst.com/investing/etf/2026/08/10/vyms-2-2-yield-hides-141000-in-decade-long-underperformance-versus-the-sp-500/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-10T22:05:16+00:00"
+    },
+    {
+      "title": "You Spent 40 Years Saving. Nobody Taught You How to Turn It Into a Paycheck. These 4 ETFs Do It Without Selling a Single Share",
+      "summary": "Retirement manuals cover forty years of saving but go silent the moment the paychecks stop. Four ETFs solve the income puzzle in a way most retirees never consider, and it starts with never selling a share.",
+      "link": "https://247wallst.com/investing/etf/2026/08/10/you-spent-40-years-saving-nobody-taught-you-how-to-turn-it-into-a-paycheck-these-4-etfs-do-it-without-selling-a-single-share/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-10T21:55:56+00:00"
+    }
+  ]
+}
