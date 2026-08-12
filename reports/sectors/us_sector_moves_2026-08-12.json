@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.93,
+      "previous_close": 60.18000030517578,
+      "change_pct": 1.2462607029261052,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.63,
+      "previous_close": 43.130001068115234,
+      "change_pct": 1.1592833746864928,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.7,
+      "previous_close": 184.60000610351562,
+      "change_pct": 0.595879664200849,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.24,
+      "previous_close": 53.18000030517578,
+      "change_pct": 0.11282379556207811,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.8,
+      "previous_close": 57.810001373291016,
+      "change_pct": -0.017300420434929187,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 186.09,
+      "previous_close": 186.32000732421875,
+      "change_pct": -0.12344746413546215,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.01,
+      "previous_close": 168.44000244140625,
+      "change_pct": -0.25528522629643113,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.69,
+      "previous_close": 84.94999694824219,
+      "change_pct": -0.30605880821937825,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.24,
+      "previous_close": 119.66999816894531,
+      "change_pct": -0.3593199427798677,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.27,
+      "previous_close": 111.83000183105469,
+      "change_pct": -0.5007617114240137,
+      "as_of": "2026-08-11"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.08,
+      "previous_close": 44.400001525878906,
+      "change_pct": -0.7207241326160574,
+      "as_of": "2026-08-11"
+    }
+  ],
+  "news": [
+    {
+      "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
+      "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
+      "link": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T02:58:04+00:00"
+    },
+    {
+      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+      "summary": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
+      "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T01:26:46+00:00"
+    },
+    {
+      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+      "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T01:20:13+00:00"
+    },
+    {
+      "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+      "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-12T00:17:00+00:00"
+    },
+    {
+      "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
+      "summary": "The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro’s latest forecast has exceeded expectations as well.",
+      "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-12T00:16:00+00:00"
+    },
+    {
+      "title": "Lumentum sees sales more than double as AI demand swells",
+      "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
+      "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-12T00:15:00+00:00"
+    },
+    {
+      "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities — ORCL, AAPL, NVDA, CURLF In Focus",
+      "summary": "Investors await the July consumer price index that’s due at 8:30 a.m. ET on Wednesday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-12T00:07:19+00:00"
+    },
+    {
+      "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+      "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T22:51:06+00:00"
+    },
+    {
+      "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+      "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+      "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T22:42:10+00:00"
+    },
+    {
+      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+      "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
+      "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T22:30:00+00:00"
+    },
+    {
+      "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
+      "summary": "CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
+      "link": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T22:15:30+00:00"
+    },
+    {
+      "title": "JEPQ’s 10.9% Yield Hides $2,900 Annual Tax Bill Most Retirees Never See",
+      "summary": "JEPQ's monthly distributions look like a retirement dream until the IRS opens its cut, and most holders collecting that 10.9% yield have never calculated what the tax treatment on those payments actually costs them each year.",
+      "link": "https://247wallst.com/investing/etf/2026/08/11/jepqs-10-9-yield-hides-2900-annual-tax-bill-most-retirees-never-see/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-11T22:05:23+00:00"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T22:00:00+00:00"
+    },
+    {
+      "title": "SPYI’s 11.7% Yield Hides $2,927.50 Annual Fee Gap Versus SPY",
+      "summary": "A $500,000 Roth IRA position in a high-yield S&P 500 ETF can look like a tax-free income machine, but the fee structure and options strategy quietly work against the very advantage a Roth already gives you for free.",
+      "link": "https://247wallst.com/investing/etf/2026/08/11/spyis-11-7-yield-hides-2927-50-annual-fee-gap-versus-spy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-11T21:45:57+00:00"
+    },
+    {
+      "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
+      "summary": "Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.",
+      "link": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T21:36:03+00:00"
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T21:15:00+00:00"
+    },
+    {
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-11T21:01:13+00:00"
+    },
+    {
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "summary": "“I’m curious whether there’s a downside.”",
+      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T21:00:00+00:00"
+    },
+    {
+      "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
+      "summary": "”We don’t live lavishly, and sometimes we both think maybe we could upgrade a few things.”",
+      "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-11T20:58:00+00:00"
+    },
+    {
+      "title": "This 5.3% Monthly Payer Only Buys Stocks That Raised Dividends 10 Straight Years, It’s Up 18.5% in 2026",
+      "summary": "High-yield ETFs built purely on yield rankings carry a hidden flaw that only shows up when it's too late, and one fund uses a decade-long dividend track record as a filter before yield ever enters the picture.",
+      "link": "https://247wallst.com/investing/2026/08/11/this-5-3-monthly-payer-only-buys-stocks-that-raised-dividends-10-straight-years-its-up-18-5-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-11T20:48:17+00:00"
+    }
+  ]
+}
