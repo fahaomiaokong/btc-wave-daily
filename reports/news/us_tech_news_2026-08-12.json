@@ -1,0 +1,97 @@
+[
+  {
+    "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities — ORCL, AAPL, NVDA, CURLF In Focus",
+    "summary": "Investors await the July consumer price index that’s due at 8:30 a.m. ET on Wednesday.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-12T00:07:19+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "ORCL"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Michael Burry Adds To NVDA, PLTR, ORCL Shorts — Why He’s Thinking About 2005 Again",
+    "summary": "The “Big Short” investor is betting against AI-linked names while adding to his position in Molina Healthcare.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-nvda-pltr-orcl-shorts-why-he-is-thinking-about-2005-again/cZoNOyZRJXV?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-11T22:52:04+00:00",
+    "tickers": [
+      "NVDA",
+      "ORCL",
+      "PLTR"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
+    "summary": "The major market indexes pulled back amid higher oil prices and upcoming CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
+    "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-12T02:55:39+00:00",
+    "tickers": [
+      "NVDA",
+      "SMCI"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Super Micro Computer Q4 Earnings Call Highlights",
+    "summary": "Super Micro Computer (NASDAQ:SMCI) reported record fiscal 2026 revenue of $39.1 billion, up 78% from $22 billion in fiscal 2025, as demand for artificial intelligence infrastructure continued to drive growth. The company also projected fiscal 2027 revenue of $65 billion to $72 billion and said it en",
+    "link": "https://www.marketbeat.com/instant-alerts/super-micro-computer-q4-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-12T01:04:12+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction",
+    "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) beat Wall Street’s estimates across the board Tuesday, with revenue up 50% and data center sales more than doubling. The stock still fell as much as 10% in extended trading anyway. Sandisk Corporation (NASDAQ:SNDK) is up more than 400% this year already, reports its own results on Wednesday under even […]",
+    "link": "https://finance.yahoo.com/technology/articles/advanced-micro-devices-inc-amd-224249942.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-11T22:42:49+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "source": "The Verge",
+    "published": "2026-08-11T19:41:42+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+    "summary": "Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Best Buy, and directly from Google. These very capable Bluetooth earbuds come in four colors, with a lightweight fit that helps them disappear into your […]",
+    "link": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+    "source": "The Verge",
+    "published": "2026-08-11T17:31:06+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "TransAct Technologies Q2 Earnings Call Highlights",
+    "summary": "TransAct Technologies (NASDAQ:TACT) reported second-quarter net sales of $13.9 million, up slightly from $13.8 million a year earlier, as growth in its food service technology business was partially offset by tariff-related customer refund adjustments and lower reported casino and gaming revenue. T",
+    "link": "https://www.marketbeat.com/instant-alerts/transact-technologies-q2-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-12T01:04:12+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 8
+  }
+]
