@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 188.86,
+      "previous_close": 186.08999633789062,
+      "change_pct": 1.4885290540173735,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.84,
+      "previous_close": 43.630001068115234,
+      "change_pct": 0.4813177326237428,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.08,
+      "previous_close": 84.69000244140625,
+      "change_pct": 0.46050011494989107,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.44,
+      "previous_close": 168.00999450683594,
+      "change_pct": 0.25594042451240195,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.92,
+      "previous_close": 57.79999923706055,
+      "change_pct": 0.20761377945228698,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.49,
+      "previous_close": 44.400001525878906,
+      "change_pct": 0.20269925907241415,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.03,
+      "previous_close": 60.93000030517578,
+      "change_pct": 0.16412226214239656,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.88,
+      "previous_close": 185.6999969482422,
+      "change_pct": 0.09693217809152443,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.89,
+      "previous_close": 119.23999786376953,
+      "change_pct": -1.132168641357989,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.58,
+      "previous_close": 53.2400016784668,
+      "change_pct": -1.2396725350475313,
+      "as_of": "2026-08-12"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.27,
+      "previous_close": 111.83000183105469,
+      "change_pct": -1.3949761294034801,
+      "as_of": "2026-08-12"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are little changed as traders await more inflation data: Live updates",
+      "summary": "The July reading of the producer price index, which gauges what wholesalers pay for raw goods and materials, is set for release Thursday at 8:30 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T03:00:13+00:00"
+    },
+    {
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+      "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+      "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T02:59:50+00:00"
+    },
+    {
+      "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
+      "summary": "Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's intervention, Goldman Sachs says.",
+      "link": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T02:31:32+00:00"
+    },
+    {
+      "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "summary": "The Persian Strait Gulf Authority said \"the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\"",
+      "link": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T02:25:14+00:00"
+    },
+    {
+      "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+      "summary": "South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.",
+      "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T02:06:15+00:00"
+    },
+    {
+      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+      "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T01:31:12+00:00"
+    },
+    {
+      "title": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
+      "summary": "The PPI reading was lower than the 7.4% expected by economists polled by Reuters, and was down from a revised 7.3% seen in June.",
+      "link": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T01:25:47+00:00"
+    },
+    {
+      "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
+      "summary": "An 18% revenue surge and blowout 2027 forecast weren’t enough to sustain Cisco’s stock momentum.",
+      "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T01:16:00+00:00"
+    },
+    {
+      "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+      "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
+      "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T01:00:00+00:00"
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T00:45:00+00:00"
+    },
+    {
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "summary": "“I’m curious whether there’s a downside.”",
+      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T00:30:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Why global funds are flocking to GIFT City in Modi’s home state",
+      "summary": "Favorable regulations, a growing local investor base, and tax holidays are giving momentum to India's GIFT City.",
+      "link": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T00:15:59+00:00"
+    },
+    {
+      "title": "Trump sued over Truth Social advance access sale",
+      "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T00:13:21+00:00"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
+      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T23:49:23+00:00"
+    },
+    {
+      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+      "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+      "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T23:41:02+00:00"
+    },
+    {
+      "title": "How Do ETFs Work? The Complete Beginner's Guide to Exchange-Traded Funds",
+      "summary": "Exchange-traded funds hold more than $14 trillion in assets and have become the default way millions of people invest. But if you're just getting started, one question comes first: how do ETFs actually work? This complete beginner's guide breaks it down in plain English — what an ETF is, the clever mechanism that lets it trade like a stock while holding hundreds of them, what it costs, how it compares to stocks and mutual funds, and how to buy your first one.",
+      "link": "http://www.etf.com/sections/etf-basics/how-do-etfs-work-complete-beginners-guide-exchange-traded-funds?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-12T23:18:46+00:00"
+    },
+    {
+      "title": "Ford says it's increasing Lincoln production in the U.S. in 2030",
+      "summary": "Ford said on Wednesday that it will be increasing production of its Lincoln cars in the U.S. beginning in 2030.",
+      "link": "https://www.cnbc.com/2026/08/12/ford-lincoln-us-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-12T22:36:44+00:00"
+    },
+    {
+      "title": "China’s next economic ambition: workshop for the Muslim world",
+      "summary": "Chinese exporters are moving into halal food, cosmetics and fashion, but success in this vast market depends on something harder to manufacture than cheap goods: trust.",
+      "link": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-12T22:35:00+00:00"
+    },
+    {
+      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+      "summary": "Investors are reacting positively to earnings results and demand signals from neocloud companies CoreWeave and Nebius.",
+      "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-12T22:34:00+00:00"
+    }
+  ]
+}
