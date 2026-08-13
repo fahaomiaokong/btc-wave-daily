@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+    "summary": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
+    "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+    "source": "Tech",
+    "published": "2026-08-12T05:00:01+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Nvidia’s biggest risk may be coming from inside its customer base",
+    "summary": "Nvidia (NVDA) sold its most valuable chips to the world’s biggest tech businesses in the AI boom. What is disconcerting is that some of those same consumers now are paying big to establish alternatives. Microsoft (MSFT) might be poised to demonstrate just how serious that threat has gotten. The ...",
+    "link": "https://www.thestreet.com/investing/nvidias-biggest-risk-may-be-coming-from-inside-its-customer-base?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-13T02:37:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "The 5 Most Interesting Analyst Questions From AMD’s Q2 Earnings Call",
+    "summary": "AMD’s second quarter saw revenue and non-GAAP profit both exceed Wall Street expectations, yet the market reacted negatively. Management attributed the quarter’s results to robust adoption of its EPYC server CPUs and Instinct accelerators, particularly within the data center segment, which now makes up nearly 60% of total revenue. CEO Lisa Su highlighted “record server CPU revenue” and noted that sales were powered by cloud and enterprise demand, as well as broader adoption across industries ran",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-002900646.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-13T00:29:00+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+    "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+    "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+    "source": "Tech",
+    "published": "2026-08-12T22:49:44+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "source": "TechCrunch",
+    "published": "2026-08-12T14:20:33+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+    "summary": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
+    "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+    "source": "Tech",
+    "published": "2026-08-12T14:20:10+00:00",
+    "tickers": [
+      "NVDA",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+    "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
+    "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-13T03:09:24+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 8
+  },
+  {
+    "title": "How Could Blackbaud (BLKB) Change Fundraising Work With Its New AI Integration?",
+    "summary": "Blackbaud (NasdaqGS: BLKB) has integrated Microsoft 365 Copilot with Raiser's Edge NXT, bringing AI-driven fundraising insights directly into Microsoft 365 tools. The integration is designed to surface real-time donor and campaign intelligence inside familiar workflows for fundraising professionals. Blackbaud positions the move as part of its focus on secure, workflow-native AI tailored specifically to nonprofit organizations. AI moving deeper into everyday productivity tools is a wider...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/could-blackbaud-blkb-change-fundraising-021139550.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-13T02:11:39+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  }
+]
