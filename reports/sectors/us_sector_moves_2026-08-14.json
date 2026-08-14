@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.55,
+      "previous_close": 110.2699966430664,
+      "change_pct": 2.0676552338291465,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.12,
+      "previous_close": 44.4900016784668,
+      "change_pct": 1.4160447241298169,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.0,
+      "previous_close": 85.08000183105469,
+      "change_pct": 1.0813330384879194,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 190.77,
+      "previous_close": 188.86000061035156,
+      "change_pct": 1.0113308183182124,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.26,
+      "previous_close": 57.91999816894531,
+      "change_pct": 0.5870197544947109,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.45,
+      "previous_close": 117.88999938964844,
+      "change_pct": 0.47501960577729374,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.04,
+      "previous_close": 43.84000015258789,
+      "change_pct": 0.4562040299178838,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.06,
+      "previous_close": 61.029998779296875,
+      "change_pct": 0.04915815386401512,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.38,
+      "previous_close": 168.44000244140625,
+      "change_pct": -0.03562244154391436,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 185.79,
+      "previous_close": 185.8800048828125,
+      "change_pct": -0.048420960000106206,
+      "as_of": "2026-08-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.31,
+      "previous_close": 52.58000183105469,
+      "change_pct": -0.5135066977027369,
+      "as_of": "2026-08-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
+      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T01:52:07+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 sets record above 7,800, heads for winning week: Live updates",
+      "summary": "Thursday's gain put the S&P 500 and Nasdaq Composite on pace for their third straight weekly advances.",
+      "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T01:43:40+00:00"
+    },
+    {
+      "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+      "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+      "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T01:02:39+00:00"
+    },
+    {
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "summary": "After past snubs, social-media site Reddit has landed a spot on the S&P 500, sending shares on an after-hours rally Thursday.",
+      "link": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-14T00:19:00+00:00"
+    },
+    {
+      "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+      "summary": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
+      "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T00:09:11+00:00"
+    },
+    {
+      "title": "Reddit stock jumps on inclusion in S&P 500",
+      "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
+      "link": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T23:04:21+00:00"
+    },
+    {
+      "title": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
+      "summary": "The producer price index rose 4.7% in July 2025 after a 5.5% annual increase in June.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-rangebound-after-s-and-p-500-ends-at-record-highs-as-data-shows-cooling-inflation-wday-sndk-amd-dell-htz-in-focus/cZoqpLeRJLz?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-13T22:59:21+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 closed at a record on Thursday, aided by cooling oil prices and tame inflation reports. Tune in to CNBC Friday morning for Disney CEO Josh D'Amaro.",
+      "link": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T22:56:04+00:00"
+    },
+    {
+      "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:31:00+00:00"
+    },
+    {
+      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+      "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
+      "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:09:00+00:00"
+    },
+    {
+      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:07:00+00:00"
+    },
+    {
+      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:05:00+00:00"
+    },
+    {
+      "title": "Markets are looking eerily calm as investors chase FOMO rally",
+      "summary": "By nearly every headline measure, investors have never looked more relaxed in a year not short of wild rides. But that calm may not be as reassuring as it looks.",
+      "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:05:00+00:00"
+    },
+    {
+      "title": "Careem’s founders put in $100,000. Seven years later, Uber bought it for $3.1 billion",
+      "summary": "Mudassir Sheikha left McKinsey to co-found Careem in 2012, putting in $50,000 of his own money. Seven years later, Uber agreed to acquire the company for $3.1 billion.",
+      "link": "https://www.cnbc.com/video/2026/08/13/careem-founder-mudassir-sheikha.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T22:00:01+00:00"
+    },
+    {
+      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "summary": "“This medication was generic.”",
+      "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:00:00+00:00"
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T22:00:00+00:00"
+    },
+    {
+      "title": "Fidelity’s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
+      "summary": "Fidelity Contrafund built a legendary reputation by zigging while Wall Street zagged, but managing $157.8 billion forces some uncomfortable questions about whether a fund this massive can still bet against the crowd without becoming it.",
+      "link": "https://247wallst.com/investing/2026/08/13/fidelitys-contrafund-fcntx-bet-against-the-crowd-and-got-enormous-doing-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-13T21:50:44+00:00"
+    },
+    {
+      "title": "QYLD’s 12% Yield Looks Great. The Long-Term Cost Is Much Higher",
+      "summary": "Monthly distributions from QYLD have been hitting accounts for over a decade, and the yield still turns heads. But investors who ran the actual numbers on a six-figure position found something waiting at the end that no factsheet bothered to warn them about.",
+      "link": "https://247wallst.com/investing/etf/2026/08/13/qylds-12-yield-looks-great-the-long-term-cost-is-much-higher/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-13T21:35:27+00:00"
+    },
+    {
+      "title": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "summary": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
+      "link": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-13T21:34:00+00:00"
+    },
+    {
+      "title": "Mamdani's NYC pied-à-terre tax can continue rollout during court appeal",
+      "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
+      "link": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-13T21:31:44+00:00"
+    }
+  ]
+}
