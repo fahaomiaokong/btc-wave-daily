@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.91,
+      "previous_close": 61.060001373291016,
+      "change_pct": 1.392071090061897,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.31,
+      "previous_close": 44.040000915527344,
+      "change_pct": 0.6130769274744985,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.54,
+      "previous_close": 52.310001373291016,
+      "change_pct": 0.4396838475833498,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 186.51,
+      "previous_close": 185.7899932861328,
+      "change_pct": 0.38753794062433844,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.95,
+      "previous_close": 112.55000305175781,
+      "change_pct": 0.3553948799612572,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.27,
+      "previous_close": 45.119998931884766,
+      "change_pct": 0.3324491836573129,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.09,
+      "previous_close": 86.0,
+      "change_pct": 0.10465116279070319,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.16,
+      "previous_close": 58.2599983215332,
+      "change_pct": -0.17164147685230224,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.2,
+      "previous_close": 118.44999694824219,
+      "change_pct": -0.21105694781184958,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 190.01,
+      "previous_close": 190.77000427246094,
+      "change_pct": -0.3983877210462783,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.37,
+      "previous_close": 168.3800048828125,
+      "change_pct": -0.5998365919489212,
+      "as_of": "2026-08-14"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+      "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T23:41:50+00:00"
+    },
+    {
+      "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
+      "summary": "The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.",
+      "link": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T22:27:32+00:00"
+    },
+    {
+      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+      "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T21:45:19+00:00"
+    },
+    {
+      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
+      "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-14T21:34:00+00:00"
+    },
+    {
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+      "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+      "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T21:06:48+00:00"
+    },
+    {
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T20:47:41+00:00"
+    },
+    {
+      "title": "QDTE’s Yield Keeps Shrinking as Volatility Slides Below 15",
+      "summary": "QDTE built its reputation on a weekly paycheck that once turned heads, but the volatility environment driving those payments has shifted dramatically, and the gap between what the fund used to pay and what investors are actually receiving keeps widening.",
+      "link": "https://247wallst.com/investing/etf/2026/08/14/qdtes-yield-keeps-shrinking-as-volatility-slides-below-15/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T20:31:10+00:00"
+    },
+    {
+      "title": "Utilities Were Supposed to Be the AI Trade. They’re Up 4%. The Electrification Fund Is Up 31%",
+      "summary": "XLU was supposed to be the smart way to play the AI power surge, but investors chasing that thesis may have bought into something else entirely. Two ETFs tracking the same energy buildout have told very different stories this year.",
+      "link": "https://247wallst.com/investing/2026/08/14/utilities-were-supposed-to-be-the-ai-trade-theyre-up-4-the-electrification-fund-is-up-31/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T20:09:06+00:00"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Rise Friday",
+      "summary": "Energy stocks rose Friday with the NYSE Energy Sector Index gaining 1.3% and the State Street Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-200618620.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T20:06:18+00:00"
+    },
+    {
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T20:05:57+00:00"
+    },
+    {
+      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
+      "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T20:04:28+00:00"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Edge Lower Late Afternoon",
+      "summary": "Financial stocks were slightly lower in late Friday afternoon trading, with the NYSE Financial Index",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-lower-195659801.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T19:56:59+00:00"
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+      "summary": "Healthcare stocks were lower late Friday afternoon, with the NYSE Healthcare Index decreasing 0.4% a",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-195128452.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T19:51:28+00:00"
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
+      "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T19:50:11+00:00"
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "summary": "Consumer stocks were mixed late Friday afternoon, with the State Street Consumer Staples Select Sect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194726434.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T19:47:26+00:00"
+    },
+    {
+      "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",
+      "summary": "Two funds chase the same short-Treasury yield, but one sends a tax bill every single month while the other lets gains sit untouched until you decide to sell. For high-bracket investors with taxable accounts, that timing difference is worth more than it looks.",
+      "link": "https://247wallst.com/investing/2026/08/14/cash-pays-3-8-and-the-fed-may-hike-this-t-bill-fund-pays-the-same-but-sends-no-tax-bill-until-you-sell/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T19:34:15+00:00"
+    },
+    {
+      "title": "Regulators and banks step up scrutiny of prediction markets",
+      "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
+      "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T19:21:49+00:00"
+    },
+    {
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+      "link": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T19:10:18+00:00"
+    },
+    {
+      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
+      "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-14T19:09:00+00:00"
+    },
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+      "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-14T19:07:11+00:00"
+    }
+  ]
+}
