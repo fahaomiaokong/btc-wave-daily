@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Apple (AAPL) Launches Ads On Maps While Pursuing Siri AI Content Deals",
+    "summary": "Apple (NasdaqGS:AAPL) has formally launched its 'Ads on Maps' platform, entering the local digital advertising market alongside Google and Meta. The new product allows businesses to buy promoted placements inside Apple Maps to reach nearby users searching for places and services. Apple is also negotiating content deals with news publishers to use their material in training its AI models that power Siri while addressing copyright and payment terms. These steps mark a material shift in Apple's...",
+    "link": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-launches-ads-maps-200858734.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-15T20:08:58+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Is Berkshire’s Bigger Bet on Delta (DAL) Altering The Investment Case For The Airline?",
+    "summary": "In recent filings, Berkshire Hathaway disclosed that it added millions of Delta Air Lines shares while also reshaping its broader equity portfolio, including exiting Constellation Brands and trimming its Bank of America stake. This increased exposure places Delta alongside Berkshire’s core holdings such as Apple, American Express, Alphabet, Coca-Cola, and Bank of America, highlighting the airline’s importance within a highly concentrated investment lineup. Now, we’ll examine how Berkshire’s...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-bigger-bet-delta-dal-011615749.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-16T01:16:15+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Morgan Stanley sends a blunt Tesla message to investors",
+    "summary": "The spending is going up. The margins are going down. Free cash flow is negative. And a Wall Street analyst who covers one of the most closely watched stocks in the market just published a note saying the next quarter has to be different. The note comes from Morgan Stanley. The company it covers is ...",
+    "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-blunt-tesla-message-to-investors-robotaxi-artificial-intelligence?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-16T01:03:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch",
+    "published": "2026-08-15T18:58:39+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+    "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+    "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+    "source": "Tech",
+    "published": "2026-08-15T14:45:31+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+    "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+    "link": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+    "source": "Tech",
+    "published": "2026-08-15T14:22:54+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
+    "summary": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
+    "link": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
+    "source": "Tech",
+    "published": "2026-08-14T23:01:03+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+    "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+    "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+    "source": "Tech",
+    "published": "2026-08-14T21:45:19+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
