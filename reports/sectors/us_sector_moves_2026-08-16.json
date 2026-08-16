@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.91,
+      "previous_close": 61.060001373291016,
+      "change_pct": 1.392071090061897,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.31,
+      "previous_close": 44.040000915527344,
+      "change_pct": 0.6130769274744985,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.54,
+      "previous_close": 52.310001373291016,
+      "change_pct": 0.4396838475833498,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 186.51,
+      "previous_close": 185.7899932861328,
+      "change_pct": 0.38753794062433844,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.95,
+      "previous_close": 112.55000305175781,
+      "change_pct": 0.3553948799612572,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.27,
+      "previous_close": 45.119998931884766,
+      "change_pct": 0.3324491836573129,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.09,
+      "previous_close": 86.0,
+      "change_pct": 0.10465116279070319,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.16,
+      "previous_close": 58.2599983215332,
+      "change_pct": -0.17164147685230224,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.2,
+      "previous_close": 118.44999694824219,
+      "change_pct": -0.21105694781184958,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 190.01,
+      "previous_close": 190.77000427246094,
+      "change_pct": -0.3983877210462783,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.37,
+      "previous_close": 168.3800048828125,
+      "change_pct": -0.5998365919489212,
+      "as_of": "2026-08-14"
+    }
+  ],
+  "news": [
+    {
+      "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
+      "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
+      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T22:49:03+00:00"
+    },
+    {
+      "title": "JEPQ vs. SPYI: Nearly Identical Yields, and One ETF Charges You Twice the Fee",
+      "summary": "Two ETFs with nearly identical monthly payouts are built on completely different engines, and choosing the wrong one based on yield alone could cost you far more than the fee difference suggests.",
+      "link": "https://247wallst.com/investing/etf/2026/08/15/jepq-vs-spyi-nearly-identical-yields-and-one-etf-charges-you-twice-the-fee/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T22:45:07+00:00"
+    },
+    {
+      "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
+      "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
+      "link": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T22:03:53+00:00"
+    },
+    {
+      "title": "At least 1 student among 5 people shot at Virginia State University as police investigate",
+      "summary": "A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.",
+      "link": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T20:56:13+00:00"
+    },
+    {
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+      "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+      "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T20:38:29+00:00"
+    },
+    {
+      "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+      "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
+      "link": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T20:32:04+00:00"
+    },
+    {
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
+      "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T20:30:00+00:00"
+    },
+    {
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T20:00:00+00:00"
+    },
+    {
+      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
+      "summary": "A new ETF built on diesel engines, truck fleets, and air conditioners is pitching itself as a refuge from software-heavy portfolios, but its biggest holding may already be cashing in on the very trend it claims to avoid.",
+      "link": "https://247wallst.com/investing/etf/2026/08/15/the-anti-ai-etf-is-here-and-its-biggest-holdings-are-engines-trucks-and-air-conditioners/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T19:35:56+00:00"
+    },
+    {
+      "title": "Think interest rates are high now? These charts offer a different perspective.",
+      "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T19:01:00+00:00"
+    },
+    {
+      "title": "DIVO or JEPI: Which Monthly Dividend Actually Protects Your Principal?",
+      "summary": "Both DIVO and JEPI hand you a monthly paycheck funded by covered calls on blue-chip stocks, but one of them has been quietly compounding your principal while the other trades that growth away for a fatter yield.",
+      "link": "https://247wallst.com/investing/2026/08/15/divo-or-jepi-which-monthly-dividend-actually-protects-your-principal/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T18:23:12+00:00"
+    },
+    {
+      "title": "Owning a home is overrated. Renting is now often a much better money move.",
+      "summary": "There are better ways to think about investments than homeownership.",
+      "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T18:23:00+00:00"
+    },
+    {
+      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+      "summary": "For diversification in the stock market, there are actively managed alternatives to index funds.",
+      "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T18:05:00+00:00"
+    },
+    {
+      "title": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?",
+      "summary": "QQQ delivered higher returns while SPY sports lower fees and a higher dividend yield.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/15/which-is-the-better-etf-state-street-s-broad-market-exposure-through-spy-or-invesco-s-tech-focused-qqq/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T17:41:47+00:00"
+    },
+    {
+      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+      "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+      "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-15T17:35:09+00:00"
+    },
+    {
+      "title": "Social Security Pays the Average Couple $3,120 a Month. Here’s the Portfolio It Takes to Match It.",
+      "summary": "Most retirement plans treat Social Security as a bonus, but pricing out what it actually takes to replace that monthly check from a private portfolio reveals just how much government backing most households are quietly depending on.",
+      "link": "https://247wallst.com/personal-finance/2026/08/15/social-security-pays-the-average-couple-3120-a-month-heres-the-portfolio-it-takes-to-match-it-2/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T17:32:41+00:00"
+    },
+    {
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T17:08:00+00:00"
+    },
+    {
+      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+      "summary": "Caps on student borrowing could also play into how America pays for college.",
+      "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T16:52:00+00:00"
+    },
+    {
+      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+      "summary": "Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices.",
+      "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T16:16:00+00:00"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T16:00:00+00:00"
+    }
+  ]
+}
