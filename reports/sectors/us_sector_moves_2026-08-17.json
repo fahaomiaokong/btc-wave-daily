@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.91,
+      "previous_close": 61.060001373291016,
+      "change_pct": 1.392071090061897,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.31,
+      "previous_close": 44.040000915527344,
+      "change_pct": 0.6130769274744985,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.54,
+      "previous_close": 52.310001373291016,
+      "change_pct": 0.4396838475833498,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 186.51,
+      "previous_close": 185.7899932861328,
+      "change_pct": 0.38753794062433844,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.95,
+      "previous_close": 112.55000305175781,
+      "change_pct": 0.3553948799612572,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.27,
+      "previous_close": 45.119998931884766,
+      "change_pct": 0.3324491836573129,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.09,
+      "previous_close": 86.0,
+      "change_pct": 0.10465116279070319,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.16,
+      "previous_close": 58.2599983215332,
+      "change_pct": -0.17164147685230224,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.2,
+      "previous_close": 118.44999694824219,
+      "change_pct": -0.21105694781184958,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 190.01,
+      "previous_close": 190.77000427246094,
+      "change_pct": -0.3983877210462783,
+      "as_of": "2026-08-14"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.37,
+      "previous_close": 168.3800048828125,
+      "change_pct": -0.5998365919489212,
+      "as_of": "2026-08-14"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+      "summary": "The stock market remains near all-time highs.",
+      "link": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-17T02:06:00+00:00"
+    },
+    {
+      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+      "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-17T00:55:00+00:00"
+    },
+    {
+      "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
+      "summary": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
+      "link": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-17T00:50:18+00:00"
+    },
+    {
+      "title": "“That Ain’t Okay:” Dave Ramsey Blasts Couple With $150,000 in Cash and a $60,000 Car Loan",
+      "summary": "A caller with a paid-off house, a six-figure salary, and six figures in savings thought he was doing everything right. Dave Ramsey told him that kind of financial comfort can quietly cost a fortune.",
+      "link": "https://247wallst.com/personal-finance/2026/08/16/that-aint-okay-dave-ramsey-blasts-couple-with-150000-in-cash-and-a-60000-car-loan/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16T23:57:15+00:00"
+    },
+    {
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "summary": "North Korea on Friday threatened steps against the U.S. and South Korea, describing their military drills as \"a rehearsal for an aggressive war.\"",
+      "link": "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T22:51:28+00:00"
+    },
+    {
+      "title": "Believe the unbelievable in this market — things can be different this time",
+      "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
+      "link": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T21:32:25+00:00"
+    },
+    {
+      "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+      "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
+      "link": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T20:55:24+00:00"
+    },
+    {
+      "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+      "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+      "link": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T20:44:26+00:00"
+    },
+    {
+      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+      "link": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T19:58:32+00:00"
+    },
+    {
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
+      "summary": "On Aug. 8, the New York Yankees released a social media post in which John wrote that he wanted to say goodbye: \"I will never forget you.\"",
+      "link": "https://www.cnbc.com/2026/08/16/tommy-john-namesake-for-elbow-surgery-that-saved-his-career-dies.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T19:36:49+00:00"
+    },
+    {
+      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+      "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-16T18:15:00+00:00"
+    },
+    {
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-16T17:30:00+00:00"
+    },
+    {
+      "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+      "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T17:08:04+00:00"
+    },
+    {
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
+      "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-16T17:00:00+00:00"
+    },
+    {
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-16T16:22:00+00:00"
+    },
+    {
+      "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown",
+      "summary": "The thieves entered the Museo Regionale di Messina late on Saturday, while the town was busy celebrating Assumption Day.",
+      "link": "https://www.cnbc.com/2026/08/16/4-antonello-da-messina-works-stolen-in-renaissance-painters-hometown.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T16:14:09+00:00"
+    },
+    {
+      "title": "High Dividend ETFs Are Beating the S&P 500 by 9 Points in 2026 and These 3 Pay Up to 4 Percent While Doing It",
+      "summary": "After a decade of chasing growth, dividend investors are finally having their moment in 2026, but not all high-yield ETFs are winning the same way or for the same reasons.",
+      "link": "https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-beating-the-sp-500-by-9-points-in-2026-and-these-3-pay-up-to-4-percent-while-doing-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16T14:46:47+00:00"
+    },
+    {
+      "title": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
+      "summary": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
+      "link": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T14:30:01+00:00"
+    },
+    {
+      "title": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It.",
+      "summary": "Monitoring the 20 largest S&P 500 stocks closely, as a unit through this ETF and individually, is an essential part of being a conscious modern equity investor or trader.",
+      "link": "https://www.barchart.com/story/news/3875975/this-etf-is-the-most-important-in-the-market-you-probably-havent-heard-of-it?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16T14:00:02+00:00"
+    },
+    {
+      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "summary": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
+      "link": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-16T13:30:01+00:00"
+    }
+  ]
+}
