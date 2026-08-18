@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Cloudways Bets That Enterprises Will Pay to Rehabilitate the Agent Every Hyperscaler Banned",
+    "summary": "When an AI agent deletes hundreds of emails from a senior executive’s inbox, the fallout is immediate. In February 2026, that exact scenario involving Summer Yue, Director of Alignment at Meta Superintelligence Labs, triggered an industry-wide blacklist of the OpenClaw framework by Meta, Google, Microsoft, and Amazon. The failure, which occurred during context window compaction […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cloudways-bets-enterprises-pay-rehabilitate-001904217.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T00:19:04+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 18
+  },
+  {
+    "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
+    "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, […]",
+    "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
+    "source": "The Verge",
+    "published": "2026-08-17T14:55:34+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Nvidia Backs 8-GW Ohio AI Campus for OpenAI With $1.5 Billion Investment",
+    "summary": "Nvidia has agreed to secure infrastructure for a planned 8-GW AI computing campus in Ohio that will serve OpenAI, while investing $1.5 billion in developer SB Energy.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-8-gw-ohio-013000089.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T01:30:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Cloudflare (NET) Becomes An Independent Auditor For Encrypted Messaging Keys",
+    "summary": "Cloudflare (NYSE:NET) has partnered with Signal as an independent Key Transparency auditor for the encrypted messaging app. The agreement expands Cloudflare's role in securing major messaging platforms, following its earlier collaboration with WhatsApp. As an external auditor, Cloudflare will help verify Signal's key transparency system for hundreds of millions of messaging users. This development broadens Cloudflare's influence in digital trust, privacy, and encryption standards across...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-becomes-independent-auditor-001541505.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T00:15:41+00:00",
+    "tickers": [
+      "META",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch",
+    "published": "2026-08-17T15:16:24+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Rapid7, ServiceNow, and monday.com Shares Are Falling, What You Need To Know",
+    "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-servicenow-monday-com-shares-015020414.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T01:50:20+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Health Catalyst, GitLab, Elastic, and Marqeta Shares Plummet, What You Need To Know",
+    "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/health-catalyst-gitlab-elastic-marqeta-014220126.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T01:42:20+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+    "summary": "The Q2 earnings season continues to wind down, which has overall shown immense strength with outsized growth. There have been several standout releases during the Q2 earnings cycle, including those from Palantir (PLTR) and Microsoft (MSFT).",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-17T23:29:00+00:00",
+    "tickers": [
+      "MSFT",
+      "PLTR"
+    ],
+    "score": 9
+  }
+]
