@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
+    "summary": "All three quarters ended June 30. The smallest of the three cloud giants is growing at about double the pace of the other two.",
+    "link": "https://www.fool.com/investing/2026/08/18/google-cloud-grew-82-last-quarter-azure-grew-43-and-aws-grew-37/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-19T01:46:01+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+    "summary": "Broadcom's sales are expected to grow dramatically in 2027.",
+    "link": "https://www.fool.com/investing/2026/08/18/broadcom-vs-nvidia-1-metric-shows-which-artificial/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-18T23:15:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+    "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+    "source": "Tech",
+    "published": "2026-08-17T21:22:37+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "ZoomInfo Technologies (GTM) Is Down 6.5% After Goodwill Hit, Copilot Tie-Up And Guidance Hike",
+    "summary": "In early August 2026, ZoomInfo reported a goodwill impairment of US$650.5 million, modest year-on-year revenue growth to US$310.4 million in the second quarter, and raised its full-year 2026 revenue guidance to US$1.21 billion while continuing a large share repurchase program. At the same time, multiple customers cited very large lifts in qualified deals, higher connection rates, and cleaner data from ZoomInfo’s AI-driven go-to-market platform, and the company launched a connector that...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-19T01:14:47+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Is CrowdStrike Holdings (CRWD) Priced For Perfection On AI Hopes?",
+    "summary": "CrowdStrike Holdings has delivered very strong share price gains over the past three years, yet current valuation checks suggest the stock is priced at a premium rather than offering an obvious bargain. Recent headlines around AI driven security growth and product expansion give the story momentum, but the numbers raise questions about how much optimism is already in the price. CrowdStrike Holdings has returned about 4.6x over the past three years, which puts extra focus on whether current...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-priced-perfection-001603224.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-19T00:16:03+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+    "summary": "The leading AI chipmaker has rebounded since late July.",
+    "link": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
+    "source": "Tech",
+    "published": "2026-08-17T20:07:26+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge",
+    "published": "2026-08-18T19:28:30+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "source": "TechCrunch",
+    "published": "2026-08-18T18:00:00+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  }
+]
