@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.68,
+      "previous_close": 62.58000183105469,
+      "change_pct": 1.7577471025247648,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 169.73,
+      "previous_close": 167.0500030517578,
+      "change_pct": 1.6043082306390843,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.58,
+      "previous_close": 84.68000030517578,
+      "change_pct": 1.0628243877901955,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.84,
+      "previous_close": 57.58000183105469,
+      "change_pct": 0.45154248120411467,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.48,
+      "previous_close": 110.81999969482422,
+      "change_pct": -0.3068035514893541,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.36,
+      "previous_close": 116.75,
+      "change_pct": -0.3340471092077135,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.02,
+      "previous_close": 44.18000030517578,
+      "change_pct": -0.3621555094399431,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.63,
+      "previous_close": 44.83000183105469,
+      "change_pct": -0.44613388999716896,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.78,
+      "previous_close": 52.2400016784668,
+      "change_pct": -0.8805544863839554,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 183.57,
+      "previous_close": 186.32000732421875,
+      "change_pct": -1.4759592186111448,
+      "as_of": "2026-08-18"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.62,
+      "previous_close": 190.32000732421875,
+      "change_pct": -2.46952876384251,
+      "as_of": "2026-08-18"
+    }
+  ],
+  "news": [
+    {
+      "title": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary",
+      "summary": "Primary races on Tuesday in Florida and Alaska were being closely watched for signs of possible Republican or Democratic dominance in the run-up to the November midterm elections.",
+      "link": "https://www.cnbc.com/2026/08/18/democratic-representative-moskowitz-fends-off-challenge-in-florida-from-democratic-socialist.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T02:10:47+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
+      "summary": "The stock market reaction was relatively muted, even with long-term bond yields reaching multi-decade highs.",
+      "link": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T02:07:46+00:00"
+    },
+    {
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "summary": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T01:57:05+00:00"
+    },
+    {
+      "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+      "summary": "One country appears to be the best place to hedge market impact from severe El Niño shocks to global food supply chains, according to Bank of America.",
+      "link": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T01:49:04+00:00"
+    },
+    {
+      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+      "summary": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
+      "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T01:37:01+00:00"
+    },
+    {
+      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+      "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
+      "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T01:34:22+00:00"
+    },
+    {
+      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+      "summary": "Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.",
+      "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T00:00:00+00:00"
+    },
+    {
+      "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+      "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+      "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-18T23:58:09+00:00"
+    },
+    {
+      "title": "Review & Preview: Chips Crumble",
+      "summary": "The Dow Jones Industrial Average lost 0.2%, hurt in part by companies like Caterpillar and Goldman Sachs, which have exposure to the faltering AI trade. Better-than-expected results despite a slow housing market helped Home Depot’s stock head higher on Tuesday, and energy stocks continued to climb on the back of higher oil prices. “Monday’s weakness spilled into the new day, and the reasons are familiar,” notes Joe Mazzola, Head Trading & Derivatives Strategist at Charles Schwab.",
+      "link": "https://finance.yahoo.com/m/9c7338de-b12f-3214-bcb3-4029da3cf23f/review-%26-preview%3A-chips.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-18T23:55:00+00:00"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+      "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-18T23:30:00+00:00"
+    },
+    {
+      "title": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
+      "summary": "As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.",
+      "link": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-18T23:25:38+00:00"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-18T23:15:00+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 fell for a third session as elevated bond yields and oil kept stocks under pressure Tuesday. Tune in to CNBC Wednesday for BlackRock's Rick Rieder.",
+      "link": "https://www.cnbc.com/2026/08/18/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-18T23:07:35+00:00"
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+      "summary": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
+      "link": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-18T22:49:58+00:00"
+    },
+    {
+      "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
+      "summary": "“They’re saying the roof now needs to be completely replaced.”",
+      "link": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-18T22:45:00+00:00"
+    },
+    {
+      "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+      "summary": "“Such a system would help ensure that no one is financially devastated by a serious illness or injury.”",
+      "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-18T22:31:00+00:00"
+    },
+    {
+      "title": "VOO’s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
+      "summary": "VOO's famously cheap expense ratio distracts most investors from a far bigger risk buried inside the fund itself, one that no fee comparison chart will ever show you.",
+      "link": "https://247wallst.com/investing/etf/2026/08/18/voos-0-03-fee-hides-the-real-cost-38-of-your-sp-500-money-is-now-in-one-sector/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-18T22:25:18+00:00"
+    },
+    {
+      "title": "A 4X S&P 500 ETN Now Exists. A 10% Market Drop Cuts It Nearly in Half and Investors Are Buying Anyway",
+      "summary": "A four-times leveraged S&P 500 product now trades on a major exchange, and it can vaporize nearly half your money before the market even finishes a bad week. What kind of investor buys it anyway, and how big has it gotten?",
+      "link": "https://247wallst.com/investing/etf/2026/08/18/a-4x-sp-500-etn-now-exists-a-10-market-drop-cuts-it-nearly-in-half-and-investors-are-buying-anyway/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-18T22:25:07+00:00"
+    },
+    {
+      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+      "summary": "Even a loss in the landmark youth-safety trial would do little to hurt Mark Zuckerberg’s empire.",
+      "link": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-18T21:59:00+00:00"
+    },
+    {
+      "title": "QYLD Holders Left $56,700 Per $10,000 on the Table Chasing Twelve Years of Monthly Income",
+      "summary": "QYLD holders watched twelve years of monthly income checks arrive like clockwork, but a closer look at the total-return math reveals a cost buried inside every distribution that most investors never think to calculate.",
+      "link": "https://247wallst.com/investing/etf/2026/08/18/qyld-holders-left-56700-per-10000-on-the-table-chasing-twelve-years-of-monthly-income/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-18T21:45:59+00:00"
+    }
+  ]
+}
