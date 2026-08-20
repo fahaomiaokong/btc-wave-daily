@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Rapid7, Tenable, CrowdStrike, Twilio, and Datadog Shares Plummet, What You Need To Know",
+    "summary": "A number of stocks fell in the afternoon session after competitive pressure from artificial intelligence increased following a Bloomberg report that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-tenable-crowdstrike-twilio-datadog-234202526.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-19T23:42:02+00:00",
+    "tickers": [
+      "AMZN",
+      "CRWD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "AMD and Intel Shares Plummet, What You Need To Know",
+    "summary": "A number of stocks fell in the afternoon session after investors reacted to a significant partnership between Google and Marvell Technology for custom AI chip development, signaling a potential shift in market share.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-shares-plummet-know-233402382.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-19T23:34:02+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMD"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+    "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+    "source": "Tech",
+    "published": "2026-08-19T20:01:53+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 12
+  },
+  {
+    "title": "OpenAI hit the brakes. Now what?",
+    "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "source": "The Verge",
+    "published": "2026-08-19T17:10:09+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+    "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+    "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+    "source": "Tech",
+    "published": "2026-08-19T20:07:09+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch",
+    "published": "2026-08-19T22:10:46+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch",
+    "published": "2026-08-19T21:51:23+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "source": "TechCrunch",
+    "published": "2026-08-19T19:00:00+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  }
+]
