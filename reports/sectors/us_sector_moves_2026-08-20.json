@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 175.68,
+      "previous_close": 169.72999572753906,
+      "change_pct": 3.505570271746339,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.59,
+      "previous_close": 116.36000061035156,
+      "change_pct": 1.9164656049770246,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.52,
+      "previous_close": 51.779998779296875,
+      "change_pct": 1.4291256047673118,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.54,
+      "previous_close": 85.58000183105469,
+      "change_pct": 1.1217552563745903,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.99,
+      "previous_close": 44.630001068115234,
+      "change_pct": 0.8066298975331287,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.32,
+      "previous_close": 110.4800033569336,
+      "change_pct": 0.7603155481020307,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.02,
+      "previous_close": 44.02000045776367,
+      "change_pct": -1.0398992777993499e-06,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.58,
+      "previous_close": 63.68000030517578,
+      "change_pct": -0.15703565436016031,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.48,
+      "previous_close": 57.84000015258789,
+      "change_pct": -0.6224069011725009,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 181.95,
+      "previous_close": 183.57000732421875,
+      "change_pct": -0.8825010947226986,
+      "as_of": "2026-08-19"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.64,
+      "previous_close": 185.6199951171875,
+      "change_pct": -1.0666927967202477,
+      "as_of": "2026-08-19"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+      "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T01:02:50+00:00"
+    },
+    {
+      "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+      "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
+      "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T00:30:32+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+      "summary": "Rising memory chip costs are reshaping the world's second-largest smartphone market as Chinese brands become expensive, improving the value proposition for Samsung and Apple.",
+      "link": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T00:17:08+00:00"
+    },
+    {
+      "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
+      "summary": "Asia’s hydrogen train push may be less about rail and more about building a broader hydrogen economy.",
+      "link": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T00:09:09+00:00"
+    },
+    {
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
+      "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T23:57:47+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 rose modestly as the Treasury announced a debt repurchase plan that sent yields falling. Tune in to CNBC for John David Rainey of Walmart.",
+      "link": "https://www.cnbc.com/2026/08/19/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T23:46:23+00:00"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T23:30:00+00:00"
+    },
+    {
+      "title": "US Stock Index Futures Climb As Yields Cool Off Amid Treasury Support — NVDA, MRNA, MRVL, LOWE In Focus",
+      "summary": "A rally in 30-year bonds drove yields down by 10 basis points to 5.18%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T23:15:36+00:00"
+    },
+    {
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "summary": "“There is a lot of legal and financial power in my hands.”",
+      "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T23:15:00+00:00"
+    },
+    {
+      "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
+      "summary": "TIPS yields are at or close to 20-year highs.",
+      "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T23:01:00+00:00"
+    },
+    {
+      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T22:34:33+00:00"
+    },
+    {
+      "title": "NEOS’s ‘Boosted’ S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
+      "summary": "NEOS built its reputation on a flagship S&P 500 income ETF that clears 12% annually, but a pair of younger siblings run the same playbook at a noticeably different intensity, and the tradeoffs are not what most income investors expect.",
+      "link": "https://247wallst.com/investing/2026/08/19/neoss-boosted-sp-fund-pays-17-while-the-nasdaq-version-pays-21/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T22:25:42+00:00"
+    },
+    {
+      "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
+      "summary": "Previous instances of short-term pressure on semiconductor stocks opened up opportunities for investors who bought the dip, according to one analyst.",
+      "link": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T22:02:00+00:00"
+    },
+    {
+      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+      "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T21:50:00+00:00"
+    },
+    {
+      "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
+      "summary": "Young Chinese are renting cameras, drones and camping gear instead of buying them. It’s a clever way to save money — but also the latest challenge to Beijing’s effort to get consumers spending.",
+      "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T21:44:00+00:00"
+    },
+    {
+      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+      "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T21:29:38+00:00"
+    },
+    {
+      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+      "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
+      "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T21:26:00+00:00"
+    },
+    {
+      "title": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+      "summary": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T21:19:21+00:00"
+    },
+    {
+      "title": "Why the Treasury market’s newfound calm could break down in September",
+      "summary": "A brutal summer stretch for the U.S. Treasury market risks getting worse come September, right as many of the world’s largest companies plan to unleash a new wave of bond issuance.",
+      "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-19T21:10:00+00:00"
+    },
+    {
+      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+      "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+      "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-19T21:05:31+00:00"
+    }
+  ]
+}
