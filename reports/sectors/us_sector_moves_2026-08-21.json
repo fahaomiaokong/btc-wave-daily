@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.75,
+      "previous_close": 63.58000183105469,
+      "change_pct": 0.2673767915216896,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.08,
+      "previous_close": 44.9900016784668,
+      "change_pct": 0.20004071610488783,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.42,
+      "previous_close": 52.52000045776367,
+      "change_pct": -0.1904045256893916,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.1,
+      "previous_close": 183.63999938964844,
+      "change_pct": -0.29405325171161234,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.77,
+      "previous_close": 44.02000045776367,
+      "change_pct": -0.5679247050520586,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.68,
+      "previous_close": 111.31999969482422,
+      "change_pct": -0.5749188794275328,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.95,
+      "previous_close": 57.47999954223633,
+      "change_pct": -0.9220590578586929,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.77,
+      "previous_close": 181.9499969482422,
+      "change_pct": -1.1981296976126377,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.32,
+      "previous_close": 86.54000091552734,
+      "change_pct": -1.4097537585170627,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.68,
+      "previous_close": 118.58999633789062,
+      "change_pct": -1.6105880739287537,
+      "as_of": "2026-08-20"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 172.39,
+      "previous_close": 175.67999267578125,
+      "change_pct": -1.8727190419759232,
+      "as_of": "2026-08-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "Japan headline inflation rate hits highest this year as energy prices bite",
+      "summary": "Core inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.",
+      "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T02:13:18+00:00"
+    },
+    {
+      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "summary": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.",
+      "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T01:56:01+00:00"
+    },
+    {
+      "title": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
+      "summary": "Jim Cramer's extended interview with the CEO made us more confident in our newest stock position.",
+      "link": "https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T01:07:05+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates",
+      "summary": "The Dow ended Thursday's session down 700 points, marking its worst day since July 29.",
+      "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T00:51:29+00:00"
+    },
+    {
+      "title": "CFTC’s Innovation Advisory Committee meeting addresses emerging prediction market risks",
+      "summary": "The CFTC's first Innovation Advisory Committee meeting discussed risks of mention markets, with members advocating for tighter consumer protection.",
+      "link": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T00:45:58+00:00"
+    },
+    {
+      "title": "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
+      "summary": "Japan's historic effort to prop up the yen may have had an unintended consequence: giving investors a better opportunity to put the carry trade back on.",
+      "link": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T00:00:01+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials dropped 700 points on Thursday as Treasury yields resumed their climb and the Treasury Department's relief plan failed.",
+      "link": "https://www.cnbc.com/2026/08/20/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T23:16:21+00:00"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-20T23:00:00+00:00"
+    },
+    {
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+      "summary": "“There is a lot of legal and financial power in my hands.”",
+      "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-20T22:45:00+00:00"
+    },
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "summary": "“I’d love for our son to be able to attend college without needing to take out student loans.”",
+      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-20T22:00:00+00:00"
+    },
+    {
+      "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+      "summary": "The potential capacity increase would be part of Hyundai's plan to invest $26 billion in the U.S. through 2028, Hyundai CEO José Muñoz told CNBC.",
+      "link": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T21:54:59+00:00"
+    },
+    {
+      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "summary": "Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.",
+      "link": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T21:53:44+00:00"
+    },
+    {
+      "title": "US Stock Indices End Lower As Trump’s ‘Economic Warfare’ Threats Push Yields, Oil Higher — WMT, CRWV, SBUX, DE, RKLB In Focus",
+      "summary": "President Donald Trump, in a Truth Social post, threatened Iran with “economic warfare.”",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-indices-end-lower-as-trump-s-economic-warfare-threats-push-yields-oil-higher/cZYeR5dRJZA?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-20T21:31:30+00:00"
+    },
+    {
+      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
+      "summary": "Most retirement investors already hold a concentrated chip bet without knowing it, and adding FTXL can quietly double down on the same handful of names. Getting the sizing right separates a smart tilt from a sector gamble that distorts your entire portfolio.",
+      "link": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-20T21:15:32+00:00"
+    },
+    {
+      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
+      "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T21:13:14+00:00"
+    },
+    {
+      "title": "Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund",
+      "summary": "Goldman Sachs just wrote a $2.25 billion check for the firm behind a beloved 14% income ETF, and the reason they paid that price says something uncomfortable about who that yield actually benefits.",
+      "link": "https://247wallst.com/investing/2026/08/20/goldman-sachs-just-paid-2-25-billion-for-the-family-behind-your-14-income-fund/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-20T21:05:19+00:00"
+    },
+    {
+      "title": "XLF vs EUFN: Is a U.S. Financials ETF Superior to a Europe-Focused Fund?",
+      "summary": "State Street's fund tracks JPMorgan and Berkshire, while iShares targets HSBC and Santander. One prioritizes affordability; the other, income.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/20/xlf-vs-eufn-is-a-u-s-financials-etf-superior-to-a-europe-focused-fund/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-20T21:04:01+00:00"
+    },
+    {
+      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-20T21:01:00+00:00"
+    },
+    {
+      "title": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
+      "summary": "The pending $12.5 billion Lakers sale would lift CNBC’s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
+      "link": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-20T20:28:21+00:00"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Softer Late Afternoon",
+      "summary": "Financial stocks declined in late Thursday afternoon trading, with the NYSE Financial Index shedding",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-200451435.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-20T20:04:51+00:00"
+    }
+  ]
+}
