@@ -1,0 +1,95 @@
+[
+  {
+    "title": "CrowdStrike Holdings (CRWD) & Palo Alto Networks (PANW): Cybersecurity Stocks Hit Record Highs After a Conference Made AI’s Dark Side Clear",
+    "summary": "On August 10, 2026, CrowdStrike Holdings, Inc. (NASDAQ:CRWD) and Palo Alto Networks, Inc. (NASDAQ:PANW) shares jumped more than 5% to new highs after the cybersecurity industry’s annual Black Hat conference in Las Vegas. Analysts at BTIG wrote that “AI agents have fundamentally changed the threat landscape.” Why This Matters AI is cutting both ways for […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-palo-alto-013941449.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-21T01:39:41+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Alphabet and Nvidia Own More SpaceX Than BlackRock and Vanguard Combined. Here's Why That's About to Change.",
+    "summary": "BlackRock and Vanguard ETFs will be loading up on SpaceX as more shares are available for trading on the Nasdaq.",
+    "link": "https://www.fool.com/investing/2026/08/20/alphabet-and-nvidia-own-more-spacex-than-blackrock/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-21T00:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "What Is Alphabet (GOOGL) Signaling With Its New AI Chip Stake Option?",
+    "summary": "Alphabet (NasdaqGS:GOOGL) has expanded its AI chip partnership with Marvell Technology, focusing on custom processors for AI workloads. The agreement includes an option that could allow Google to acquire a significant stake in Marvell based on directed chip design and manufacturing business. The move adds a new external chip partner alongside Alphabet's in house TPU efforts and reduces reliance on dominant third party GPU suppliers. The partnership targets growing demand for AI compute...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-signaling-ai-chip-231221134.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-20T23:12:21+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "The Verge",
+    "published": "2026-08-20T20:16:13+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "AT&T (T) Says It’s Not Scared of the “Token Apocalypse.” NVIDIA Corporation (NVDA)’s CEO Is Cheering the Same Trend",
+    "summary": "On August 12, AT&T Inc. (NYSE:T) Chief Data and AI Officer Andy Markus said OpenAI models already power about 25% of the telecom’s total AI usage, with a target of 70% to 80% over time. On the other hand, NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang has spent the past month leading a consortium of companies […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-20T23:19:33+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch",
+    "published": "2026-08-20T22:36:37+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It",
+    "summary": "Riot Platforms, Inc. (NASDAQ:RIOT) struck a $9.1 billion, 20-year computing deal with Anthropic this week, leasing 191 megawatts of power at its Rockdale, Texas campus. The deal could grow to $16.1 billion if extended twice by five years each. Shares initially jumped more than 20% before giving back most of the gain. Why This Matters […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-21T01:49:19+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "NVIDIA Corporation (NVDA)’s Space Exploration Technologies (SPCX) Stake Traces Back to a Wild $1.25 Trillion Deal. Here’s How It Happened",
+    "summary": "On August 14, 2026, NVIDIA Corporation (NASDAQ:NVDA) disclosed that its Space Exploration Technologies Corp. (NASDAQ:SPCX) stake was worth about $21 billion at the end of the second quarter. A position that traces back to a $10 billion investment NVIDIA made in Elon Musk’s xAI as part of a $20 billion funding round in January 2026, […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-space-exploration-005825605.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-21T00:58:25+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
