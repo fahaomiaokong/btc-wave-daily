@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.54,
+      "previous_close": 52.41999816894531,
+      "change_pct": 2.136592655812408,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 174.62,
+      "previous_close": 172.38999938964844,
+      "change_pct": 1.2935788724676378,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.02,
+      "previous_close": 116.68000030517578,
+      "change_pct": 1.1484399137122514,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.48,
+      "previous_close": 56.95000076293945,
+      "change_pct": 0.930639560948765,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.99,
+      "previous_close": 85.31999969482422,
+      "change_pct": 0.7852793103284794,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.4,
+      "previous_close": 110.68000030517578,
+      "change_pct": 0.6505237557273169,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.25,
+      "previous_close": 179.77000427246094,
+      "change_pct": 0.2670054603834737,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.31,
+      "previous_close": 183.10000610351562,
+      "change_pct": 0.1146880881946366,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.08,
+      "previous_close": 45.08000183105469,
+      "change_pct": -4.061789293796636e-06,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.64,
+      "previous_close": 63.75,
+      "change_pct": -0.1725490196078372,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.77,
+      "previous_close": 43.77000045776367,
+      "change_pct": -2.284670887149365,
+      "as_of": "2026-08-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "Pentagon fires U.S. military newspaper leadership",
+      "summary": "The editor-in-chief of the Stars and Stripes U.S. military newspaper said on Friday that he was being fired for insubordination.",
+      "link": "https://www.cnbc.com/2026/08/21/pentagon-fires-us-military-newspaper-leadership.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T00:05:22+00:00"
+    },
+    {
+      "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+      "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
+      "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T23:12:26+00:00"
+    },
+    {
+      "title": "Single at 66 Means One Social Security Check and No Backup. These 4 ETFs Build the Second One",
+      "summary": "Solo retirees face a math problem no cost-of-living adjustment can fix: one income source with zero backup when markets turn ugly. Four income ETFs can wire a second paycheck directly to your account, but only if you weight them the right way.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/single-at-66-means-one-social-security-check-and-no-backup-these-4-etfs-build-the-second-one/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T23:00:57+00:00"
+    },
+    {
+      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses",
+      "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
+      "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T22:53:08+00:00"
+    },
+    {
+      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+      "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T22:35:17+00:00"
+    },
+    {
+      "title": "DIVO Holders Gave Up $79,300 on a $500,000 Position Over Five Years for Downside Comfort",
+      "summary": "DIVO promises smoother drawdowns and monthly income, but the comfort of a covered-call strategy comes with hidden costs that compound quietly into five-figure territory on a half-million-dollar position over five years.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/divo-holders-gave-up-79300-on-a-500000-position-over-five-years-for-downside-comfort/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T22:05:31+00:00"
+    },
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T22:03:39+00:00"
+    },
+    {
+      "title": "VTV’s 0.03% Fee Hides the Real Cost: $250,000 Trails the S&P 500 by $229,000 Over a Decade",
+      "summary": "Vanguard's VTV carries one of the lowest expense ratios in the ETF universe, yet a quarter-million dollar investment has quietly fallen far behind a basic S&P 500 fund over the past decade for a reason the fee disclosure never mentions.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/vtvs-0-03-fee-hides-the-real-cost-250000-trails-the-sp-500-by-229000-over-a-decade/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:55:01+00:00"
+    },
+    {
+      "title": "Boeing engineers, technical workers reject contract offer",
+      "summary": "Boeing engineers and technical workers rejected the U.S. planemaker's four-year contract offer, union officials said on Friday.",
+      "link": "https://www.cnbc.com/2026/08/21/boeing-engineers-technical-workers-reject-contract-offer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T21:51:22+00:00"
+    },
+    {
+      "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",
+      "summary": "The U.S. 30-year Treasury yield climbed for the second straight week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-indices-end-week-lower-on-pressure-from-elevated-long-duration-treasury-yields-psky/cZY97YMRJVO?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:48:44+00:00"
+    },
+    {
+      "title": "How a 72-Year-Old’s $400,000 in QYLD Now Pays $3,901 a Month, Down From a Steadily Shrinking Peak",
+      "summary": "She built her retirement around a fund that promised monthly income for life, but each check arriving in her account may be quietly dismantling the nest egg behind it.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/how-a-72-year-olds-400000-in-qyld-now-pays-3901-a-month-down-from-a-steadily-shrinking-peak/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:45:54+00:00"
+    },
+    {
+      "title": "Two Years of Friday Paydays: The 44% Fund Has Kept Its NAV and Beaten Half of Wall Street",
+      "summary": "QDTE has delivered a Friday paycheck almost every week for two years, but the numbers behind that headline yield tell a more complicated story about what income-hungry investors are actually giving up.",
+      "link": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:35:03+00:00"
+    },
+    {
+      "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
+      "summary": "Trump had already postponed the 50% tariffs on a range of Canadian goods so Washington and Ottawa could finalize a tentative deal.",
+      "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T21:31:24+00:00"
+    },
+    {
+      "title": "You can now Venmo your kid’s college tuition. But should you?",
+      "summary": "Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
+      "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-21T21:20:00+00:00"
+    },
+    {
+      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
+      "summary": "The warehouse club becomes the latest consumer brand to offer health insurance.",
+      "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-21T21:17:00+00:00"
+    },
+    {
+      "title": "You Do Not Need $1 Million to Retire: These 3 ETFs Pay About $49,000 a Year on $600,000",
+      "summary": "The retirement industry insists you need seven figures before you can quit working, but a trio of overlooked ETFs rewrites that assumption in a way most financial advisors never mention to their clients.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/you-do-not-need-1-million-to-retire-these-3-etfs-pay-about-49000-a-year-on-600000/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:15:13+00:00"
+    },
+    {
+      "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
+      "summary": "State Street runs two S&P 500 ETFs that hold the exact same stocks in the exact same weights and pay the exact same dividends, yet most investors park their money in the one that costs significantly more.",
+      "link": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T21:05:02+00:00"
+    },
+    {
+      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
+      "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
+      "link": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T20:47:32+00:00"
+    },
+    {
+      "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+      "summary": "The automaker plans to soon launch its Cybercab in Austin, Texas, and got the nod to deploy thousands of vehicles in Nevada.",
+      "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-21T20:34:00+00:00"
+    },
+    {
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
+      "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-21T20:19:21+00:00"
+    }
+  ]
+}
