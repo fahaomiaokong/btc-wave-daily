@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.54,
+      "previous_close": 52.41999816894531,
+      "change_pct": 2.136592655812408,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 174.62,
+      "previous_close": 172.38999938964844,
+      "change_pct": 1.2935788724676378,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.02,
+      "previous_close": 116.68000030517578,
+      "change_pct": 1.1484399137122514,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.48,
+      "previous_close": 56.95000076293945,
+      "change_pct": 0.930639560948765,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.99,
+      "previous_close": 85.31999969482422,
+      "change_pct": 0.7852793103284794,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.4,
+      "previous_close": 110.68000030517578,
+      "change_pct": 0.6505237557273169,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.25,
+      "previous_close": 179.77000427246094,
+      "change_pct": 0.2670054603834737,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.31,
+      "previous_close": 183.10000610351562,
+      "change_pct": 0.1146880881946366,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.08,
+      "previous_close": 45.08000183105469,
+      "change_pct": -4.061789293796636e-06,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.64,
+      "previous_close": 63.75,
+      "change_pct": -0.1725490196078372,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.77,
+      "previous_close": 43.77000045776367,
+      "change_pct": -2.284670887149365,
+      "as_of": "2026-08-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T20:45:00+00:00"
+    },
+    {
+      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+      "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+      "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T20:34:13+00:00"
+    },
+    {
+      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+      "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
+      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T20:31:00+00:00"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+      "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T20:30:00+00:00"
+    },
+    {
+      "title": "Nvidia customers reportedly warned about AI-related price hikes",
+      "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+      "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T20:26:44+00:00"
+    },
+    {
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+      "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T20:18:15+00:00"
+    },
+    {
+      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "summary": "“The cost is absolutely ridiculous.”",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T20:15:00+00:00"
+    },
+    {
+      "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+      "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T18:57:46+00:00"
+    },
+    {
+      "title": "This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year",
+      "summary": "SPY's quarterly dividend barely registers as income, but a lesser-known fund holding the exact same 500 companies has quietly rewired the payout structure in a way most income investors have never considered.",
+      "link": "https://247wallst.com/investing/2026/08/22/this-fund-pays-400-of-the-sps-dividend-and-still-beat-half-of-wall-street-this-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-22T18:48:16+00:00"
+    },
+    {
+      "title": "Forget JEPI: BlackRock’s Answer Pays 7.6%, Charges the Same 0.35%, and Beat It by 10 Points This Year",
+      "summary": "JEPI built its reputation on fat monthly checks and a 0.35% fee, but a newer BlackRock fund matches it on both counts while doing something JEPI's covered-call structure quietly prevents its holders from achieving.",
+      "link": "https://247wallst.com/investing/2026/08/22/forget-jepi-blackrocks-answer-pays-7-6-charges-the-same-0-35-and-beat-it-by-10-points-this-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-22T18:01:35+00:00"
+    },
+    {
+      "title": "The Smartest ETF to Buy With $750 Right Now",
+      "summary": "The Invesco QQQ Trust has been a high-performing fund over the years.",
+      "link": "https://www.fool.com/investing/2026/08/22/the-smartest-etf-to-buy-with-750-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-22T17:55:00+00:00"
+    },
+    {
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+      "summary": "“There is a lot of legal and financial power in my hands.”",
+      "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T17:00:00+00:00"
+    },
+    {
+      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "summary": "“My CPA hasn’t gotten back to me.”",
+      "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+      "summary": "Stocks took their cue from the bond market this week.",
+      "link": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T15:08:54+00:00"
+    },
+    {
+      "title": "Most Tech Stocks Are More Correlated Than You Think. Don’t Let That Wreck Your Trading Plan.",
+      "summary": "Most tech stocks and AI-related themes are caught in the same web. That insight could save a lot of financial headaches as the stock market bull run gradually fades.",
+      "link": "https://www.barchart.com/story/news/3986181/most-tech-stocks-are-more-correlated-than-you-think-dont-let-that-wreck-your-trading-plan?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-22T14:30:02+00:00"
+    },
+    {
+      "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
+      "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T14:00:01+00:00"
+    },
+    {
+      "title": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
+      "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
+      "link": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T14:00:01+00:00"
+    },
+    {
+      "title": "Pentagon fires U.S. military newspaper leadership for 'insubordination'",
+      "summary": "The editor-in-chief of the Stars and Stripes U.S. military newspaper said on Friday that he was being fired for insubordination.",
+      "link": "https://www.cnbc.com/2026/08/21/pentagon-fires-us-military-newspaper-leadership.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T13:42:52+00:00"
+    },
+    {
+      "title": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
+      "summary": "A new survey shows even a $500 unexpected expense may throw households off track when it comes to big life goals like saving for retirement.",
+      "link": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T13:30:01+00:00"
+    },
+    {
+      "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+      "summary": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility.",
+      "link": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-22T13:26:14+00:00"
+    }
+  ]
+}
