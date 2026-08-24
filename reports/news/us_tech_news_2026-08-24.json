@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
+    "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
+    "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-24T01:53:42+00:00",
+    "tickers": [
+      "NVDA",
+      "CRWD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+    "summary": "Nvidia Corp.'s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip costs soaring. Bloomberg's Anthony Stephens breaks down what we know so far.",
+    "link": "https://finance.yahoo.com/video/nvidia-notifies-customers-ai-related-003033419.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-24T00:30:33+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Novo Nordisk Expands Its AI Push With AWS, But Can It Accelerate Drug Discovery?",
+    "summary": "Novo Nordisk A/S (NYSE:NVO) has entered a strategic partnership with Amazon Web Services to accelerate drug discovery and modernize its operations through artificial intelligence and cloud technology. The agreement establishes AWS as Novo Nordisk’s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub in London, where AWS engineers and […]",
+    "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-expands-ai-push-234353024.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-23T23:43:53+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings",
+    "summary": "Analysts reveal what could happen to Nvidia shares next, and set expectations for the Q2 report.",
+    "link": "https://www.thestreet.com/investing/goldman-sachs-reiterates-buy-nvidia-ahead-of-q2-fy27-earnings?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-23T22:17:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia customers reportedly warned about AI-related price hikes",
+    "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+    "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+    "source": "Tech",
+    "published": "2026-08-22T20:26:44+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
+    "summary": "The 18-month handoff is complete -- and by volume, America's biggest parcel carrier is now the retailer, not the traditional carriers.",
+    "link": "https://www.fool.com/investing/2026/08/23/ups-stopped-carrying-2-million-amazon-packages-a-day-amazon-still-has-to-move-them/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-24T00:34:01+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 5
+  },
+  {
+    "title": "The AI Debt Boom Is Helping Push Everyone’s Cost of Capital Higher",
+    "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
+    "link": "https://247wallst.com/investing/2026/08/23/the-ai-debt-boom-is-helping-push-everyones-cost-of-capital-higher/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-23T23:18:17+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
+    "summary": "It's a winner in a shrinking U.S. market, and it's not like the company's crushing it outside of the United States either.",
+    "link": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-23T21:56:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 5
+  }
+]
