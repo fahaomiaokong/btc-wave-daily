@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.54,
+      "previous_close": 52.41999816894531,
+      "change_pct": 2.136592655812408,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 174.62,
+      "previous_close": 172.38999938964844,
+      "change_pct": 1.2935788724676378,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.02,
+      "previous_close": 116.68000030517578,
+      "change_pct": 1.1484399137122514,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.48,
+      "previous_close": 56.95000076293945,
+      "change_pct": 0.930639560948765,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.99,
+      "previous_close": 85.31999969482422,
+      "change_pct": 0.7852793103284794,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.4,
+      "previous_close": 110.68000030517578,
+      "change_pct": 0.6505237557273169,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.25,
+      "previous_close": 179.77000427246094,
+      "change_pct": 0.2670054603834737,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.31,
+      "previous_close": 183.10000610351562,
+      "change_pct": 0.1146880881946366,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.08,
+      "previous_close": 45.08000183105469,
+      "change_pct": -4.061789293796636e-06,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.64,
+      "previous_close": 63.75,
+      "change_pct": -0.1725490196078372,
+      "as_of": "2026-08-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.77,
+      "previous_close": 43.77000045776367,
+      "change_pct": -2.284670887149365,
+      "as_of": "2026-08-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
+      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-24T01:01:00+00:00"
+    },
+    {
+      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+      "summary": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
+      "link": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T00:59:57+00:00"
+    },
+    {
+      "title": "What's bogging down the data center trade has nothing to do with demand",
+      "summary": "The stakes are incredibly high for the U.S. to maintain its lead in data centers. It seems to be getting harder and harder in this election year.",
+      "link": "https://www.cnbc.com/2026/08/23/whats-bogging-down-the-data-center-trade-has-nothing-to-do-with-demand.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T22:55:14+00:00"
+    },
+    {
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
+      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T22:39:41+00:00"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T19:30:00+00:00"
+    },
+    {
+      "title": "DIVO Was the Quality-Income Pick. Its International Twin Yields 5.6% and Beat It by 5 Points",
+      "summary": "DIVO built a $5.25 billion following by pairing blue-chip dividends with a covered-call overlay, but the same manager running the same strategy on a different continent is quietly making DIVO holders ask uncomfortable questions about where their money should be sitting.",
+      "link": "https://247wallst.com/investing/2026/08/23/divo-was-the-quality-income-pick-its-international-twin-yields-5-6-and-beat-it-by-5-points/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-23T19:11:52+00:00"
+    },
+    {
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "summary": "“I’m curious whether there’s a downside.”",
+      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T19:00:00+00:00"
+    },
+    {
+      "title": "Trump’s Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury ‘Pulled the Rug Out From Under’",
+      "summary": "The Donald Trump administration’s aggressive expansion of a Treasury bond buyback program has effectively neutralized the Federal Reserve’s ability to combat inflation, leaving Chair Kevin Warsh sidelined while inflation-sensitive assets surge. A 24-Hour Drama in the Bond Market Economist Peter...",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-bond-buyback-push-puts-183139508.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-23T18:31:39+00:00"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+      "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T18:00:00+00:00"
+    },
+    {
+      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+      "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T17:58:06+00:00"
+    },
+    {
+      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+      "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+      "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T17:30:14+00:00"
+    },
+    {
+      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T17:30:00+00:00"
+    },
+    {
+      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T17:00:00+00:00"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market this week",
+      "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
+      "link": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T16:56:02+00:00"
+    },
+    {
+      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "summary": "“The cost is absolutely ridiculous.”",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T16:45:00+00:00"
+    },
+    {
+      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
+      "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T13:00:01+00:00"
+    },
+    {
+      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
+      "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-23T13:00:00+00:00"
+    },
+    {
+      "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+      "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
+      "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T12:46:01+00:00"
+    },
+    {
+      "title": "Norway to give more than $9 billion to Ukraine in 2027",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/08/23/norway-to-give-more-than-9-billion-to-ukraine-in-2027.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T12:05:21+00:00"
+    },
+    {
+      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-23T12:00:01+00:00"
+    }
+  ]
+}
