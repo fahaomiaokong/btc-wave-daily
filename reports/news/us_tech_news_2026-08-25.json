@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+    "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can […]",
+    "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+    "source": "The Verge",
+    "published": "2026-08-24T14:08:03+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
+    "summary": "Dow Jones Futures: Comments from President Trump and Treasury Secretary Bessent sparked tech losses Monday. Nvidia stock sold off.",
+    "link": "https://finance.yahoo.com/m/a28a6eae-87d9-3229-b7dc-430baf4250e1/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-25T01:44:12+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More than SpaceX Before 2026 is Over",
+    "summary": "Meta Platforms may be smaller, but it's producing bigger profits.",
+    "link": "https://www.fool.com/investing/2026/08/24/prediction-this-artificial-intelligence-ai-stock-w/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-25T01:35:00+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Market Chatter: Lambda in Talks to Raise Up to $3 Billion Ahead of Possible IPO",
+    "summary": "Lambda, an AI cloud-computing provider backed by Nvidia (NVDA), is in talks to raise as much as $3 b",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-lambda-talks-raise-000516948.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-25T00:05:16+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Tesla (TSLA)’s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
+    "summary": "Tesla, Inc. (NASDAQ:TSLA) has stopped selling its premium Solar Roof tiles on its website, nearly a decade after Elon Musk introduced them as a more attractive alternative to conventional solar panels. The company’s solar strategy has now shifted to a traditional solar-panel offering. Reuters noted that Tesla, Inc. (NASDAQ:TSLA) had once targeted 1,000 Solar Roof […]",
+    "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-solar-roof-shutdown-014101772.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-25T01:41:01+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Jim Cramer says don't sell Meta on litigation risk — the stock is worth the wait",
+    "summary": "Meta's court battles are an overhang on the stock, but its business fundamentals make it one worth holding.",
+    "link": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
+    "source": "Tech",
+    "published": "2026-08-24T20:15:13+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+    "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "source": "TechCrunch",
+    "published": "2026-08-24T19:58:17+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "source": "TechCrunch",
+    "published": "2026-08-24T18:03:55+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 6
+  }
+]
