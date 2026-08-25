@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.45,
+      "previous_close": 85.98999786376953,
+      "change_pct": 1.6978743720211353,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.22,
+      "previous_close": 57.47999954223633,
+      "change_pct": 1.2874051211846593,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.22,
+      "previous_close": 42.77000045776367,
+      "change_pct": 1.0521382684592462,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.32,
+      "previous_close": 111.4000015258789,
+      "change_pct": 0.8258514017231544,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.33,
+      "previous_close": 45.08000183105469,
+      "change_pct": 0.5545655696337803,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.3,
+      "previous_close": 118.0199966430664,
+      "change_pct": 0.23725077520584392,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.58,
+      "previous_close": 53.540000915527344,
+      "change_pct": 0.07470878555972948,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 174.7,
+      "previous_close": 174.6199951171875,
+      "change_pct": 0.0458165645685682,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 179.0,
+      "previous_close": 180.25,
+      "change_pct": -0.6934812760055475,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.11,
+      "previous_close": 63.63999938964844,
+      "change_pct": -0.8328086026579196,
+      "as_of": "2026-08-24"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 180.05,
+      "previous_close": 183.30999755859375,
+      "change_pct": -1.7784068528786667,
+      "as_of": "2026-08-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
+      "summary": "Investors turned cautious ahead of Nvidia's earnings and a closely watched inflation report. Both are due later this week.",
+      "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T01:52:06+00:00"
+    },
+    {
+      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "summary": "“The cost is absolutely ridiculous.”",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-25T00:15:00+00:00"
+    },
+    {
+      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+      "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T00:05:29+00:00"
+    },
+    {
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-25T00:00:00+00:00"
+    },
+    {
+      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+      "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T23:48:50+00:00"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-24T23:45:00+00:00"
+    },
+    {
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
+      "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T23:27:01+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 slipped to start the week as tech stocks tumbled on Monday. Tune in to CNBC Tuesday morning for Scott Kirby, CEO of United Airlines.",
+      "link": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T23:24:12+00:00"
+    },
+    {
+      "title": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
+      "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T23:16:19+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
+      "summary": "Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data better.",
+      "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T23:00:01+00:00"
+    },
+    {
+      "title": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+      "link": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T22:51:16+00:00"
+    },
+    {
+      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+      "summary": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
+      "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T22:16:18+00:00"
+    },
+    {
+      "title": "You Retired With Two Car Payments and No Paycheck. These 3 ETFs Cover Both Every Month",
+      "summary": "Two car payments survive the transition into retirement just fine, but they arrive every 30 days without mercy, and a portfolio built for quarterly checks will crack under that pressure. Three ETFs solve the timing problem before the next payment clears.",
+      "link": "https://247wallst.com/investing/etf/2026/08/24/you-retired-with-two-car-payments-and-no-paycheck-these-3-etfs-cover-both-every-month/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-24T21:55:09+00:00"
+    },
+    {
+      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+      "summary": "Aggregate spending has been strong, even if American shoppers are getting choosier about what they buy.",
+      "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-24T21:55:00+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
+      "summary": "The U.S. Treasury chief threatened economic sanctions against any country doing business with Iran.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-on-chipmaker-weakness/cZYKu7wRJFn?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-24T21:52:14+00:00"
+    },
+    {
+      "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
+      "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T21:38:59+00:00"
+    },
+    {
+      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
+      "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
+      "link": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-24T21:26:00+00:00"
+    },
+    {
+      "title": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
+      "summary": "Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.",
+      "link": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T21:25:32+00:00"
+    },
+    {
+      "title": "After Comparing Every Way to Own the AI Power Buildout, These 3 ETFs Cover the Grid, the Generators, and the Fuel",
+      "summary": "AI data centers are reshaping the American power grid, but most investors betting on this theme are only capturing a fraction of it. Owning the full electricity value chain from transformer to turbine to fuel source requires three separate funds built for three distinct roles.",
+      "link": "https://247wallst.com/investing/etf/2026/08/24/after-comparing-every-way-to-own-the-ai-power-buildout-these-3-etfs-cover-the-grid-the-generators-and-the-fuel/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-24T21:05:20+00:00"
+    },
+    {
+      "title": "BlackBerry found a second life in car software. Now it’s looking to robotics",
+      "summary": "BlackBerry CEO John Giamatteo explains how its QNX car software helped reshape the company — and why it sees robotics as a major growth opportunity.",
+      "link": "https://www.cnbc.com/video/2026/08/24/blackberry-qnx-cars-robotics.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-24T21:00:01+00:00"
+    }
+  ]
+}
