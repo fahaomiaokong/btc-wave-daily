@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 181.74,
+      "previous_close": 180.0500030517578,
+      "change_pct": 0.9386264479853246,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.18,
+      "previous_close": 112.31999969482422,
+      "change_pct": 0.7656697894519393,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 175.29,
+      "previous_close": 174.6999969482422,
+      "change_pct": 0.33772356157086847,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.31,
+      "previous_close": 43.220001220703125,
+      "change_pct": 0.20823409707302343,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.31,
+      "previous_close": 58.220001220703125,
+      "change_pct": 0.15458395295409044,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.36,
+      "previous_close": 45.33000183105469,
+      "change_pct": 0.06617729480160595,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.58,
+      "previous_close": 53.58000183105469,
+      "change_pct": -3.417421845508528e-06,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.95,
+      "previous_close": 118.30000305175781,
+      "change_pct": -0.2958605602103703,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.4,
+      "previous_close": 179.0,
+      "change_pct": -0.3351955307262511,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.52,
+      "previous_close": 87.44999694824219,
+      "change_pct": -1.0634613844442087,
+      "as_of": "2026-08-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.06,
+      "previous_close": 63.11000061035156,
+      "change_pct": -1.6637626369779057,
+      "as_of": "2026-08-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+      "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
+      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T02:06:21+00:00"
+    },
+    {
+      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T02:01:01+00:00"
+    },
+    {
+      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+      "summary": "Traders awaited inflation data along with Nvidia's latest quarterly results. Both are due Wednesday.",
+      "link": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T01:58:20+00:00"
+    },
+    {
+      "title": "Are older Americans spoiling the economy for everyone else?",
+      "summary": "How to get seniors to spend $12 trillion in home equity.",
+      "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-26T01:41:00+00:00"
+    },
+    {
+      "title": "5 cheap U.S. cities to retire in — if you can deal with this one thing",
+      "summary": "You don’t have to leave the country to find an affordable place that matches your retirement vision.",
+      "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-26T01:35:00+00:00"
+    },
+    {
+      "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+      "summary": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
+      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T01:29:20+00:00"
+    },
+    {
+      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+      "summary": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
+      "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T01:07:28+00:00"
+    },
+    {
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-26T00:34:03+00:00"
+    },
+    {
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-26T00:30:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
+      "summary": "Treasury yields declined, as the benchmark 10-year Treasury note yield dropped by over 7 basis points to reach 4.63%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-26T00:02:57+00:00"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-26T00:01:00+00:00"
+    },
+    {
+      "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+      "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
+      "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T23:35:24+00:00"
+    },
+    {
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-25T23:01:00+00:00"
+    },
+    {
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+      "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-25T22:57:00+00:00"
+    },
+    {
+      "title": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
+      "summary": "CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.",
+      "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T22:47:37+00:00"
+    },
+    {
+      "title": "'Big Short' investor Danny Moses calls 10-year yield, Nvidia the two most important assets for markets right now",
+      "summary": "The two assets are the center of gravity in financial markets at the moment, according to the Moses Ventures founder.",
+      "link": "https://www.cnbc.com/2026/08/25/big-short-investor-calls-10-year-yield-nvidia-the-two-most-important-assets-for-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T22:45:04+00:00"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-25T22:45:00+00:00"
+    },
+    {
+      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+      "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+      "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T22:09:01+00:00"
+    },
+    {
+      "title": "These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating the S&P 500 This Year",
+      "summary": "SCHD is the default income benchmark, but three international dividend ETFs are quietly outpacing it on yield and, in some cases, total return too. The fund structures are radically different, and only one of the three actually belongs in most portfolios.",
+      "link": "https://247wallst.com/investing/etf/2026/08/25/these-3-international-dividend-etfs-pay-up-to-three-times-schd-and-are-beating-the-sp-500-this-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-25T22:05:17+00:00"
+    },
+    {
+      "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
+      "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
+      "link": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-25T21:47:29+00:00"
+    }
+  ]
+}
