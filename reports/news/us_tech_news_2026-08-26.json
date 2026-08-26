@@ -1,0 +1,92 @@
+[
+  {
+    "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
+    "summary": "Treasury yields declined, as the benchmark 10-year Treasury note yield dropped by over 7 basis points to reach 4.63%.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-26T00:02:57+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 11
+  },
+  {
+    "title": "SpaceX just gave Nvidia investors a new reason to watch",
+    "summary": "Something Elon Musk said on SpaceX’s earnings call about Nvidia is still being priced into both stocks.",
+    "link": "https://www.thestreet.com/investing/stocks/spacex-nvidia-starmind-ai1-orbital-data-center?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-26T02:03:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+    "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows […]",
+    "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+    "source": "The Verge",
+    "published": "2026-08-25T19:27:55+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
+    "summary": "The AI tech leader has surpassed the Wall Street consensus earnings estimate in 22 of the past 24 quarters.",
+    "link": "https://www.fool.com/investing/2026/08/25/nvda-stock-earnings-q2-date-aug-26/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-26T00:59:48+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+    "summary": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
+    "link": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+    "source": "Tech",
+    "published": "2026-08-25T13:00:01+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+    "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
+    "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-26T01:58:55+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Oracle (ORCL) Secures $17 Billion VA Contract Expansion For Health Records",
+    "summary": "Oracle (NYSE: ORCL) secured a major expansion of its contract with the U.S. Department of Veterans Affairs for Oracle Health's electronic health record system, adding a potential US$17b in value. The expanded agreement extends the rollout timeline for the VA's electronic health record system, increasing Oracle's exposure to a large U.S. government healthcare client. The contract expansion highlights Oracle's growing role in digital health infrastructure for major U.S. institutions as of late...",
+    "link": "https://finance.yahoo.com/healthcare/articles/oracle-orcl-secures-17-billion-010649567.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-26T01:06:49+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Cramer says Nvidia has become 'all-important' to the AI trade. Here's what to watch beyond the numbers",
+    "summary": "CNBC's Jim Cramer said Nvidia has become so central to the AI ecosystem that its earnings are effectively a referendum on the entire AI trade.",
+    "link": "https://www.cnbc.com/2026/08/25/cramer-nvidia-all-important-ai-trade.html",
+    "source": "Tech",
+    "published": "2026-08-25T22:55:34+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
