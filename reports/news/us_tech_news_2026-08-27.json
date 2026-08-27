@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion […]",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "source": "The Verge",
+    "published": "2026-08-26T21:46:06+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 19
+  },
+  {
+    "title": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report",
+    "summary": "Chip and AI-linked stocks gained in sympathy after Nvidia’s Q2 report.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-chip-stocks-jump-premarket-after-nvidia-s-blowout-report/cZY8x7bRJpD?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-27T09:43:17+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "AVGO"
+    ],
+    "score": 16
+  },
+  {
+    "title": "US futures rise as Nvidia earnings revive AI optimism and Salesforce lifts outlook: Dow Jones, S&P, Nasdaq, Wall Street",
+    "summary": "US stock futures moved higher on Thursday as Nvidia (NASDAQ:NVDA) delivered stronger-than-expected quarterly results and an ambitious medium-term growth outlook, helping reinforce investor confidence in the artificial intelligence investment cycle. Sentiment received an additional boost from Salesforce (NYSE:CRM), which raised its full-year guidance following better-than-expected quarterly results and announced an expanded artificial intelligence partnership with Anthropic.",
+    "link": "https://investorshub.advfn.com/market-news/article/35154/us-futures-rise-as-nvidia-earnings-revive-ai-optimism-and-salesforce-lifts-outlook-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-27T09:32:52+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight",
+    "summary": "Semiconductor ETFs rallied following Nvidia’s results, with SOXX and SMH both gaining in early morning trade.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-earnings-chip-stocks-rally-trump-tariffs-threat/cZY8UCRRJpx?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-27T10:10:14+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+    "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
+    "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+    "source": "Tech",
+    "published": "2026-08-27T08:43:20+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+    "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+    "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+    "source": "Tech",
+    "published": "2026-08-26T19:15:53+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Update: Nvidia Shares Jump Premarket After Fiscal Q2 Adjusted Earnings, Revenue Rise",
+    "summary": "(Updates with guidance from the analyst call in the eighth and ninth paragraphs.) Nvidia (NVDA) s",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-jump-premarket-fiscal-100910571.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-27T10:09:10+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch",
+    "published": "2026-08-26T23:47:18+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
