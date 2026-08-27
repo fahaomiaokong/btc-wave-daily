@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 180.34,
+      "previous_close": 178.39999389648438,
+      "change_pct": 1.0874474046458138,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 182.84,
+      "previous_close": 181.74000549316406,
+      "change_pct": 0.605257221078559,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.43,
+      "previous_close": 62.060001373291016,
+      "change_pct": 0.5961950024516494,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.51,
+      "previous_close": 43.310001373291016,
+      "change_pct": 0.4617839306565452,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.67,
+      "previous_close": 53.58000183105469,
+      "change_pct": 0.16796970113792664,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.26,
+      "previous_close": 58.310001373291016,
+      "change_pct": -0.0857509382840127,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.27,
+      "previous_close": 86.5199966430664,
+      "change_pct": -0.2889466629289905,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.61,
+      "previous_close": 113.18000030517578,
+      "change_pct": -0.5036228164329803,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.09,
+      "previous_close": 45.36000061035156,
+      "change_pct": -0.5952394328009425,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.16,
+      "previous_close": 117.94999694824219,
+      "change_pct": -0.6697727585265212,
+      "as_of": "2026-08-26"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 173.54,
+      "previous_close": 175.2899932861328,
+      "change_pct": -0.9983418068116645,
+      "as_of": "2026-08-26"
+    }
+  ],
+  "news": [
+    {
+      "title": "Why Citi thinks one of the year's best-performing sectors is finishing its bull run",
+      "summary": "European banks have shaken off a weak first quarter to notch solid share price gains in the year to date, but Citi analysts warn their momentum may be fading.",
+      "link": "https://www.cnbc.com/2026/08/27/stocks-investment-bull-run-citi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T10:26:19+00:00"
+    },
+    {
+      "title": "Nvidia stock is climbing after another set of blockbuster results. Here’s what Wall Street is saying.",
+      "summary": "Shares of Nvidia rose in premarket trading on Thursday. Goldman Sachs and Citigroup raised their price targets for the stock.",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T10:02:00+00:00"
+    },
+    {
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
+      "summary": "Russia and Ukraine have intensified long-range drone and missile strikes as fears of further escalation grow.",
+      "link": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T09:36:30+00:00"
+    },
+    {
+      "title": "Second straight rate hike for Asia’s number-three economy as Nvidia-led AI expansion continues",
+      "summary": "The Bank of Korea tightened monetary policy by 25 basis points to 3% Thursday while simultaneously raising growth forecasts. Asia’s third-largest economy is being powered by an AI boom that Nvidia’s second-quarter results confirmed is far from being over.",
+      "link": "https://www.marketwatch.com/story/second-straight-rate-hike-for-asias-number-three-economy-as-nvidia-led-ai-expansion-continues-2dc36145?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T09:34:00+00:00"
+    },
+    {
+      "title": "Nasdaq futures jump as Nvidia earnings lift chip stocks: Live updates",
+      "summary": "Global investors are reacting to the earnings report from Nvidia, which surpassed analyst forecasts.",
+      "link": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T09:25:44+00:00"
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "summary": "“These shares are the only assets in her estate without designated beneficiaries.”",
+      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T09:15:00+00:00"
+    },
+    {
+      "title": "Why Are Nasdaq, S&P 500 Futures Soaring Premarket? NVDA, MU, MRVL, OKTA, CRM, WEN, RKLB Stocks In Focus",
+      "summary": "Retail sentiment on Stocktwits remained ‘bearish’ on QQQ and improved to ‘neutral’ on SPY.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-futures-soaring-premarket-nvda-mu-mrvl-okta-crm-wen-rklb-stocks-in-focus/cZY8vxLRJpv?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-27T08:54:14+00:00"
+    },
+    {
+      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
+      "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T08:43:20+00:00"
+    },
+    {
+      "title": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
+      "summary": "While Ozempic maker Novo Nordisk has fallen on tough times, Wall Street analysts have still been reluctant to advise investors to sell the stock, until Deutsche Bank lowered the boom on Thursday.",
+      "link": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T08:37:00+00:00"
+    },
+    {
+      "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump’s Hormuz claim",
+      "summary": "The Prime Minister of U.S.-ally Qatar is in Iran for talks on Thursday as part of efforts to \"de-escalate tensions\" between Tehran and Washington.",
+      "link": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T08:22:29+00:00"
+    },
+    {
+      "title": "Bank of Korea delivers back-to-back rate hikes as core inflation stays elevated",
+      "summary": "The Bank of Korea hiked rates by 25 basis points to 3%, its highest since January 2025 and in line with expectations.",
+      "link": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T05:45:31+00:00"
+    },
+    {
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T05:34:13+00:00"
+    },
+    {
+      "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
+      "summary": "Qantas shares jumped 4% after the airline reported full-year earnings and introduced new business-class seats amid strong demand for premium travel.",
+      "link": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T05:02:44+00:00"
+    },
+    {
+      "title": "Europe’s gas stores are running low — and prices could top 100 euros this winter",
+      "summary": "Europe’s gas stores are historically low for this time of year, as disrupted Middle East LNG flows raise the risk of sharply higher prices this winter.",
+      "link": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T05:00:01+00:00"
+    },
+    {
+      "title": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
+      "summary": "The Japanese regulator's registration of a new trading platform for unlisted shares could help create a more favorable capital-raising environment for the country's IPO ecosystem.",
+      "link": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T03:41:00+00:00"
+    },
+    {
+      "title": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
+      "summary": "China's industrial profits growth in July slowed to its weakest pace this year, as soft demand and a broader slowdown in the economy weighed on manufacturers.",
+      "link": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T03:22:14+00:00"
+    },
+    {
+      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
+      "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
+      "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T03:17:00+00:00"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T02:41:00+00:00"
+    },
+    {
+      "title": "Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low'",
+      "summary": "Nvidia CEO Jensen Huang defended the chipmaker’s growing role in financing AI companies, calling its investments a “once in a generation” opportunity.",
+      "link": "https://www.cnbc.com/2026/08/26/jensen-huang-defends-nvidias-growing-financial-support-for-ai-ecosystem-says-the-risk-is-low-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-27T00:53:55+00:00"
+    },
+    {
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
+      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-27T00:43:00+00:00"
+    }
+  ]
+}
