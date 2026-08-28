@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 188.61,
+      "previous_close": 182.83999633789062,
+      "change_pct": 3.155766669042337,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.29,
+      "previous_close": 62.43000030517578,
+      "change_pct": -0.2242516490331914,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.88,
+      "previous_close": 58.2599983215332,
+      "change_pct": -0.6522456788206843,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.18,
+      "previous_close": 43.5099983215332,
+      "change_pct": -0.7584425057766242,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.23,
+      "previous_close": 53.66999816894531,
+      "change_pct": -0.8198214718775798,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 178.8,
+      "previous_close": 180.33999633789062,
+      "change_pct": -0.8539405396267297,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.66,
+      "previous_close": 45.09000015258789,
+      "change_pct": -0.9536485942176598,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.41,
+      "previous_close": 112.61000061035156,
+      "change_pct": -1.0656252587225912,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.88,
+      "previous_close": 117.16000366210938,
+      "change_pct": -1.0925261369920447,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.58,
+      "previous_close": 173.5399932861328,
+      "change_pct": -1.1294187864241523,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.08,
+      "previous_close": 86.2699966430664,
+      "change_pct": -1.3793864487904206,
+      "as_of": "2026-08-27"
+    }
+  ],
+  "news": [
+    {
+      "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Tesla, Amazon, Marvell, Affirm & more",
+      "summary": "Here are Friday's biggest calls on Wall Street.",
+      "link": "https://www.cnbc.com/2026/08/28/friday-big-wall-street-analyst-calls-like-nvidia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T12:15:57+00:00"
+    },
+    {
+      "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
+      "summary": "Lucid is recalling 27,185 of its ⁠flagship Air luxury sedans in the U.S., because an ​exterior lighting ​circuit ​could overheat and increase risk of a fire.",
+      "link": "https://www.cnbc.com/2026/08/28/ev-maker-lucid-to-recall-more-than-27000-luxury-sedans-over-fire-risk-nhtsa-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T12:15:11+00:00"
+    },
+    {
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+      "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
+      "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T12:15:00+00:00"
+    },
+    {
+      "title": "S&P 500 futures are little changed as investors count down to Warsh's Jackson Hole address: Live updates",
+      "summary": "With Thursday's advance, the three major indexes are on track to end the week higher.",
+      "link": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T12:09:56+00:00"
+    },
+    {
+      "title": "This buy now pay later firm has a modest short-term growth outlook. Bank of America says shares could surge anyway",
+      "summary": "Affirm Holdings lifted its near-term growth by only a little, but several catalysts could give the stock an unexpected boost, one analyst says.",
+      "link": "https://www.cnbc.com/2026/08/28/affirm-issued-modest-guidance-bank-of-america-says-buy-it-anyway.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T12:02:24+00:00"
+    },
+    {
+      "title": "Imax says it's open to a sale. Why is no one buying?",
+      "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
+      "link": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:54:53+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-premarket-pypl-afrm-gap-mrvl.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:43:00+00:00"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+      "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:39:47+00:00"
+    },
+    {
+      "title": "How Taylor Farms became integral to America's food supply system",
+      "summary": "Taylor Farms and other suppliers have become larger and more integral to the U.S. food system, complicating foodborne illnesses such as cyclosporiasis.",
+      "link": "https://www.cnbc.com/2026/08/28/how-taylor-farms-became-integral-to-americas-food-supply-system.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:37:32+00:00"
+    },
+    {
+      "title": "How Bank of America and three other lenders could win big from Scott Bessent’s and Kevin Warsh’s bond-market machinations",
+      "summary": "It looks like Federal Reserve Chair Kevin Warsh and Treasury Secretary Scott Bessent are acting in a coordinated way to reduce long-term bond yields, according to Citrini Research.",
+      "link": "https://www.marketwatch.com/story/how-bank-of-america-and-three-other-lenders-could-win-big-from-scott-bessents-and-kevin-warshs-bond-market-mechanations-4e56b581?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T11:18:00+00:00"
+    },
+    {
+      "title": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
+      "summary": "BitGo is expanding its institutional capabilities just as activity in the crypto market is showing signs of picking up after a prolonged trading slump.",
+      "link": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:15:30+00:00"
+    },
+    {
+      "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
+      "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
+      "link": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:15:01+00:00"
+    },
+    {
+      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+      "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
+      "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T11:15:00+00:00"
+    },
+    {
+      "title": "XLF vs. KRE: Which State Street Financial Sector ETF Is the Better Buy",
+      "summary": "XLF provides broad, large-cap financial exposure with lower fees, while KRE offers a more focused, higher-yield play on regional lenders.",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/28/xlf-vs-kre-which-state-street-financial-sector-etf-is-the-better-buy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T11:13:51+00:00"
+    },
+    {
+      "title": "PayPal’s stock sinks as suitors reportedly walk away from their takeover bid",
+      "summary": "Reports of a takeover offer have propped up PayPal’s stock in recent months, but now the company may have to execute a turnaround on its own.",
+      "link": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T11:10:00+00:00"
+    },
+    {
+      "title": "Marvell shares are down after earnings. Many analysts are still bullish",
+      "summary": "Bank of America, UBS, Barclays, Wells Fargo and Citi remain bullish on the semiconductor designer.",
+      "link": "https://www.cnbc.com/2026/08/28/marvell-shares-are-down-after-earnings-morgan-stanley-says-buy-them.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:05:47+00:00"
+    },
+    {
+      "title": "Labor Department to propose expansion of association health plans, which could lower insurance costs for some workers",
+      "summary": "The agency has submitted a rule proposal to the White House that could allow more workers to get health insurance through association health plans.",
+      "link": "https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:00:01+00:00"
+    },
+    {
+      "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics",
+      "summary": "Salesforce's stock had its second-best day on record following earnings, as Wall Street shows renewed confidence in CEO Marc Benioff's AI story.",
+      "link": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:00:01+00:00"
+    },
+    {
+      "title": "BioCryst is profitable. Now it wants to buy more rare disease drugs",
+      "summary": "Rare disease drug development is getting a boost from new funding models and a growing group of smaller biotech buyers.",
+      "link": "https://www.cnbc.com/2026/08/28/biocryst-is-profitable-now-it-wants-to-buy-more-rare-disease-drugs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:00:01+00:00"
+    },
+    {
+      "title": "The Tech Download: BlackBerry lost the phone war. Now it's betting on cars and robots",
+      "summary": "BlackBerry CEO John Giamatteo joins CNBC's Arjun Kharpal on The Tech Download podcast.",
+      "link": "https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T11:00:01+00:00"
+    }
+  ]
+}
