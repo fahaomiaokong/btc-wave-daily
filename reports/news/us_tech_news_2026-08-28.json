@@ -1,0 +1,97 @@
+[
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "source": "TechCrunch",
+    "published": "2026-08-27T17:43:24+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "published": "2026-08-27T23:16:45+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+    "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.",
+    "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+    "source": "Tech",
+    "published": "2026-08-27T20:47:36+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia's revenue outlook, Meta's $16.7B settlement, mail-in voting and more in Morning Squawk",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "link": "https://www.cnbc.com/2026/08/27/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "Tech",
+    "published": "2026-08-27T12:44:01+00:00",
+    "tickers": [
+      "NVDA",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Baozun, Commerce Bancshares, Element Solutions, Evolution Petroleum, Petrobras, Rythm Pharmaceuticals, Terawulf, UMB Financial, Workday, and More",
+    "summary": "NVIDIA's blockbuster earnings sent shockwaves through tech on Thursday, but Wall Street analysts were busy reshaping the landscape elsewhere, issuing a flurry of upgrades, downgrades, and fresh initiations across energy, crypto infrastructure, banking, and biotech.",
+    "link": "https://247wallst.com/investing/2026/08/28/here-are-fridays-top-wall-street-analyst-research-calls-baozun-commerce-bancshares-element-solutions-evolution-petroleum-petrobras-rythm-pharmaceuticals-terawulf-umb-financial-workda/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-28T11:50:03+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+    "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+    "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+    "source": "TechCrunch",
+    "published": "2026-08-27T19:54:28+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "source": "TechCrunch",
+    "published": "2026-08-27T19:52:52+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
+    "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
+    "link": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
+    "source": "Tech",
+    "published": "2026-08-27T22:20:14+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
