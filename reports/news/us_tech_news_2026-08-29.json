@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch",
+    "published": "2026-08-28T20:24:11+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Broadcom’s Debt Deal Could Reach $100 Billion in the AI Buildout’s Latest Mega-Financing",
+    "summary": "A Broadcom Inc. (NASDAQ:AVGO)-backed financing vehicle is reportedly in talks to raise $70 billion to $80 billion in debt for a chip-financing deal that would support AI companies like Anthropic, CNBC’s David Faber confirmed on August 20, with Bloomberg separately reporting that the total arrangement could reach $100 billion once all pieces are counted. The […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-debt-deal-could-reach-031137813.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T03:11:37+00:00",
+    "tickers": [
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
+    "summary": "On Wednesday, Nvidia Corp CEO Jensen Huang brushed off OpenAI’s new Jalapeño chip, saying he remains confident in Nvidia’s technology and ability to supply the AI industry even as customers develop their own processors. Jensen Huang Shrugs Off OpenAI’s Jalapeño...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-not-033121901.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T03:31:21+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer Explained What Turned The Tide For NVIDIA Corporation (NASDAQ:NVDA)’s Stock",
+    "summary": "NVIDIA Corporation (NASDAQ:NVDA)’s earnings report saw a rather mixed reaction to the stock. While the shares surged in premarket trading the day after, on Friday, they closed 4.6% lower. With Cramer being one of the firm’s biggest supporters, he invited the firm’s CEO for an interview on Mad Money. After the interview, the CNBC TV […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-turned-tide-033354732.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T03:33:54+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch",
+    "published": "2026-08-28T12:21:06+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+    "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+    "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+    "source": "Tech",
+    "published": "2026-08-29T05:00:01+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Microsoft Made $24.1 Billion From OpenAI in 2026. Investors Still Can’t See One Crucial Number",
+    "summary": "Microsoft Corporation (NASDAQ:MSFT) quietly disclosed a number that changes the scale of its OpenAI relationship. In its fiscal 2026 10-K, Microsoft said it recorded $24.1 billion of revenue from commercial arrangements with OpenAI, including revenue-sharing payments. It also had $6.0 billion of accounts receivable from OpenAI at June 30. The number is huge. The missing […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-made-24-1-billion-031442842.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T03:14:42+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Meta Is Down 27%. One Analyst Sees a $22 Billion AI Business Hiding in Plain Sight",
+    "summary": "Meta Platforms, Inc. (NASDAQ:META) has fallen around 27% from its 2025 high as investors question how quickly its huge AI spending will pay back. Evercore ISI analyst Mark Mahaney now sees a strange optional answer hiding inside that spending: Meta could eventually rent a small slice of excess AI compute and create an $11 billion […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-down-27-one-analyst-030438553.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T03:04:38+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  }
+]
