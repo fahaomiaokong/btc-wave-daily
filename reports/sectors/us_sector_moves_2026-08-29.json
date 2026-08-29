@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.69,
+      "previous_close": 182.83999633789062,
+      "change_pct": 1.5587419159878602,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.68,
+      "previous_close": 62.43000030517578,
+      "change_pct": 0.40044801153635845,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.99,
+      "previous_close": 112.61000061035156,
+      "change_pct": 0.33744728495588294,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.21,
+      "previous_close": 117.16000366210938,
+      "change_pct": 0.04267355439386833,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 58.2599983215332,
+      "change_pct": -0.27462809155980317,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.18,
+      "previous_close": 53.66999816894531,
+      "change_pct": -0.9129833904649498,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.45,
+      "previous_close": 86.2699966430664,
+      "change_pct": -0.9505003766941855,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.48,
+      "previous_close": 45.09000015258789,
+      "change_pct": -1.352850189673116,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.16,
+      "previous_close": 173.5399932861328,
+      "change_pct": -1.3714379268234045,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 177.14,
+      "previous_close": 180.33999633789062,
+      "change_pct": -1.7744240894266294,
+      "as_of": "2026-08-27"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.73,
+      "previous_close": 43.5099983215332,
+      "change_pct": -1.7926875468234238,
+      "as_of": "2026-08-27"
+    }
+  ],
+  "news": [
+    {
+      "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+      "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T05:00:01+00:00"
+    },
+    {
+      "title": "Opinion: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+      "summary": "In a candid 2015 interview, Dolly Parton told CNBC's Tania Bryer about depression, ambition and the business decisions that defined her career.",
+      "link": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T05:00:01+00:00"
+    },
+    {
+      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+      "summary": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
+      "link": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T02:43:38+00:00"
+    },
+    {
+      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+      "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+      "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T02:23:52+00:00"
+    },
+    {
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+      "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+      "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T23:42:26+00:00"
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "summary": "“These shares are the only assets in her estate without designated beneficiaries.”",
+      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T23:00:00+00:00"
+    },
+    {
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+      "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
+      "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T22:15:00+00:00"
+    },
+    {
+      "title": "How a 66-Year-Old’s $600,000 in QQQI Pays Her Monthly With Almost No Tax Bill, Until the Day She Sells",
+      "summary": "Her 1099-DIV looks suspiciously light every year, and she tells friends the income is basically tax-free. She is right about the present and wrong about what is quietly building inside her cost basis.",
+      "link": "https://247wallst.com/investing/etf/2026/08/28/how-a-66-year-olds-600000-in-qqqi-pays-her-monthly-with-almost-no-tax-bill-until-the-day-she-sells/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T22:05:50+00:00"
+    },
+    {
+      "title": "Tenant Says the Water Heater Died Again? These 3 ETFs Pay Rent Without Owning a Single Pipe",
+      "summary": "Landlords trade midnight repair calls for rental income, but there is a way to collect the checks without ever owning a pipe, a tenant, or a water heater that dies on a Sunday night.",
+      "link": "https://247wallst.com/investing/etf/2026/08/28/tenant-says-the-water-heater-died-again-these-3-etfs-pay-rent-without-owning-a-single-pipe/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T21:45:17+00:00"
+    },
+    {
+      "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
+      "summary": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes.",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T21:34:00+00:00"
+    },
+    {
+      "title": "$40 Trillion US Debt Is 72 Times Mount Everest in Cash: Market Strategist Says the Number Looks ‘Scary’ Until You See How Much Americans Own",
+      "summary": "The U.S. national debt has officially surpassed $40 trillion, a staggering sum that market strategist Ryan Detrick visually equated to a stack of $1,000 bills reaching “72 times the height of Mount Everest.” Despite the daunting visual, Detrick is urging...",
+      "link": "https://finance.yahoo.com/economy/articles/40-trillion-us-debt-72-213118061.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T21:31:18+00:00"
+    },
+    {
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+      "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T21:31:00+00:00"
+    },
+    {
+      "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
+      "summary": "A niche AI fund with almost no Nvidia is somehow lapping QQQ by a massive margin, and the reason why reveals a blind spot most investors have about where AI profits actually come from.",
+      "link": "https://247wallst.com/investing/2026/08/28/this-ai-fund-is-crushing-qqq-and-nvidia-is-barely-2-of-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T21:05:17+00:00"
+    },
+    {
+      "title": "Daily ETF Flows: XLE Sees Inflows",
+      "summary": "Here are the daily ETF fund flows for August 27, 2026.",
+      "link": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-xle-sees-inflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T21:00:05+00:00"
+    },
+    {
+      "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+      "summary": "SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia’s. But other high-profile companies need more processing power as well.",
+      "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T20:58:00+00:00"
+    },
+    {
+      "title": "Trump loses bid to transfer New York hush money case to federal court",
+      "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
+      "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T20:56:24+00:00"
+    },
+    {
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "summary": "“I specifically rejected Contractor A because of his reputation.”",
+      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-28T20:45:00+00:00"
+    },
+    {
+      "title": "Social Security Won’t Deposit a Dime Until You Turn 62. These 3 ETFs Pay You Every Month in Between",
+      "summary": "If you retire before 62, your portfolio has to write every single paycheck until Social Security kicks in, and most income strategies were never designed for that pressure. Three ETFs can close that gap, but each comes with a catch worth knowing before you buy.",
+      "link": "https://247wallst.com/investing/etf/2026/08/28/social-security-wont-deposit-a-dime-until-you-turn-62-these-3-etfs-pay-you-every-month-in-between/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-28T20:35:13+00:00"
+    },
+    {
+      "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
+      "summary": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
+      "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T20:31:58+00:00"
+    },
+    {
+      "title": "Stocks wrap up winning week even as inflation becomes top of mind for investors",
+      "summary": "The inflation battle, as well as Nvidia earnings, captured investor attention this past week.",
+      "link": "https://www.cnbc.com/2026/08/28/stocks-post-winning-week-as-inflation-becomes-top-of-mind-for-traders.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-28T20:28:04+00:00"
+    }
+  ]
+}
