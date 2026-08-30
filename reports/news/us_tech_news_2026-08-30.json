@@ -1,0 +1,94 @@
+[
+  {
+    "title": "The Most Active Stocks Today Include Tesla, Nvidia, and Apple: Here's My Contrarian Take on All Three",
+    "summary": "When the majority of the investing crowd turns bullish, I've learned to become very suspicious.",
+    "link": "https://www.fool.com/investing/2026/08/30/the-most-active-stocks-today-include-tesla-nvidia/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-30T04:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "TSLA"
+    ],
+    "score": 14
+  },
+  {
+    "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+    "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+    "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "source": "Tech",
+    "published": "2026-08-29T13:25:55+00:00",
+    "tickers": [
+      "NVDA",
+      "CRWD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+    "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+    "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+    "source": "Tech",
+    "published": "2026-08-29T05:00:01+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Amazon.com vs. MercadoLibre: A Look at Which E-Commerce Stock Is a Better Investment in 2026",
+    "summary": "Amazon trades at half the earnings multiple of MercadoLibre, while the Latin American e-commerce leader grows revenue nearly three times faster.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/08/29/amazon-com-vs-mercadolibre-a-look-at-which-e-commerce-stock-is-a-better-investment-in-2026/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-30T01:10:23+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "John Ternus Becomes Apple's CEO on Sept. 1. Here's What History Says the First Year Does to the Stock.",
+    "summary": "Four planned megacap handoffs have a complete first year on record. The worst lost 38%. The best gained 76%.",
+    "link": "https://www.fool.com/investing/2026/08/29/john-ternus-becomes-apple-s-ceo-on-sept-1-here-s-what-history-says-the-first-year-does-to-the-stock/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-30T00:01:01+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Tesla Stock in 2027: Why I Think TSLA Still Has Room to Run",
+    "summary": "Tesla looks wildly expensive today, but if FSD, robotaxis, and Optimus deliver, today's valuation could look very different by 2027.",
+    "link": "https://www.fool.com/investing/2026/08/29/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-08-29T21:50:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+    "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    "source": "Tech",
+    "published": "2026-08-29T19:55:30+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 5
+  },
+  {
+    "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+    "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
+    "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+    "source": "Tech",
+    "published": "2026-08-29T19:06:22+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 5
+  }
+]
