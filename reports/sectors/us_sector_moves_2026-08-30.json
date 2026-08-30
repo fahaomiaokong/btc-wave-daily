@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.99,
+      "previous_close": 111.41000366210938,
+      "change_pct": 1.418181748456382,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.21,
+      "previous_close": 115.87999725341797,
+      "change_pct": 1.1477414377853767,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.68,
+      "previous_close": 62.290000915527344,
+      "change_pct": 0.6261022294758778,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.45,
+      "previous_close": 85.08000183105469,
+      "change_pct": 0.43488265277664695,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 57.880001068115234,
+      "change_pct": 0.3800948994901798,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.18,
+      "previous_close": 53.22999954223633,
+      "change_pct": -0.09393113407160092,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.16,
+      "previous_close": 171.5800018310547,
+      "change_pct": -0.2447848388929641,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.48,
+      "previous_close": 44.65999984741211,
+      "change_pct": -0.40304489034284074,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 177.14,
+      "previous_close": 178.8000030517578,
+      "change_pct": -0.9284133240631487,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.73,
+      "previous_close": 43.18000030517578,
+      "change_pct": -1.0421498425090214,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.69,
+      "previous_close": 188.61000061035156,
+      "change_pct": -1.54816849631636,
+      "as_of": "2026-08-28"
+    }
+  ],
+  "news": [
+    {
+      "title": "If You'd Invested $1,000 in QQQ 20 Years Ago, Here's What You'd Have Today",
+      "summary": "Your investment would have grown substantially, but only if you exercised discipline and patience.",
+      "link": "https://www.fool.com/investing/2026/08/29/if-invested-1000-qqq-20-years-ago-what-have-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-30T01:20:00+00:00"
+    },
+    {
+      "title": "Norway's King Haakon honors 'dear father' Harald in first speech as sovereign",
+      "summary": "Harald V died Friday morning and his 53-year-old son, Crown Prince Haakon, became King Haakon VIII.",
+      "link": "https://www.cnbc.com/2026/08/29/tens-of-thousands-mourn-king-harald-v-in-norway.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T20:51:56+00:00"
+    },
+    {
+      "title": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+      "summary": "In a candid 2015 interview, Dolly Parton told CNBC's Tania Bryer about depression, ambition and the business decisions that defined her career.",
+      "link": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T20:22:50+00:00"
+    },
+    {
+      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+      "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+      "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T20:22:12+00:00"
+    },
+    {
+      "title": "Why JEPQ’s 10.7% Yield Looked Irresistible Until Nvidia Rallied",
+      "summary": "JEPQ's monthly paycheck looks generous until a single Nvidia session reveals exactly what income investors are trading away to collect it.",
+      "link": "https://247wallst.com/investing/etf/2026/08/29/why-jepqs-10-7-yield-looked-irresistible-until-nvidia-rallied/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-29T20:00:23+00:00"
+    },
+    {
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T19:55:30+00:00"
+    },
+    {
+      "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
+      "summary": "The Himalayan nation called for specialist foreign assistance and its finance minister told Reuters it would also need up to $5 billion to rebuild.",
+      "link": "https://www.cnbc.com/2026/08/29/nepal-seeks-technical-help-and-billions-of-dollars-for-flood-recovery.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T19:44:30+00:00"
+    },
+    {
+      "title": "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+      "summary": "Ukraine President Volodymyr Zelenskyy vowed to punish suspected negligence in the second such incident in two months.",
+      "link": "https://www.cnbc.com/2026/08/29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T19:25:12+00:00"
+    },
+    {
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
+      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T19:06:22+00:00"
+    },
+    {
+      "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
+      "summary": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
+      "link": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T18:23:57+00:00"
+    },
+    {
+      "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
+      "summary": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
+      "link": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T18:21:49+00:00"
+    },
+    {
+      "title": "Analyst Says the Worst Month for Stocks Since 1950 Is Setting Up Wrong This Year",
+      "summary": "September has buried more portfolios than any other month since 1950, but one strategist says the traders treating this year like every other year are making a costly assumption about what actually drives those losses.",
+      "link": "https://247wallst.com/investing/2026/08/29/analyst-says-the-worst-month-for-stocks-since-1950-is-setting-up-wrong-this-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-29T18:19:58+00:00"
+    },
+    {
+      "title": "ExxonMobil Stock: Is XOM Underperforming the Energy Sector?",
+      "summary": "Despite ExxonMobil’s underperformance relative to the energy sector over the past year, Wall Street analysts remain moderately optimistic about the stock’s prospects.",
+      "link": "https://www.barchart.com/story/news/4338998/exxonmobil-stock-is-xom-underperforming-the-energy-sector?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-29T17:38:04+00:00"
+    },
+    {
+      "title": "Johnson & Johnson Stock: Is JNJ Outperforming the Consumer Staples Sector?",
+      "summary": "Johnson & Johnson has outpaced the consumer staples sector over the past year, while analysts remain moderately bullish on the stock’s prospects.",
+      "link": "https://www.barchart.com/story/news/4338884/johnson-johnson-stock-is-jnj-outperforming-the-consumer-staples-sector?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-29T17:12:12+00:00"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-29T16:30:00+00:00"
+    },
+    {
+      "title": "$57 Billion Just Rushed Into SPYM | Is SPY’s Cheaper Twin Finally Taking Over?",
+      "summary": "SPY built its reputation tracking the S&P 500 for over three decades, but a lesser-known rival now holds a structural and cost advantage that quietly compounds against long-term SPY holders every single year.",
+      "link": "https://247wallst.com/investing/etf/2026/08/29/57-billion-just-rushed-into-spym-is-spys-cheaper-twin-finally-taking-over/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-29T16:10:08+00:00"
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "summary": "“These shares are the only assets in her estate without designated beneficiaries.”",
+      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-29T16:00:00+00:00"
+    },
+    {
+      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-29T15:31:00+00:00"
+    },
+    {
+      "title": "We're in the midst of an 'Imax awakening,' CEO says. How the company makes millions",
+      "summary": "Christopher Nolan's \"The Odyssey\" has movie and history buffs flocking to theaters this summer. That's been great news for Imax.",
+      "link": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T14:07:51+00:00"
+    },
+    {
+      "title": "Goodyear burning rubber and cash as turnaround plan continues",
+      "summary": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+      "link": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-29T13:56:58+00:00"
+    }
+  ]
+}
