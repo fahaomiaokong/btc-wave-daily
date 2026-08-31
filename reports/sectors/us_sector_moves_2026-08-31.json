@@ -1,0 +1,226 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.99,
+      "previous_close": 111.41000366210938,
+      "change_pct": 1.418181748456382,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.21,
+      "previous_close": 115.87999725341797,
+      "change_pct": 1.1477414377853767,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.68,
+      "previous_close": 62.290000915527344,
+      "change_pct": 0.6261022294758778,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.45,
+      "previous_close": 85.08000183105469,
+      "change_pct": 0.43488265277664695,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 57.880001068115234,
+      "change_pct": 0.3800948994901798,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.18,
+      "previous_close": 53.22999954223633,
+      "change_pct": -0.09393113407160092,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.16,
+      "previous_close": 171.5800018310547,
+      "change_pct": -0.2447848388929641,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.48,
+      "previous_close": 44.65999984741211,
+      "change_pct": -0.40304489034284074,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 177.14,
+      "previous_close": 178.8000030517578,
+      "change_pct": -0.9284133240631487,
+      "as_of": "2026-08-28"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.73,
+      "previous_close": 43.18000030517578,
+      "change_pct": -1.0421498425090214,
+      "as_of": "2026-08-28"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
+      "summary": "The Dow is up 2.1% in August, on pace for its fifth consecutive monthly advance.",
+      "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T05:54:59+00:00"
+    },
+    {
+      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
+      "summary": "The last major U.S. strikes on Iran were carried out in late July.",
+      "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T05:49:48+00:00"
+    },
+    {
+      "title": "India’s largest private lender HDFC Bank sees shares rise after CEO announces surprise exit",
+      "summary": "Shares of HDFC Bank were up even as the company's chief executive officer made a surprise announcement to not seek reappointment.",
+      "link": "https://www.cnbc.com/2026/08/31/hdfc-largest-bank-india-ceo-exit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T05:27:03+00:00"
+    },
+    {
+      "title": "France is becoming the ‘poster child’ of sovereign debt problems as government borrowing costs hit near 2008 highs",
+      "summary": "France's debt burden and political gridlock are pushing borrowing costs toward levels not seen since 2008.",
+      "link": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T05:08:47+00:00"
+    },
+    {
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "summary": "Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump.",
+      "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T04:57:24+00:00"
+    },
+    {
+      "title": "Goldman expects one yen trade to continue thriving even as another fades",
+      "summary": "While effects of intervention on the Japanese yen appears to be fading, the relative value carry strategies should continue to thrive, Goldman says.",
+      "link": "https://www.cnbc.com/2026/08/31/-goldman-yen-trades-currency.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T04:48:59+00:00"
+    },
+    {
+      "title": "BYD shares slide as fierce China competition dents first-half earnings",
+      "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.",
+      "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T04:01:47+00:00"
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+      "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+      "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T03:47:28+00:00"
+    },
+    {
+      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
+      "link": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T03:15:01+00:00"
+    },
+    {
+      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+      "summary": "U.S. stock-index futures declined on Sunday, as investors ponder the likelihood of a fresh interest-rate hike and as new fighting between the U.S. and Iran threatens to reignite the conflict.",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-31T03:03:00+00:00"
+    },
+    {
+      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO",
+      "summary": "India's largest digital and telecom operator, Jio Platforms, got a regulatory nod for an IPO, but the National Stock Exchange, another mega issue, is still awaiting regulatory clearance.",
+      "link": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T02:35:53+00:00"
+    },
+    {
+      "title": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
+      "summary": "APR is accelerating its U.S. retail expansion with a Costco launch in September, as the K-beauty company's shares have surged nearly 100% this year.",
+      "link": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T23:55:09+00:00"
+    },
+    {
+      "title": "Singapore tackles finances and culture to avert a demographic crisis",
+      "summary": "One challenge for policy makers is that success on many measures won't show up immediately.",
+      "link": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T23:31:15+00:00"
+    },
+    {
+      "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
+      "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explores the linkage between Nvidia's stock, the oil market, and the Federal Reserve.",
+      "link": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T23:26:35+00:00"
+    },
+    {
+      "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
+      "summary": "Bessent's campaign means to push countries that still do business with Iran to sever their financial ties or face retaliation from the U.S.",
+      "link": "https://www.cnbc.com/2026/08/30/bessent-bank-sanction-iran-transactions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T22:37:31+00:00"
+    },
+    {
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-30T22:31:00+00:00"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-30T22:15:00+00:00"
+    },
+    {
+      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-30T22:15:00+00:00"
+    },
+    {
+      "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
+      "summary": "Beijing said 261 foreign nationals from 23 countries were unaccounted for in Tibet, near a key border crossing with Nepal.",
+      "link": "https://www.cnbc.com/2026/08/30/rescuers-race-to-find-thousands-after-nepal-china-glacier-collapse.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T22:14:58+00:00"
+    },
+    {
+      "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+      "summary": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
+      "link": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-30T22:05:32+00:00"
+    }
+  ]
+}
