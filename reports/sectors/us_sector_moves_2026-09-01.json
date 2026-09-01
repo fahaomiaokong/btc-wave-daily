@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.96,
+      "previous_close": 62.68000030517578,
+      "change_pct": 2.0421182013276473,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.59,
+      "previous_close": 115.87999725341797,
+      "change_pct": 0.6127051807132355,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.46,
+      "previous_close": 111.41000366210938,
+      "change_pct": 0.04487598621956135,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.98,
+      "previous_close": 85.08000183105469,
+      "change_pct": -0.11753858592206123,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.54,
+      "previous_close": 171.16000366210938,
+      "change_pct": -0.36223629869355234,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.71,
+      "previous_close": 58.099998474121094,
+      "change_pct": -0.6712538457205097,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.11,
+      "previous_close": 44.47999954223633,
+      "change_pct": -0.8318335117899256,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.69,
+      "previous_close": 53.22999954223633,
+      "change_pct": -1.0144646757095255,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 186.5,
+      "previous_close": 188.61000061035156,
+      "change_pct": -1.118710886762897,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 175.13,
+      "previous_close": 178.8000030517578,
+      "change_pct": -2.052574378701466,
+      "as_of": "2026-08-31"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.23,
+      "previous_close": 43.18000030517578,
+      "change_pct": -2.200093326682795,
+      "as_of": "2026-08-31"
+    }
+  ],
+  "news": [
+    {
+      "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
+      "summary": "Emerging markets could attract more capital as Treasury bond buyback plans weaken the dollar and support carry trades, analysts say.",
+      "link": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T05:12:38+00:00"
+    },
+    {
+      "title": "'Ominous' small-cap signal suggests need for caution in weeks ahead: BTIG",
+      "summary": "While small-cap companies are having a solid year, lingering market concerns such as a potential rate hike stand to fuel risk-off mood.",
+      "link": "https://www.cnbc.com/2026/09/01/ominous-small-cap-signal-suggests-need-for-caution-in-weeks-ahead-btig-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T04:55:08+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after Wall Street closes out winning August: Live updates",
+      "summary": "The major averages fell Monday, but notched gains for the month.",
+      "link": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T04:53:14+00:00"
+    },
+    {
+      "title": "Anthony Scaramucci on the White House firing that forced him to rethink failure, ego and his career",
+      "summary": "SkyBridge Capital founder Anthony Scaramucci reflects on the decision to face his public downfall after being fired from the Trump White House after 11 days. He discusses pride, ego, failure, rebuilding his career and why he believes the only way through a mistake is to own it and face it head-on.",
+      "link": "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T04:00:01+00:00"
+    },
+    {
+      "title": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
+      "summary": "Shein made its Hong Kong market debut on Tuesday after years of attempts to go public.",
+      "link": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T03:44:19+00:00"
+    },
+    {
+      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T03:22:56+00:00"
+    },
+    {
+      "title": "S&P 500 Faces Its Cruelest Month of the Year",
+      "summary": "The real seasonal weakness tends to arrive late",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-faces-cruelest-month-021704412.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T02:17:04+00:00"
+    },
+    {
+      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+      "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
+      "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T02:05:20+00:00"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
+      "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T01:56:53+00:00"
+    },
+    {
+      "title": "Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
+      "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T01:51:28+00:00"
+    },
+    {
+      "title": "‘Unusual gap’ in stock options presents investors with big opportunity, Janus Henderson says",
+      "summary": "An unusual divide in the options market is creating an opportunity for investors to generate higher income from individual stocks, according to Janus Henderson.",
+      "link": "https://www.cnbc.com/2026/09/01/unusual-gap-in-stock-options-is-a-big-opportunity-janus-henderson.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T01:35:19+00:00"
+    },
+    {
+      "title": "Top Economist Takes Aim at Kevin Warsh’s Fed: Is Trump’s New Chair an Independent ‘Hawky Hawk’ or a ‘MAGA Sock Puppet’?",
+      "summary": "Economist Justin Wolfers criticized Federal Reserve Chair Kevin Warsh’s recent address at the Jackson Hole economic symposium. He asked if the Fed chief is operating as an independent “hawky hawk” or a MAGA “sock puppet.” Analyzing Warsh’s refusal to issue...",
+      "link": "https://finance.yahoo.com/economy/policy/articles/top-economist-takes-aim-kevin-013104678.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T01:31:04+00:00"
+    },
+    {
+      "title": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
+      "summary": "Oil trading is becoming more accessible to individual investors as smaller futures contracts, ETFs and online brokerages lower longtime barriers to the market.",
+      "link": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T00:49:51+00:00"
+    },
+    {
+      "title": "U.S. oil firm to take over some Venezuelan oilfields previously run by Chinese, Russian companies: Reuters",
+      "summary": "U.S. oil company North American Blue Energy Partners will take over some oilfields previously controlled by five Chinese companies and a Russian firm.",
+      "link": "https://www.cnbc.com/2026/09/01/us-oil-firm-to-take-over-some-venezuelan-oilfields-previously-run-by-chinese-russian-companies-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T23:44:11+00:00"
+    },
+    {
+      "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
+      "summary": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
+      "link": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T23:23:38+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
+      "summary": "In many ways it seems that the party has ended for many U.S. and European corporations that once enjoyed a big advantage in China.",
+      "link": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-08-31T23:00:01+00:00"
+    },
+    {
+      "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
+      "summary": "Regulators claim Amazon artificially bumped up floor prices during peak shopping periods, adding surcharges to merchants’ ad spending.",
+      "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-31T22:24:00+00:00"
+    },
+    {
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "summary": "“I paid a significant amount into Social Security.”",
+      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-31T22:00:00+00:00"
+    },
+    {
+      "title": "S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains — NVDA, META, AON, MSTR, TSLA In Focus",
+      "summary": "U.S. crude rose to hit $86 per barrel, with higher energy costs lifting Treasury 10-year yields to the highest since January 2025.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-records-fifth-straight-month-of-gains/cZYzITkRJsC?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-08-31T21:44:35+00:00"
+    },
+    {
+      "title": "The S&P 500 usually falls in September. Why this year should be different.",
+      "summary": "As U.S. stocks head into September, a key trading level suggests the S&P 500 could dodge a big loss in what is historically a turbulent month.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-31T21:36:00+00:00"
+    }
+  ]
+}
