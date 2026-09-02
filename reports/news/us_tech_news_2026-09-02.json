@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback",
+    "summary": "CNBC’s Jim Cramer said Nvidia should dramatically increase its stock buyback.",
+    "link": "https://www.cnbc.com/2026/09/01/jim-cramer-says-nvidia-should-do-a-half-trillion-dollar-apple-style-stock-buyback.html",
+    "source": "Tech",
+    "published": "2026-09-01T23:13:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying […]",
+    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "source": "The Verge",
+    "published": "2026-09-01T18:19:26+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+    "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+    "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+    "source": "TechCrunch",
+    "published": "2026-09-01T22:13:34+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple Maps follows Google in renaming Lake Ontario",
+    "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"Lake Ontario\" […]",
+    "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+    "source": "The Verge",
+    "published": "2026-09-01T21:22:56+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch",
+    "published": "2026-09-01T20:53:05+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+    "link": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+    "source": "Tech",
+    "published": "2026-09-01T14:00:01+00:00",
+    "tickers": [
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple's new CEO, G20 meetings continue, the FTC sues Amazon and more in Morning Squawk",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "link": "https://www.cnbc.com/2026/09/01/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "Tech",
+    "published": "2026-09-01T12:33:07+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "GitLab Inc (GTLB) (Q2 2027) Earnings Call Highlights: Record Bookings and Flex Momentum Drive ...",
+    "summary": "GitLab Inc (GTLB) delivers exceptional Q2 with net ARR up over 40% and raises full-year guidance amid strong AI and consumption-based product traction.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gitlab-inc-gtlb-q2-2027-050056382.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-02T05:00:56+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 7
+  }
+]
