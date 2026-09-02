@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.77,
+      "previous_close": 63.959999084472656,
+      "change_pct": 1.2664179598526282,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.56,
+      "previous_close": 42.22999954223633,
+      "change_pct": 0.7814360912640428,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.67,
+      "previous_close": 170.5399932861328,
+      "change_pct": 0.6626051122045284,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.25,
+      "previous_close": 84.9800033569336,
+      "change_pct": 0.3177178540842984,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.04,
+      "previous_close": 44.11000061035156,
+      "change_pct": -0.1586955551642788,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.88,
+      "previous_close": 111.45999908447266,
+      "change_pct": -0.5203652334799469,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.2,
+      "previous_close": 57.709999084472656,
+      "change_pct": -0.8837274173685961,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.07,
+      "previous_close": 52.689998626708984,
+      "change_pct": -1.1766912941134522,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 172.73,
+      "previous_close": 175.1300048828125,
+      "change_pct": -1.3704133020600695,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.64,
+      "previous_close": 186.5,
+      "change_pct": -1.5335120643431677,
+      "as_of": "2026-09-01"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.59,
+      "previous_close": 116.58999633789062,
+      "change_pct": -1.715409898542597,
+      "as_of": "2026-09-01"
+    }
+  ],
+  "news": [
+    {
+      "title": "Goldman adds three new names to its favorite stocks list — including a standout 77% upside call",
+      "summary": "Goldman added an energy stock, a Dutch payment processing company and a German insurance name to its latest European stock picks list.",
+      "link": "https://www.cnbc.com/2026/09/02/goldman-stock-picks-conviction-europe.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T05:00:01+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after Wall Street posts third straight losing day: Live updates",
+      "summary": "The three major indexes posted their third down day on Tuesday.",
+      "link": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T04:20:47+00:00"
+    },
+    {
+      "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+      "summary": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.",
+      "link": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T03:05:14+00:00"
+    },
+    {
+      "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+      "summary": "Ito En shares surged, bucking a broader sell-off in Japanese stocks following its fiscal first-quarter results.",
+      "link": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T02:24:30+00:00"
+    },
+    {
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
+      "link": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T01:34:27+00:00"
+    },
+    {
+      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+      "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
+      "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-02T00:19:00+00:00"
+    },
+    {
+      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-02T00:18:00+00:00"
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+      "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T00:11:14+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus",
+      "summary": "The ‌U.S. military on Tuesday said it began striking Islamic Revolutionary Guard Corps (IRGC) targets in ⁠Iran.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-flat/cZsAInURJMx?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-02T00:01:07+00:00"
+    },
+    {
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "summary": "“I paid a significant amount into Social Security.”",
+      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-02T00:00:00+00:00"
+    },
+    {
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T23:52:21+00:00"
+    },
+    {
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into these properties.”",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-01T23:15:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback",
+      "summary": "CNBC’s Jim Cramer said Nvidia should dramatically increase its stock buyback.",
+      "link": "https://www.cnbc.com/2026/09/01/jim-cramer-says-nvidia-should-do-a-half-trillion-dollar-apple-style-stock-buyback.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T23:13:00+00:00"
+    },
+    {
+      "title": "Better Tech ETF for Artificial Intelligence: Vanguard's VGT with Broad Exposure or State Street XLK's Concentrated Mega-Cap Strategy",
+      "summary": "VGT holds 310 stocks with lower concentration, while XLK delivered 43.4% returns over one year, outpacing VGT's 39.8%.",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/01/better-tech-etf-for-artificial-intelligence-vanguard-s-vgt-with-broad-exposure-or-state-street-xlk-s-concentrated-mega-cap-strategy/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T22:47:41+00:00"
+    },
+    {
+      "title": "These ETFs Generate the Most Revenue",
+      "summary": "The largest ETFs by assets aren't necessarily the most profitable for issuers.",
+      "link": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T22:24:15+00:00"
+    },
+    {
+      "title": "House adopts measure condemning socialism ahead of November election",
+      "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
+      "link": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T22:13:19+00:00"
+    },
+    {
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "summary": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point.",
+      "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-01T21:56:00+00:00"
+    },
+    {
+      "title": "SPYI’s Monthly Check Hides the Real Cost: Part of That Payout Is Your Own Capital, and It Quietly Shrinks Your Cost Basis",
+      "summary": "SPYI's monthly distribution looks like income, but part of that check may be quietly returning your own principal while reshaping the tax bill waiting at the end of the line.",
+      "link": "https://247wallst.com/investing/etf/2026/09/01/spyis-monthly-check-hides-the-real-cost-part-of-that-payout-is-your-own-capital-and-it-quietly-shrinks-your-cost-basis/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T21:55:58+00:00"
+    },
+    {
+      "title": "JEPQ’s Monthly Check Can Push a Retiree Into the 85% Social Security Tax Zone: The Hidden Cost of Ordinary Income",
+      "summary": "That generous monthly check from a popular Nasdaq income ETF could be quietly inflating your tax bill in a way most retirees never see coming, and Social Security is where it quietly bites back.",
+      "link": "https://247wallst.com/investing/etf/2026/09/01/jepqs-monthly-check-can-push-a-retiree-into-the-85-social-security-tax-zone-the-hidden-cost-of-ordinary-income/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T21:45:58+00:00"
+    },
+    {
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+      "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-01T21:41:15+00:00"
+    }
+  ]
+}
