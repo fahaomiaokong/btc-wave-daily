@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.95,
+      "previous_close": 52.06999969482422,
+      "change_pct": 1.6900332443505972,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.42,
+      "previous_close": 110.87999725341797,
+      "change_pct": 1.38889140036893,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.66,
+      "previous_close": 57.20000076293945,
+      "change_pct": 0.8041944596591355,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 172.95,
+      "previous_close": 171.6699981689453,
+      "change_pct": 0.7456176645350698,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.1,
+      "previous_close": 64.7699966430664,
+      "change_pct": 0.5095003458965186,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.53,
+      "previous_close": 85.25,
+      "change_pct": 0.32844574780059865,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.67,
+      "previous_close": 42.560001373291016,
+      "change_pct": 0.25845541155931073,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.86,
+      "previous_close": 114.58999633789062,
+      "change_pct": 0.23562585804890457,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 172.78,
+      "previous_close": 172.72999572753906,
+      "change_pct": 0.028949385571586106,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.6,
+      "previous_close": 183.63999938964844,
+      "change_pct": -0.02178141460541516,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.73,
+      "previous_close": 44.040000915527344,
+      "change_pct": -0.7039076046386983,
+      "as_of": "2026-09-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates",
+      "summary": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "link": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T05:14:58+00:00"
+    },
+    {
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+      "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T04:52:41+00:00"
+    },
+    {
+      "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
+      "summary": "New Zealand exporters are diverting shipments bound for China to new markets, as demand from the country's top buyer cools, a central bank official tells CNBC.",
+      "link": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T04:44:31+00:00"
+    },
+    {
+      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+      "summary": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.",
+      "link": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T04:39:14+00:00"
+    },
+    {
+      "title": "Shipping stocks at a crossroads amid their best rally in decades",
+      "summary": "A months-long crisis in the Strait of Hormuz has turned an overlooked corner of the market into one of 2026's hottest trades.",
+      "link": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T04:31:06+00:00"
+    },
+    {
+      "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
+      "summary": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
+      "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T04:20:20+00:00"
+    },
+    {
+      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+      "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T04:01:00+00:00"
+    },
+    {
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+      "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T03:28:07+00:00"
+    },
+    {
+      "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "summary": "On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.",
+      "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T03:21:50+00:00"
+    },
+    {
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+      "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T02:39:48+00:00"
+    },
+    {
+      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+      "summary": "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
+      "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T01:11:41+00:00"
+    },
+    {
+      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "summary": "Broadcom topped expectations with its latest quarterly financial results, but that wasn’t enough to send its stock higher.",
+      "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T00:25:00+00:00"
+    },
+    {
+      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+      "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
+      "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T00:23:00+00:00"
+    },
+    {
+      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+      "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
+      "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T00:22:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+      "summary": "India's strong economic growth has surprised every quarter for the last year, but the performance of its key stock benchmarks has been deeply disappointing.",
+      "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T00:08:50+00:00"
+    },
+    {
+      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
+      "summary": "Jim Cramer agrees with UBS: The rally in Johnson & Johnson shares still has room to run.",
+      "link": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T00:00:03+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The three major averages snapped three-day losing streaks on Wednesday. Tune in to CNBC on Thursday for Antonio Neri, CEO of Hewlett Packard Enterprise.",
+      "link": "https://www.cnbc.com/2026/09/02/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T23:38:16+00:00"
+    },
+    {
+      "title": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
+      "summary": "CNBC's Jim Cramer said investors aren’t abandoning AI or technology stocks — they’re rotating out of high-multiple names and into cheaper stocks.",
+      "link": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T23:09:09+00:00"
+    },
+    {
+      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
+      "summary": "Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.",
+      "link": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T22:49:01+00:00"
+    },
+    {
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+      "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
+      "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-02T22:37:13+00:00"
+    }
+  ]
+}
