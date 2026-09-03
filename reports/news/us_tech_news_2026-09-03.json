@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved",
+    "summary": "Demand is outpacing supply as major AI labs ramp custom accelerators, strengthening Broadcom’s position as a key Nvidia alternative in AI infrastructure.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/broadcom-sees-230-b-in-ai-revenue-by-2028-driven-by-geniuses-open-ai-anthropic-analyst-says-some-risks-remain-unresolved/cZsM1vRRJHk?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T02:34:24+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 19
+  },
+  {
+    "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+    "summary": "Dan Loeb’s Third Point exited its remaining Nvidia and Broadcom common-share positions during Q2, according to the firm’s August 14 Form 13F. The prior positions, approximately 190,000 Nvidia shares and 50,000 Broadcom shares, were eliminated by June 30. That makes for a striking AI-chip headline, but NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) were small […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-nvidia-032353901.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T03:23:53+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 12
+  },
+  {
+    "title": "CrowdStrike Is Putting GPT-5.6 Cyber Inside Falcon. Is OpenAI Becoming a Cybersecurity Distribution Partner?",
+    "summary": "CrowdStrike and OpenAI are turning a model partnership into a security distribution deal. On September 2, CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said GPT-5.6 Cyber would come to the Falcon platform, starting with its Frontier AI Readiness and Resilience (FAIRR) Service. Falcon Guardian will also provide runtime inventory, visibility, detection, response, and policy enforcement for organizations using […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-putting-gpt-5-6-031320209.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T03:13:20+00:00",
+    "tickers": [
+      "MSFT",
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+    "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
+    "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T03:09:46+00:00",
+    "tickers": [
+      "TSLA",
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback",
+    "summary": "CNBC’s Jim Cramer said Nvidia should dramatically increase its stock buyback.",
+    "link": "https://www.cnbc.com/2026/09/01/jim-cramer-says-nvidia-should-do-a-half-trillion-dollar-apple-style-stock-buyback.html",
+    "source": "Tech",
+    "published": "2026-09-01T23:13:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus",
+    "summary": "While Broadcom and Hewlett Packard Enterprise posted disappointing results, sending shares lower overnight, Dell shares surged after blockbuster results.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rise-as-investors-look-past-iran-tensions-focus-on-earnings-avgo-snow-dell-hpe-stocks-in-focus/cZsMkUsRJHV?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T03:52:50+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 9
+  },
+  {
+    "title": "SpaceX Stock Could Nearly Double — Analyst Says Nvidia Rubin Chips Could Fuel One-Year Payback",
+    "summary": "SpaceX could retain all AI revenue generated through Cursor and Grok or capture around 50% when selling computing capacity to outside customers.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/spacex-stock-double-analyst-nvidia-rubin-chips-one-year-payback/cZsMjv0RJHm?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-03T03:11:38+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+    "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
+    "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+    "source": "Tech",
+    "published": "2026-09-02T22:37:13+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
