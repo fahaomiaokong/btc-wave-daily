@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.56,
+      "previous_close": 57.65999984741211,
+      "change_pct": 1.5608743582545825,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.46,
+      "previous_close": 114.86000061035156,
+      "change_pct": 1.3929996353353902,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.97,
+      "previous_close": 183.60000610351562,
+      "change_pct": 1.2908463059353892,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.25,
+      "previous_close": 43.72999954223633,
+      "change_pct": 1.1891160832540937,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 174.56,
+      "previous_close": 172.77999877929688,
+      "change_pct": 1.030212543858644,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.38,
+      "previous_close": 112.41999816894531,
+      "change_pct": 0.8539422226390592,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.03,
+      "previous_close": 42.66999816894531,
+      "change_pct": 0.8436884145842205,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 173.26,
+      "previous_close": 172.9499969482422,
+      "change_pct": 0.17924432334657237,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 85.26,
+      "previous_close": 85.52999877929688,
+      "change_pct": -0.3156772865080648,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.62,
+      "previous_close": 52.95000076293945,
+      "change_pct": -0.6232308936441555,
+      "as_of": "2026-09-03"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.62,
+      "previous_close": 65.0999984741211,
+      "change_pct": -0.7373248623222306,
+      "as_of": "2026-09-03"
+    }
+  ],
+  "news": [
+    {
+      "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
+      "summary": "Global bond yields have surged as investors assess whether rising debt, tariffs, defense spending and energy shocks could keep inflation higher for longer.",
+      "link": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T05:00:02+00:00"
+    },
+    {
+      "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
+      "summary": "Shein’s Hong Kong IPO puts the focus on how the fast-fashion retailer can reaccelerate growth as its low-cost model faces new pressures.",
+      "link": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T04:49:36+00:00"
+    },
+    {
+      "title": "Stock futures are little changed as traders await August jobs report: Live updates",
+      "summary": "The three major averages are heading for a winning week as traders await the August payrolls report.",
+      "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T04:26:50+00:00"
+    },
+    {
+      "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment",
+      "summary": "The bloc's endorsement came as the Group of 20 finance ministers and central bank governors gathered in Asheville, North Carolina, earlier this week.",
+      "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T04:02:13+00:00"
+    },
+    {
+      "title": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
+      "summary": "Freedom Fuel won free publicity when President Donald Trump urged other gas retailers to emulate its low prices in July.",
+      "link": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T03:25:39+00:00"
+    },
+    {
+      "title": "Goldman just revised this credit-market forecast thanks to the AI sector",
+      "summary": "AI-related supply has helped USD investment grade gross issuance to keep its active momentum all through summer, prompting Goldman to raise its forecast higher.",
+      "link": "https://www.cnbc.com/2026/09/04/goldman-usd-corporate-debt-bond-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T02:42:11+00:00"
+    },
+    {
+      "title": "Goldman’s Energy Dividend Picks: Why Devon and HF Sinclair Still Offer Upside",
+      "summary": "On September 3, Goldman Sachs noted that investors can still find attractive dividend-paying opportunities in energy despite the sector’s sharp rally. The Energy Select Sector SPDR ETF (XLE) has gained about 45% year to date, compared with roughly 13% for the S&P 500, while Brent crude has moved above $95 per barrel amid the conflict […]",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-energy-dividend-picks-why-013009416.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T01:30:09+00:00"
+    },
+    {
+      "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
+      "summary": "South Korea rally is changing what Koreans watch, how Koreans date, and what Koreans study.",
+      "link": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T00:55:30+00:00"
+    },
+    {
+      "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
+      "summary": "Investors should keep an eye out for excessive valuations and focus on productivity when it comes to investing in AI companies, market watchers say.",
+      "link": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T00:44:33+00:00"
+    },
+    {
+      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+      "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T00:35:00+00:00"
+    },
+    {
+      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
+      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T00:31:00+00:00"
+    },
+    {
+      "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+      "summary": "Incoming CEO Anil Chakravarthy is a company veteran. But another longtime business head will be departing Adobe, potentially foreshadowing further turnover in leadership.",
+      "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T00:25:00+00:00"
+    },
+    {
+      "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
+      "summary": "Adobe’s stock is falling as analysts question the yoga-wear maker’s fashion assortment and digest its disappointing outlook.",
+      "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T00:24:00+00:00"
+    },
+    {
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+      "summary": "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”",
+      "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T00:00:00+00:00"
+    },
+    {
+      "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
+      "summary": "Elon Musk’s electric-vehicle company is holding a launch event for the Cybercab autonomous vehicle on Thursday, but details have been sparse.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T23:45:00+00:00"
+    },
+    {
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T23:36:00+00:00"
+    },
+    {
+      "title": "Maria Bartiromo out at Fox News after more than a decade; no reason specified",
+      "summary": "Politically influential financial journalist Maria Bartiromo has departed Fox News Media after more than a decade, the company announced Thursday.",
+      "link": "https://www.cnbc.com/2026/09/03/fox-news-host-maria-bartiromo-leaves.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T23:16:56+00:00"
+    },
+    {
+      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
+      "summary": "Federal Reserve Governor Christopher Waller advocated leaving rates unchanged, provided inflation showed signs of cooling off.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-03T22:24:58+00:00"
+    },
+    {
+      "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+      "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+      "link": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-03T21:59:29+00:00"
+    },
+    {
+      "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
+      "summary": "Campbell’s plans to introduce gluten-free, whole-grain and protein-packed versions of Goldfish to meet growing demand for healthy alternatives and combat rising competition.",
+      "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T21:54:00+00:00"
+    }
+  ]
+}
