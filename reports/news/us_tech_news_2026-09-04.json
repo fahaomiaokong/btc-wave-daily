@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+    "summary": "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
+    "link": "https://www.cnbc.com/2026/09/03/magnificent-seven-jim-cramer-says-time-to-buy.html",
+    "source": "Tech",
+    "published": "2026-09-03T22:31:01+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META",
+      "TSLA"
+    ],
+    "score": 24
+  },
+  {
+    "title": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
+    "summary": "Amazon's cloud dominance and 10.8% net margin contrast sharply with Disney's lower valuation multiples and stronger free cash flow.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/03/better-consumer-stock-for-2026-amazon-com-vs-walt-disney/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-04T03:17:44+00:00",
+    "tickers": [
+      "AMZN",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+    "summary": "OpenAI President Greg Brockman ended a September 3 briefing on GPT-6 Astra with “Welcome to the AGI era,” after saying he personally believed OpenAI had reached AGI. The benchmark results explain the swagger. OpenAI reports that Astra scored 64.6% on Terminal-Bench Science 0.1, ahead of Anthropic’s new Claude Fable 5.1 at 52.6% and GPT-5.6 Sol […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/openai-declares-agi-era-astra-041130711.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-04T04:11:30+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Oracle (ORCL) Stock Gets Fair Value Trim As Analysts Split On AI And Capex",
+    "summary": "Oracle’s updated pricing framework now reflects a fair value estimate of US$241.97, compared with the previous US$248.15 level. This adjustment lines up with a more mixed analyst narrative, as stronger interest in Oracle Cloud Infrastructure and large AI contracts is being balanced against concerns about funding needs, capital expenditure and potential pressure on earnings quality. As you read on, you will see how these moving pieces are shaping the evolving Oracle story and what to watch as...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-gets-fair-030852432.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-04T03:08:52+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+    "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+    "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "source": "TechCrunch",
+    "published": "2026-09-03T12:12:56+00:00",
+    "tickers": [
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
+    "summary": "Oracle’s AI infrastructure push and surging cloud backlog are fueling optimism, but investors will look for proof that spending is translating into durable revenue growth and cash flow.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-spikes-on-new-hpe-equipment-deal-retail-turns-bullish-ahead-of-q1-report/cZswsqcRJwe?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-04T04:54:34+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+    "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+    "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "source": "Tech",
+    "published": "2026-09-03T02:39:48+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 8
+  },
+  {
+    "title": "The Bull Case For Kyndryl Holdings (KD) Could Change Following Expanded VMware-AI Alliance With Broadcom",
+    "summary": "In August 2026, Kyndryl Holdings announced an expanded alliance with Broadcom to provide end-to-end consulting and managed services for VMware Cloud Foundation, targeting AI-ready, secure private and hybrid cloud environments with strengthened cyber recovery capabilities. A distinctive aspect of the collaboration is the planned upskilling of several thousand Kyndryl consultants to implement agentic workflows and policy-driven AI governance across VMware estates, aiming to reduce operational...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bull-case-kyndryl-holdings-kd-030947656.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-04T03:09:47+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 7
+  }
+]
