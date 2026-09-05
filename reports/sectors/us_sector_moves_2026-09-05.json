@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.28,
+      "previous_close": 185.97000122070312,
+      "change_pct": 0.704414029519862,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 175.27,
+      "previous_close": 174.55999755859375,
+      "change_pct": 0.40673834288289523,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.08,
+      "previous_close": 43.029998779296875,
+      "change_pct": 0.11620084155610222,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.44,
+      "previous_close": 52.619998931884766,
+      "change_pct": -0.34207323363455444,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.93,
+      "previous_close": 44.25,
+      "change_pct": -0.7231638418079056,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 58.560001373291016,
+      "change_pct": -0.7855214523625698,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.58,
+      "previous_close": 85.26000213623047,
+      "change_pct": -0.7975628890366959,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.06,
+      "previous_close": 64.62000274658203,
+      "change_pct": -0.866608979851291,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.45,
+      "previous_close": 173.25999450683594,
+      "change_pct": -1.0446696088083574,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.03,
+      "previous_close": 113.37999725341797,
+      "change_pct": -1.1906837944267723,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.91,
+      "previous_close": 116.45999908447266,
+      "change_pct": -1.330928298692835,
+      "as_of": "2026-09-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "A living room unlike any other—how to gather and connect like Gloria Steinem, says expert",
+      "summary": "Steinem's living room \"cracked open opportunities to lend support, let ideas flow, and build trust face-to-face,\" says journalist and author Allison Gilbert, founder of More Connected.",
+      "link": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T00:04:06+00:00"
+    },
+    {
+      "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
+      "summary": "Nonfarm payrolls grew by 162,000 in August, while the unemployment rate held steady at 4.1%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T22:18:49+00:00"
+    },
+    {
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+      "summary": "Molson Coors Beverage, Builders FirstSource and Trade Desk will be getting the boot from the benchmark index.",
+      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T21:46:00+00:00"
+    },
+    {
+      "title": "Forget JEPQ: The Company Behind QQQ Runs Its Own Nasdaq Income Fund",
+      "summary": "Most Nasdaq income investors default to JEPQ without realizing the company behind QQQ quietly launched its own monthly income fund built on the same index, and the differences between them matter more than the ticker names suggest.",
+      "link": "https://247wallst.com/investing/etf/2026/09/04/forget-jepq-the-company-behind-qqq-runs-its-own-nasdaq-income-fund/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T21:45:43+00:00"
+    },
+    {
+      "title": "JEPQ Holders Trailed the Nasdaq-100 Over the Past Year While Chasing a Monthly Check",
+      "summary": "JEPQ deposits a monthly check into your account like clockwork, but the covered-call strategy powering those payments quietly changes the math on what you actually keep versus what the Nasdaq-100 would have handed you.",
+      "link": "https://247wallst.com/investing/etf/2026/09/04/jepq-holders-trailed-the-nasdaq-100-over-the-past-year-while-chasing-a-monthly-check/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T21:15:01+00:00"
+    },
+    {
+      "title": "How a 69-Year-Old’s $500,000 in QQQI Pays Him Every Month While His Cost Basis Falls Toward Zero",
+      "summary": "QQQI sends a monthly check to retirees, but most of that cash carries a hidden cost that quietly erodes the very shares generating it. Understanding what Box 3 of your 1099-DIV reveals could change how you think about that income.",
+      "link": "https://247wallst.com/investing/etf/2026/09/04/how-a-69-year-olds-500000-in-qqqi-pays-him-every-month-while-his-cost-basis-falls-toward-zero/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T21:05:08+00:00"
+    },
+    {
+      "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
+      "summary": "President Donald Trump hyped the sanctions plan as \"economic D-Day\" against Iran, but the U.S. has so far taken few steps to implement it.",
+      "link": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:39:54+00:00"
+    },
+    {
+      "title": "Mike Khouw: Cybercabs are a game changer—here's how I'm trading Tesla",
+      "summary": "The strategist at YieldMaxETFs breaks down how a bullish bet on Tesla could pay off for options traders.",
+      "link": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:29:51+00:00"
+    },
+    {
+      "title": "These companies are growing their dividends and may see upside, Morgan Stanley says",
+      "summary": "September is typically a rough patch for stocks, but adding a few dividend payers may help smooth the ride for investors.",
+      "link": "https://www.cnbc.com/2026/09/04/these-companies-are-growing-their-dividends-morgan-stanley-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:26:22+00:00"
+    },
+    {
+      "title": "Your Future Proof Guide: The ETF Oasis Agenda",
+      "summary": "We're excited to announce our agenda for the ETF Oasis at Future Proof! From hours of engaging conversations onstage to ice cream, breakfast, popcorn, happy hours and more, you'll find a little bit of everything happening at the Oasis.",
+      "link": "http://www.etf.com/sections/features/your-future-proof-guide-etf-oasis-agenda?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T20:26:01+00:00"
+    },
+    {
+      "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
+      "summary": "President Trump has said damage to the Reflecting Pool was due to vandalism, not to a flawed installation of a new liner as prosecutors say.",
+      "link": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:22:09+00:00"
+    },
+    {
+      "title": "Healthcare Stocks Pick Up Steam as Investors Play Offense and Defense",
+      "summary": "Drugmakers are getting a boost from strong earnings and M&A. But they’re also havens in a rocky market.",
+      "link": "https://finance.yahoo.com/m/c50c09db-f4e8-3904-80e3-af00fb7af9fd/healthcare-stocks-pick-up.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-04T20:22:00+00:00"
+    },
+    {
+      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+      "summary": "The company’s Cybercab rollout won’t be as broad as some investors had hoped.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T20:18:00+00:00"
+    },
+    {
+      "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
+      "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
+      "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:17:13+00:00"
+    },
+    {
+      "title": "Dow tumbles more than 260 points after strong jobs report reignites rate hike fears: Live updates",
+      "summary": "August's hotter-than-expected payrolls reading increased expectations that the Federal Reserve could raise interest rates at its next meeting.",
+      "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:16:09+00:00"
+    },
+    {
+      "title": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+      "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
+      "link": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:12:26+00:00"
+    },
+    {
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "summary": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
+      "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T20:12:00+00:00"
+    },
+    {
+      "title": "Investors zero in on August inflation data in the week ahead after yields spike to levels not seen in years",
+      "summary": "Next week's inflation data takes on even greater importance for investors as they try to determine where the Federal Reserve could go with interest rates.",
+      "link": "https://www.cnbc.com/2026/09/04/august-inflation-data-takes-center-stage-in-the-week-ahead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:10:39+00:00"
+    },
+    {
+      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+      "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
+      "link": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-04T20:06:13+00:00"
+    },
+    {
+      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "summary": "In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values.",
+      "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-04T20:03:00+00:00"
+    }
+  ]
+}
