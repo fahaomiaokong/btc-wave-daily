@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.28,
+      "previous_close": 185.97000122070312,
+      "change_pct": 0.704414029519862,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 175.27,
+      "previous_close": 174.55999755859375,
+      "change_pct": 0.40673834288289523,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.08,
+      "previous_close": 43.029998779296875,
+      "change_pct": 0.11620084155610222,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.44,
+      "previous_close": 52.619998931884766,
+      "change_pct": -0.34207323363455444,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.93,
+      "previous_close": 44.25,
+      "change_pct": -0.7231638418079056,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 58.560001373291016,
+      "change_pct": -0.7855214523625698,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.58,
+      "previous_close": 85.26000213623047,
+      "change_pct": -0.7975628890366959,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.06,
+      "previous_close": 64.62000274658203,
+      "change_pct": -0.866608979851291,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.45,
+      "previous_close": 173.25999450683594,
+      "change_pct": -1.0446696088083574,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.03,
+      "previous_close": 113.37999725341797,
+      "change_pct": -1.1906837944267723,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.91,
+      "previous_close": 116.45999908447266,
+      "change_pct": -1.330928298692835,
+      "as_of": "2026-09-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+      "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
+      "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T23:55:52+00:00"
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T23:45:00+00:00"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T23:07:00+00:00"
+    },
+    {
+      "title": "Trump’s first major midterm money move: A $10 million Texas Senate ad blitz",
+      "summary": "MAGA, Inc., has at least $400 million in campaign funds that GOP candidates have been waiting for the president to deploy.",
+      "link": "https://www.cnbc.com/2026/09/05/trumps-first-major-midterm-spend-is-10-million-texas-senate-ad-blitz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T22:30:25+00:00"
+    },
+    {
+      "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+      "summary": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
+      "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T21:38:22+00:00"
+    },
+    {
+      "title": "LeBron James teases partnership with Polymarket",
+      "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+      "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T19:40:11+00:00"
+    },
+    {
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+      "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T19:12:53+00:00"
+    },
+    {
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+      "summary": "You can unlock greater retirement wealth by reading this document that nearly everyone ignores.",
+      "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T18:59:00+00:00"
+    },
+    {
+      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "summary": "In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values.",
+      "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T18:42:00+00:00"
+    },
+    {
+      "title": "Why the jobs report will actually be good for bonds",
+      "summary": "Based on the chatter on Wall Street, you’d think labor has never had it so good. Sadly for working Americans, this isn’t actually the case.",
+      "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T18:26:00+00:00"
+    },
+    {
+      "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
+      "summary": "Mortgage rates ticked up to a new high for the year, delivering more bad news for home buyers.",
+      "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T18:09:00+00:00"
+    },
+    {
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "summary": "Access to healthcare, recreation, and low taxes lure retirees, new research says",
+      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T17:26:00+00:00"
+    },
+    {
+      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+      "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T17:01:00+00:00"
+    },
+    {
+      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
+      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T17:00:00+00:00"
+    },
+    {
+      "title": "We got more defensive last week as Wall Street raised the bar for AI stocks",
+      "summary": "We initiated positions in defensive stocks to balance our AI exposure amid higher oil prices and Treasury yields.",
+      "link": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T16:45:14+00:00"
+    },
+    {
+      "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+      "summary": "The president needs lower gasoline prices and mortgage rates — fast.",
+      "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-05T16:34:00+00:00"
+    },
+    {
+      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+      "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
+      "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T15:43:08+00:00"
+    },
+    {
+      "title": "I'm a nutritionist from Japan: 7 'essential' anti-inflammatory foods that I swear by",
+      "summary": "Japanese nutritionist and longevity expert Michiko Tomioka shares the inflammation-fighting foods that are always in her kitchen.",
+      "link": "https://www.cnbc.com/2026/09/05/nutritionist-from-japan-essential-anti-inflammatory-foods-i-swear-by.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T15:30:01+00:00"
+    },
+    {
+      "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+      "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
+      "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T15:11:03+00:00"
+    },
+    {
+      "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
+      "summary": "Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches, as the nation's largest retailer targets Uber Eats and DoorDash.",
+      "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-05T14:46:14+00:00"
+    }
+  ]
+}
