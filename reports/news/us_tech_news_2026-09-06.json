@@ -1,0 +1,95 @@
+[
+  {
+    "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+    "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) announced a broad set of AI security products and deeper integrations across the cybersecurity and enterprise AI ecosystem. The company introduced tools such as Falcon Guardian, Agentic Identity Provider and real-time supply chain protection to cover AI agents, data pipelines and software supply chains. CrowdStrike expanded partnerships with OpenAI, Google, Anthropic, NVIDIA, Rubrik, Fortanix, EY and others to embed its Falcon platform into emerging AI...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-06T00:14:30+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "CRWD"
+    ],
+    "score": 23
+  },
+  {
+    "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
+    "summary": "The chipmaker's up-to-$5 billion pledge comes with conditions attached -- and the company on the receiving end is about to get a public price.",
+    "link": "https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-05T22:03:01+00:00",
+    "tickers": [
+      "AMZN",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right?",
+    "summary": "September 4 delivered a stark rotation. Memory, connectivity, chip-equipment, and power stocks rallied while Adobe fell 6.7% and Palantir dropped 4.5%. Adobe’s decline followed news that Anil Chakravarthy will become chief executive on December 1, while Palantir faced a broader move away from richly valued software. Adobe Inc. (NASDAQ:ADBE) and Palantir Technologies Inc. (NASDAQ:PLTR) test […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-hardware-rallied-while-adobe-220725248.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-05T22:07:25+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+    "summary": "The AI computing specialist's latest results were strong. The real story is a backlog worth almost 29 times this year's expected revenue.",
+    "link": "https://www.fool.com/investing/2026/09/05/cerebras-has-a-usd25-4-billion-backlog-and-one-openai-agreement-is-behind-much-of-it/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-05T23:34:01+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+    "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+    "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+    "source": "Tech",
+    "published": "2026-09-05T12:00:01+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company's",
+    "summary": "The Big Short investor's numbers come straight from the AI specialist's own filings. What they mean is another matter.",
+    "link": "https://www.fool.com/investing/2026/09/05/michael-burry-says-palantir-s-books-look-more-like-a-consultant-s-than-a-software-company-s/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-06T03:46:01+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla.",
+    "summary": "Musk's turbine push could accelerate his massive AI infrastructure build-out.",
+    "link": "https://www.fool.com/investing/2026/09/05/elon-musk-says-his-new-foundry-can-get-gas-turbi/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-06T01:50:00+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Nvidia-backed AI company reveals staggering $103 billion number",
+    "summary": "The company reveals how big AI infrastructure is getting",
+    "link": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-nscale-reveals-103-billion-contracted-revenue?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-05T23:17:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 5
+  }
+]
