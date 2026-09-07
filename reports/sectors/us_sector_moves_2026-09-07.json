@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.28,
+      "previous_close": 185.97000122070312,
+      "change_pct": 0.704414029519862,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 175.27,
+      "previous_close": 174.55999755859375,
+      "change_pct": 0.40673834288289523,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.08,
+      "previous_close": 43.029998779296875,
+      "change_pct": 0.11620084155610222,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.44,
+      "previous_close": 52.619998931884766,
+      "change_pct": -0.34207323363455444,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.93,
+      "previous_close": 44.25,
+      "change_pct": -0.7231638418079056,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 58.560001373291016,
+      "change_pct": -0.7855214523625698,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.58,
+      "previous_close": 85.26000213623047,
+      "change_pct": -0.7975628890366959,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.06,
+      "previous_close": 64.62000274658203,
+      "change_pct": -0.866608979851291,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.45,
+      "previous_close": 173.25999450683594,
+      "change_pct": -1.0446696088083574,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.03,
+      "previous_close": 113.37999725341797,
+      "change_pct": -1.1906837944267723,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.91,
+      "previous_close": 116.45999908447266,
+      "change_pct": -1.330928298692835,
+      "as_of": "2026-09-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "Israel-Hezbollah clashes deepen threat to fragile truce as Lebanon's president calls for U.S. support",
+      "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
+      "link": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T05:15:44+00:00"
+    },
+    {
+      "title": "Treasurys are losing foreign appeal in a historic capital flow reversal — and here's one trade investors favor instead",
+      "summary": "U.S. bonds are losing their appeal among overseas investors in what strategists say is a historic capital reversal.",
+      "link": "https://www.cnbc.com/2026/09/07/treasurys-bonds-investors-deficit-debt.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T05:00:01+00:00"
+    },
+    {
+      "title": "Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+      "summary": "Asia-Pacific markets open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
+      "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T05:00:00+00:00"
+    },
+    {
+      "title": "Goldman boosts Asia ex-Japan index target for one big reason",
+      "summary": "Goldman raises its forecast for MSCI AC Asia Pacific ex-Japan Index on expectations for higher earnings forecasts led by Taiwan and Korea.",
+      "link": "https://www.cnbc.com/2026/09/07/goldman-boosts-asia-ex-japan-index-target-ai-korea.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T02:08:36+00:00"
+    },
+    {
+      "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+      "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak.",
+      "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T02:01:52+00:00"
+    },
+    {
+      "title": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
+      "summary": "Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.",
+      "link": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T01:31:03+00:00"
+    },
+    {
+      "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+      "summary": "The aircraft overran the runway around 2 p.m. ET after arriving from San Juan, Puerto Rico.",
+      "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T01:10:14+00:00"
+    },
+    {
+      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T00:06:18+00:00"
+    },
+    {
+      "title": "Assailant lunged at Democratic candidate for Ohio governor Amy Acton at fair, campaign says",
+      "summary": "The Ohio gubernatorial race is one of the most high-profile races this year as the campaigns enter the final weeks of campaigning before the November election.",
+      "link": "https://www.cnbc.com/2026/09/06/ohio-governor-candidate-amy-acton-attacked.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T22:51:50+00:00"
+    },
+    {
+      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
+      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-06T21:30:00+00:00"
+    },
+    {
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into these properties.”",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-06T21:00:00+00:00"
+    },
+    {
+      "title": "Far-right AfD wins historic victory in German state election",
+      "summary": "The AfD is now Germany's most popular party nationally, polling at 28% according to a recent INSA poll, comfortably ahead of the conservatives at 20%.",
+      "link": "https://www.cnbc.com/2026/09/06/germanys-far-right-afd-seeks-landmark-state-victory.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T20:22:03+00:00"
+    },
+    {
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-06T20:00:00+00:00"
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-06T20:00:00+00:00"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-06T19:45:00+00:00"
+    },
+    {
+      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+      "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+      "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T19:41:23+00:00"
+    },
+    {
+      "title": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension",
+      "summary": "New England Patriots owner Robert Kraft said in a memo: \"We believe we are very fortunate to have Roger at the helm for the next four years.\"",
+      "link": "https://www.cnbc.com/2026/09/06/nfl-commissioner-roger-goodell-agrees-on-a-4-year-contract-extension.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T18:28:14+00:00"
+    },
+    {
+      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+      "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+      "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T17:53:53+00:00"
+    },
+    {
+      "title": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+      "summary": "The filing came after a U.S. District Court judge extended an order against the Postal Service enforcing an executive order for the November elections.",
+      "link": "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T15:55:51+00:00"
+    },
+    {
+      "title": "U.S. envoys make first Kyiv visit amid Ukraine war peace push",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-06T14:11:58+00:00"
+    }
+  ]
+}
