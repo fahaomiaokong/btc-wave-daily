@@ -1,0 +1,97 @@
+[
+  {
+    "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+    "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+    "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+    "source": "Tech",
+    "published": "2026-09-06T12:13:49+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 21
+  },
+  {
+    "title": "The Pentagon Doubled Down on Its Anthropic Blacklist. Why Amazon and Alphabet Investors Should Care",
+    "summary": "A senior Pentagon official said on September 3 that the Pentagon still considers Anthropic a supply-chain risk, despite comments that had suggested the dispute might ease. The military had already announced classified-AI arrangements with eight technology providers, including Amazon Web Services and Google. The conflict matters to Amazon.com, Inc. (NASDAQ:AMZN) and Alphabet Inc. (NASDAQ:GOOGL) because […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/pentagon-doubled-down-anthropic-blacklist-034421098.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T03:44:21+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
+    "summary": "CNBC reported that Meta Platforms, Inc. (NASDAQ:META) agreed to pay up to $18 billion combined to settle claims that its platforms fueled a teen mental health crisis. It includes up to $17 billion to a coalition of 47 states, the District of Columbia, and several territories, plus a separate settlement of more than $1 billion […]",
+    "link": "https://finance.yahoo.com/media-advertising/articles/meta-18-billion-teen-safety-011613870.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T01:16:13+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+    "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
+    "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T03:06:47+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia’s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
+    "summary": "Nvidia disclosed roughly $99 billion of public and private equity investments as of July 26, plus about $25 billion of additional commitments. The portfolio included a $30 billion Intel stake and several billion dollars of CoreWeave equity. NVIDIA Corporation (NASDAQ:NVDA) is using its balance sheet to support the ecosystem that buys compute, which makes Intel […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-99-billion-portfolio-turning-034218904.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T03:42:18+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Palantir’s Alex Karp: The Real AI Leak Isn't Data, It's Your 'Alpha'",
+    "summary": "Companies have long worried about artificial intelligence exposing sensitive data. Palantir Technologies Inc. CEO Alex Karp says they’re focused on the wrong threat. Speaking at the G20 Innovation Ministerial, Karp argued that the real strategic risk isn’t losing data —...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-alex-karp-real-ai-013013347.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T01:30:13+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
+    "summary": "Tesla, Inc. (NASDAQ:TSLA) said its supervised Full Self-Driving technology recorded 4.1 times fewer collisions than manually driven Tesla cars across the five European countries where it is currently permitted, Reuters reported on September 1, as the company steps up lobbying ahead of a European Union vote on wider deployment. Tesla said the findings came from […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T01:12:46+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day",
+    "summary": "On August 31, 2026, CNBC reported that Microsoft Corporation (NASDAQ:MSFT) suffered a widespread Outlook and Exchange Online outage on August 31, with Downdetector reports peaking at 6,015 for Outlook and 2,044 for Microsoft 365. Microsoft said on its status page that “users may experience degraded functionality with various Exchange Online functionalities” while it reviewed service […]",
+    "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-outlook-openai-chatgpt-002934990.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T00:29:34+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  }
+]
