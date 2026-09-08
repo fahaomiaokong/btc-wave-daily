@@ -1,0 +1,93 @@
+[
+  {
+    "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost",
+    "summary": "Oracle shares extend a three-day rally as OpenAI’s GPT-6 Astra boosts optimism around its AI cloud opportunity.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-rallies-into-earnings-week-open-ai-gpt-6-astra-buzz-morgan-stanley-s-big-target-give-bulls-a-boost/cZt3SZbRJxA?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-08T03:11:01+00:00",
+    "tickers": [
+      "MSFT",
+      "ORCL"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+    "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+    "link": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+    "source": "Tech",
+    "published": "2026-09-08T05:00:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Scene of Fatal Amazon Plane Crash in Miami Is ‘Devastating’",
+    "summary": "The Boeing plane struck navigational devices, a Ford, a Toyota, and two fences before coming to rest in a Tesla robo-taxi station, the NTSB said. Five people died and several others were injured.",
+    "link": "https://finance.yahoo.com/m/505161b0-0ca6-3135-a3a8-4ebf665d4e56/scene-of-fatal-amazon-plane.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-07T22:31:00+00:00",
+    "tickers": [
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia's 3-Year-Old H100 Chip Is Still Getting the Market to Pay Up, Jensen Huang Says Compute Is 'Fungible, Durable and Highly Rentable'",
+    "summary": "On Monday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang doubled down on his view that AI computing hardware is becoming a valuable, financeable asset as rental prices for the company’s older H100 GPUs continue to climb. Huang Calls Nvidia Compute a ‘Revenue-Generating Asset’ \"NVIDIA compute is fungible, durable and highly rentable,\" Huang wrote in a post on X. \"It is a productive, revenue-generating asset.\" NVIDIA compute is fungible, durable and highly rentable. It is a productive, revenue-genera",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-3-old-h100-chip-024401396.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-08T02:44:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Interactive Brokers Earns Interest on $182 Billion of Its Clients' Idle Cash. Will Anthropic's IPO Drain It?",
+    "summary": "What does a record-size stock market debut do to a broker that earns interest on its clients' idle cash?",
+    "link": "https://www.fool.com/investing/2026/09/07/interactive-brokers-earns-interest-on-usd182-billion-of-its-clients-idle-cash-will-anthropic-s-ipo-drain-it/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-08T00:46:01+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "NVDA Rises Overnight After Strong Week: CEO Jensen Huang Pumps Nvidia Chips As ‘Highly Rentable’ Money-Minting Assets",
+    "summary": "Huang highlighted Nvidia GPUs’ income-generating value as AI infrastructure spending accelerates.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-rises-overnight-after-strong-week-ceo-jensen-huang-pumps-nvidia-chips-as-highly-rentable-money-minting-assets/cZt3ZqARJxw?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-08T05:09:24+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Dow, S&P 500 Futures Decline Amid Rising Oil Prices As Iran War Escalates: MU, ORCL, INTC, BE Stocks In Focus",
+    "summary": "The U.S. struck three Iranian oil tankers on Saturday, while Iran’s Islamic Revolutionary Guard Corps (IRGC) responded by striking three tankers and three U.S.-linked vessels in other areas.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-decline-amid-rising-oil-prices-as-iran-war-escalates-mu-orcl-intc-be-stocks-in-focus/cZt3K4yRJxo?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-08T02:19:20+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+    "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+    "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+    "source": "TechCrunch",
+    "published": "2026-09-08T02:16:39+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  }
+]
