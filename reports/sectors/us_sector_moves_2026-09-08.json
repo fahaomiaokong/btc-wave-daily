@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.28,
+      "previous_close": 185.97000122070312,
+      "change_pct": 0.704414029519862,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 175.27,
+      "previous_close": 174.55999755859375,
+      "change_pct": 0.40673834288289523,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.08,
+      "previous_close": 43.029998779296875,
+      "change_pct": 0.11620084155610222,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.44,
+      "previous_close": 52.619998931884766,
+      "change_pct": -0.34207323363455444,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.93,
+      "previous_close": 44.25,
+      "change_pct": -0.7231638418079056,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.1,
+      "previous_close": 58.560001373291016,
+      "change_pct": -0.7855214523625698,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.58,
+      "previous_close": 85.26000213623047,
+      "change_pct": -0.7975628890366959,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.06,
+      "previous_close": 64.62000274658203,
+      "change_pct": -0.866608979851291,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.45,
+      "previous_close": 173.25999450683594,
+      "change_pct": -1.0446696088083574,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.03,
+      "previous_close": 113.37999725341797,
+      "change_pct": -1.1906837944267723,
+      "as_of": "2026-09-04"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.91,
+      "previous_close": 116.45999908447266,
+      "change_pct": -1.330928298692835,
+      "as_of": "2026-09-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+      "link": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T05:00:01+00:00"
+    },
+    {
+      "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+      "summary": "Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.",
+      "link": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T05:00:01+00:00"
+    },
+    {
+      "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
+      "summary": "Dow futures fell to kick off a shortened week of trading, with Wall Street keeping tabs on the Middle East war as well as rising trade tensions between Canada and the U.S.",
+      "link": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T04:55:44+00:00"
+    },
+    {
+      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "summary": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.",
+      "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T04:45:07+00:00"
+    },
+    {
+      "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+      "summary": "Markets have shrugged off a barrage of shocks in recent years but that resilience may not last forever, according to HSBC.",
+      "link": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T04:02:43+00:00"
+    },
+    {
+      "title": "Inside Italy’s banking M&A boom — and why Wall Street is watching",
+      "summary": "Italy has become the center of Europe’s banking consolidation boom, with a wave of takeover bids reshaping the country’s financial sector. This video explains what is driving the dealmaking, how battles for influence over banks including Monte dei Paschi and Mediobanca connect to insurer Generali, and why the outcome could have implications for Europe’s push to build larger banks capable of competing with U.S. rivals.",
+      "link": "https://www.cnbc.com/video/2026/09/08/italy-banking-ma-boom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T04:00:01+00:00"
+    },
+    {
+      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+      "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
+      "link": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T03:54:54+00:00"
+    },
+    {
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+      "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-08T03:09:00+00:00"
+    },
+    {
+      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+      "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+      "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T02:05:30+00:00"
+    },
+    {
+      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "summary": "Canada had condemned Iran’s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.",
+      "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T01:50:07+00:00"
+    },
+    {
+      "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
+      "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
+      "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T01:42:34+00:00"
+    },
+    {
+      "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+      "summary": "The week will be dominated by inflation data. Plus, Apple's new CEO has his first big test.",
+      "link": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T23:31:25+00:00"
+    },
+    {
+      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+      "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
+      "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T23:23:10+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+      "summary": "A Group of 20 finance meeting in the U.S. this month has now elevated the debate over whether China's exports have cost people in other countries their jobs.",
+      "link": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T23:00:01+00:00"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-07T22:00:00+00:00"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-07T22:00:00+00:00"
+    },
+    {
+      "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+      "summary": "The chair of the National Transportation Safety Board didn't provide details on the cause of the crash in Miami, which killed at least five people.",
+      "link": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-07T21:36:12+00:00"
+    },
+    {
+      "title": "How a 64-Year-Old’s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+      "summary": "A $1.2 million position in Vanguard's most popular S&P 500 fund looks like broad diversification until you open the shareholder report and see where most of that money actually sits. For a 64-year-old counting on this portfolio for the next 30 years, the sector breakdown changes the risk calculation entirely.",
+      "link": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-07T21:25:21+00:00"
+    },
+    {
+      "title": "QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change",
+      "summary": "QQQ spent years charging the same fee while cheaper rivals stole the spotlight, and it took something far bigger than a board vote to finally force a change.",
+      "link": "https://247wallst.com/investing/etf/2026/09/07/qqq-charged-0-20-for-years-the-fee-only-fell-after-shareholders-approved-a-structural-change/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-07T21:15:39+00:00"
+    },
+    {
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-07T19:30:00+00:00"
+    }
+  ]
+}
