@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.77,
+      "previous_close": 64.05999755859375,
+      "change_pct": 1.1083397884254165,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.45,
+      "previous_close": 43.08000183105469,
+      "change_pct": 0.8588629369059131,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.87,
+      "previous_close": 187.27999877929688,
+      "change_pct": 0.31503696312942253,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.9,
+      "previous_close": 43.93000030517578,
+      "change_pct": -0.06829115631089566,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.52,
+      "previous_close": 112.02999877929688,
+      "change_pct": -0.45523412019453646,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 174.42,
+      "previous_close": 175.27000427246094,
+      "change_pct": -0.4849684781998431,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.02,
+      "previous_close": 84.58000183105469,
+      "change_pct": -0.6620972084787513,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 113.99,
+      "previous_close": 114.91000366210938,
+      "change_pct": -0.8006297387428751,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.94,
+      "previous_close": 52.439998626708984,
+      "change_pct": -0.9534680392884742,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.3,
+      "previous_close": 58.099998474121094,
+      "change_pct": -1.3769337265601367,
+      "as_of": "2026-09-08"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.13,
+      "previous_close": 171.4499969482422,
+      "change_pct": -2.51968330425012,
+      "as_of": "2026-09-08"
+    }
+  ],
+  "news": [
+    {
+      "title": "G10’s ‘surprise’ currency star could stumble as peers hike interest rates",
+      "summary": "The British pound has benefited from a resilient economy and rate hike expectations, but the BOE looks increasingly dovish while a crucial budget lies ahead.",
+      "link": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T05:00:01+00:00"
+    },
+    {
+      "title": "The world's highest paid leader is set for a 64% pay rise. Here's how others compare",
+      "summary": "Wong announced ministerial salaries will be adjusted upwards after 15 years, with his annual pay package rising to 3.6 million Singapore dollars",
+      "link": "https://www.cnbc.com/2026/09/09/singapore-prime-minister-salary-lawrence-wong.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T04:58:47+00:00"
+    },
+    {
+      "title": "Chipotle's new restaurant in a hip Seoul neighborhood tests its Asian expansion strategy",
+      "summary": "Chipotle is making its Asia debut in South Korea through its first-ever joint venture for international expansion, with Singapore next in 2027.",
+      "link": "https://www.cnbc.com/2026/09/09/chipotles-new-seoul-restaurant-tests-its-asian-expansion-strategy-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T04:50:04+00:00"
+    },
+    {
+      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+      "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
+      "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T04:12:51+00:00"
+    },
+    {
+      "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
+      "summary": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.",
+      "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T03:23:06+00:00"
+    },
+    {
+      "title": "How Asia’s ultra-rich are investing and where wealthy Chinese are migrating, according to Maybank Singapore CEO",
+      "summary": "Asia's ultra-rich still like gold, but they're branching out to digital assets as well, Maybank Singapore's CEO said.",
+      "link": "https://www.cnbc.com/2026/09/09/asia-ultra-rich-investing-wealthy-chinese-migrating-maybank.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T03:08:15+00:00"
+    },
+    {
+      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
+      "summary": "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.",
+      "link": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T03:07:32+00:00"
+    },
+    {
+      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+      "summary": "Jean Chatzky’s new book lays out several strategies for creating steady retirement income.",
+      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-09T02:20:00+00:00"
+    },
+    {
+      "title": "Three pieces of advice HSBC has for AI investors",
+      "summary": "Investors should focus on tech with the strongest monetization and less-stretched valuations, such as South Korean memory chips and Taiwan's semiconductors.",
+      "link": "https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T02:14:32+00:00"
+    },
+    {
+      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
+      "summary": "Show creators Trey Parker and Matt Stone said in a statement that they were \"inspired by the bravery and patriotism of Apple and Google.\"",
+      "link": "https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T01:52:10+00:00"
+    },
+    {
+      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
+      "summary": "Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January.",
+      "link": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T00:52:55+00:00"
+    },
+    {
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+      "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S.",
+      "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-09T00:17:00+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow fell almost 630 points as oil prices rose on Tuesday. Tune in to CNBC Wednesday as David Faber speaks to key leaders at Goldman Sachs's big conference.",
+      "link": "https://www.cnbc.com/2026/09/08/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T23:24:37+00:00"
+    },
+    {
+      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why",
+      "summary": "Marvell Technology CEO Matt Murphy said trust has helped fuel the chipmaker's massive run over the past year.",
+      "link": "https://www.cnbc.com/2026/09/08/marvell-shares-soared-ceo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T23:07:22+00:00"
+    },
+    {
+      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
+      "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-08T22:50:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
+      "summary": "The U.S. struck targets near Kharg Island and the port city of Jask, Fox News reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-08T22:46:39+00:00"
+    },
+    {
+      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+      "summary": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
+      "link": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T22:02:53+00:00"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-08T22:00:00+00:00"
+    },
+    {
+      "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
+      "summary": "Semiconductor industry revenue is expected to reach $1.5 trillion this year, driven mostly by memory chips.",
+      "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-08T21:51:00+00:00"
+    },
+    {
+      "title": "LIV Golf files for Chapter 11 bankruptcy protection",
+      "summary": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.",
+      "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-08T21:45:55+00:00"
+    }
+  ]
+}
