@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+    "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
+    "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T03:09:58+00:00",
+    "tickers": [
+      "AAPL",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Dow Futures Slip, S&P 500, Nasdaq Futures Climb As Oil Nears $100 A Barrel: RKLB, AMD, ORCL, SMR Stocks In Focus",
+    "summary": "Rising oil prices amid escalating tensions in the Middle East weighed heavily on stock markets on Tuesday as Brent Crude neared $100 a barrel.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-futures-slip-s-and-p-500-nasdaq-futures-climb-as-oil-nears-100-a-barrel-rklb-amd-orcl-smr-stocks-in-focus/cZteoP9RJyi?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T02:48:53+00:00",
+    "tickers": [
+      "AMD",
+      "ORCL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+    "summary": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
+    "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+    "source": "Tech",
+    "published": "2026-09-08T20:12:25+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz — But Keeps Supplier Options Open",
+    "summary": "UBS said last month that TSMC packaging constraints could steer AMD and other customers toward Intel’s EMIB-T tech, potentially in 2027.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-amd-reaffirms-tsmc-ties-intel-foundry-buzz-supplier-options-open/cZtepN6RJyS?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T03:45:07+00:00",
+    "tickers": [
+      "AMD",
+      "TSM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+    "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+    "link": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+    "source": "Tech",
+    "published": "2026-09-08T07:27:06+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "QCOM Stock Extends Gains Overnight: Analyst Says Amazon AI Deal 'Changes Calculus For Qualcomm'",
+    "summary": "Amazon’s custom AI silicon push gives Qualcomm a fresh growth avenue beyond smartphones, with analysts reassessing the chipmaker’s prospects.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-extends-gains-overnight-analyst-says-amazon-ai-deal-changes-calculus-for-qualcomm/cZte8W3RJyW?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T02:21:17+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "MRVL Stock Keeps Climbing As CEO Shrugs Off Qualcomm-Amazon Threat: 'We Are The Switzerland Of This Entire Market'",
+    "summary": "Marvell’s broad hyperscaler footprint and custom-chip ambitions are helping it shrug off fresh competitive pressure in AI infrastructure.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mrvl-stock-keeps-climbing-as-ceo-shrugs-off-qualcomm-amazon-threat-we-are-the-switzerland-of-this-entire-market/cZtepzKRJyj?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T03:58:39+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia Earnings Blow Everyone Away",
+    "summary": "Nvidia's most recent earnings and guidance blew past expectations and set up another stellar year for anything AI-related.",
+    "link": "https://www.fool.com/investing/2026/09/08/nvidia-earnings-blow-everyone-away/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-09T03:55:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
