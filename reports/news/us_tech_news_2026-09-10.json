@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due.",
+    "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+    "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-10T03:09:05+00:00",
+    "tickers": [
+      "AAPL",
+      "META",
+      "AMD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+    "summary": "Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.",
+    "link": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
+    "source": "Tech",
+    "published": "2026-09-09T21:45:34+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+    "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
+    "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+    "source": "Tech",
+    "published": "2026-09-09T17:43:45+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Gene Munster Says Apple Regained 'Device Design Mojo' With $1,999 iPhone Duo: 'They're Going to Sell More Than I Thought'",
+    "summary": "On Wednesday, Apple Inc. (NASDAQ:AAPL) unveiled the iPhone Duo at its first major product event under CEO John Ternus, marking the company’s entry into the foldable smartphone market. iPhone Duo Gets Analysts Excited Gene Munster, managing partner at Deepwater Asset Management, said on X that the Duo is \"sick,\" praising its thin design and lack of a visible crease. He also raised his expectations for the device, saying he previously estimated it could account for about 5% of iPhone revenue in fi",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gene-munster-says-apple-regained-020629840.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-10T02:06:29+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "AAPL Stock Gains Overnight: Analyst Doubles iPhone Duo Revenue Forecast And Says Apple Is ‘Likely To Outperform’ Next Week",
+    "summary": "Apple’s split launch cycle could push March 2027 revenue growth closer to 20%, compared with Wall Street’s 14% forecast, Munster said.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-analyst-doubles-iphone-duo-revenue-forecast-outperform-next-week/cZt9unmRJCE?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-10T01:48:25+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "The incomplete history of Duo devices",
+    "summary": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple […]",
+    "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+    "source": "The Verge",
+    "published": "2026-09-09T22:23:35+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Dow, S&P 500 Futures Climb, Nasdaq Futures Slip Ahead Of Key Inflation Data Releases: AAPL, SKHY, PSKY, CHWY Stocks In Focus",
+    "summary": "The Bureau of Labor Statistics will release the producer price index on Thursday, followed by the consumer price index data on Friday.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-climb-nasdaq-futures-slip-ahead-of-key-inflation-data-releases-aapl-skhy-psky-chwy-stocks-in-focus/cZt9voCRJCI?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-10T02:27:24+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 7
+  },
+  {
+    "title": "TSLA Critic Gordon Johnson Rips Cybercab Launch After Elon Musk's ‘Storm of Cybercabs’ Promise: ‘The Robotaxi Story Was Never About Robotaxis'",
+    "summary": "Tesla Inc. critic Gordon Johnson said Elon Musk’s promised \"storm of Cybercabs\" failed to materialize at Tesla’s Austin launch, arguing the robotaxi narrative has been more about supporting the stock than proving scalable autonomous operations. Johnson Slams Tesla’s Muted Cybercab...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-critic-gordon-johnson-rips-033022550.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-10T03:30:22+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 6
+  }
+]
