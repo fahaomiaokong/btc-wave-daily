@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.31,
+      "previous_close": 64.7699966430664,
+      "change_pct": 0.8337245405607208,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.87,
+      "previous_close": 187.8699951171875,
+      "change_pct": 2.5990379626250615e-06,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.58,
+      "previous_close": 167.1300048828125,
+      "change_pct": -0.3290880552526354,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.06,
+      "previous_close": 57.29999923706055,
+      "change_pct": -0.4188468416336688,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.83,
+      "previous_close": 111.5199966430664,
+      "change_pct": -0.618720107457349,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.39,
+      "previous_close": 51.939998626708984,
+      "change_pct": -1.0589115156929507,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.41,
+      "previous_close": 43.900001525878906,
+      "change_pct": -1.1161765577389682,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.05,
+      "previous_close": 84.0199966430664,
+      "change_pct": -1.1544830776263226,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.94,
+      "previous_close": 43.45000076293945,
+      "change_pct": -1.1737646812067681,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 113.98999786376953,
+      "change_pct": -1.3422211531208705,
+      "as_of": "2026-09-09"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 171.79,
+      "previous_close": 174.4199981689453,
+      "change_pct": -1.507853569862938,
+      "as_of": "2026-09-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "'Once-in-a-lifetime’ shift is making 60/40 portfolios less relevant, says BlackRock exec. Here’s the mix it favors",
+      "summary": "A BlackRock exec said a \"once in a lifetime\" investment opportunity is upending the traditional 60/40 portfolio mix.",
+      "link": "https://www.cnbc.com/2026/09/10/blackrock-60-40-portfolio-private-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T05:00:02+00:00"
+    },
+    {
+      "title": "Stock futures inch higher as traders brace for wholesale inflation report: Live updates",
+      "summary": "The first of two inflation reports due this week is in focus as oil prices rise.",
+      "link": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T04:52:53+00:00"
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-10T03:00:00+00:00"
+    },
+    {
+      "title": "Bessent’s political turn in GOP speech tests his bond-market credibility",
+      "summary": "Treasury Secretary Scott Bessent's Republican convention speech in Dallas is raising questions about how politics could affect market confidence in him.",
+      "link": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T02:54:56+00:00"
+    },
+    {
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "summary": "The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds.",
+      "link": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T02:52:55+00:00"
+    },
+    {
+      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+      "summary": "Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.",
+      "link": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T02:05:32+00:00"
+    },
+    {
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher.",
+      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-10T02:04:00+00:00"
+    },
+    {
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+      "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T01:53:50+00:00"
+    },
+    {
+      "title": "Inside India newsletter: India’s green push aims to boost energy security but exposes China dependency",
+      "summary": "India's ambition to create a self-reliant energy ecosystem by expanding its renewable energy footprint is facing a China problem.",
+      "link": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T00:09:06+00:00"
+    },
+    {
+      "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+      "summary": "Apple rolled out the foldable iPhone Duo, iPhone 18 Pro and Max, Watch Series 12 and many other features and updates in its first launch under CEO John Ternus.",
+      "link": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T00:01:17+00:00"
+    },
+    {
+      "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
+      "summary": "Fetterman, of Pennsylvania, vowed to \"work with President Trump to fight and defend the steel way of life right here in the Steel Valley.\"",
+      "link": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T23:56:51+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials dropped just over 400 points in Wednesday's trading as Treasury yields rose and oil prices saw their highest settlement prices since May.",
+      "link": "https://www.cnbc.com/2026/09/09/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T23:14:09+00:00"
+    },
+    {
+      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+      "summary": "The most important price in America is one most drivers never pay — and it reaches the CPI, the Fed and the European Central Bank in the same week.",
+      "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-09T22:51:00+00:00"
+    },
+    {
+      "title": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
+      "summary": "Jacksonville Jaguars owner Shad Khan says NFL teams are still undervalued compared with teams in other professional sports leagues.",
+      "link": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-09T22:49:41+00:00"
+    },
+    {
+      "title": "Labor Market Red Flags: June Layoffs Revised Up by 19,000 While Hires Sink by 16,000",
+      "summary": "Newly revised data from the U.S. Bureau of Labor Statistics shows that June layoffs and discharges were revised up by 19,000 to 1.8 million, while June hires were revised down by 16,000 to 5.3 million. The updated Job Openings and...",
+      "link": "https://finance.yahoo.com/economy/articles/labor-market-red-flags-june-223017643.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-09T22:30:17+00:00"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-09T22:30:00+00:00"
+    },
+    {
+      "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
+      "summary": "Natural disasters — from hurricanes to storms to wildfires — are prompting insurers to rethink pricing as risks evolve.",
+      "link": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-09T22:21:00+00:00"
+    },
+    {
+      "title": "Forget VUG. Vanguard’s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+      "summary": "Two Vanguard funds share the same large-cap universe, the same rock-bottom fee, and the same issuer, yet one is lapping the other by a stunning margin this year, and the reason comes down to seven stocks you probably already own too many times over.",
+      "link": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-09T22:15:26+00:00"
+    },
+    {
+      "title": "S&P 500 investors may want to rethink their favorite ETF",
+      "summary": "Most investors don’t realize what’s happened inside their go-to index fund.",
+      "link": "https://www.thestreet.com/investing/spmo-etf-sp-500-momentum-concentration-risk?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-09T22:07:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",
+      "summary": "U.S. benchmark 10-year yields hit the highest since 2023.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-oil-crosses-101-yields-pop/cZt71xeRJCT?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-09T22:01:49+00:00"
+    }
+  ]
+}
