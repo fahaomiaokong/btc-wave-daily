@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.5,
+      "previous_close": 110.83000183105469,
+      "change_pct": 0.6045277974159324,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.09,
+      "previous_close": 83.05000305175781,
+      "change_pct": 0.04816008040031683,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.87,
+      "previous_close": 57.060001373291016,
+      "change_pct": -0.3329852238313391,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.96,
+      "previous_close": 112.45999908447266,
+      "change_pct": -0.4446017148702741,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.66,
+      "previous_close": 166.5800018310547,
+      "change_pct": -0.5522882824720798,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.93,
+      "previous_close": 65.30999755859375,
+      "change_pct": -0.5818367367918298,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.55,
+      "previous_close": 171.7899932861328,
+      "change_pct": -0.7218076340846369,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.05,
+      "previous_close": 43.40999984741211,
+      "change_pct": -0.829301655557535,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.52,
+      "previous_close": 42.939998626708984,
+      "change_pct": -0.9781058224061945,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.76,
+      "previous_close": 51.38999938964844,
+      "change_pct": -1.2259182664542734,
+      "as_of": "2026-09-10"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.22,
+      "previous_close": 187.8699951171875,
+      "change_pct": -1.4105472859221146,
+      "as_of": "2026-09-10"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures edge higher as key consumer inflation report looms ahead: Live updates",
+      "summary": "The three major averages are heading for a losing week as higher oil prices and a surge in Treasury yields weigh on stocks.",
+      "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T05:07:40+00:00"
+    },
+    {
+      "title": "China's global hunt for tax revenue may be just getting started",
+      "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
+      "link": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T04:47:10+00:00"
+    },
+    {
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "summary": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
+      "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T04:29:39+00:00"
+    },
+    {
+      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+      "summary": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
+      "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T04:29:20+00:00"
+    },
+    {
+      "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+      "summary": "China and the Philippines have been locked in years of tension over their competing claims in the South China Sea, with friction intensifying in recent months.",
+      "link": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T03:44:43+00:00"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+      "summary": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
+      "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T03:39:17+00:00"
+    },
+    {
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+      "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T02:05:24+00:00"
+    },
+    {
+      "title": "California enacts new curbs on social media for children",
+      "summary": "California enacted laws restricting addictive social media features for under-16s and banning AI companion chatbots in toys.",
+      "link": "https://www.cnbc.com/2026/09/11/california-enacts-new-curbs-on-social-media-for-children.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T02:02:35+00:00"
+    },
+    {
+      "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
+      "summary": "Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.",
+      "link": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T01:55:53+00:00"
+    },
+    {
+      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+      "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
+      "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T01:53:08+00:00"
+    },
+    {
+      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+      "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+      "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T01:43:57+00:00"
+    },
+    {
+      "title": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
+      "summary": "Three decades after Alan Greenspan warned of “irrational exuberance,” Howard Marks says one half of that phrase is beyond dispute. “There’s no question about the fact that we have exuberance,” the Oaktree Capital co-chairman said. “The question is, is today’s...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-transform-world-legendary-investor-013027003.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T01:30:27+00:00"
+    },
+    {
+      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
+      "summary": "Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.",
+      "link": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T00:59:45+00:00"
+    },
+    {
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "summary": "The company saw its backlog grow even more in the latest quarter.",
+      "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T00:19:00+00:00"
+    },
+    {
+      "title": "Adobe’s latest earnings leave Wall Street wanting more",
+      "summary": "“In this environment you can’t just meet” expectations, an analyst says",
+      "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T00:17:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Oracle, Adobe, RH & more",
+      "summary": "Here are some of the companies making headlines in extended trading.",
+      "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-after-hours-orcl-adbe-rh.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T23:42:01+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The major averages slid for the fourth straight session on Thursday, dragged lower by a jump in Treasury yields and oil prices.",
+      "link": "https://www.cnbc.com/2026/09/10/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T23:37:19+00:00"
+    },
+    {
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "summary": "“Diesel touches everything in the economy,” one analyst says.",
+      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-10T22:54:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says this is the key force driving stocks right now",
+      "summary": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
+      "link": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-10T22:46:54+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate Hike — ORCL, ADBE, M, NVDA, UBER In Focus",
+      "summary": "But futures were mixed, with S&P 500 futures marginally up, while Dow and Nasdaq futures slightly eased.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-surging-oil-raises-odds-for-a-september-rate-hike/cZtapeARJ68?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-10T22:46:44+00:00"
+    }
+  ]
+}
