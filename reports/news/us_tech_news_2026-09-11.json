@@ -1,0 +1,96 @@
+[
+  {
+    "title": "ORCL Stock Jumps After Strong Q1 Report: Analyst Says Oracle Cloud Demand Is Growing Faster Than AWS, Azure",
+    "summary": "Oracle’s AI cloud backlog surges as investors look past near-term cash burn and dilution concerns.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-jumps-after-strong-q1-report-analyst-says-oracle-cloud-demand-is-growing-faster-than-aws-azure/cZtXRT5RJ6M?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-11T01:58:49+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "ORCL"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+    "summary": "Amazon.com, Inc. (NASDAQ:AMZN) and NVIDIA Corporation (NASDAQ:NVDA) announced an expanded deal on August 26 that will bring an additional 2 million Nvidia GPU processors to Amazon data centers, building on AWS’s earlier plan to add more than 1 million NVIDIA GPUs starting in 2026. The new processors, which include NVIDIA’s Blackwell Ultra, Rubin and Rubin […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-11T05:07:39+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+    "summary": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
+    "link": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+    "source": "Tech",
+    "published": "2026-09-10T10:49:29+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia CEO Reportedly Dismisses Anthropic Exec's AI Doomsday Warning As ‘Outlandish’ And ‘Deeply Untrue’",
+    "summary": "Jensen Huang rebuffed AI catastrophe warnings while highlighting massive infrastructure demand as key growth drivers.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-ceo-reportedly-dismisses-anthropic-exec-s-ai-doomsday-warning-as-outlandish-and-deeply-untrue/cZtXPxbRJ66?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-11T03:45:05+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+    "summary": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
+    "link": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+    "source": "Tech",
+    "published": "2026-09-10T15:25:58+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+    "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
+    "link": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+    "source": "Tech",
+    "published": "2026-09-10T21:42:47+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
+    "summary": "Meta Platforms, Inc. (NASDAQ: META) launched Muse this week. The long-touted AI assistant, powered by its Muse Spark model, is aimed at customers and small businesses. With the tech giant having spent billions of dollars making artificial intelligence better at recommending content and advertisements, the question now is whether Meta can leverage Muse to drive […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-muse-launch-turns-044504103.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-11T04:45:04+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  },
+  {
+    "title": "JPMorgan resets Meta stock price target for the rest of 2026",
+    "summary": "Wall Street’s view of Meta is shifting as the company pushes deeper into artificial intelligence and looks for its next major source of growth.",
+    "link": "https://www.thestreet.com/investing/stocks/jpmorgan-resets-meta-stock-price-target-for-the-rest-of-2026?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-11T03:07:00+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  }
+]
