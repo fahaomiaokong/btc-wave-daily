@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.67,
+      "previous_close": 185.22000122070312,
+      "change_pct": 1.3227506549778667,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 172.37,
+      "previous_close": 170.5500030517578,
+      "change_pct": 1.0671339288629955,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.6,
+      "previous_close": 111.5,
+      "change_pct": 0.9865470852017832,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.96,
+      "previous_close": 111.95999908447266,
+      "change_pct": 0.8931769593646166,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.42,
+      "previous_close": 43.04999923706055,
+      "change_pct": 0.8594675249632422,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.25,
+      "previous_close": 56.869998931884766,
+      "change_pct": 0.6681925008832357,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.95,
+      "previous_close": 50.7599983215332,
+      "change_pct": 0.37431379974297574,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.38,
+      "previous_close": 83.08999633789062,
+      "change_pct": 0.3490235586604884,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.14,
+      "previous_close": 64.93000030517578,
+      "change_pct": 0.32342475564024475,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.36,
+      "previous_close": 165.66000366210938,
+      "change_pct": -0.1810960132062167,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.39,
+      "previous_close": 42.52000045776367,
+      "change_pct": -0.30573954930410707,
+      "as_of": "2026-09-11"
+    }
+  ],
+  "news": [
+    {
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T23:54:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week — DELL, HPE, EL, WMT In Focus",
+      "summary": "The consumer price index rose 0.4% in August, month over month and 3.4% year over year.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-break-past-four-day-loss-to-end-higher-as-investors-eye-fed-meeting-next-week-dell-hpe-el-wmt-in-focus/cZtXyR4RBbK?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T23:10:55+00:00"
+    },
+    {
+      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+      "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
+      "link": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T22:42:14+00:00"
+    },
+    {
+      "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+      "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
+      "link": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T22:35:09+00:00"
+    },
+    {
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "summary": "There’s a safe haven hiding in plain sight.",
+      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T22:06:00+00:00"
+    },
+    {
+      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "summary": "A position that started as a small allocation now controls your retirement, and selling everything creates its own disaster. Three ETFs offer a way to stay in the trade without betting the nest egg on a single design team.",
+      "link": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T21:55:31+00:00"
+    },
+    {
+      "title": "How a 66-Year-Old’s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
+      "summary": "An $800,000 split between two Nasdaq-100 income ETFs generates a stunning monthly payout, but the tax bill tells a completely different story than the distribution notices suggest.",
+      "link": "https://247wallst.com/investing/etf/2026/09/11/how-a-66-year-olds-800000-in-jepq-and-qqqi-pays-8200-a-month-and-the-irs-only-sees-half-of-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T21:45:35+00:00"
+    },
+    {
+      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+      "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+      "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T21:35:14+00:00"
+    },
+    {
+      "title": "SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year",
+      "summary": "SCHD and JEPI sit side by side in countless income portfolios, yet they are built on fundamentally different bets about where returns come from. Confusing them for the same trade is costing investors real money.",
+      "link": "https://247wallst.com/investing/etf/2026/09/11/schd-and-jepi-both-pay-you-to-wait-yet-only-one-raises-its-payout-every-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T21:18:39+00:00"
+    },
+    {
+      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+      "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
+      "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T21:16:00+00:00"
+    },
+    {
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T21:00:00+00:00"
+    },
+    {
+      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
+      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
+      "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T20:49:00+00:00"
+    },
+    {
+      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+      "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
+      "link": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T20:48:19+00:00"
+    },
+    {
+      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+      "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T20:45:00+00:00"
+    },
+    {
+      "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+      "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T20:44:00+00:00"
+    },
+    {
+      "title": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
+      "summary": "Treasury yields remained near multiyear highs as investors weighed the impact of the latest consumer price report for August.",
+      "link": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T20:37:09+00:00"
+    },
+    {
+      "title": "Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates",
+      "summary": "Stocks rose Friday, with investors looking to recover from four straight days of declines, as oil prices retreated.",
+      "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-11T20:35:11+00:00"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T20:30:00+00:00"
+    },
+    {
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-11T20:30:00+00:00"
+    },
+    {
+      "title": "A Peak Back at Future Proof Citywide with Tom Lee",
+      "summary": "With Future Proof Huntington Beach right around the corner, we're looking back at some of the hot conversations earlier this year from Citywide. Here's a taste of the caliber of insights you can expect next week, this time with Tom Lee of Fundstrat covering the at-the-time seventh black swan thrown at the market since 2020.",
+      "link": "http://www.etf.com/sections/features/peak-back-future-proof-citywide-tom-lee?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T20:21:58+00:00"
+    }
+  ]
+}
