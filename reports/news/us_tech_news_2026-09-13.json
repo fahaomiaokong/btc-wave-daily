@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
+    "summary": "The cloud giant added more than 300,000 GPUs in one quarter, and its fleet still ran nearly full. Even 4-year-old chips got a price bump.",
+    "link": "https://www.fool.com/investing/2026/09/12/oracle-s-ai-chips-ran-97-9-utilized-last-quarter-for-nvidia-that-is-what-a-shortage-looks-like/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-13T03:38:01+00:00",
+    "tickers": [
+      "NVDA",
+      "ORCL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch",
+    "published": "2026-09-12T19:34:44+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Advanced Micro Devices, Inc. (AMD)’s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited",
+    "summary": "Advanced Micro Devices, Inc (NASDAQ:AMD) has set its sights on capitalizing on the growing demand for workstations capable of running large artificial intelligence models. On September 4, the company unveiled the Threadripper Halo Station, expanding its AI strategy beyond data centers and into high-end local AI computing. AI Workstation Opportunity Designed for AI development and inference, […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-inc-amd-235430291.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-12T23:54:30+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+    "summary": "NVIDIA Corporation (NASDAQ:NVDA) is expanding its global AI infrastructure ambitions, with Australia emerging as an important new market for its growing portfolio of GPUs, CPUs, networking products, and AI software. On September 9, it announced strategic partnerships with Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure providers as it works with local partners toward an […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-12T22:03:11+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn’t Paying Attention",
+    "summary": "Incredible demand for AI chips is accelerating Broadcom's growth, making the stock a no-brainer buy.",
+    "link": "https://www.fool.com/investing/2026/09/12/the-ai-infrastructure-stock-that-could-make-investors-millionaires-is-hiding-in-plain-sight-and-wall-street-isn-t-paying-attention/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-12T21:50:01+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Louis Navellier is buying 3 headline-making stocks, including Google",
+    "summary": "Fresh catalysts are putting stocks in the spotlight and creating new opportunities for investors.",
+    "link": "https://www.thestreet.com/investing/stocks/louis-navellier-is-buying-3-headline-making-stocks-including-google?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-13T02:33:00+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+    "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+    "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+    "source": "Tech",
+    "published": "2026-09-12T23:20:43+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+    "summary": "This company is already greatly benefiting from AI.",
+    "link": "https://www.fool.com/investing/2026/09/12/not-nvidia-not-micron-this-dirt-cheap-magnificent-seven-stock-could-be-the-biggest-winner-of-the-trillion-dollar-ai-race-here-s-the-case/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-12T22:35:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
