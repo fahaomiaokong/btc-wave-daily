@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 187.67,
+      "previous_close": 185.22000122070312,
+      "change_pct": 1.3227506549778667,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 172.37,
+      "previous_close": 170.5500030517578,
+      "change_pct": 1.0671339288629955,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.6,
+      "previous_close": 111.5,
+      "change_pct": 0.9865470852017832,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.96,
+      "previous_close": 111.95999908447266,
+      "change_pct": 0.8931769593646166,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.42,
+      "previous_close": 43.04999923706055,
+      "change_pct": 0.8594675249632422,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.25,
+      "previous_close": 56.869998931884766,
+      "change_pct": 0.6681925008832357,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.95,
+      "previous_close": 50.7599983215332,
+      "change_pct": 0.37431379974297574,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.38,
+      "previous_close": 83.08999633789062,
+      "change_pct": 0.3490235586604884,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.14,
+      "previous_close": 64.93000030517578,
+      "change_pct": 0.32342475564024475,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 165.36,
+      "previous_close": 165.66000366210938,
+      "change_pct": -0.1810960132062167,
+      "as_of": "2026-09-11"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.39,
+      "previous_close": 42.52000045776367,
+      "change_pct": -0.30573954930410707,
+      "as_of": "2026-09-11"
+    }
+  ],
+  "news": [
+    {
+      "title": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
+      "summary": "Shein's Hong Kong-listed shares fell as much as 10%, amid news that a contact lens product has been recalled urgently due to worries of contamination.",
+      "link": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T05:21:29+00:00"
+    },
+    {
+      "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
+      "summary": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\"",
+      "link": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T04:58:46+00:00"
+    },
+    {
+      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
+      "summary": "Mondelez is expanding its chocolate manufacturing operations in Malaysia, with the company also seeing further room for growth across Southeast Asia.",
+      "link": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T04:25:17+00:00"
+    },
+    {
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates",
+      "summary": "The three major averages are coming off a losing week.",
+      "link": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T04:22:15+00:00"
+    },
+    {
+      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+      "summary": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
+      "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T04:01:01+00:00"
+    },
+    {
+      "title": "Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand",
+      "summary": "Baker Hughes has yet to see higher borrowing costs slow investment in major energy projects.",
+      "link": "https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T03:27:58+00:00"
+    },
+    {
+      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
+      "link": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T03:03:58+00:00"
+    },
+    {
+      "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
+      "summary": "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\"",
+      "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T03:01:13+00:00"
+    },
+    {
+      "title": "Uber stock took a hit it didn't earn over Tesla Cybercab",
+      "summary": "Wall Street sold Uber over a fleet that fits in one parking lot",
+      "link": "https://www.thestreet.com/investing/stocks/uber-stock-drop-tesla-cybercab-austin-launch?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-14T02:17:00+00:00"
+    },
+    {
+      "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
+      "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
+      "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T01:39:13+00:00"
+    },
+    {
+      "title": "Prediction markets are becoming more professionalized, but also harder to beat",
+      "summary": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
+      "link": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T01:37:44+00:00"
+    },
+    {
+      "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
+      "summary": "“Over the years, my mother and I have supplemented his income.”",
+      "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-14T01:30:00+00:00"
+    },
+    {
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-14T01:00:00+00:00"
+    },
+    {
+      "title": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
+      "summary": "While I have grown tired of his endless proclamations, Dario Amodei does raise points that will impact many stocks if the spending curb proceeds.",
+      "link": "https://www.cnbc.com/2026/09/13/cramer-questions-anthropic-ceos-slowdown-manifesto-puts-forth-an-action-plan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-13T23:47:14+00:00"
+    },
+    {
+      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-13T22:21:33+00:00"
+    },
+    {
+      "title": "State Street XLV vs. iShares IXJ: Here's How These Healthcare ETFs Stack Up for Investors",
+      "summary": "XLV's 0.08% expense ratio and 22.7% 1-year return outpace IXJ's global reach, but international diversification comes at a cost.",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/13/state-street-xlv-vs-ishares-ixj-here-s-how-these-healthcare-etfs-stack-up-for-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-13T21:44:42+00:00"
+    },
+    {
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "summary": "No amount of wealth can erase retirement worries.",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-13T21:10:00+00:00"
+    },
+    {
+      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+      "summary": "A self-described “spender” is concerned about taxes.",
+      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-13T20:59:00+00:00"
+    },
+    {
+      "title": "Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.",
+      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-13T20:40:00+00:00"
+    },
+    {
+      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+      "summary": "Estate-planning crises usually come down to small oversights.",
+      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-13T20:30:00+00:00"
+    }
+  ]
+}
