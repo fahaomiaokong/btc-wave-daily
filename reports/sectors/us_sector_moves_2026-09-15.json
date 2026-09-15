@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 115.07,
+      "previous_close": 112.5999984741211,
+      "change_pct": 2.1936070686951137,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.75,
+      "previous_close": 165.36000061035156,
+      "change_pct": 1.445331023722085,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.42,
+      "previous_close": 83.37999725341797,
+      "change_pct": 1.2473048462944059,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.85,
+      "previous_close": 112.95999908447266,
+      "change_pct": -0.09737879370059765,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.03,
+      "previous_close": 57.25,
+      "change_pct": -0.38427947598252965,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.12,
+      "previous_close": 43.41999816894531,
+      "change_pct": -0.6909216526864825,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.49,
+      "previous_close": 50.95000076293945,
+      "change_pct": -0.9028474112880658,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.53,
+      "previous_close": 65.13999938964844,
+      "change_pct": -0.93644365269272,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.82,
+      "previous_close": 42.38999938964844,
+      "change_pct": -1.3446553381824988,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.93,
+      "previous_close": 172.3699951171875,
+      "change_pct": -1.4155567594746676,
+      "as_of": "2026-09-14"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 184.28,
+      "previous_close": 187.6699981689453,
+      "change_pct": -1.8063612735230827,
+      "as_of": "2026-09-14"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates",
+      "summary": "The major averages closed lower on Monday as higher bond yields and oil prices kept the market under pressure.",
+      "link": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T05:30:26+00:00"
+    },
+    {
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "summary": "The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision.",
+      "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T05:24:56+00:00"
+    },
+    {
+      "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+      "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
+      "link": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T05:22:57+00:00"
+    },
+    {
+      "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+      "summary": "China's new border-control regulations are designed to keep two of its most valuable assets from leaving the country: money and talent.",
+      "link": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T04:50:41+00:00"
+    },
+    {
+      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
+      "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
+      "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T04:41:36+00:00"
+    },
+    {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+      "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T04:06:17+00:00"
+    },
+    {
+      "title": "Standard Chartered CEO Bill Winters on the ‘reckless path’ that shaped his banking career",
+      "summary": "Standard Chartered CEO Bill Winters reflects on the decisions that shaped his career, from taking an unfamiliar path at J.P. Morgan and being fired by Jamie Dimon to leading the turnaround of Standard Chartered. He explains why, when rare opportunities arise, he believes in taking the “reckless path.”",
+      "link": "https://www.cnbc.com/video/2026/09/15/standard-chartered-ceo-bill-winters-executive-decisions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T04:00:01+00:00"
+    },
+    {
+      "title": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+      "summary": "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
+      "link": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T03:45:15+00:00"
+    },
+    {
+      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+      "summary": "Sen. Elizabeth Warren will call the latest Clarity Act ethics proposal blessed by Trump a \"weak fig leaf.\"",
+      "link": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T01:32:26+00:00"
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+      "summary": "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
+      "link": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T00:48:36+00:00"
+    },
+    {
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "summary": "“He is also the sole beneficiary of my 403(b) accounts.”",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-15T00:15:00+00:00"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-15T00:01:00+00:00"
+    },
+    {
+      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+      "summary": "Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.",
+      "link": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T23:30:02+00:00"
+    },
+    {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-14T23:19:00+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The major averages fell Monday, weighed down as oil prices rose and the 10-year Treasury yield briefly surpassed 5%.",
+      "link": "https://www.cnbc.com/2026/09/14/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T23:17:09+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+      "summary": "As the U.S.-China tech rivalry simmers, Beijing is increasing restrictions on how its companies can deploy their tech talent overseas.",
+      "link": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T23:00:01+00:00"
+    },
+    {
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+      "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
+      "link": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T22:43:25+00:00"
+    },
+    {
+      "title": "One Dollar of Extra Income Costs a Retired Couple $2,300 a Year in Medicare Premiums. These Funds Pay Without Crossing the Line",
+      "summary": "A single dollar of extra retirement income can quietly trigger a massive Medicare premium hike, and the fund most retirees rely on for monthly income happens to be one of the worst offenders when accounts sit in the wrong place.",
+      "link": "https://247wallst.com/investing/etf/2026/09/14/one-dollar-of-extra-income-costs-a-retired-couple-2300-a-year-in-medicare-premiums-these-funds-pay-without-crossing-the-line/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-14T22:35:06+00:00"
+    },
+    {
+      "title": "Mitch McConnell returns to Senate after three-month health absence",
+      "summary": "The 84-year-old Kentucky Republican is back in Washington after a fall, hospitalization, pneumonia and weeks of rehabilitation kept him away from the Senate.",
+      "link": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T22:23:38+00:00"
+    },
+    {
+      "title": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
+      "summary": "President Donald Trump's political wartiest has spent much of the 2026 midterm election campaign cycle on the sidelines despite pleas from Republicans.",
+      "link": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-14T22:15:58+00:00"
+    }
+  ]
+}
