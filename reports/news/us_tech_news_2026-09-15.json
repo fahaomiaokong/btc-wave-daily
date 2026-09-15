@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "source": "The Verge",
+    "published": "2026-09-14T23:46:01+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+    "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-15T04:11:25+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "What Is CrowdStrike (CRWD) Signaling With Its North America AI Security Expansion?",
+    "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) expanded Project QuiltWorks with new U.S. and Canada localized AI cybersecurity services in September 2026. The company integrated its AI-driven security stack with data platform partner VAST Data to connect customer environments more directly to threat detection. CrowdStrike added Anthropic Claude Marketplace access, aligning its Falcon ecosystem with third party frontier AI tools used by enterprise clients. New partnerships include specialized North...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-signaling-north-america-032222347.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-15T03:22:22+00:00",
+    "tickers": [
+      "AMZN",
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD",
+    "summary": "President Donald Trump has rejected calls to slow frontier AI development on September 13, arguing that the US must preserve its lead over China. That is decisive directly for NVIDIA Corporation (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD), because both sell computing systems whose demand could change if frontier labs deliberately stretch out model-development cycles. […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/donald-trump-rejects-calls-ai-040909311.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-15T04:09:09+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
+    "summary": "AI leaders diverge on safety and speed as investors weigh the impact on the sector.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ai-slowdown-debate-splits-tech-ce-os-nvidia-broadcom-dismiss-any-threat-while-elon-musk-calls-for-peer-review-system/cZtVwqtRBTL?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-15T03:16:31+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+    "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
+    "link": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+    "source": "Tech",
+    "published": "2026-09-14T22:43:25+00:00",
+    "tickers": [
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’",
+    "summary": "CrowdStrike CEO George Kurtz said slowing AI development won’t eliminate the risks because potentially dangerous models are already widely available.",
+    "link": "https://www.cnbc.com/2026/09/14/crowdstrike-ceo-anthropics-ai-safety-warning.html",
+    "source": "Tech",
+    "published": "2026-09-14T22:41:44+00:00",
+    "tickers": [
+      "AMZN",
+      "CRWD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+    "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
+    "link": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+    "source": "Tech",
+    "published": "2026-09-14T21:32:03+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
