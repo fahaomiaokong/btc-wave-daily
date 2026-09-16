@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.93,
+      "previous_close": 64.52999877929688,
+      "change_pct": 2.169535483010576,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.73,
+      "previous_close": 50.4900016784668,
+      "change_pct": 0.4753383116553822,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.66,
+      "previous_close": 167.75,
+      "change_pct": -0.05365126676601939,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.07,
+      "previous_close": 43.119998931884766,
+      "change_pct": -0.11595299889443078,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.74,
+      "previous_close": 184.27999877929688,
+      "change_pct": -0.29303168161163295,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.85,
+      "previous_close": 57.029998779296875,
+      "change_pct": -0.31562122242622115,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.85,
+      "previous_close": 169.92999267578125,
+      "change_pct": -0.6355515343555829,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.73,
+      "previous_close": 84.41999816894531,
+      "change_pct": -0.8173397108638292,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 114.03,
+      "previous_close": 115.06999969482422,
+      "change_pct": -0.9037974255517445,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.32,
+      "previous_close": 41.81999969482422,
+      "change_pct": -1.1955994702843142,
+      "as_of": "2026-09-15"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.88,
+      "previous_close": 112.8499984741211,
+      "change_pct": -1.7456787778095229,
+      "as_of": "2026-09-15"
+    }
+  ],
+  "news": [
+    {
+      "title": "Treasury yields hitting 5% may not break markets now — but the clock is ticking",
+      "summary": "The 10-year Treasury yield has hit its highest since 2007, pushing borrowing costs deeper into territory that could expose some of the financial system's weakest links.",
+      "link": "https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T05:04:51+00:00"
+    },
+    {
+      "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
+      "summary": "Oil fell Wednesday, as an unexpected increase in U.S. crude inventories outweighed worries over supply disruptions after an Iran-backed attack on Saudi Arabia's East-West pipeline.",
+      "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:56:02+00:00"
+    },
+    {
+      "title": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
+      "summary": "Companies are helping universities develop courses, provide financial support and create pathways through which qualifying students can join them.",
+      "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:47:29+00:00"
+    },
+    {
+      "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates",
+      "summary": "Traders brace for the possibility of a new rate hiking cycle from the Federal Reserve.",
+      "link": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:45:36+00:00"
+    },
+    {
+      "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
+      "summary": "Grab is betting $1.49 billion on Atome Financial as it looks to expand its consumer lending business in Southeast Asia.",
+      "link": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:31:46+00:00"
+    },
+    {
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+      "summary": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
+      "link": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:21:39+00:00"
+    },
+    {
+      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+      "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+      "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T04:01:59+00:00"
+    },
+    {
+      "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+      "summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.",
+      "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T01:56:24+00:00"
+    },
+    {
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "summary": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+      "link": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T01:53:52+00:00"
+    },
+    {
+      "title": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next",
+      "summary": "Large-cap healthcare outperformed this week: XLV gained 1.4% through Tuesday, while XBI fell 1.4% and IBB declined 0.5%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/biotech-midweek-pulse-xbi-loses-steam-hot-2026-stocks-catalysts-watch/cZtYGZfRB2R?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-16T01:51:08+00:00"
+    },
+    {
+      "title": "House to vote on bill to rein in AI data center utility costs",
+      "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+      "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T00:14:21+00:00"
+    },
+    {
+      "title": "Navigating the Market: Inflation, Yields, & the Fed",
+      "summary": "Over the past few weeks, the market has been extremely choppy, frustrating, and has lacked liquidity. The good news is that Wednesday's FOMC meeting should bring volatility back in a big way and finally give the market some direction.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/navigating-market-inflation-yields-fed-233300605.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-15T23:33:00+00:00"
+    },
+    {
+      "title": "Why de-dollarization discussions are more talk, less action",
+      "summary": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
+      "link": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T23:28:01+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Stocks posted back-to-back losses as the 10-year yield touched the highest level since 2007. Tune in to CNBC for Jeffrey Gundlach of DoubleLine Capital.",
+      "link": "https://www.cnbc.com/2026/09/15/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T23:10:27+00:00"
+    },
+    {
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+      "summary": "CBO estimates the Iran war cost the Pentagon $38.1 billion through Aug. 1 and could cost another $2 billion to $3 billion each additional month.",
+      "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T22:33:45+00:00"
+    },
+    {
+      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+      "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+      "link": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T22:06:16+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus",
+      "summary": "Traders expect a 92% chance the Fed will hike interest rates on Wednesday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-investors-price-in-rate-hike-ahead-of-fed-meeting-amzn-meta-mu-tsla-pltr-in-focus/cZtn8vQRBcx?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-15T22:04:55+00:00"
+    },
+    {
+      "title": "JEPQ’s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can’t Budget on It",
+      "summary": "JEPQ promises retirees a fat monthly paycheck, but the same $500,000 investment can produce wildly different checks from one season to the next, and the tax treatment buried in the fine print makes the real yield far less glamorous than the headline suggests.",
+      "link": "https://247wallst.com/investing/etf/2026/09/15/jepqs-monthly-check-has-swung-from-0-34-to-0-70-a-share-the-500000-retiree-cant-budget-on-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-15T21:55:12+00:00"
+    },
+    {
+      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+      "summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name.",
+      "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-15T21:46:22+00:00"
+    },
+    {
+      "title": "Wells Fargo's new S&P 500 call signals trouble ahead",
+      "summary": "Wells Fargo’s new target flows straight through to SPY and VOO, the funds millions of investors already own.",
+      "link": "https://www.thestreet.com/investing/wells-fargo-sp500-pullback-warning-spy-voo-etfs?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-15T21:33:00+00:00"
+    }
+  ]
+}
