@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+    "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+    "source": "Tech",
+    "published": "2026-09-16T01:56:47+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+    "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+    "link": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+    "source": "Tech",
+    "published": "2026-09-15T19:13:30+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "source": "TechCrunch",
+    "published": "2026-09-15T15:47:03+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
+    "summary": "Nvidia CEO Jensen Huang pushed back on calls to give AI companies antitrust exemptions to coordinate slowing the development of advanced models.",
+    "link": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
+    "source": "Tech",
+    "published": "2026-09-15T22:13:52+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "published": "2026-09-15T19:00:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+    "summary": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
+    "link": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+    "source": "Tech",
+    "published": "2026-09-15T17:38:35+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+    "summary": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+    "link": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+    "source": "Tech",
+    "published": "2026-09-15T17:01:13+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "CRWD, PANW Stocks Extend AI-Fueled Rally As Cybersecurity Bets Outpace Software",
+    "summary": "AI safety debate splits software trade as cybersecurity demand stays in focus.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/crwd-panw-stocks-extend-ai-fueled-rally-as-cybersecurity-bets-outpace-software/cZtYR7SRB2c?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-16T02:14:43+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 8
+  }
+]
