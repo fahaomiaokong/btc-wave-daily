@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+    "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+    "source": "Tech",
+    "published": "2026-09-16T01:56:47+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
+    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "source": "The Verge",
+    "published": "2026-09-16T20:10:47+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch",
+    "published": "2026-09-16T21:07:24+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
+    "summary": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
+    "link": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+    "source": "Tech",
+    "published": "2026-09-16T19:31:06+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]",
+    "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "source": "The Verge",
+    "published": "2026-09-16T17:41:18+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+    "summary": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+    "link": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+    "source": "Tech",
+    "published": "2026-09-16T10:07:42+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On ‘Ontological Burritos'",
+    "summary": "Chipotle is adding AI-driven analytics to food safety as outbreaks, supply chain risks pressure industry.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cmg-stock-ticks-up-on-ai-food-safety-bet-with-palantir-retail-bullish-on-ontological-burritos/cZtr9FuRB5E?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-17T03:40:47+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+    "summary": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
+    "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
+    "source": "Tech",
+    "published": "2026-09-16T23:40:05+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 8
+  }
+]
