@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.93,
+      "previous_close": 183.74000549316406,
+      "change_pct": 0.10340399540427203,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.77,
+      "previous_close": 167.66000366210938,
+      "change_pct": 0.06560678485509897,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.32,
+      "previous_close": 41.31999969482422,
+      "change_pct": 7.385667633030835e-07,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.71,
+      "previous_close": 168.85000610351562,
+      "change_pct": -0.08291744060097139,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.33,
+      "previous_close": 83.7300033569336,
+      "change_pct": -0.4777300142081886,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.81,
+      "previous_close": 43.06999969482422,
+      "change_pct": -0.6036677424343218,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.18,
+      "previous_close": 110.87999725341797,
+      "change_pct": -0.6313106698750293,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.36,
+      "previous_close": 50.72999954223633,
+      "change_pct": -0.7293505727873684,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.0,
+      "previous_close": 114.02999877929688,
+      "change_pct": -0.903270008176027,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.93,
+      "previous_close": 56.849998474121094,
+      "change_pct": -1.618291114888759,
+      "as_of": "2026-09-16"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.03,
+      "previous_close": 65.93000030517578,
+      "change_pct": -2.8818448299424926,
+      "as_of": "2026-09-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
+      "summary": "The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices.",
+      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T05:20:23+00:00"
+    },
+    {
+      "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
+      "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
+      "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T05:10:05+00:00"
+    },
+    {
+      "title": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
+      "summary": "In a widely anticipated move, the Fed raised the overnight funds rate by a quarter percentage point and signaled another hike could come this year.",
+      "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T05:04:29+00:00"
+    },
+    {
+      "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
+      "summary": "Higher U.S. rates could also keep global bond yields elevated and weigh on equity valuations and economic growth.",
+      "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T05:03:07+00:00"
+    },
+    {
+      "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
+      "summary": "Russia’s upcoming election is expected to cement United Russia’s dominance, but voter turnout and its margin of victory could offer clues to public discontent.",
+      "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T05:00:01+00:00"
+    },
+    {
+      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
+      "summary": "Two of Walter's insurance companies faces federal criminal and civil investigations into the accounting of roughly $21 billion in financial transactions.",
+      "link": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T03:35:26+00:00"
+    },
+    {
+      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
+      "summary": "Washington's efforts for resuming ceasefire talks appear to have stalled, as Gulf states absorb escalating attacks from Iran and Iran-aligned Houthi militants.",
+      "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T03:21:50+00:00"
+    },
+    {
+      "title": "Japan’s corporate leaders sound alarm over weak yen — even dollar-earners are voicing concerns",
+      "summary": "While the Japanese yen has strengthened rapidly over the past two weeks, it remains weak in historical terms.",
+      "link": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T03:19:34+00:00"
+    },
+    {
+      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
+      "summary": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom’s exports.",
+      "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T02:08:02+00:00"
+    },
+    {
+      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+      "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+      "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T00:55:35+00:00"
+    },
+    {
+      "title": "House advances bill to rein in AI data center utility costs",
+      "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+      "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T00:08:01+00:00"
+    },
+    {
+      "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+      "summary": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
+      "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T23:45:02+00:00"
+    },
+    {
+      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+      "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T23:05:48+00:00"
+    },
+    {
+      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+      "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+      "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T22:32:18+00:00"
+    },
+    {
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+      "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T21:40:18+00:00"
+    },
+    {
+      "title": "Buffer ETFs Promise 100 Percent Downside Protection. Here Is How That Actually Works and What You Give Up",
+      "summary": "Buffer ETFs promise to absorb your losses so you can stay in the market without the stomach-churning drops, but the full protection guarantee comes with a catch that most investors discover only after they buy in.",
+      "link": "https://247wallst.com/investing/etf/2026/09/16/buffer-etfs-promise-100-percent-downside-protection-here-is-how-that-actually-works-and-what-you-give-up/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-16T21:25:40+00:00"
+    },
+    {
+      "title": "QQQI Holders Gave Up $19,700 on a $300,000 Position in One Year for the 14% Monthly Check",
+      "summary": "That fat monthly check from your Nasdaq covered-call ETF may look like income, but a closer look at the tax forms and total return math tells a very different story about where the money is actually coming from.",
+      "link": "https://247wallst.com/investing/etf/2026/09/16/qqqi-holders-gave-up-19700-on-a-300000-position-in-one-year-for-the-14-monthly-check/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-16T21:05:29+00:00"
+    },
+    {
+      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+      "summary": "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+      "link": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T20:54:15+00:00"
+    },
+    {
+      "title": "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
+      "summary": "President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.",
+      "link": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T20:32:54+00:00"
+    },
+    {
+      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+      "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+      "link": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-16T20:22:24+00:00"
+    }
+  ]
+}
