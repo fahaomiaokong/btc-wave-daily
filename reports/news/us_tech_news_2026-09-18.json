@@ -1,0 +1,96 @@
+[
+  {
+    "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+    "summary": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
+    "link": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+    "source": "Tech",
+    "published": "2026-09-17T10:23:31+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+    "summary": "Investors move past worries that AI firms’ calls for a slowdown in development risk the AI infrastructure trade.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-nvda-chip-stocks-rally-as-investors-look-past-ai-concerns/cZtuLZsRBdw?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T02:17:04+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+    "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
+    "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+    "source": "Tech",
+    "published": "2026-09-17T09:00:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Marvell Technology (MRVL) Deepens Its AI Infrastructure Footprint",
+    "summary": "Marvell Technology (NasdaqGS:MRVL) announced new collaborations with GlobalFoundries, Microsoft and Utimaco focused on advanced connectivity and payment security. The GlobalFoundries partnership targets expanded production of advanced SiGe chips used in next generation optical links for AI data centers. Marvell is working with Microsoft and Utimaco to provide a cloud native payment security platform delivered through Microsoft Azure. These GlobalFoundries and Azure payment security deals...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-deepens-ai-031612345.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T03:16:12+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The Anthropic IPO Is Coming Soon. These 3 Industrial Stocks Will Profit Whether You Can Get Shares or Not.",
+    "summary": "Three industrial stocks stand to gain from AI's power build-out, with no IPO allocation required to benefit from the trend.",
+    "link": "https://www.fool.com/investing/2026/09/17/the-anthropic-ipo-is-coming-soon-these-3-industria/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T01:50:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "House heads home to campaign amid calls for urgent AI action",
+    "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+    "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+    "source": "Tech",
+    "published": "2026-09-17T22:48:08+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a […]",
+    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "source": "The Verge",
+    "published": "2026-09-17T13:36:43+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Why Did CRWD, OKTA, IOVA Shares Climb To 52-Week Highs Today?",
+    "summary": "CrowdStrike, Okta, and Iovance Biotherapeutics stocks surged to annual highs amid industry tailwinds and positive Wall Street outlooks.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-crwd-okta-iova-shares-climb-to-52-week-highs-today/cZtuKCpRB32?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T03:47:20+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 8
+  }
+]
