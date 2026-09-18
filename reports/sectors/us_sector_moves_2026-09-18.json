@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 188.06,
+      "previous_close": 183.92999267578125,
+      "change_pct": 2.2454235245356946,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.39,
+      "previous_close": 110.18000030517578,
+      "change_pct": 1.0982026606215056,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.69,
+      "previous_close": 41.31999969482422,
+      "change_pct": 0.8954508903883829,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.48,
+      "previous_close": 64.02999877929688,
+      "change_pct": 0.7027974844326046,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.71,
+      "previous_close": 50.36000061035156,
+      "change_pct": 0.6949948081940605,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.81,
+      "previous_close": 167.77000427246094,
+      "change_pct": 0.619893724178544,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.94,
+      "previous_close": 42.810001373291016,
+      "change_pct": 0.30366414982196943,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.49,
+      "previous_close": 83.33000183105469,
+      "change_pct": 0.19200547873465812,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.01,
+      "previous_close": 168.7100067138672,
+      "change_pct": 0.1778159410790625,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.88,
+      "previous_close": 55.93000030517578,
+      "change_pct": -0.08939800626310834,
+      "as_of": "2026-09-17"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.35,
+      "previous_close": 113.0,
+      "change_pct": -0.5752212389380618,
+      "as_of": "2026-09-17"
+    }
+  ],
+  "news": [
+    {
+      "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
+      "summary": "Mercari shares are clawing back losses after Pokémon card listing restrictions triggered a selloff earlier this week.",
+      "link": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T04:09:56+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+      "summary": "The major averages rose in Thursday's regular trading session following Wednesday's first Federal Reserve interest rate hike in three years.",
+      "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T04:03:09+00:00"
+    },
+    {
+      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+      "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
+      "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T03:31:45+00:00"
+    },
+    {
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
+      "link": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T03:09:22+00:00"
+    },
+    {
+      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+      "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
+      "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T01:35:38+00:00"
+    },
+    {
+      "title": "A $100 Monthly Investment in QQQ Could Grow Into This Over 20 Years",
+      "summary": "Past returns aren't guaranteed to repeat, but investors could still see huge upside.",
+      "link": "https://www.fool.com/investing/2026/09/17/100-monthly-investment-qqq-grow-20-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T01:35:00+00:00"
+    },
+    {
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread.",
+      "link": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T01:04:06+00:00"
+    },
+    {
+      "title": "Prediction: The Invesco QQQ Trust Beats the S&P 500 Again Over the Next 5 Years",
+      "summary": "Both funds are built on the same market leaders. The difference is how much -- and what gets left out.",
+      "link": "https://www.fool.com/investing/2026/09/17/prediction-the-invesco-qqq-trust-beats-the-s-and-p-500-again-over-the-next-5-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T00:43:01+00:00"
+    },
+    {
+      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+      "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
+      "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T23:56:17+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Stocks posted a comeback on Thursday, one day after the Federal Reserve increased rates by a quarter percentage point and suggested an additional hike is ahead.",
+      "link": "https://www.cnbc.com/2026/09/17/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T23:10:06+00:00"
+    },
+    {
+      "title": "House heads home to campaign amid calls for urgent AI action",
+      "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+      "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T22:48:08+00:00"
+    },
+    {
+      "title": "ETF Oasis at Future Proof: Tuesday Highlights",
+      "summary": "Our first full day of content and activities at the ETF Oasis at Future Proof was a jam-packed one. Check out some of the moments we managed to capture in the mix of things!",
+      "link": "http://www.etf.com/sections/conferences/etf-oasis-future-proof-tuesday-highlights?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T22:38:19+00:00"
+    },
+    {
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+      "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
+      "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-17T22:22:53+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Higher As Drop In Oil Prices Allays Inflationary Concerns — NVDA, MCD, CRWV, LMT, AMZN In Focus",
+      "summary": "The S&P 500 and Nasdaq recorded their best day in six weeks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T22:22:14+00:00"
+    },
+    {
+      "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+      "summary": "Splitting a half-million dollars between two popular ETFs feels like textbook diversification, but a quiet look under the hood reveals something most investors never bother to check before their next contribution.",
+      "link": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T22:15:09+00:00"
+    },
+    {
+      "title": "QQQI’s $0.65 Monthly Check Hides $10.97 Per Share in Forgone Gains",
+      "summary": "QQQI investors collect a monthly distribution check and feel like they are winning, but two and a half years of data reveal a quiet cost hiding beneath every payment that never shows up on a brokerage statement.",
+      "link": "https://247wallst.com/investing/etf/2026/09/17/qqqis-0-65-monthly-check-hides-10-97-per-share-in-forgone-gains/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T22:05:09+00:00"
+    },
+    {
+      "title": "5 Monthly Dividend ETFs Paying 8 to 14 Percent for the Fourth Quarter of 2026",
+      "summary": "Five options-income ETFs are quietly paying two to three times the 10-year Treasury rate every single month, but the machinery underneath each fund is radically different, and picking the wrong one for your situation costs you more than you might expect.",
+      "link": "https://247wallst.com/investing/etf/2026/09/17/5-monthly-dividend-etfs-paying-8-to-14-percent-for-the-fourth-quarter-of-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T21:25:39+00:00"
+    },
+    {
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "summary": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-17T21:22:00+00:00"
+    },
+    {
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-17T21:22:00+00:00"
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-17T21:09:00+00:00"
+    }
+  ]
+}
