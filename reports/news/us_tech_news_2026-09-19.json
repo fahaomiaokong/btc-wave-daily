@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Jim Cramer Said This AI Firm Has More Orders Than “Almost Anybody” Other Than NVIDIA",
+    "summary": "For custom chip designer Broadcom Inc. (NASDAQ:AVGO), the debate is all about whether the demand for AI products will sustain and grow. It is among the few firms capable of designing custom AI chips that big technology firms rely on to supplement NVIDIA’s high-power and expensive AI chips. Anthropic CEO Dario Amodei’s latest remarks about […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-said-ai-firm-232154601.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T23:21:54+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 15
+  },
+  {
+    "title": "CrowdStrike, HubSpot, Intuit, Cloudflare, and Okta Shares Plummet, What You Need To Know",
+    "summary": "A number of stocks fell in the afternoon session after markets remained volatile during the last trading session of the week, reflecting growing uncertainty, with the broad market retreat erasing the sector's gains from the previous day.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-hubspot-intuit-cloudflare-okta-000040098.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-19T00:00:40+00:00",
+    "tickers": [
+      "CRWD",
+      "NET"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    "summary": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+    "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+    "source": "Tech",
+    "published": "2026-09-18T19:15:24+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
+    "summary": "Cybersecurity provider CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s shares are up by more than 100% year to date. With AI continuing to dominate the market narrative, the firm has found itself at the center of the industry’s concerns about cybersecurity. While some, such as Anthropic’s Dario Amodei, have claimed that their AI software is sufficient for cybersecurity […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shared-crowdstrike-holdings-232242655.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-18T23:22:42+00:00",
+    "tickers": [
+      "AMZN",
+      "CRWD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "source": "The Verge",
+    "published": "2026-09-18T16:30:32+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+    "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+    "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+    "source": "Tech",
+    "published": "2026-09-18T21:37:38+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "source": "TechCrunch",
+    "published": "2026-09-18T17:09:56+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+    "summary": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
+    "link": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+    "source": "Tech",
+    "published": "2026-09-18T17:02:32+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
