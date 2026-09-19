@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 189.6,
+      "previous_close": 188.05999755859375,
+      "change_pct": 0.8188888979042019,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.75,
+      "previous_close": 169.00999450683594,
+      "change_pct": 0.4378471789928007,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.86,
+      "previous_close": 55.880001068115234,
+      "change_pct": -0.035792891433295004,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.39,
+      "previous_close": 168.80999755859375,
+      "change_pct": -0.24879898386822585,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.31,
+      "previous_close": 64.4800033569336,
+      "change_pct": -0.2636528351162237,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.03,
+      "previous_close": 111.38999938964844,
+      "change_pct": -0.3231882499515448,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.8,
+      "previous_close": 83.48999786376953,
+      "change_pct": -0.8264437434714056,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.53,
+      "previous_close": 42.939998626708984,
+      "change_pct": -0.9548175123926583,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.81,
+      "previous_close": 112.3499984741211,
+      "change_pct": -1.3707151713720944,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.1,
+      "previous_close": 41.689998626708984,
+      "change_pct": -1.41520423637288,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.99,
+      "previous_close": 50.709999084472656,
+      "change_pct": -1.4198365164102666,
+      "as_of": "2026-09-18"
+    }
+  ],
+  "news": [
+    {
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+      "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T01:41:49+00:00"
+    },
+    {
+      "title": "SPMO Owns the S&P 500’s 100 Fastest-Rising Stocks. Its Momentum Screen Has Beaten the Index by 67-Points Over the Last Five Years",
+      "summary": "A simple momentum screen applied to S&P 500 stocks has quietly built a performance gap that turns identical starting portfolios into dramatically different ending balances, and the strategy costs almost nothing to implement.",
+      "link": "https://247wallst.com/investing/2026/09/18/spmo-owns-the-sp-500s-100-fastest-rising-stocks-its-momentum-screen-has-beaten-the-index-by-67-points-over-the-last-five-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T23:52:05+00:00"
+    },
+    {
+      "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+      "summary": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
+      "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T23:43:21+00:00"
+    },
+    {
+      "title": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",
+      "summary": "An interest rate hike amid soaring energy costs and rising inflation concerns has weighed on the Dow.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-drops-to-record-worst-week-in-six-months-amid-elevated-yields-oil-nvda-tsla-spcx-onon-in-focus/cZtHOYsRBEK?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T23:35:58+00:00"
+    },
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T23:30:00+00:00"
+    },
+    {
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+      "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T23:28:06+00:00"
+    },
+    {
+      "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+      "summary": "The S&P 500 and the Dow Industrials posted weekly losses as investors grappled with rising yields. Next week's U.S.-China summit could be a wildcard for stocks.",
+      "link": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T23:14:10+00:00"
+    },
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T23:00:00+00:00"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T22:45:00+00:00"
+    },
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T22:41:00+00:00"
+    },
+    {
+      "title": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September",
+      "summary": "CNBC’s Jim Cramer said investors could be in for a relatively quiet week as Wall Street works its way through a historically difficult September.",
+      "link": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T22:17:16+00:00"
+    },
+    {
+      "title": "QQQI’s 14% Monthly Yield Masked $940 in Forgone Gains Per $10,000 Since Inception",
+      "summary": "QQQI's monthly distributions look generous on paper, but the IRS filings and total return math tell a story most holders never see before they reinvest their next payment.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/qqqis-14-monthly-yield-masked-940-in-forgone-gains-per-10000-since-inception/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T21:55:33+00:00"
+    },
+    {
+      "title": "$1 Million in VOO Pays $871 a Month, and Covering the Gap Means Selling Shares the IRS Taxes",
+      "summary": "A seven-figure VOO balance sounds like a retirement paycheck until you do the actual math on what it deposits each month, then realize covering the rest means a tax bill your fund prospectus quietly ignores.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/1-million-in-voo-pays-871-a-month-and-covering-the-gap-means-selling-shares-the-irs-taxes/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T21:45:11+00:00"
+    },
+    {
+      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+      "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+      "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T21:37:38+00:00"
+    },
+    {
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+      "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T21:35:55+00:00"
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T21:16:00+00:00"
+    },
+    {
+      "title": "After Comparing Every Covered Call ETF With Over $1 Billion in Assets, These 3 Pay Up to 8 Percent and Still Grew Your Principal",
+      "summary": "Most covered call ETFs hand you a fat monthly check while quietly draining your principal, but a small group of actively managed funds has cracked the formula to deliver both. The catch is that each one works for a completely different kind of investor.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/after-comparing-every-covered-call-etf-with-over-1-billion-in-assets-these-3-pay-up-to-8-percent-and-still-grew-your-principal/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T21:15:15+00:00"
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T21:14:00+00:00"
+    },
+    {
+      "title": "AI cloud provider Nscale files to go public",
+      "summary": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
+      "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-18T21:08:28+00:00"
+    },
+    {
+      "title": "A $10,000 Investment in SPY at Its 1993 Launch Is Worth This Much Today Without You Adding a Dime",
+      "summary": "A single ETF purchase made before most investors had ever heard the term changed what passive investing looks like today, but the original is no longer the obvious choice for everyone holding it.",
+      "link": "https://247wallst.com/investing/etf/2026/09/18/a-10000-investment-in-spy-at-its-1993-launch-is-worth-this-much-today-without-you-adding-a-dime/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T21:05:57+00:00"
+    }
+  ]
+}
