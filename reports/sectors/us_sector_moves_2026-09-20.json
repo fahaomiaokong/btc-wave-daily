@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 189.6,
+      "previous_close": 188.05999755859375,
+      "change_pct": 0.8188888979042019,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.75,
+      "previous_close": 169.00999450683594,
+      "change_pct": 0.4378471789928007,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.86,
+      "previous_close": 55.880001068115234,
+      "change_pct": -0.035792891433295004,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.39,
+      "previous_close": 168.80999755859375,
+      "change_pct": -0.24879898386822585,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.31,
+      "previous_close": 64.4800033569336,
+      "change_pct": -0.2636528351162237,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.03,
+      "previous_close": 111.38999938964844,
+      "change_pct": -0.3231882499515448,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.8,
+      "previous_close": 83.48999786376953,
+      "change_pct": -0.8264437434714056,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.53,
+      "previous_close": 42.939998626708984,
+      "change_pct": -0.9548175123926583,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.81,
+      "previous_close": 112.3499984741211,
+      "change_pct": -1.3707151713720944,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.1,
+      "previous_close": 41.689998626708984,
+      "change_pct": -1.41520423637288,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.99,
+      "previous_close": 50.709999084472656,
+      "change_pct": -1.4198365164102666,
+      "as_of": "2026-09-18"
+    }
+  ],
+  "news": [
+    {
+      "title": "History Says Buying the Nasdaq-100 at the Dot-Com Peak Still (Eventually) Turned $10,000 Into About $72,000",
+      "summary": "The $72,000 ending is the easy part. Collecting it involved an 83% loss and a 15-year wait just to get back to even.",
+      "link": "https://www.fool.com/investing/2026/09/19/history-says-buying-the-nasdaq-100-at-the-dot-com-peak-still-eventually-turned-usd10-000-into-about-usd72-000/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-20T01:54:01+00:00"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T01:45:00+00:00"
+    },
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T01:30:00+00:00"
+    },
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T01:03:00+00:00"
+    },
+    {
+      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "summary": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
+      "link": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T22:13:28+00:00"
+    },
+    {
+      "title": "Trump says he will appoint a new AI adviser, without providing details",
+      "summary": "Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary.",
+      "link": "https://www.cnbc.com/2026/09/19/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T21:42:05+00:00"
+    },
+    {
+      "title": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
+      "summary": "Investing.com - SpaceX’s weighting in the Nasdaq 100 Index will more than double to 2.82% when the benchmark's quarterly rebalance takes effect on Monday, Bloomberg reported, citing data from the index provider.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-nasdaq-100-weight-jump-192658519.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T19:26:58+00:00"
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T18:57:00+00:00"
+    },
+    {
+      "title": "90% of retirees are making this miscalculation with their savings",
+      "summary": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
+      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T18:40:00+00:00"
+    },
+    {
+      "title": "Many young investors can’t afford to invest without their parents’ help",
+      "summary": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
+      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T18:22:00+00:00"
+    },
+    {
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+      "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
+      "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T18:12:15+00:00"
+    },
+    {
+      "title": "The future of retirement? Work until you die.",
+      "summary": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T17:53:00+00:00"
+    },
+    {
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "summary": "No amount of wealth can erase retirement worries.",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T17:21:00+00:00"
+    },
+    {
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T16:45:00+00:00"
+    },
+    {
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "summary": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T16:19:00+00:00"
+    },
+    {
+      "title": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
+      "summary": "Both options are rooted in the same basic buy-and-hold philosophy, but one differs from the other in one way that's very important for the foreseeable future.",
+      "link": "https://www.fool.com/investing/2026/09/19/is-berkshire-hathaway-stock-a-better-buy-than-an/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T16:05:00+00:00"
+    },
+    {
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "summary": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
+      "link": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T16:03:09+00:00"
+    },
+    {
+      "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+      "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress.",
+      "link": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T14:10:02+00:00"
+    },
+    {
+      "title": "U.S. judge signals rejection of part of TikTok $400 million privacy settlement",
+      "summary": "TikTok agreed to pay $300 million and a further $100 million if a court terminated a 2019 consent decree imposed by the FTC on TikTok's predecessor, Musical.ly.",
+      "link": "https://www.cnbc.com/2026/09/19/us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-19T14:03:46+00:00"
+    },
+    {
+      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
+      "summary": "Relying on the past decade’s performance playbook is practically a mathematical guarantee of bad outcomes.",
+      "link": "https://www.barchart.com/story/news/4695242/investing-based-on-past-performance-in-2026-almost-guarantees-a-bad-outcome-do-this-instead?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T14:00:02+00:00"
+    }
+  ]
+}
