@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "source": "The Verge",
+    "published": "2026-09-19T15:25:03+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
+    "summary": "NVIDIA (NasdaqGS:NVDA), Google, and Emerald AI have created the AI Energy Management Alliance to coordinate electricity use in AI data centers. The alliance has started building what it calls the first purpose-built power-flexible AI data center, designed to adjust consumption with grid needs. AEMA plans to publish shared frameworks for grid-responsive data centers with input from utilities, regulators, and large AI infrastructure users. The formation of AEMA and the power-flexible data...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-19T23:09:32+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026?",
+    "summary": "Nvidia's 55.6% net margin dwarfs Applied Materials' 24.7%, but one trades at a steep valuation premium while the other faces customer concentration risk.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/19/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-20T01:35:01+00:00",
+    "tickers": [
+      "NVDA",
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "source": "The Verge",
+    "published": "2026-09-19T20:44:40+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
+    "summary": "Washington just put AI and defense infrastructure back under a spotlight, with plans for an \"AI Force\" and an AI tsar signaling fresh attention on chips, cloud capacity and contractors that can plug into federal demand. That shift could reshape where capital flows next and it creates both openings and risks for investors watching AI-related equities. This article unpacks 3 US-listed large caps exposed to this policy theme and explains how each stock connects to the AI and defense spending...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-2-us-ai-021149518.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-20T02:11:49+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
+    "summary": "Oracle Corporation (NYSE:ORCL) reported on September 10 that its revenue rose 30% in the fiscal first quarter, driven by a 121% jump in cloud infrastructure revenue. Cloud infrastructure is the business that rents computing power to AI companies. The company also said its remaining performance obligations, which are the value of contracts it has signed […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cloud-revenue-jumps-045435586.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-20T04:54:35+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Better Artificial Intelligence Stock: Arm Holdings vs. SK Hynix",
+    "summary": "One designs chips; the other manufactures them, and their valuations tell starkly different stories about growth versus value.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/09/19/better-artificial-intelligence-stock-arm-holdings-vs-sk-hynix/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-20T03:29:05+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nine Years, Eight Delays, and Now Rocket Thrusters: Tesla Finally Sets a Roadster Date",
+    "summary": "Tesla, Inc. (NASDAQ:TSLA) has once again set a deadline for its second-generation Roadster. This time, the automaker says October 1 is real, and it’s accompanied by rocket-launch visuals and a technology package sourced directly from Elon Musk’s other company, SpaceX. A Nine-Year Wait The Roadster was first exhibited as a prototype in November 2017, with […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nine-years-eight-delays-now-021106695.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-20T02:11:06+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  }
+]
