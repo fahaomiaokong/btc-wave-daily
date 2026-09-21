@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 189.6,
+      "previous_close": 188.05999755859375,
+      "change_pct": 0.8188888979042019,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.75,
+      "previous_close": 169.00999450683594,
+      "change_pct": 0.4378471789928007,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.86,
+      "previous_close": 55.880001068115234,
+      "change_pct": -0.035792891433295004,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.39,
+      "previous_close": 168.80999755859375,
+      "change_pct": -0.24879898386822585,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.31,
+      "previous_close": 64.4800033569336,
+      "change_pct": -0.2636528351162237,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.03,
+      "previous_close": 111.38999938964844,
+      "change_pct": -0.3231882499515448,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.8,
+      "previous_close": 83.48999786376953,
+      "change_pct": -0.8264437434714056,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.53,
+      "previous_close": 42.939998626708984,
+      "change_pct": -0.9548175123926583,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.81,
+      "previous_close": 112.3499984741211,
+      "change_pct": -1.3707151713720944,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.1,
+      "previous_close": 41.689998626708984,
+      "change_pct": -1.41520423637288,
+      "as_of": "2026-09-18"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.99,
+      "previous_close": 50.709999084472656,
+      "change_pct": -1.4198365164102666,
+      "as_of": "2026-09-18"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
+      "summary": "Wall Street is coming off a mixed week for the major averages.",
+      "link": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T04:58:44+00:00"
+    },
+    {
+      "title": "Oil falls as crude flows remain 'surprisingly strong'",
+      "summary": "Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia, even as Mideast tensions continue to escalate.",
+      "link": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T04:51:02+00:00"
+    },
+    {
+      "title": "Biotech Week Ahead: XLV Beats The Market — Here Are The Stocks, Readouts And Events To Watch Next",
+      "summary": "Novo Nordisk (NVO) will hold its 2026 Capital Markets Day in London on Monday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/biotech-week-ahead-xlv-beats-market-stocks-readouts-events-watch/cZMRPApRB4O?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-21T04:37:04+00:00"
+    },
+    {
+      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+      "summary": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
+      "link": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T04:20:33+00:00"
+    },
+    {
+      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+      "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+      "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T04:04:18+00:00"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-21T02:40:00+00:00"
+    },
+    {
+      "title": "If your kid does these 8 things, they're more emotionally mature than most, says psychologist",
+      "summary": "\"They turn into adaptable, reasonable people who can solve problems, sustain satisfying long-term relationships and engage in meaningful work,\" says Lindsay C. Gibson.",
+      "link": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T02:07:12+00:00"
+    },
+    {
+      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+      "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
+      "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T00:45:26+00:00"
+    },
+    {
+      "title": "Here are the 3 big things we're watching in the stock market this week",
+      "summary": "The week ahead is light on macroeconomic data, but investors can still expect plenty of market-moving headlines.",
+      "link": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T23:42:00+00:00"
+    },
+    {
+      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
+      "summary": "The man was in serious but stable condition at a hospital after being shot once in the torso on the city's north side, Austin Police Chief Lisa Davis said.",
+      "link": "https://www.cnbc.com/2026/09/20/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T23:07:12+00:00"
+    },
+    {
+      "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
+      "summary": "It is another example of how Trump is insisting that his initiatives to beautify the White House and the city also serve a defensive purpose.",
+      "link": "https://www.cnbc.com/2026/09/20/trump-says-his-planned-arch-would-become-a-military-complex.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T21:08:52+00:00"
+    },
+    {
+      "title": "If the AI Bubble Bursts as the Dot-Com Did, History Says the QQQ Might Not Recover Until 2042",
+      "summary": "A look at what would happen if history repeats itself.",
+      "link": "https://www.fool.com/investing/2026/09/20/if-the-ai-bubble-bursts-as-the-dot-com-did-history-says-the-qqq-might-not-recover-until-2042/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-20T20:20:01+00:00"
+    },
+    {
+      "title": "Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow",
+      "summary": "Russia's ruling party was on track to win a parliamentary ⁠election that Putin has cast as a test of support for the war in Ukraine, partial results showed.",
+      "link": "https://www.cnbc.com/2026/09/20/russias-ruling-pro-putin-party-on-track-to-win-wartime-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T20:16:07+00:00"
+    },
+    {
+      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+      "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
+      "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T19:06:16+00:00"
+    },
+    {
+      "title": "How much could investing $10,000 in a CD right now earn you in one year?",
+      "summary": "A CD is a safe way to grow your money with a predictable return. Here’s how much you could earn with a $10,000 deposit in a top-earning one-year CD.",
+      "link": "https://www.cnbc.com/select/investing-10000-in-a-cd-earn-in-one-year/",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T18:35:24+00:00"
+    },
+    {
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "summary": "“I racked up this debt to cover my living expenses for two years without an income stream.”",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T17:30:00+00:00"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T16:30:00+00:00"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-20T15:00:00+00:00"
+    },
+    {
+      "title": "The 'robot relations' department may become reality in workplace of the future",
+      "summary": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
+      "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T14:37:34+00:00"
+    },
+    {
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
+      "link": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-20T14:23:53+00:00"
+    }
+  ]
+}
