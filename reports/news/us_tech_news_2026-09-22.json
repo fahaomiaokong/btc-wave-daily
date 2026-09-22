@@ -1,0 +1,92 @@
+[
+  {
+    "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+    "summary": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety.",
+    "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+    "source": "Tech",
+    "published": "2026-09-21T20:51:11+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "source": "TechCrunch",
+    "published": "2026-09-21T17:55:18+00:00",
+    "tickers": [
+      "AMZN",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
+    "summary": "U.S. markets on Monday gained on surging AI stocks, with the S&P 500 hitting a new 52-week high.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-futures-slip-while-s-and-p-500-nasdaq-futures-climb-after-ai-rally-gme-ibrx-amd-psky-stocks-in-focus/cZMPewURBIH?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T02:44:33+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Stocks rise on AI buzz, drop in oil prices",
+    "summary": "Stock markets climbed on Tuesday as the success of Meta's new AI agent and US-China talks on artificial intelligence fanned a tech-led rally.- AI apocalypse - US and Chinese economic officials met Sunday in New York for closely watched talks on trade and artificial intelligence to lay the groundwork for the meeting.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T02:37:48+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia-Backed AI Drug Discovery Company Iambic Therapeutics Files for Nasdaq IPO, to Use Proceeds for Cancer Drug Development",
+    "summary": "Iambic Therapeutics, Inc., an AI drug discovery company backed by Nvidia Corp. (NASDAQ:NVDA) and the Qatar Investment Authority, filed for an initial public offering, according to an S-1 filing with the SEC on Monday. Plans to List on Nasdaq, Under Ticker ‘IAM’ Iambic said it plans to use the IPO proceeds, along with its existing cash, to continue advancing its three cancer drug candidates through clinical development, with any remaining funds going toward general operating costs. It will go pub",
+    "link": "https://finance.yahoo.com/healthcare/articles/nvidia-backed-ai-drug-discovery-020043923.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T02:00:43+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "AMD joins trillion-dollar chipmaker club as AI demand surges",
+    "summary": "AMD has become the latest trillion-dollar company, as the AI investment boom sends its shares soaring and data-centre demand fuels record growth.View on euronews",
+    "link": "https://www.euronews.com/2026/09/22/amd-joins-trillion-dollar-chipmaker-club-as-ai-demand-surges?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T05:00:48+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet",
+    "summary": "China’s AI hardware push is gaining momentum as domestic chipmakers race to close the gap with Nvidia.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/baba-stock-spikes-overnight-alibaba-takes-on-nvidia-with-china-s-most-powerful-ai-chip-yet/cZMPOevRBeb?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T04:49:51+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "CoreWeave (CRWV) Rolls Out Rubin Clusters And AI Storage For Agentic AI",
+    "summary": "CoreWeave (NasdaqGS:CRWV) has introduced multi-rack NVIDIA Vera Rubin NVL72 clusters designed to run training and inference across hundreds of GPUs as one system. The company has upgraded its AI Object Storage with cross-region write acceleration to support high throughput data pipelines for agentic AI workloads. A new Archive storage tier targets colder AI datasets, aiming to align long term model data retention with lower cost storage options. The launch of Vera Rubin NVL72 clusters and...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-rolls-rubin-clusters-043401233.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-22T04:34:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
