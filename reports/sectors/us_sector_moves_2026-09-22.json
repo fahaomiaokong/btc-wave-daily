@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 114.75,
+      "previous_close": 110.80999755859375,
+      "change_pct": 3.5556380545201938,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 194.85,
+      "previous_close": 189.60000610351562,
+      "change_pct": 2.7689840334804927,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.23,
+      "previous_close": 111.02999877929688,
+      "change_pct": 1.0807900872704446,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 169.01,
+      "previous_close": 168.38999938964844,
+      "change_pct": 0.36819324936090414,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.59,
+      "previous_close": 42.529998779296875,
+      "change_pct": 0.14107976116928267,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.98,
+      "previous_close": 169.75,
+      "change_pct": 0.1354933726067653,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.9,
+      "previous_close": 55.86000061035156,
+      "change_pct": 0.07160649697706134,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.71,
+      "previous_close": 49.9900016784668,
+      "change_pct": -0.5601153612031284,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.92,
+      "previous_close": 82.80000305175781,
+      "change_pct": -1.062805578893189,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 40.66,
+      "previous_close": 41.099998474121094,
+      "change_pct": -1.070555937850326,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.46,
+      "previous_close": 64.30999755859375,
+      "change_pct": -2.876687340732975,
+      "as_of": "2026-09-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
+      "summary": "Alibaba shares jumped 3% in Hong Kong on Tuesday as the tech giant unveiled a new AI chip and plans to sharply expand its global data center capacity",
+      "link": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T05:15:21+00:00"
+    },
+    {
+      "title": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dog-sled outpost and reopen Cold War base: report",
+      "summary": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+      "link": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T05:00:18+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 posts best day since early August: Live updates",
+      "summary": "The three major averages jumped to start the week's trading, catching a tailwind from a rally in AI-related stocks, as well as lower yields and oil prices.",
+      "link": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T04:40:56+00:00"
+    },
+    {
+      "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+      "summary": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+      "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T04:22:20+00:00"
+    },
+    {
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "summary": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-22T04:02:00+00:00"
+    },
+    {
+      "title": "Here's where UBS says to invest with global yields elevated",
+      "summary": "Bonds from emerging Asian markets could provide investment opportunities, amid an environment of elevated level of global bond yields.",
+      "link": "https://www.cnbc.com/2026/09/22/heres-where-ubs-says-to-invest-with-global-yields-elevated.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T04:00:30+00:00"
+    },
+    {
+      "title": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+      "summary": "The $2.3 billion NSE IPO, India's largest public share sale issue so far this year, has drawn strong interest from investors, with bids of more than $10 billion.",
+      "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T04:00:28+00:00"
+    },
+    {
+      "title": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
+      "summary": "Taiwan's benchmark Taiex rose to a record intraday high Tuesday, driven by gains in the tech sector, following an AI-driven rally on Wall Street.",
+      "link": "https://www.cnbc.com/2026/09/22/taiwans-taiex-hits-record-intraday-high-as-tech-stocks-advance.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T03:33:20+00:00"
+    },
+    {
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T02:41:10+00:00"
+    },
+    {
+      "title": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
+      "summary": "Tesla recently set up a subsidiary in Vietnam, taking a step toward a potential entry into a fast-growing EV market dominated by homegrown rival VinFast.",
+      "link": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T02:22:23+00:00"
+    },
+    {
+      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+      "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+      "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T01:51:44+00:00"
+    },
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+      "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T01:30:01+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+      "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+      "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T23:18:30+00:00"
+    },
+    {
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+      "summary": "Meta's Muse AI personal agent tool had 730,000 and 2.5 million downloads over the roughly five-day and thirteen-day time frames after its launch.",
+      "link": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T23:03:57+00:00"
+    },
+    {
+      "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
+      "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T23:03:04+00:00"
+    },
+    {
+      "title": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+      "summary": "Data centers have been a flash point in the 2026 midterm elections, including Abbott's bid for reelection against Democratic state Rep. Gina Hinojosa.",
+      "link": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-21T22:46:26+00:00"
+    },
+    {
+      "title": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club — AMD, ARM, META, AMZN, PSKY In Focus",
+      "summary": "Advanced Micro Devices added about 10% and hit $1 trillion in market cap.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-ends-nearly-3-higher-as-ai-stocks-pop/cZMRHqjRBIm?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-21T22:04:54+00:00"
+    },
+    {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-21T22:01:00+00:00"
+    },
+    {
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "summary": "An analyst at BNP has taken a positive view of AT&T’s stock, writing that investors should have “little to quibble with on the mobile side.”",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-21T21:57:00+00:00"
+    },
+    {
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "summary": "The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules.",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-21T21:47:00+00:00"
+    }
+  ]
+}
