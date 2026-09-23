@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+    "summary": "Former Intel CEO Pat Gelsinger is backing a startup that thinks AI’s next bottleneck is not the accelerator. It is everything waiting for data to arrive. Delos Data announced on September 15 that it raised more than $100 million to develop networking chips and software for increasingly heterogeneous AI data centers. Playground Global, where Gelsinger […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-23T04:24:33+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Why Did AAPL, OKTA, AMD Stocks Jump To 52-Week Highs Today?",
+    "summary": "Apple, Okta, and Advanced Micro Devices stocks surged to 52-week highs on Tuesday amid positive catalysts and growing Wall Street optimism.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-okta-amd-stocks-jump-to-52-week-highs-today/cZMEiVhRB78?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-23T03:05:37+00:00",
+    "tickers": [
+      "AAPL",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+    "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+    "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+    "source": "Tech",
+    "published": "2026-09-22T22:03:33+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+    "summary": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+    "link": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+    "source": "Tech",
+    "published": "2026-09-22T19:43:21+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source": "TechCrunch",
+    "published": "2026-09-22T15:00:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+    "summary": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The […]",
+    "link": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+    "source": "The Verge",
+    "published": "2026-09-22T18:10:57+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Shopify (SHOP) Could Be 30% Below Fair Value On Meta Muse Checkout News",
+    "summary": "Shopify (NasdaqGS:SHOP) moved back into focus after Meta’s Muse AI agent gained the ability to browse Shopify-powered stores and complete purchases through Shop Pay across all merchants on the platform. The Muse announcement arrived after a choppy spell for Shopify, with the share price down 6% year to date and the 1 month share price return slightly negative. However, the stock has recently regained momentum, with a 7 day share price return of 13.8% and a 90 day share price return of 29.4%...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-could-30-below-043236082.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-23T04:32:36+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+    "summary": "Intel sold control of Altera last year. Now the programmable-chip company is heading back toward the public market just as AI gives investors a new reason to care about FPGAs. Altera said on September 15 that it confidentially filed for a U.S. IPO. Reuters previously reported that the offering could raise more than $2 billion. […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-23T04:17:10+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  }
+]
