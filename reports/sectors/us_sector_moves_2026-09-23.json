@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.27,
+      "previous_close": 189.60000610351562,
+      "change_pct": 3.5179291570501148,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.53,
+      "previous_close": 110.80999755859375,
+      "change_pct": 2.4546543645287855,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.33,
+      "previous_close": 111.02999877929688,
+      "change_pct": 1.17085583625669,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.53,
+      "previous_close": 49.9900016784668,
+      "change_pct": 1.0802126493342445,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 169.89,
+      "previous_close": 168.38999938964844,
+      "change_pct": 0.8907896049578312,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.27,
+      "previous_close": 169.75,
+      "change_pct": 0.30633284241532444,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.5,
+      "previous_close": 42.529998779296875,
+      "change_pct": -0.07053557525958931,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.73,
+      "previous_close": 82.80000305175781,
+      "change_pct": -0.08454474538370782,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 40.53,
+      "previous_close": 41.099998474121094,
+      "change_pct": -1.386857652756357,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.8,
+      "previous_close": 55.86000061035156,
+      "change_pct": -1.8976022176325102,
+      "as_of": "2026-09-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.78,
+      "previous_close": 64.30999755859375,
+      "change_pct": -3.9340657046186833,
+      "as_of": "2026-09-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+      "summary": "Oil fell Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.",
+      "link": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T04:34:31+00:00"
+    },
+    {
+      "title": "Stock futures little changed after Nasdaq Composite posts fresh record: Live updates",
+      "summary": "The Nasdaq Composite rose to a new all-time intraday high and closed at a record on Tuesday.",
+      "link": "https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T04:18:28+00:00"
+    },
+    {
+      "title": "Morgan Stanley thinks investors should diversify into these markets",
+      "summary": "Look to Japan and European markets for investment opportunities, including the banking and defense sectors, Morgan Stanley said.",
+      "link": "https://www.cnbc.com/2026/09/23/morgan-stanley-investors-diversify-markets-equities-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T04:12:31+00:00"
+    },
+    {
+      "title": "In photos: Key takeaways from day one of the UN General Assembly",
+      "summary": "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.",
+      "link": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T03:13:02+00:00"
+    },
+    {
+      "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+      "summary": "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.",
+      "link": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T03:08:23+00:00"
+    },
+    {
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-23T02:15:00+00:00"
+    },
+    {
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-23T02:00:00+00:00"
+    },
+    {
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "summary": "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
+      "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T23:43:48+00:00"
+    },
+    {
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T23:43:43+00:00"
+    },
+    {
+      "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
+      "summary": "We discuss Buffett's investing playbook and highlight ETFs that follow his investment philosophy.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-buffett-lessons-oracle-omaha-182900634.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-22T23:34:00+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 closed marginally lower Tuesday, but the index is just 0.7% off from its all-time high. Oil prices fell for a fifth straight day.",
+      "link": "https://www.cnbc.com/2026/09/22/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T23:21:11+00:00"
+    },
+    {
+      "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+      "summary": "Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.",
+      "link": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T23:00:01+00:00"
+    },
+    {
+      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+      "summary": "The conglomerate built by Warren Buffett and led today by Greg Abel holds a sizable stake in Miami-based homebuilder Lennar.",
+      "link": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T22:35:50+00:00"
+    },
+    {
+      "title": "The Market Is Near Another All-Time High and You’re 66 With Cash to Invest. Buying Now Feels Like the Top. These 3 ETFs Are How You Get In Anyway",
+      "summary": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sidelines.",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-22T22:25:53+00:00"
+    },
+    {
+      "title": "VGT Holders Bought ‘Tech’ and Own No Google, Meta, or Amazon: The Sector Rule That Decides What’s Inside",
+      "summary": "VGT promises tech exposure, but a classification rule buried in the index methodology quietly excludes three of the biggest names most investors assume they are buying. Knowing which ones changes how your whole portfolio actually fits together.",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/vgt-holders-bought-tech-and-own-no-google-meta-or-amazon-the-sector-rule-that-decides-whats-inside/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-22T22:15:04+00:00"
+    },
+    {
+      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+      "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+      "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-22T22:03:33+00:00"
+    },
+    {
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-22T21:44:00+00:00"
+    },
+    {
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-22T21:30:00+00:00"
+    },
+    {
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "summary": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones.",
+      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-22T21:27:00+00:00"
+    },
+    {
+      "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
+      "summary": "Wall Street is gearing up for this week’s summit between Donald Trump and Chinese President Xi Jinping.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-jumps-to-close-at-record-as-chipmakers-climb-oil-prices-cool-aapl-meta-spcx-msft-vktx-in-focus/cZM5GHbRB7L?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-22T21:26:09+00:00"
+    }
+  ]
+}
