@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.28,
+      "previous_close": 49.709999084472656,
+      "change_pct": 1.1466524361803732,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.37,
+      "previous_close": 61.779998779296875,
+      "change_pct": 0.9550036134038153,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.43,
+      "previous_close": 81.91999816894531,
+      "change_pct": 0.6225608428395146,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 195.34,
+      "previous_close": 194.85000610351562,
+      "change_pct": 0.25147235367499743,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.1,
+      "previous_close": 169.97999572753906,
+      "change_pct": 0.0705990560520453,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.8,
+      "previous_close": 169.00999450683594,
+      "change_pct": -0.12424975661864401,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.54,
+      "previous_close": 54.79999923706055,
+      "change_pct": -0.4744511691246789,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.65,
+      "previous_close": 112.2300033569336,
+      "change_pct": -1.4078261691827465,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.84,
+      "previous_close": 42.59000015258789,
+      "change_pct": -1.7609771070693836,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.56,
+      "previous_close": 114.75,
+      "change_pct": -1.9084967320261437,
+      "as_of": "2026-09-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.75,
+      "previous_close": 40.65999984741211,
+      "change_pct": -2.2380714481729846,
+      "as_of": "2026-09-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates",
+      "summary": "The major averages tumbled in Wednesday's regular trading as a spike in Treasury yields raised the specter of additional rate hikes from the Federal Reserve.",
+      "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T05:15:04+00:00"
+    },
+    {
+      "title": "France faces a fresh budget battle that threatens to topple another government as debt costs spiral",
+      "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+      "link": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T05:00:02+00:00"
+    },
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T04:55:59+00:00"
+    },
+    {
+      "title": "OpenAI says agent hacked Australian government website without being told to do so",
+      "summary": "An OpenAI agent gained unauthorized access to an Australian government website while attempting to gather health data.",
+      "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T04:34:13+00:00"
+    },
+    {
+      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+      "summary": "Oil fell Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.",
+      "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T04:26:39+00:00"
+    },
+    {
+      "title": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
+      "summary": "Japanese 10-year government bond yield rose to a 30-year high on Thursday, following a surge in Treasury yields.",
+      "link": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T04:06:54+00:00"
+    },
+    {
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+      "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T04:02:26+00:00"
+    },
+    {
+      "title": "Vanguard Real Estate ETF vs State Street SPDR: Diversification or Cost",
+      "summary": "Vanguard is more diversified with a higher dividend yield, while State Street's concentrated 30-stock portfolio charges a lower expense ratio.",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/23/vanguard-real-estate-etf-vs-state-street-spdr-diversification-or-cost/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-24T03:46:01+00:00"
+    },
+    {
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "summary": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+      "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T02:50:12+00:00"
+    },
+    {
+      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+      "summary": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
+      "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T01:56:50+00:00"
+    },
+    {
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+      "summary": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
+      "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T01:16:34+00:00"
+    },
+    {
+      "title": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
+      "summary": "A seasoned investor who dodged a brutal Netflix slide by exiting in June just bought back in, and his reasoning cuts against everything the bears are saying right now.",
+      "link": "https://247wallst.com/investing/2026/09/23/netflix-is-down-42-in-a-year-and-the-investor-who-exited-in-june-just-bought-back-in/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-24T00:08:25+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
+      "summary": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
+      "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T00:01:54+00:00"
+    },
+    {
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-23T23:15:00+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The major averages sold off on Wednesday as a sharp surge in Treasury yields heightened traders' fears of more interest rate hikes from the Federal Reserve.",
+      "link": "https://www.cnbc.com/2026/09/23/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-23T23:08:33+00:00"
+    },
+    {
+      "title": "QYLD’s Monthly Check Looks Great Until April’s 1099 Reclassifies It as Ordinary Income",
+      "summary": "QYLD investors who counted on return-of-capital treatment all year sometimes open their April 1099 to find ordinary income instead, and the fee structure quietly compounds that surprise in ways the monthly check obscures.",
+      "link": "https://247wallst.com/investing/etf/2026/09/23/qylds-monthly-check-looks-great-until-aprils-1099-reclassifies-it-as-ordinary-income/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-23T22:45:45+00:00"
+    },
+    {
+      "title": "Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade",
+      "summary": "Steve Weiss called energy stocks a decade of disappointment, booked his gains in Valero, and walked away feeling disciplined. The scoreboard tells a more complicated story about the one refiner that left the entire sector in the dust.",
+      "link": "https://247wallst.com/investing/2026/09/23/steve-weiss-dumped-an-energy-stock-that-tripled-the-sp-500-over-a-decade/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-23T22:27:24+00:00"
+    },
+    {
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-23T22:15:00+00:00"
+    },
+    {
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "summary": "“A weekend away isn’t a weekend away. It’s a luxury hotel, expensive meals and a last-minute upgrade.”",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-23T22:00:00+00:00"
+    },
+    {
+      "title": "XLV vs. PJP: How Broad Healthcare Diversification Stacks Up to Pharma Stocks",
+      "summary": "XLV's broader diversification and lower fees appeal to cost-conscious investors, while PJP's concentrated pharma bet has outperformed over the past year.",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/23/xlv-vs-pjp-how-broad-healthcare-diversification-stacks-up-to-pharma-stocks/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-23T21:59:19+00:00"
+    }
+  ]
+}
