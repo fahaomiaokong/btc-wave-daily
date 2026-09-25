@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Microsoft vs. Amazon: Which AI Cloud Stock Converts Capex Into Profits Better?",
+    "summary": "Microsoft Corporation (NASDAQ:MSFT) and Amazon.com, Inc. (NASDAQ:AMZN) are spending at extraordinary scale to own the AI cloud. Their valuations are surprisingly close: Microsoft trades near 25.3 times forward earnings, while Amazon is around 27.7 times. The harder question is which company is turning those infrastructure dollars into better economics. That question has become more important […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-amazon-ai-cloud-035215434.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T03:52:15+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+    "summary": "Meta CEO Mark Zuckerberg's new Muse Charm device is intended to put his company ahead of rivals like OpenAI and Google in AI agents and consumer hardware.",
+    "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+    "source": "Tech",
+    "published": "2026-09-24T23:07:54+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
+    "summary": "Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI.",
+    "link": "https://www.cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html",
+    "source": "Tech",
+    "published": "2026-09-24T12:24:37+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Alphabet vs. Meta: Which AI Advertising Giant Is the Better Stock to Buy?",
+    "summary": "Alphabet Inc. (NASDAQ:GOOGL) and Meta Platforms, Inc. (NASDAQ:META) are both using AI to make advertising more valuable while spending tens of billions of dollars on the models and infrastructure underneath it. Their valuations now make the portfolio choice unusually close. Alphabet trades at roughly 25 times forward earnings, while Meta is near 23 times. The […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-meta-ai-advertising-043409678.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T04:34:09+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 12
+  },
+  {
+    "title": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
+    "summary": "Hewlett Packard Enterprise Company (NYSE:HPE) and Super Micro Computer, Inc. (NASDAQ:SMCI) are both selling the hardware behind AI inference and training, but their valuations imply different levels of risk. HPE trades near 14 times forward earnings, while Supermicro trades below 10 times. The lower multiple is not automatically the bargain. Oracle’s decision to put HPE […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-super-micro-ai-042751635.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T04:27:51+00:00",
+    "tickers": [
+      "ORCL",
+      "SMCI"
+    ],
+    "score": 12
+  },
+  {
+    "title": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+    "summary": "Agentic AI is reshaping expectations for chip infrastructure and CPU demand.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-intc-stocks-extend-rally-as-meta-s-muse-fuels-bets-on-an-ai-agent-cpu-boom/cZMaHl9RBaJ?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T03:30:05+00:00",
+    "tickers": [
+      "META",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+    "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) crossed $1 trillion in market value on September 21 after closing roughly 187% higher for 2026. NVIDIA Corporation (NASDAQ:NVDA) was worth about $5.45 trillion as of September 23. The more important difference is valuation. On a common S&P Global basis updated September 24, AMD traded at about 55.6 times forward […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-ai-stock-035909345.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T03:59:09+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Mark Zuckerberg's Muse Push Rockets Meta Past Musk's SpaceX — Instagram, Facebook Parent Now Worth $1.98 Trillion",
+    "summary": "Meta Platforms Inc. (NASDAQ:META) has overtaken Space Exploration Technologies Corp. (NASDAQ:SPCX) to become the world’s seventh-largest public company by market capitalization, as excitement builds around its new AI agent, Muse. Muse Gives Meta a New Growth Story At Thursday’s close, Meta’s market cap was roughly $1.72 trillion, ahead of SpaceX’s $1.14 trillion, according to Yahoo Finance data. Muse was launched on Sept. 8 and quickly climbed to No. 1 on Apple’s U.S. App Store, with its 12-day",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-muse-push-rockets-034414503.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T03:44:14+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 11
+  }
+]
