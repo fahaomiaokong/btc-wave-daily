@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 113.99,
+      "previous_close": 112.55999755859375,
+      "change_pct": 1.2704357430905588,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 169.87,
+      "previous_close": 168.8000030517578,
+      "change_pct": 0.6338844365507024,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.6,
+      "previous_close": 62.369998931884766,
+      "change_pct": 0.36876875429552314,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.53,
+      "previous_close": 54.540000915527344,
+      "change_pct": -0.01833684517686951,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.32,
+      "previous_close": 110.6500015258789,
+      "change_pct": -0.298239061299721,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 194.71,
+      "previous_close": 195.33999633789062,
+      "change_pct": -0.322512721255952,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.65,
+      "previous_close": 41.84000015258789,
+      "change_pct": -0.45411126169926375,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.83,
+      "previous_close": 170.10000610351562,
+      "change_pct": -0.746623196910845,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.7,
+      "previous_close": 82.43000030517578,
+      "change_pct": -0.8856002698934162,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.36,
+      "previous_close": 39.75,
+      "change_pct": -0.9811320754717023,
+      "as_of": "2026-09-24"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.68,
+      "previous_close": 50.279998779296875,
+      "change_pct": -1.1933150235952872,
+      "as_of": "2026-09-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "Virginia tech CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
+      "summary": "Oxygen Forensics counted numerous U.S. government agencies among its customers but lied for years about who really controlled it, prosecutors allege.",
+      "link": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T05:30:37+00:00"
+    },
+    {
+      "title": "An absence of significant economic slowdown doesn't mean no signs of stagflation risks. Here's why",
+      "summary": "Keep watch for signs of stagflation, even if there isn't a significant slowdown in the economy, according to J.P. Morgan.",
+      "link": "https://www.cnbc.com/2026/09/25/an-absence-of-significant-economic-slowdown-doesnt-mean-no-signs-of-stagflation-risks-heres-why-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T05:12:01+00:00"
+    },
+    {
+      "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
+      "summary": "Oil fell Friday, following a report that U.S. and Iranian negotiators are discussing a phased deal to end the standoff in the Persian Gulf.",
+      "link": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T05:10:38+00:00"
+    },
+    {
+      "title": "Stock futures are little changed as Dow heads for fourth straight losing week: Live updates",
+      "summary": "Bond yields continued their climb on Thursday while the Nasdaq and S&P 500 were flat.",
+      "link": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T04:15:28+00:00"
+    },
+    {
+      "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+      "summary": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
+      "link": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T04:14:11+00:00"
+    },
+    {
+      "title": "U.S. government seeks to join Elon Musk in challenge against EU's fine on X",
+      "summary": "The U.S. formally sought to join Elon Musk’s legal challenge against an EU fine imposed on his social media platform X.",
+      "link": "https://www.cnbc.com/2026/09/25/us-government-seeks-to-join-musk-in-challenge-against-eus-fine-on-x.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T03:24:57+00:00"
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T02:38:53+00:00"
+    },
+    {
+      "title": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+      "summary": "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
+      "link": "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T01:56:24+00:00"
+    },
+    {
+      "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+      "summary": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+      "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T01:50:12+00:00"
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T01:22:17+00:00"
+    },
+    {
+      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+      "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
+      "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T01:12:19+00:00"
+    },
+    {
+      "title": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
+      "summary": "Costco's membership renewal rates moved in the right direction. But the debate isn't totally settled just yet.",
+      "link": "https://www.cnbc.com/2026/09/24/costco-makes-progress-on-a-key-membership-metric-heres-our-new-price-target-on-the-stock.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T00:29:48+00:00"
+    },
+    {
+      "title": "Polymarket countersues New York state over ‘unregulated gambling’ allegation",
+      "summary": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+      "link": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T00:17:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",
+      "summary": "Treasury yields resumed their march higher amid inflation concerns.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-ease-as-us-treasury-yields-spike/cZMapaERBac?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-25T00:12:54+00:00"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "summary": "“She currently has about 15 sitters, all independent contractors.”",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-24T23:35:00+00:00"
+    },
+    {
+      "title": "Here's why South Korea wants more control over future regional wars",
+      "summary": "The U.S. would command South Korean units should conflict resume on the Korean peninsula. Now the government wants to end a long-standing diplomatic quirk",
+      "link": "https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-24T23:30:01+00:00"
+    },
+    {
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "summary": "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-24T23:28:00+00:00"
+    },
+    {
+      "title": "The S&P 500’s newest tech stock is now its best performer",
+      "summary": "Shares of data-storage company Everpure were leading S&P 500 gainers on Thursday.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-24T23:26:00+00:00"
+    },
+    {
+      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
+      "summary": "Tariff refunds helped deliver a profit beat during Costco’s fourth quarter.",
+      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-24T23:23:00+00:00"
+    },
+    {
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "summary": "“My mother started having more trouble getting around. First a knee replacement, then a fall.”",
+      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-24T23:16:00+00:00"
+    }
+  ]
+}
