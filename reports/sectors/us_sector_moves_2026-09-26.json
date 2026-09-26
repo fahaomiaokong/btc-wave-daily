@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.43,
+      "previous_close": 168.8300018310547,
+      "change_pct": 0.9476977738508863,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.27,
+      "previous_close": 194.7100067138672,
+      "change_pct": 0.8011880398244076,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.84,
+      "previous_close": 54.529998779296875,
+      "change_pct": 0.5684966580648876,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.7,
+      "previous_close": 169.8699951171875,
+      "change_pct": 0.48861182473096676,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.06,
+      "previous_close": 81.69999694824219,
+      "change_pct": 0.4406402266892151,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.51,
+      "previous_close": 39.36000061035156,
+      "change_pct": 0.38109600437603586,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.8,
+      "previous_close": 49.68000030517578,
+      "change_pct": 0.24154527795305913,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.56,
+      "previous_close": 110.31999969482422,
+      "change_pct": 0.21754922574301894,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.56,
+      "previous_close": 41.650001525878906,
+      "change_pct": -0.21609009023200176,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.04,
+      "previous_close": 62.599998474121094,
+      "change_pct": -0.8945662743947147,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.96,
+      "previous_close": 113.98999786376953,
+      "change_pct": -0.9035861769209785,
+      "as_of": "2026-09-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
+      "summary": "This semiconductor ETF continues to look ripe for more gains.",
+      "link": "https://www.fool.com/investing/2026/09/25/if-i-could-only-add-1-etf-to-my-portfolio-this-yea/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-26T01:35:00+00:00"
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "summary": "“I am a retired senior citizen living check-to-check.”",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T00:00:00+00:00"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T23:30:00+00:00"
+    },
+    {
+      "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+      "summary": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
+      "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T23:28:42+00:00"
+    },
+    {
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+      "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+      "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T22:53:52+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",
+      "summary": "Iran pitched a seven-day roadmap to end conflict with the U.S., the New York Times reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-week-higher-on-chipmaker-strength-easing-oil-amid-signs-of-easing-us-iran-conflict-meta-cost-msft-crwd-skhy-in-focus/cZMOFkXRBOV?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-25T22:51:48+00:00"
+    },
+    {
+      "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge",
+      "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
+      "link": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T22:41:12+00:00"
+    },
+    {
+      "title": "Supreme Court bars Republican-drawn map in Missouri for third time",
+      "summary": "The US Supreme Court, acting for a third time in a fierce battle over the makeup of Missouri's congressional districts, barred the state on Friday from using a redrawn map designed to favor Republicans in November's elections, a setback for President Donald Trump's party as it fights to keep control of Congress.",
+      "link": "https://www.cnbc.com/2026/09/25/supreme-court-bars-republican-drawn-map-in-missouri-for-third-time.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T22:32:27+00:00"
+    },
+    {
+      "title": "Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",
+      "summary": "One number buried inside a popular Dow ETF quietly hands a smaller company more of your retirement dollars than a corporate giant worth more than ten times as much, and the reason has nothing to do with performance, profit, or business fundamentals.",
+      "link": "https://247wallst.com/investing/etf/2026/09/25/goldman-sachs-outweighs-microsoft-in-this-popular-dow-etf-and-share-price-is-the-only-reason/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-25T22:00:10+00:00"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "summary": "“On each of these weekends away, she’s probably spending $500.”",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T22:00:00+00:00"
+    },
+    {
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "summary": "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T21:57:00+00:00"
+    },
+    {
+      "title": "You’re 45, Make $150K, and Have Never Opened a Brokerage Account. These 3 ETFs Are the First Deposit",
+      "summary": "Earning six figures at 45 with a brokerage account you have never opened puts you behind on paper but not in reality. Three specific ETFs can close that gap faster than most people expect, and the order in which you buy them matters as much as what you buy.",
+      "link": "https://247wallst.com/investing/etf/2026/09/25/youre-45-make-150k-and-have-never-opened-a-brokerage-account-these-3-etfs-are-the-first-deposit/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-25T21:45:10+00:00"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T21:45:00+00:00"
+    },
+    {
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T21:38:38+00:00"
+    },
+    {
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T21:04:00+00:00"
+    },
+    {
+      "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+      "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+      "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T21:02:20+00:00"
+    },
+    {
+      "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
+      "summary": "It is getting harder for college students and recent graduates to be seen in the job market as AI is used as a hiring tool and demanded by employers as a skill.",
+      "link": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-25T20:52:09+00:00"
+    },
+    {
+      "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
+      "summary": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
+      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T20:37:00+00:00"
+    },
+    {
+      "title": "Micron investors should get ready for a seesaw ride, analyst says",
+      "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
+      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T20:36:00+00:00"
+    },
+    {
+      "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+      "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-25T20:34:00+00:00"
+    }
+  ]
+}
