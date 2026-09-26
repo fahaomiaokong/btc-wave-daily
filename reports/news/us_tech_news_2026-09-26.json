@@ -1,0 +1,98 @@
+[
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source": "The Verge",
+    "published": "2026-09-25T16:51:08+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
+    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch",
+    "published": "2026-09-25T16:00:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+    "summary": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) have both been beneficiaries of the AI boom. However, their competitive advantages come from very different places. NVIDIA has built an ecosystem around its GPUs and software, while Broadcom is increasingly becoming a key supplier of custom AI accelerators and networking technology for some of the world’s largest […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-vs-broadcom-avgo-045101419.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-26T04:51:01+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Cloudflare (NET) Stock Trades Down, Here Is Why",
+    "summary": "Shares of cloud security and performance company Cloudflare (NYSE:NET) fell 3.2% in the afternoon session after the company's disclosure of a cross-tenant data-isolation vulnerability in its Containers and Sandboxes products.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-stock-trades-down-025637584.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-26T02:56:37+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source": "TechCrunch",
+    "published": "2026-09-25T16:16:52+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+    "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
+    "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+    "source": "Tech",
+    "published": "2026-09-25T15:51:25+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Penguin Solutions and onsemi Shares Skyrocket, What You Need To Know",
+    "summary": "A number of stocks jumped in the afternoon session after investors extended a multi-day rally driven by rising compute demand for agentic artificial intelligence following the rollout of Meta Platforms' Muse agent.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-onsemi-shares-skyrocket-035237352.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-26T03:52:37+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch",
+    "published": "2026-09-25T18:33:59+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
