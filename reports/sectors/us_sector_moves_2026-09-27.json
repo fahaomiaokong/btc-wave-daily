@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.43,
+      "previous_close": 168.8300018310547,
+      "change_pct": 0.9476977738508863,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.27,
+      "previous_close": 194.7100067138672,
+      "change_pct": 0.8011880398244076,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.84,
+      "previous_close": 54.529998779296875,
+      "change_pct": 0.5684966580648876,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.7,
+      "previous_close": 169.8699951171875,
+      "change_pct": 0.48861182473096676,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.06,
+      "previous_close": 81.69999694824219,
+      "change_pct": 0.4406402266892151,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.51,
+      "previous_close": 39.36000061035156,
+      "change_pct": 0.38109600437603586,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.8,
+      "previous_close": 49.68000030517578,
+      "change_pct": 0.24154527795305913,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.56,
+      "previous_close": 110.31999969482422,
+      "change_pct": 0.21754922574301894,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.56,
+      "previous_close": 41.650001525878906,
+      "change_pct": -0.21609009023200176,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.04,
+      "previous_close": 62.599998474121094,
+      "change_pct": -0.8945662743947147,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.96,
+      "previous_close": 113.98999786376953,
+      "change_pct": -0.9035861769209785,
+      "as_of": "2026-09-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+      "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+      "link": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T05:00:02+00:00"
+    },
+    {
+      "title": "This 17% Yield Nasdaq Covered Call ETF Is Somehow Outperforming QQQ",
+      "summary": "A covered call ETF paying a 17% annual distribution should be quietly destroying its own NAV, yet this Nasdaq-focused fund keeps defying that logic in a way that forces a closer look at how it actually works.",
+      "link": "https://247wallst.com/investing/etf/2026/09/26/this-17-yield-nasdaq-covered-call-etf-is-somehow-outperforming-qqq/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-27T01:02:10+00:00"
+    },
+    {
+      "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the Northeast",
+      "summary": "Tens of millions of people were in the path of the nor'easter, which was forecast to affect the mid-Atlantic area and New England throughout the weekend.",
+      "link": "https://www.cnbc.com/2026/09/26/powerful-noreaster-causes-flooding-and-knocks-out-power.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T22:23:11+00:00"
+    },
+    {
+      "title": "Inside AT&S and the race to make the critical layer beneath AI chips",
+      "summary": "Managing Asia’s Christine Tan goes inside AT&S’s Malaysia plant, where CEO Michael Mertin explains why IC substrates — the high-tech base layers beneath AI chips — are becoming more important as AI demand grows and manufacturers race to add capacity.",
+      "link": "https://www.cnbc.com/video/2026/09/26/ats-ai-chip-substrate-bottleneck.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T22:00:01+00:00"
+    },
+    {
+      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+      "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T21:55:01+00:00"
+    },
+    {
+      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+      "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
+      "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T21:21:04+00:00"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "summary": "“She currently has about 15 sitters, all independent contractors.”",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T20:00:00+00:00"
+    },
+    {
+      "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
+      "summary": "Heavy rain and powerful winds are expected to bring flash floods and extreme surf as Hurricane Nolo bears down on areas still recovering from previous storms.",
+      "link": "https://www.cnbc.com/2026/09/26/hurricane-nolo-to-unleash-powerful-winds-flash-flooding-on-hawaii.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T19:47:51+00:00"
+    },
+    {
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+      "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+      "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T19:23:56+00:00"
+    },
+    {
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "summary": "“As a country, we have grown dangerously comfortable.”",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T19:00:00+00:00"
+    },
+    {
+      "title": "White House moves to block $810 million in funding through pocket rescission",
+      "summary": "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
+      "link": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T18:46:48+00:00"
+    },
+    {
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "summary": "Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.",
+      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T17:54:00+00:00"
+    },
+    {
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
+      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T17:15:00+00:00"
+    },
+    {
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+      "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+      "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T17:10:32+00:00"
+    },
+    {
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+      "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-26T16:57:57+00:00"
+    },
+    {
+      "title": "A 10% risk-free yield? For some, yes.",
+      "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T16:51:00+00:00"
+    },
+    {
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T16:22:00+00:00"
+    },
+    {
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+      "summary": "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T15:48:00+00:00"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "summary": "“On each of these weekends away, she’s probably spending $500.”",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T15:30:00+00:00"
+    },
+    {
+      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
+      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-26T15:30:00+00:00"
+    }
+  ]
+}
