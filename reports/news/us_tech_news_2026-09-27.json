@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
+    "summary": "Here's a look at the three developments that drove the action in our portfolio last week.",
+    "link": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
+    "source": "Tech",
+    "published": "2026-09-26T16:21:31+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
+    "summary": "Nvidia and Alphabet are two of the largest players in the AI race.",
+    "link": "https://www.fool.com/investing/2026/09/26/a-1000-investment-split-between-alphabet-and-nvidi/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T02:35:00+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "3 Cloud And AI Stocks Retail Investors Are Watching After Microsoft Copilot Expansion",
+    "summary": "AI went from buzzword to utility the moment Microsoft folded full Word, Excel, and PowerPoint into Copilot and pushed agent style features like Home, Chat, Cowork, and Autopilot into the mainstream. That kind of shift can reshape where cloud and AI compute dollars flow next. This piece unpacks how that news filters through to three stocks tied into the story and explains why their exposure might matter for your portfolio decisions. The stocks covered below are simply a sample set, and the...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-cloud-ai-stocks-retail-041602935.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T04:16:02+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "source": "TechCrunch",
+    "published": "2026-09-26T17:44:00+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Meta Stock Is Having Its Best Month Since 2013. History Says Every 20% Month Has Led to Gains a Year Later.",
+    "summary": "Most of the social media giant's earlier 20% months came with hard numbers behind them. Does this one?",
+    "link": "https://www.fool.com/investing/2026/09/26/meta-stock-is-having-its-best-month-since-2013-history-says-every-20-month-has-led-to-gains-a-year-later/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T03:12:01+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Anthropic's IPO is a $300 billion test for Amazon",
+    "summary": "The cloud giant’s largest venture bet could expose its biggest strategic vulnerability.",
+    "link": "https://www.thestreet.com/technology/amazon-anthropic-ipo-stake-400-billion-concentration-risk?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T01:47:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 6
+  },
+  {
+    "title": "History Says Alphabet Stock's 15% Pullbacks Have Usually Paid Off Within a Year",
+    "summary": "Nine of the past 10 times this happened, the stock was up a year later. Is this one different?",
+    "link": "https://www.fool.com/investing/2026/09/26/history-says-alphabet-stock-s-15-pullbacks-have-usually-paid-off-within-a-year/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T01:07:01+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Shopify (SHOP) Is Up 10.7% After New Meta AI Pact And Tailwind Labs Deal - Has The Bull Case Changed?",
+    "summary": "In recent days, Shopify has accelerated its push into AI-powered commerce, signing an AI sales partnership with Meta’s Muse agent, completing the acquisition of Tailwind Labs (creator of Tailwind CSS), and highlighting strong growth in AI-driven traffic and orders alongside profitability. This cluster of AI initiatives and developer tools enhances Shopify’s ambition to be the interface layer for global, high-margin, software-based commerce infrastructure, even as investors weigh higher...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/shopify-shop-10-7-meta-021004536.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-27T02:10:04+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 5
+  }
+]
