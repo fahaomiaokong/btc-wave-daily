@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.43,
+      "previous_close": 168.8300018310547,
+      "change_pct": 0.9476977738508863,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.27,
+      "previous_close": 194.7100067138672,
+      "change_pct": 0.8011880398244076,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.84,
+      "previous_close": 54.529998779296875,
+      "change_pct": 0.5684966580648876,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.7,
+      "previous_close": 169.8699951171875,
+      "change_pct": 0.48861182473096676,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.06,
+      "previous_close": 81.69999694824219,
+      "change_pct": 0.4406402266892151,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.51,
+      "previous_close": 39.36000061035156,
+      "change_pct": 0.38109600437603586,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.8,
+      "previous_close": 49.68000030517578,
+      "change_pct": 0.24154527795305913,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.56,
+      "previous_close": 110.31999969482422,
+      "change_pct": 0.21754922574301894,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.56,
+      "previous_close": 41.650001525878906,
+      "change_pct": -0.21609009023200176,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.04,
+      "previous_close": 62.599998474121094,
+      "change_pct": -0.8945662743947147,
+      "as_of": "2026-09-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.96,
+      "previous_close": 113.98999786376953,
+      "change_pct": -0.9035861769209785,
+      "as_of": "2026-09-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures slip after winning week on Wall Street: Live updates",
+      "summary": "The Dow eked out a 0.3% advance last week, snapping a three-week slide.",
+      "link": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T05:57:29+00:00"
+    },
+    {
+      "title": "Why OCBC sees an undervalued yen nearing a turning point",
+      "summary": "The Japanese yen, one of the most undervalued currencies globally, is near a turning point, according to OCBC.",
+      "link": "https://www.cnbc.com/2026/09/28/yen-undervalued-turning-point-ocbc.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T05:07:53+00:00"
+    },
+    {
+      "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
+      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T04:16:27+00:00"
+    },
+    {
+      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
+      "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T04:12:20+00:00"
+    },
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "summary": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T04:04:16+00:00"
+    },
+    {
+      "title": "Stocktwits Retail Therapy: Defensive Bets Take Off As COST, DG, WMT Lead Weekly Consumer Staples Gains",
+      "summary": "Costco's membership growth contrasted with steep drops at Stitch Fix and MGM Resorts.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-retail-therapy-defensive-bets-take-off-as-cost-dg-wmt-lead-weekly-consumer-staples-gains/cZMSipvRBfk?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-28T03:58:25+00:00"
+    },
+    {
+      "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
+      "summary": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
+      "link": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T03:50:22+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: Lilly, Novo Lead A Busy Week — Here Are The Stocks And Readouts To Watch",
+      "summary": "Novo has 44 abstracts at EASD, including CagriSema analyses and Phase 2b Zenagamtide results.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-lilly-novo-lead-busy-week-stocks-readouts-to-watch/cZMSib7RBfS?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-28T03:31:20+00:00"
+    },
+    {
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T02:49:10+00:00"
+    },
+    {
+      "title": "‘It Was Making Her Insurance Agent Rich’: Orman’s Wife Paid $150K, Got $50K Back",
+      "summary": "Suze Orman's wife handed over a decade of premiums believing she was building a retirement fund, and when Orman finally looked at the numbers, what she found revealed a common insurance sales tactic that quietly drains wealth while the policyholder stays in the dark.",
+      "link": "https://247wallst.com/personal-finance/2026/09/27/it-was-making-her-insurance-agent-rich-ormans-wife-paid-150k-got-50k-back/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-28T00:44:34+00:00"
+    },
+    {
+      "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+      "summary": "Let's unpack this.",
+      "link": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T23:33:21+00:00"
+    },
+    {
+      "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the U.S. Northeast",
+      "summary": "Tens of millions of people were in the path of the nor'easter, which was forecast to affect the mid-Atlantic area and New England throughout the weekend.",
+      "link": "https://www.cnbc.com/2026/09/26/powerful-noreaster-causes-flooding-and-knocks-out-power.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T22:19:39+00:00"
+    },
+    {
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "summary": "“As a country, we have grown dangerously comfortable.”",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-27T21:45:00+00:00"
+    },
+    {
+      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+      "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
+      "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T21:38:59+00:00"
+    },
+    {
+      "title": "A Barbell Portfolio Skips the Middle Entirely. Here’s What $250,000 Looks Like at Both Ends",
+      "summary": "Stripping a half-million-dollar portfolio down to just two positions sounds reckless until you understand the logic that makes the gap between them intentional. What each end actually holds reveals a structure most investors have never seriously considered.",
+      "link": "https://247wallst.com/personal-finance/2026/09/27/a-barbell-portfolio-skips-the-middle-entirely-heres-what-250000-looks-like-at-both-ends/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-27T20:37:53+00:00"
+    },
+    {
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "summary": "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-27T19:21:00+00:00"
+    },
+    {
+      "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "summary": "The ten-year Treasury yield just hit levels that should be crushing growth stocks, yet the Nasdaq-100 keeps refusing to fall. The reason comes down to six companies whose balance sheets are rewriting the rules of how rate pressure actually transmits.",
+      "link": "https://247wallst.com/investing/2026/09/27/why-the-nasdaq-refuses-to-break-even-with-treasury-yields-above-five-percent/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-27T19:15:23+00:00"
+    },
+    {
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+      "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T19:13:27+00:00"
+    },
+    {
+      "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+      "summary": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+      "link": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-27T18:45:27+00:00"
+    }
+  ]
+}
