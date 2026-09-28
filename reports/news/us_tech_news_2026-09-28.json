@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "source": "TechCrunch",
+    "published": "2026-09-27T19:57:30+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "AMD Stock And 2 US AI Infrastructure Plays Investors Are Watching",
+    "summary": "AI headlines have moved from product launches to power and politics, as the White House courts Anthropic while courts label it a supply chain risk. That mix of access and anxiety is where pricing gaps can open for investors who move before the story feels comfortable. This article walks through three U.S. AI Leaders stocks exposed to this news and explains how the same catalyst can reshape risk as well as reward. The three U.S. AI Leaders stocks highlighted below are only a starter pack, and...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-2-us-ai-020830560.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T02:08:30+00:00",
+    "tickers": [
+      "AMZN",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Jim Cramer Names His ‘Sacred Stocks' and Why He Won't Sell Them",
+    "summary": "Jim Cramer reveals the two stocks, Nvidia and Apple, exempt from his strict buy and homework sell discipline.",
+    "link": "https://beincrypto.com/cramer-sacred-stocks-nvidia-apple/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T02:37:11+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
+    "summary": "Chinese shares touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.’s new chips and proposed US sanctions on foreign optical producers.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-stocks-hit-one-low-042212751.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T04:22:12+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Planet Labs (PL) vs. SpaceX: Can New Space Exploration (SPCX) Support Long-Term Growth?",
+    "summary": "Planet Labs PBC (NYSE:PL) announced on September 25 that its Pelican-12 satellite has arrived at Cape Canaveral Space Force Station in Florida ahead of its launch aboard Space Exploration Technologies Corp. (NASDAQ:SPCX)’s upcoming Bandwagon-5 rideshare mission. The second-generation high-resolution satellite features upgraded optical resolution down to 30 cm, on-orbit AI edge computing via the NVIDIA […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-vs-spacex-035631653.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T03:56:31+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Why Did AMD, HPE, MRNA Stocks Surge To 52-Week Highs Last Week?",
+    "summary": "Investors rewarded companies with strong artificial intelligence demand, enterprise infrastructure, and drug development.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-amd-hpe-mrna-stocks-surge-to-52-week-highs-last-week/cZMS1RURBfm?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T04:47:57+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "NVDA Stock In Focus: China Reportedly Weighs Letting ByteDance, Alibaba Buy Some Nvidia AI Chips",
+    "summary": "Nvidia’s potential China opening adds another catalyst for investors as Beijing weighs purchases of the company’s lower-end GPUs.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-in-focus-china-reportedly-weighs-letting-byte-dance-alibaba-buy-some-nvidia-ai-chips/cZMSLlMRBfi?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T03:13:58+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
+    "summary": "Investing.com-- Taiwan Semiconductor Manufacturing Co (TW:2330) is accelerating the expansion of its advanced 2-nanometre manufacturing capacity as strong demand from artificial intelligence and high-performance computing customers boosts orders, according to Taiwanese publication EDN.",
+    "link": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-28T03:07:30+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 7
+  }
+]
