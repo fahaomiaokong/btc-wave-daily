@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.26,
+      "previous_close": 170.6999969482422,
+      "change_pct": 0.3280627192556951,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 82.28,
+      "previous_close": 82.05999755859375,
+      "change_pct": 0.268099497869434,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.1,
+      "previous_close": 62.040000915527344,
+      "change_pct": 0.0967103217073717,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.35,
+      "previous_close": 41.560001373291016,
+      "change_pct": -0.5052968391525914,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.25,
+      "previous_close": 39.5099983215332,
+      "change_pct": -0.6580570300644739,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.47,
+      "previous_close": 49.79999923706055,
+      "change_pct": -0.6626490805545338,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 194.53,
+      "previous_close": 196.27000427246094,
+      "change_pct": -0.8865360139522216,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.78,
+      "previous_close": 170.42999267578125,
+      "change_pct": -0.9681351561870444,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.19,
+      "previous_close": 54.84000015258789,
+      "change_pct": -1.1852665039739585,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 109.0,
+      "previous_close": 110.55999755859375,
+      "change_pct": -1.4109963757614863,
+      "as_of": "2026-09-28"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.18,
+      "previous_close": 112.95999908447266,
+      "change_pct": -1.5757782391105923,
+      "as_of": "2026-09-28"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending lower early Tuesday as Wall Street faces renewed geopolitical uncertainty in the Middle East, surging oil prices, and a spike in Treasury yields ahead of key consumer confidence and labor market data. The Polymarket (CRYPTO:...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/62040617/stock-market-will-sp-500-open-up-or-down-today-46?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-29T05:54:26+00:00"
+    },
+    {
+      "title": "There's still room for rotation into tech, Deutsche Bank says. Here's why",
+      "summary": "There is still room to run with regards to rotation in tech stocks due to outperformance in the sector, Deutsche Bank said.",
+      "link": "https://www.cnbc.com/2026/09/29/theres-still-room-for-rotation-into-tech-deutsche-bank-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T05:36:59+00:00"
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T05:13:03+00:00"
+    },
+    {
+      "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
+      "summary": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+      "link": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T05:12:10+00:00"
+    },
+    {
+      "title": "Australia says more hikes not off the table after raising rates to 15-year high",
+      "summary": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T05:00:58+00:00"
+    },
+    {
+      "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+      "summary": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
+      "link": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T04:02:47+00:00"
+    },
+    {
+      "title": "Senate advances college sports bill aimed at regulating NIL deals",
+      "summary": "The Senate voted Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.",
+      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T02:56:45+00:00"
+    },
+    {
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "summary": "Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure.",
+      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T01:48:52+00:00"
+    },
+    {
+      "title": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters",
+      "summary": "Anthropic's IPO filing shows how it is creating a new \"Founder LLC\" vehicle aimed at serving the common good, while insulating its leaders from market forces.",
+      "link": "https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T01:47:09+00:00"
+    },
+    {
+      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+      "summary": "Anthropic’s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
+      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-29T01:31:00+00:00"
+    },
+    {
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters",
+      "summary": "Anthropic plans to warn IPO investors that advanced AI could pose “catastrophic or existential risks to humanity.”",
+      "link": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T01:23:15+00:00"
+    },
+    {
+      "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+      "summary": "Luckin is weighing a push into Middle East markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
+      "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T01:10:41+00:00"
+    },
+    {
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+      "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
+      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-29T00:03:00+00:00"
+    },
+    {
+      "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs: Reuters",
+      "summary": "Anthropic is making a massive bet that AI will transform the global economy more profoundly than industrialization, electricity and the internet, according to its IPO prospectus seen by Reuters.",
+      "link": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T23:55:07+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Treasury yields continued their ascent on Monday, dragging down the major averages to start the week. The Dow Industrials fell more than 300 points.",
+      "link": "https://www.cnbc.com/2026/09/28/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T23:42:06+00:00"
+    },
+    {
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+      "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T23:19:46+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus",
+      "summary": "President Donald Trump was open to providing sanctions relief to Iran on nuclear matters, CNN and Axios reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-under-pressure-from-elevated-yields/cZMjBLyRBXW?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-28T23:07:58+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T23:00:01+00:00"
+    },
+    {
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "summary": "“As a country, we have grown dangerously comfortable.”",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-28T23:00:00+00:00"
+    },
+    {
+      "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+      "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales and economic activity",
+      "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-28T22:49:39+00:00"
+    }
+  ]
+}
