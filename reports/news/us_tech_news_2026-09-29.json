@@ -1,0 +1,97 @@
+[
+  {
+    "title": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+    "summary": "AI agent adoption and fresh security concerns are boosting demand for cyber defense tools.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/panw-crwd-zs-lead-nasdaq-100-gains-as-nvidia-s-ai-agent-safety-push-security-scares-lift-cybersecurity-stocks/cZMmnQoRBXq?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-29T03:38:28+00:00",
+    "tickers": [
+      "NVDA",
+      "CRWD"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source": "TechCrunch",
+    "published": "2026-09-28T17:29:50+00:00",
+    "tickers": [
+      "GOOGL",
+      "META",
+      "AMD"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Elon Musk’s Path to Trillionaire Stalls Ahead of Key Tesla and SpaceX Events",
+    "summary": "Elon Musk’s path to trillionaire status has stalled this month as Tesla and SpaceX continue to lose momentum. Musk’s net worth ended the week at $925 billion, up more than $305 billion since January, and still far higher than the...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-path-trillionaire-stalls-033010840.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-29T03:30:10+00:00",
+    "tickers": [
+      "TSLA",
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+    "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+    "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+    "source": "Tech",
+    "published": "2026-09-28T23:19:46+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+    "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+    "link": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+    "source": "Tech",
+    "published": "2026-09-28T20:36:55+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+    "summary": "Nvidia says its new software could have prevented OpenAI's Hugging Face incident.",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "source": "Tech",
+    "published": "2026-09-28T15:55:50+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Alibaba (NYSE:BABA) Nears Approval For RTX PRO 5500 Chip Purchases In China",
+    "summary": "Alibaba Group Holding (NYSE:BABA) is expected to secure Chinese approval to purchase Nvidia RTX PRO 5500 chips under current export rules. Regulators in Beijing are reviewing the RTX PRO 5500 orders as a category of AI hardware seen as compliant with US curbs. The prospective approval would expand Alibaba's pool of Nvidia processors for use in its cloud services and in-house AI projects. The likely green light for Alibaba's RTX PRO 5500 imports sits alongside broader shifts in China AI...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-nears-approval-020934628.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-29T02:09:34+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia turns to insurers to spread risk of AI build-out - FT",
+    "summary": "Investing.com -- NVIDIA Corp (NASDAQ:NVDA) has held talks with insurance companies over ways to shift part of the financing risk tied to its chips as the chipmaker seeks to expand demand beyond major technology companies, the Financial Times reported on Tuesday.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-turns-insurers-spread-risk-052145747.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-09-29T05:21:45+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
