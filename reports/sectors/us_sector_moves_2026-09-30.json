@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.71,
+      "previous_close": 39.25,
+      "change_pct": 1.1719745222930067,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.47,
+      "previous_close": 111.18000030517578,
+      "change_pct": 0.2608380050622472,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.13,
+      "previous_close": 168.77999877929688,
+      "change_pct": 0.20737126628422864,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 109.15,
+      "previous_close": 109.0,
+      "change_pct": 0.1376146788990784,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 194.5,
+      "previous_close": 194.52999877929688,
+      "change_pct": -0.015421158425499293,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.34,
+      "previous_close": 41.349998474121094,
+      "change_pct": -0.024180107593829714,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.73,
+      "previous_close": 171.25999450683594,
+      "change_pct": -0.30946778222323834,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.01,
+      "previous_close": 54.189998626708984,
+      "change_pct": -0.33216208021874527,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.85,
+      "previous_close": 82.27999877929688,
+      "change_pct": -0.522604260666415,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.1,
+      "previous_close": 49.470001220703125,
+      "change_pct": -0.7479304863010183,
+      "as_of": "2026-09-29"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.54,
+      "previous_close": 62.099998474121094,
+      "change_pct": -0.9017689015797026,
+      "as_of": "2026-09-29"
+    }
+  ],
+  "news": [
+    {
+      "title": "Dividend Stocks Come Under Pressure. How to Fight Back.",
+      "summary": "Dividend-reliant investors can sell calls on stocks, which creates what we call “conditional dividends” that often exceed common stock dividends.",
+      "link": "https://finance.yahoo.com/m/8e7f1b49-1340-3ec0-bde2-71592503644f/dividend-stocks-come-under.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-30T05:30:00+00:00"
+    },
+    {
+      "title": "Stock futures inch higher as traders weather latest rise in Treasury yields: Live updates",
+      "summary": "The 30-year Treasury bond yield hit levels not seen since June 2002. Those moves led the Dow to a decline of more than 100 points.",
+      "link": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T05:23:25+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending higher early Wednesday as Wall Street assesses fresh corporate earnings, stabilizing oil prices, and significant domestic inflation data amidst shifting geopolitical dynamics. The Polymarket (CRYPTO: POL) crowd is leaning heavily bullish for the Sept. 30...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/62069859/stock-market-will-sp-500-open-up-or-down-today-47?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-30T05:14:15+00:00"
+    },
+    {
+      "title": "Million-dollar question: Between S&P 500 bulls and bears, who would likely win?",
+      "summary": "The bulls are convinced that the SPX is poised for a \"massive upside reversion,\" while the bears argue that the SPX \"can't hold up much longer.\"",
+      "link": "https://www.cnbc.com/2026/09/30/debate-spx500-bulls-bears-us-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T05:11:53+00:00"
+    },
+    {
+      "title": "AI broke the job application. What replaces it?",
+      "summary": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
+      "link": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T05:00:01+00:00"
+    },
+    {
+      "title": "Biotech Lagged The Broader Market In September — Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI’s Slump?",
+      "summary": "IOVA surged 77% and IBRX gained 11%, bucking biotech’s decline, while SLS fell 14% and VNDA slipped 7%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/biotech-lagged-market-september-retail-favorites-sls-ibrx-vnda-iova-dodge-xbi-slump/cZMnuqYRBWr?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-30T03:47:57+00:00"
+    },
+    {
+      "title": "China factory activity snaps 2-month contractionary streak in September",
+      "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
+      "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T03:39:35+00:00"
+    },
+    {
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+      "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T03:39:08+00:00"
+    },
+    {
+      "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
+      "summary": "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
+      "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T02:37:21+00:00"
+    },
+    {
+      "title": "Vanguard S&P 500 ETF vs. Invesco QQQ: Which ETF Is the Better Buy for Investors?",
+      "summary": "VOO and QQQ are among the world's most popular ETFs. Here's how to decide which is the best fit for your portfolio.",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/29/vanguard-s-and-p-500-etf-vs-invesco-qqq-which-etf-is-the-better-buy-for-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-30T02:33:13+00:00"
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-30T01:00:00+00:00"
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-30T00:30:00+00:00"
+    },
+    {
+      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
+      "summary": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
+      "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T00:19:09+00:00"
+    },
+    {
+      "title": "QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade",
+      "summary": "QQQM's lower fee looks like an obvious win until you factor in a cost that never appears on your statement, never gets disclosed in bold, and resets every single time you place a trade.",
+      "link": "https://247wallst.com/investing/etf/2026/09/29/qqqm-charges-0-15-and-qqq-charges-0-18-a-wide-spread-can-take-that-back-on-a-single-trade/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-29T23:31:50+00:00"
+    },
+    {
+      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "summary": "“I am a retired senior citizen living check-to-check.”",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-29T23:30:00+00:00"
+    },
+    {
+      "title": "Forget SPY’s Dividend. Here Is What $100,000 in State Street’s High-Dividend Version Pays",
+      "summary": "State Street built a second S&P 500 fund specifically to pay larger quarterly checks, and most SPY investors have never heard of it. Before you move any money, there is a performance cost buried in the comparison that changes the math entirely.",
+      "link": "https://247wallst.com/investing/etf/2026/09/29/forget-spys-dividend-here-is-what-100000-in-state-streets-high-dividend-version-pays/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-29T23:06:47+00:00"
+    },
+    {
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "summary": "“As a country, we have grown dangerously comfortable.”",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-29T23:03:00+00:00"
+    },
+    {
+      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+      "summary": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T22:42:35+00:00"
+    },
+    {
+      "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
+      "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo.",
+      "link": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-29T22:40:20+00:00"
+    },
+    {
+      "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure — SPCX, TGT, AAPL, MU, NTAP In Focus",
+      "summary": "30-year Treasury yields are at their highest level since 2002.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-29T22:30:08+00:00"
+    }
+  ]
+}
