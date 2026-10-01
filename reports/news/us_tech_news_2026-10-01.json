@@ -1,0 +1,94 @@
+[
+  {
+    "title": "The AI Tamagotchis are coming",
+    "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "source": "The Verge",
+    "published": "2026-09-30T20:19:43+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "source": "TechCrunch",
+    "published": "2026-09-30T16:24:23+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "source": "Tech",
+    "published": "2026-09-30T15:54:38+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+    "summary": "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
+    "link": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
+    "source": "Tech",
+    "published": "2026-09-30T12:04:46+00:00",
+    "tickers": [
+      "MSFT",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-Induced Electricity Demand",
+    "summary": "On Wednesday, Amazon.com, Inc. (NASDAQ:AMZN) has signed a 20-year power purchase agreement with Constellation Energy Corp. (NASDAQ:CEG) to secure nuclear power from Maryland’s Calvert Cliffs plant, as surging AI demand pushes technology companies to seek reliable electricity. Amazon Locks In 690 MW From Maryland Nuclear Plant Under the agreement, Amazon will purchase 690 megawatts of power from Calvert Cliffs, a 1,790-MW nuclear facility and Maryland’s only nuclear power plant. The deal is expec",
+    "link": "https://finance.yahoo.com/energy/articles/amazon-signs-20-nuclear-power-052003956.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-01T05:20:03+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Tencent leases 100,000 chips from Oracle for $7 bln- FT",
+    "summary": "Investing.com-- Tencent signed a $7 billion lease deal with Oracle to gain access to about 100,000 advanced artificial intelligence chips, as the Chinese internet giant races to catch up in the AI race, the Financial Times reported on Thursday.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tencent-leases-100-000-chips-035844927.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-01T03:58:44+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Why Did WBD, HPE, CRWD Stocks Rise To 52-Week Highs Today?",
+    "summary": "Warner Bros. Discovery, Hewlett Packard Enterprise and CrowdStrike soared to 52-week highs on Wednesday amid company-specific catalysts and macroeconomic tailwinds.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-wbd-hpe-crwd-stocks-rise-to-52-week-highs-today/cZDiqjKRBLr?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-01T03:26:17+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "CoreWeave (CRWV) Unveils Forge For AI Development",
+    "summary": "CoreWeave (NasdaqGS:CRWV) unveiled Forge, a unified AI development environment, at its Fully Connected AI cloud conference. The company introduced the CoreWeave Partner Network, featuring validated technology integrations aimed at enterprise and advanced AI users. CoreWeave expanded its compute lineup by adding the NVIDIA Vera CPU to support emerging AI agent workloads. Forge, the new Partner Network and NVIDIA Vera support only capture part of the wider CoreWeave story for investors. We...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-unveils-forge-ai-020922457.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-01T02:09:22+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
