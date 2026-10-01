@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 195.75,
+      "previous_close": 194.5,
+      "change_pct": 0.6426735218509005,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.5,
+      "previous_close": 61.540000915527344,
+      "change_pct": -0.0649998617683667,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 108.84,
+      "previous_close": 109.1500015258789,
+      "change_pct": -0.2840142203803797,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.97,
+      "previous_close": 111.47000122070312,
+      "change_pct": -0.4485522698731814,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.44,
+      "previous_close": 39.709999084472656,
+      "change_pct": -0.6799271989362365,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.7,
+      "previous_close": 49.099998474121094,
+      "change_pct": -0.8146608687410017,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.91,
+      "previous_close": 41.34000015258789,
+      "change_pct": -1.0401551790051866,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.4,
+      "previous_close": 54.0099983215332,
+      "change_pct": -1.129417405091837,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 166.98,
+      "previous_close": 169.1300048828125,
+      "change_pct": -1.2712143444341573,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.42,
+      "previous_close": 170.72999572753906,
+      "change_pct": -1.3530110615275204,
+      "as_of": "2026-09-30"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 80.6,
+      "previous_close": 81.8499984741211,
+      "change_pct": -1.5271820371704936,
+      "as_of": "2026-09-30"
+    }
+  ],
+  "news": [
+    {
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+      "summary": "The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project.",
+      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T05:44:18+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending higher early Thursday as the final quarter of 2026 kicks off, with investors monitoring ongoing U.S.-Iran diplomatic backchannels, falling crude oil prices, and the fallout from the Fed’s recent hawkish posture. The crowd on Polymarket,...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62097279/stock-market-will-sp-500-open-up-or-down-today-48?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-01T05:39:57+00:00"
+    },
+    {
+      "title": "Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates",
+      "summary": "Investors are weighing a softer inflation picture, higher Treasury yields and uncertainty over the Fed's next rate decision.",
+      "link": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T05:28:11+00:00"
+    },
+    {
+      "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+      "summary": "RAF Fairford has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.",
+      "link": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T05:08:23+00:00"
+    },
+    {
+      "title": "Portfolio adviser to the super-rich wanted a bigger stock market correction. Here's why",
+      "summary": "Citi Wealth would have welcomed a deeper stock-market correction this year, seeing any bigger pullback as an opportunity to buy.",
+      "link": "https://www.cnbc.com/2026/10/01/citi-wealth-adviser-super-rich-wanted-bigger-stock-market-correctio.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T04:16:48+00:00"
+    },
+    {
+      "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+      "summary": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+      "link": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T03:25:38+00:00"
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-01T02:35:00+00:00"
+    },
+    {
+      "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+      "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+      "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T02:14:43+00:00"
+    },
+    {
+      "title": "Trump’s AI lunch included every major tech company. Except Apple",
+      "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
+      "link": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T02:07:06+00:00"
+    },
+    {
+      "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+      "summary": "One of the pilots on a FlyDubai flight headed for Israel stabbed the second pilot, according to Israeli Prime Minister Benjamin Netanyahu.",
+      "link": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T01:09:18+00:00"
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-01T00:45:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+      "summary": "Foreign insurers brace for another set of policy changes in India's insurance market.",
+      "link": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T00:23:44+00:00"
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-01T00:20:00+00:00"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-01T00:11:00+00:00"
+    },
+    {
+      "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+      "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
+      "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T23:50:01+00:00"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T23:44:28+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 fell on Wednesday as traders looked past a softer-than-anticipated inflation report. The broad index posted a loss for the month of September.",
+      "link": "https://www.cnbc.com/2026/09/30/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T23:07:50+00:00"
+    },
+    {
+      "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
+      "summary": "Monthly bills don't care about quarterly dividend schedules, and one S&P 500 ETF built its entire identity around solving that mismatch. But the convenience of a monthly paycheck comes with a cost that decade-long performance data makes impossible to ignore.",
+      "link": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-30T23:06:29+00:00"
+    },
+    {
+      "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+      "summary": "Paramount CEO David Ellison announced outgoing Mattel chief Ynon Kreiz will serve as the co-CEO of the anticipated combination of Paramount and WBD.",
+      "link": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T23:01:40+00:00"
+    },
+    {
+      "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+      "summary": "CNBC's Jim Cramer said Wednesday that several key parts of the U.S. economy have effectively frozen.",
+      "link": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-09-30T23:00:52+00:00"
+    }
+  ]
+}
