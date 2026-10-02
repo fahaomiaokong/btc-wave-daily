@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.7,
+      "previous_close": 61.5,
+      "change_pct": 1.9512195121951237,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 197.81,
+      "previous_close": 195.75,
+      "change_pct": 1.052362707535126,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.64,
+      "previous_close": 166.97999572753906,
+      "change_pct": 0.9941336177595517,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.68,
+      "previous_close": 39.439998626708984,
+      "change_pct": 0.6085227729406784,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.46,
+      "previous_close": 53.400001525878906,
+      "change_pct": 0.11235668990012826,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 108.81,
+      "previous_close": 108.83999633789062,
+      "change_pct": -0.027560032065321316,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.54,
+      "previous_close": 48.70000076293945,
+      "change_pct": -0.3285436559196442,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 80.33,
+      "previous_close": 80.5999984741211,
+      "change_pct": -0.33498570624388435,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.68,
+      "previous_close": 40.90999984741211,
+      "change_pct": -0.5622093577853149,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 109.94,
+      "previous_close": 110.97000122070312,
+      "change_pct": -0.9281798768791649,
+      "as_of": "2026-10-01"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.2,
+      "previous_close": 168.4199981689453,
+      "change_pct": -1.3181321654679001,
+      "as_of": "2026-10-01"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stocktwits Passport Portfolio: QQQ Holds Up Better Than SPY, DIA And Asian Stocks Amid Bond Market Rout This Week",
+      "summary": "The Invesco QQQ Trust, which tracks the Nasdaq, has posted the lowest decline amongst its peers so far this week, bolstered in part by the resilience of major technology stocks and continued strength in the AI sector.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-passport-portfolio-qqq-holds-up-better-than-spy-dia-and-asian-stocks-amid-bond-market-rout-this-week/cZDjTabRB0v?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T06:19:13+00:00"
+    },
+    {
+      "title": "Washington’s big crypto bill is stuck. The SEC is pushing ahead anyway",
+      "summary": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.",
+      "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T06:15:49+00:00"
+    },
+    {
+      "title": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
+      "summary": "Pandora is expanding its manufacturing footprint beyond Thailand with a new $150 million Vietnam facility as the Danish jeweler eyes further growth across Asia.",
+      "link": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T06:13:12+00:00"
+    },
+    {
+      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.",
+      "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T06:03:23+00:00"
+    },
+    {
+      "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+      "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T05:49:09+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending higher early Friday as investors brace for the critical September jobs report and monitor widening U.S. sanctions against Iran amid escalating bond market jitters. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Oct....",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62126419/stock-market-will-sp-500-open-up-or-down-today-49?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T05:47:25+00:00"
+    },
+    {
+      "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
+      "summary": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said.",
+      "link": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T05:30:42+00:00"
+    },
+    {
+      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+      "summary": "Britain voted to leave the European Union in 2016.",
+      "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T05:00:01+00:00"
+    },
+    {
+      "title": "AI is making cyberattacks faster and harder to detect, Interpol warns. Here’s what companies should watch",
+      "summary": "An Interpol executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI.",
+      "link": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T04:57:38+00:00"
+    },
+    {
+      "title": "S&P 500 futures edge higher as September jobs report looms: Live updates",
+      "summary": "The major averages are heading for a losing week as the latest leg higher in yields keeps stocks under pressure.",
+      "link": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T04:13:05+00:00"
+    },
+    {
+      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+      "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+      "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T04:07:54+00:00"
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T01:00:00+00:00"
+    },
+    {
+      "title": "The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names",
+      "summary": "A fund owning thousands of stocks sounds like true diversification, but the math behind a $500,000 VTI position tells a more uncomfortable story about where your money actually goes.",
+      "link": "https://247wallst.com/investing/etf/2026/10/01/the-hidden-cost-of-owning-every-stock-167050-of-a-500000-vti-position-sits-in-its-top-ten-names/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T00:33:42+00:00"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T00:30:00+00:00"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T00:15:00+00:00"
+    },
+    {
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T00:14:00+00:00"
+    },
+    {
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "summary": "The company has faced struggles in China and in its sneaker business.",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T00:13:00+00:00"
+    },
+    {
+      "title": "5 Energy ETFs That Have Soared in 2026",
+      "summary": "Freight, gasoline, crude oil and broad-energy ETFs have delivered triple- and even four-digit gains in 2026 as the Iran war has driven energy and shipping prices sharply higher.",
+      "link": "https://finance.yahoo.com/energy/articles/5-energy-etfs-soared-2026-000000048.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",
+      "summary": "10-year Treasury yields cooled off from the 2002 highs on Thursday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-cheer-cooling-yields-googl-mu-mat-nvda-in-focus/cZD0mZmRB01?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-01T23:27:59+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Stocks posted modest gains on Thursday as October's trading kicked off. Treasury yields popped to multiyear highs before retreating later in the day.",
+      "link": "https://www.cnbc.com/2026/10/01/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-01T23:09:35+00:00"
+    }
+  ]
+}
