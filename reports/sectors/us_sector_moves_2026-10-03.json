@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.04,
+      "previous_close": 108.80999755859375,
+      "change_pct": 1.1304130769269616,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 199.81,
+      "previous_close": 197.80999755859375,
+      "change_pct": 1.0110724766648094,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.95,
+      "previous_close": 168.63999938964844,
+      "change_pct": 0.7768030212836674,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.86,
+      "previous_close": 48.540000915527344,
+      "change_pct": 0.6592482044438741,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.83,
+      "previous_close": 39.68000030517578,
+      "change_pct": 0.3780234215488454,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 109.94000244140625,
+      "change_pct": 0.34564084969550546,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.81,
+      "previous_close": 40.68000030517578,
+      "change_pct": 0.3195666023819488,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 80.53,
+      "previous_close": 80.33000183105469,
+      "change_pct": 0.24897070134013433,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.82,
+      "previous_close": 62.70000076293945,
+      "change_pct": 0.191386340670463,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.49,
+      "previous_close": 53.459999084472656,
+      "change_pct": 0.056118436290919504,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.18,
+      "previous_close": 166.1999969482422,
+      "change_pct": -0.012031858369054849,
+      "as_of": "2026-10-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+      "summary": "America’s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom.",
+      "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T05:00:01+00:00"
+    },
+    {
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T02:16:00+00:00"
+    },
+    {
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T22:42:00+00:00"
+    },
+    {
+      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+      "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T22:38:49+00:00"
+    },
+    {
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T22:29:00+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — NVDA, BA, SPCX, RIVN, APLD In Focus",
+      "summary": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T22:28:59+00:00"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T22:10:00+00:00"
+    },
+    {
+      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
+      "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T22:01:17+00:00"
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "summary": "Is it time to dust off the financial playbook from that dismal decade?",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T21:54:00+00:00"
+    },
+    {
+      "title": "Anthropic to invest $100 million to train AI engineer talent",
+      "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+      "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T21:03:06+00:00"
+    },
+    {
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "summary": "Data shows that partisan ETFs result in higher fees and lower market returns",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T20:43:00+00:00"
+    },
+    {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
+      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T20:40:00+00:00"
+    },
+    {
+      "title": "How Much Do You Need Invested to Double the Average Social Security Check With Dividends?",
+      "summary": "Most retirees lean on Social Security as their primary income, but a dividend portfolio sized correctly could double that monthly check entirely. The catch is that choosing the wrong yield tier could cost you hundreds of thousands of dollars or quietly erode your principal over time.",
+      "link": "https://247wallst.com/personal-finance/2026/10/02/how-much-do-you-need-invested-to-double-the-average-social-security-check-with-dividends/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T20:33:54+00:00"
+    },
+    {
+      "title": "3 Option Income ETFs That Pay You 12 Times a Year. Here’s How the Monthly Check Is Generated",
+      "summary": "Covered call ETFs promise monthly paychecks, but the mechanism behind each distribution comes with trade-offs most investors never see until a rally leaves them behind or tax season arrives with an unexpected bill.",
+      "link": "https://247wallst.com/investing/etf/2026/10/02/3-option-income-etfs-that-pay-you-12-times-a-year-heres-how-the-monthly-check-is-generated/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T20:33:31+00:00"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T20:30:00+00:00"
+    },
+    {
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T20:26:00+00:00"
+    },
+    {
+      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+      "summary": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
+      "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-02T20:26:00+00:00"
+    },
+    {
+      "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record",
+      "summary": "The Nasdaq Composite was higher for a third day Friday.",
+      "link": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T20:20:25+00:00"
+    },
+    {
+      "title": "Here's how high the 10-year Treasury yield needs to rise before income investors should worry, according to UBS",
+      "summary": "UBS lays out the levels where the income cushion doesn't protect investors from capital losses anymore.",
+      "link": "https://www.cnbc.com/2026/10/02/heres-how-high-the-10-year-treasury-yield-needs-to-rise-before-income-investors-should-worry-according-to-ubs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T20:10:43+00:00"
+    },
+    {
+      "title": "Stocks remain under the thrall of higher yields and higher oil. Here's what's ahead",
+      "summary": "Wall Street got a taste this week of what a reprieve on both fronts could mean for the stock market.",
+      "link": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-02T20:09:52+00:00"
+    }
+  ]
+}
