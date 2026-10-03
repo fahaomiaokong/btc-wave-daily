@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
+    "summary": "Nvidia, Alphabet and Meta signed the White House’s voluntary AI safety accord, while Microsoft and Amazon attended the White House lunch without signing.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-huang-defends-ai-spending-pichai-ramps-up-gemini-nadella-calls-copilot-a-new-os-for-work-this-week/cZDZcmeRBKM?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T02:01:35+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 21
+  },
+  {
+    "title": "Why Is NetApp (NTAP) Stock Rocketing Higher Today",
+    "summary": "Shares of data storage company NetApp (NASDAQ:NTAP) jumped 6% in the afternoon session after the company introduced a new AI factory architecture at its Insight conference, according to TipRanks. The company also launched Keystone Sovereign for regulated markets and expanded partnerships with Oracle and Supermicro. The package—AI factory architecture, sovereign cloud storage, and bigger OEM ties—sparked optimism among investors and analysts, who lifted price targets on the back of the AI storage",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-stock-rocketing-011803871.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T01:18:03+00:00",
+    "tickers": [
+      "ORCL",
+      "SMCI"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier?",
+    "summary": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+    "link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+    "source": "Tech",
+    "published": "2026-10-02T15:16:24+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "source": "TechCrunch",
+    "published": "2026-10-02T17:48:16+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Why Super Micro (SMCI) Stock Is Up Today",
+    "summary": "Shares of server solutions provider Super Micro (NASDAQ:SMCI) jumped 4.3% in the afternoon session after the company began shipping server racks built for NVIDIA’s next-generation Vera Rubin AI architecture, according to TipRanks. The start of shipments reinforces SMCI’s role in the AI infrastructure supply chain. Vera Rubin–ready racks house and interconnect high-density systems that data centers need for advanced AI workloads, keeping the stock in the AI server buildout story.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-smci-stock-013403342.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T01:34:03+00:00",
+    "tickers": [
+      "NVDA",
+      "SMCI"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix",
+    "summary": "NVIDIA boasts a 55.6% net margin and $96.7 billion in free cash flow, while SK Hynix trades at a fraction of the valuation despite 44.2% profitability.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/02/better-artificial-intelligence-stock-nvidia-vs-sk-hynix/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T03:15:07+00:00",
+    "tickers": [
+      "NVDA",
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High",
+    "summary": "Nvidia’s run to a fresh all time high, a US$5.7b market cap and Q2 revenue of US$96.2b has turned the AI chip story from niche to front page. That kind of attention can fuel both opportunity and overconfidence. This article examines how that news affects the AI hardware space, then outlines 3 stocks from our Global AI Chip Leaders screener that appear positively exposed to the same forces. The stocks highlighted below are just a small sample from this theme. The full Global AI Chip Leaders...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T01:11:09+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Why AMD Stock Jumped 30% in September",
+    "summary": "Meta's new Muse agent helped lift CPU stocks, including AMD.",
+    "link": "https://www.fool.com/investing/2026/10/02/why-amd-stock-jumped-30-in-september/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-03T00:50:02+00:00",
+    "tickers": [
+      "META",
+      "AMD"
+    ],
+    "score": 10
+  }
+]
