@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.04,
+      "previous_close": 108.80999755859375,
+      "change_pct": 1.1304130769269616,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 199.81,
+      "previous_close": 197.80999755859375,
+      "change_pct": 1.0110724766648094,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.95,
+      "previous_close": 168.63999938964844,
+      "change_pct": 0.7768030212836674,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.86,
+      "previous_close": 48.540000915527344,
+      "change_pct": 0.6592482044438741,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.83,
+      "previous_close": 39.68000030517578,
+      "change_pct": 0.3780234215488454,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 109.94000244140625,
+      "change_pct": 0.34564084969550546,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.81,
+      "previous_close": 40.68000030517578,
+      "change_pct": 0.3195666023819488,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 80.53,
+      "previous_close": 80.33000183105469,
+      "change_pct": 0.24897070134013433,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.82,
+      "previous_close": 62.70000076293945,
+      "change_pct": 0.191386340670463,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.49,
+      "previous_close": 53.459999084472656,
+      "change_pct": 0.056118436290919504,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.18,
+      "previous_close": 166.1999969482422,
+      "change_pct": -0.012031858369054849,
+      "as_of": "2026-10-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+      "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
+      "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T05:00:01+00:00"
+    },
+    {
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "summary": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
+      "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-04T00:02:00+00:00"
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "summary": "Is it time to dust off the financial playbook from that dismal decade?",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T23:58:00+00:00"
+    },
+    {
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+      "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T23:37:23+00:00"
+    },
+    {
+      "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says",
+      "summary": "Driving the shift in policy, Zelenskyy said, was Putin's desire to appear strong at a time when his military was losing ground in a key frontline region.",
+      "link": "https://www.cnbc.com/2026/10/03/ukraine-to-hit-refineries-in-response-to-russian-airstrikes-zelenskyy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T22:44:55+00:00"
+    },
+    {
+      "title": "Nearly All of QQQI’s Yield Was Return of Capital, Not Income. Here Is What That Does to Your Cost Basis",
+      "summary": "QQQI sends monthly cash to investors, but the IRS form filed by the fund tells a very different story about where that money actually comes from and what it quietly does to your cost basis every time a payment hits your account.",
+      "link": "https://247wallst.com/investing/etf/2026/10/03/nearly-all-of-qqqis-yield-was-return-of-capital-not-income-here-is-what-that-does-to-your-cost-basis/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-03T22:03:20+00:00"
+    },
+    {
+      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+      "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+      "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T20:29:07+00:00"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T20:00:00+00:00"
+    },
+    {
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T19:30:00+00:00"
+    },
+    {
+      "title": "XLRE vs. RWO: Which Real Estate ETF Offers Better Value",
+      "summary": "One fund targets U.S. large-caps with a 0.08% fee, while the other spans 224 global stocks with a fee of 0.5%. Both yield 3.5%, but their performance and risk profiles diverge.",
+      "link": "https://www.fool.com/coverage/etfs/2026/10/03/xlre-vs-rwo-which-real-estate-etf-offers-better-value/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-03T18:53:02+00:00"
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T18:49:00+00:00"
+    },
+    {
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T18:30:00+00:00"
+    },
+    {
+      "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
+      "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
+      "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T17:57:40+00:00"
+    },
+    {
+      "title": "Michael Saylor Says Strategy's STRC Is Now Steadier Than The S&P 500's Biggest Tracker: ‘A Milestone For Digital Credit’",
+      "summary": "Strategy's chart put its own common stock at 94% and Bitcoin at 39%, leaving the preferred between stocks and bonds on its own measure.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-mstr-strc-steady-sp-500-tracker-digital-credit/cZDZpACRB1h?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-03T17:46:24+00:00"
+    },
+    {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T17:24:00+00:00"
+    },
+    {
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "summary": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T16:42:00+00:00"
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T16:00:00+00:00"
+    },
+    {
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "summary": "The Points Guy’s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
+      "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-03T15:42:00+00:00"
+    },
+    {
+      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+      "summary": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+      "link": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T15:06:10+00:00"
+    },
+    {
+      "title": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+      "summary": "U.S. Energy Secretary Chris Wright will announce the loan on Monday at Vistra's nuclear plant along Lake Erie in Ohio, a source told Reuters.",
+      "link": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-03T15:00:51+00:00"
+    }
+  ]
+}
