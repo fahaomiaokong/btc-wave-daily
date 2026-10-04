@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
+    "summary": "Alphabet trades at a lower valuation multiple despite slower growth, while Meta invests heavily in hardware amid regulatory headwinds.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/03/better-artificial-intelligence-stock-alphabet-vs-meta-platforms/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T01:06:14+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "How Much Revenue Visibility Does Microsoft’s Backlog Really Provide?",
+    "summary": "Microsoft Corporation (NASDAQ:MSFT) ended fiscal 2026 with $678 billion of commercial remaining performance obligations. That total offers substantial visibility, but its investment value depends on when revenue arrives, which customers account for it and what Microsoft must spend to serve them. Treating the whole amount as near-term sales would overstate the protection it provides. At […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/much-revenue-visibility-does-microsoft-023534508.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T02:35:34+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Will Selling Chips Strengthen Arm’s Moat or Put It at Risk?",
+    "summary": "Arm Holdings plc (NASDAQ:ARM) built its business around helping other companies design processors. Selling its own data-center CPU gives it a chance to capture more revenue from each system, but changes its relationship with the same customers that license its technology. Investors need to decide whether that change enlarges the moat or makes it more […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/selling-chips-strengthen-arm-moat-023431652.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T02:34:31+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 7
+  },
+  {
+    "title": "How Much of Marvell’s Adjusted Profit Reaches Shareholders?",
+    "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) reported $865.9 million of adjusted net income in its fiscal second quarter, compared with $308 million under GAAP. Neither number alone answers what shareholders earned economically. The gap includes different kinds of costs, and treating every adjustment as either harmless or entirely artificial produces the wrong investment question. At September 30’s […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/much-marvell-adjusted-profit-reaches-024647978.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T02:46:47+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
+    "summary": "Alphabet Inc. (NASDAQ:GOOG) is removing the cost barrier to Google Vids, allowing anyone with a Google account to use its AI video generator for free through the Gemini Omni 1.1 Flash model. Every video created, stored, and delivered adds to the growing volume of data that Western Digital Corporation (NASDAQ:WDC) and Seagate Technology Holdings plc […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/google-free-ai-video-push-010734278.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T01:07:34+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
+    "summary": "The rapid expansion of artificial intelligence is creating a major opportunity in the central processing unit (CPU) market, positioning Advanced Micro Devices, Inc. (NASDAQ:AMD) for robust growth. Bank of America strategists expect the server market to expand from approximately $61 billion to $211 billion by 2030. The firm estimates that roughly $180 billion of the […]",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-still-004250845.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T00:42:50+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Better Quantum Computing Stock: Alphabet vs. IonQ",
+    "summary": "IonQ and Alphabet are two completely different investments.",
+    "link": "https://www.fool.com/investing/2026/10/04/better-quantum-computing-stock-alphabet-vs-ionq/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T06:05:00+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Oracle’s Nuclear Power Deal Signals That Energy Is the New Compute Bottleneck",
+    "summary": "On October 2, 2026, Oracle and We Energies announced a nuclear power subscription deal that marks a significant shift in how hyperscale data centers secure their energy. Oracle has agreed to subscribe to 10-20% of the output from the Point Beach Nuclear Plant, amounting to 125-250 megawatts of power. This energy is earmarked for the […]",
+    "link": "https://finance.yahoo.com/energy/articles/oracle-nuclear-power-deal-signals-052639542.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-04T05:26:39+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 5
+  }
+]
