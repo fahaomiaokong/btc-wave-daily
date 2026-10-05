@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.04,
+      "previous_close": 108.80999755859375,
+      "change_pct": 1.1304130769269616,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 199.81,
+      "previous_close": 197.80999755859375,
+      "change_pct": 1.0110724766648094,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.95,
+      "previous_close": 168.63999938964844,
+      "change_pct": 0.7768030212836674,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.86,
+      "previous_close": 48.540000915527344,
+      "change_pct": 0.6592482044438741,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.83,
+      "previous_close": 39.68000030517578,
+      "change_pct": 0.3780234215488454,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 109.94000244140625,
+      "change_pct": 0.34564084969550546,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.81,
+      "previous_close": 40.68000030517578,
+      "change_pct": 0.3195666023819488,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 80.53,
+      "previous_close": 80.33000183105469,
+      "change_pct": 0.24897070134013433,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.82,
+      "previous_close": 62.70000076293945,
+      "change_pct": 0.191386340670463,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.49,
+      "previous_close": 53.459999084472656,
+      "change_pct": 0.056118436290919504,
+      "as_of": "2026-10-02"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 166.18,
+      "previous_close": 166.1999969482422,
+      "change_pct": -0.012031858369054849,
+      "as_of": "2026-10-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates",
+      "summary": "Stocks are coming off a week defined by surging Treasury yields and a surprisingly weak jobs report that helped ease concerns about another Fed rate hike.",
+      "link": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T06:07:37+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending higher early Monday as Wall Street processes a surprisingly soft September jobs report and shifting geopolitical dynamics following Iran’s refusal to reopen the Strait of Hormuz without preconditions. The crowd on Polymarket, a Polygon (CRYPTO:...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62153975/stock-market-will-sp-500-open-up-or-down-today-50?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T06:03:47+00:00"
+    },
+    {
+      "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
+      "summary": "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports.",
+      "link": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T05:34:17+00:00"
+    },
+    {
+      "title": "Stocktwits Retail Therapy: Consumer Stocks Face Heat But Carnival, Mattel And Stitch Fix Buck The Trend",
+      "summary": "Consumer stocks struggled as sector ETFs extended losses, but Carnival, Mattel and Stitch Fix rallied on strong bookings, takeover interest and an analyst upgrade.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-retail-therapy-consumer-stocks-face-heat-but-carnival-mattel-and-stitch-fix-buck-the-trend/cZDpNWdRBSB?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T05:29:24+00:00"
+    },
+    {
+      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+      "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+      "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T05:00:01+00:00"
+    },
+    {
+      "title": "International Markets Are Pulling Ahead Of US Stocks In 2026: These 4 ETFs Have Left SPY, QQQ, DIA In The Dust",
+      "summary": "An artificial intelligence boom, varied macroeconomic policies, and a volatile foreign exchange market have contributed to gains in markets outside the U.S.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/international-markets-are-pulling-ahead-of-us-stocks-in-2026-these-4-et-fs-have-left-spy-qqq-dia-in-the-dust/cZDpm1lRBS7?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T04:56:34+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
+      "summary": "Rocket, RegenXBio, Precision BioSciences, Kyverna and uniQure will present on Monday at a cell and gene-therapy conference.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-roche-faces-fda-gene-therapy-stocks-week-biotech-watchlist/cZDpS8iRBSc?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T03:09:33+00:00"
+    },
+    {
+      "title": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
+      "summary": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.",
+      "link": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T02:24:07+00:00"
+    },
+    {
+      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+      "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+      "link": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T02:15:12+00:00"
+    },
+    {
+      "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
+      "summary": "Japan’s century-old businesses face mounting pressures from rising costs, labor shortages, a shrinking market and succession challenges.",
+      "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T01:08:10+00:00"
+    },
+    {
+      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+      "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
+      "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T00:47:47+00:00"
+    },
+    {
+      "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows",
+      "summary": "Flavio Bolsonaro led Brazil’s first-round presidential vote as more than half the ballots were counted, with Datafolha projecting a runoff.",
+      "link": "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T23:39:38+00:00"
+    },
+    {
+      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+      "summary": "Yemen's government said it was launching a major military campaign to recapture all areas of the country controlled by the Iran-backed Houthis.",
+      "link": "https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T22:47:20+00:00"
+    },
+    {
+      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+      "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+      "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T22:08:34+00:00"
+    },
+    {
+      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+      "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
+      "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T21:46:15+00:00"
+    },
+    {
+      "title": "Forget the S&P 500: SCHD Is Beating It by Nearly 10 Points in 2026 and Its Dividend Just Grew",
+      "summary": "SCHD has quietly pulled ahead of SPY by a wide margin in 2026, but the longer you zoom out, the more complicated the story gets. Before you shift your portfolio, there are tax consequences and a decade of data worth examining first.",
+      "link": "https://247wallst.com/investing/etf/2026/10/04/forget-the-sp-500-schd-is-beating-it-by-nearly-10-points-in-2026-and-its-dividend-just-grew/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-04T21:03:17+00:00"
+    },
+    {
+      "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
+      "summary": "In his Sunday column, Jim Cramer explains why investors need to hold their nose and do some buying.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T20:32:16+00:00"
+    },
+    {
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "summary": "“We have an ironclad prenup.”",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-04T20:31:00+00:00"
+    },
+    {
+      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
+      "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-04T20:28:47+00:00"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-04T20:00:00+00:00"
+    }
+  ]
+}
