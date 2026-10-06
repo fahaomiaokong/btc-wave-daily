@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.5,
+      "previous_close": 48.86000061035156,
+      "change_pct": 1.30986365463297,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.61,
+      "previous_close": 110.31999969482422,
+      "change_pct": 1.169325878122085,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.45,
+      "previous_close": 62.81999969482422,
+      "change_pct": 1.0028658201787444,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.88,
+      "previous_close": 53.4900016784668,
+      "change_pct": 0.7291050837454183,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.37,
+      "previous_close": 166.17999267578125,
+      "change_pct": 0.7160954246402396,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.04,
+      "previous_close": 80.52999877929688,
+      "change_pct": 0.6333058840604977,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 200.93,
+      "previous_close": 199.80999755859375,
+      "change_pct": 0.560533734593438,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 39.97,
+      "previous_close": 39.83000183105469,
+      "change_pct": 0.3514892355243493,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 110.42,
+      "previous_close": 110.04000091552734,
+      "change_pct": 0.3453281364150129,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.1,
+      "previous_close": 169.9499969482422,
+      "change_pct": 0.08826305057452188,
+      "as_of": "2026-10-05"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.67,
+      "previous_close": 40.810001373291016,
+      "change_pct": -0.3430565267822816,
+      "as_of": "2026-10-05"
+    }
+  ],
+  "news": [
+    {
+      "title": "How quant funds beat the market by being 'early, contrarian and right'",
+      "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+      "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T06:57:42+00:00"
+    },
+    {
+      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+      "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
+      "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T06:17:40+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending slightly higher early Tuesday as Wall Street navigates a quiet global trading session, digesting a severe economic crisis unfolding in Iran, elevated Treasury yields, and the onset of the third-quarter earnings season. The Polymarket (CRYPTO:...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62181377/stock-market-will-sp-500-open-up-or-down-today-51?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T06:12:09+00:00"
+    },
+    {
+      "title": "Stock Market News for Oct 6, 2026",
+      "summary": "Wall Street ended higher on Monday, supported by gains in technology stocks, with the Nasdaq Composite reaching a record high.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-6-054400913.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T05:44:00+00:00"
+    },
+    {
+      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+      "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+      "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T04:07:24+00:00"
+    },
+    {
+      "title": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
+      "summary": "In the latest sign of growing skepticism around the closure of the trade deal between New Delhi and Washington, an Indian minister said there is little room for ‘giving and taking.’",
+      "link": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T02:39:19+00:00"
+    },
+    {
+      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
+      "summary": "Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.",
+      "link": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T02:23:18+00:00"
+    },
+    {
+      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+      "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+      "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T01:55:50+00:00"
+    },
+    {
+      "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+      "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
+      "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T01:47:32+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+      "link": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T23:41:11+00:00"
+    },
+    {
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+      "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-05T23:30:00+00:00"
+    },
+    {
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+      "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T23:28:31+00:00"
+    },
+    {
+      "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+      "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
+      "link": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T23:14:39+00:00"
+    },
+    {
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-05T23:00:00+00:00"
+    },
+    {
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+      "link": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T22:18:13+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+      "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-hits-record-highs-as-investors-shrug-off-pressure-from-soaring-yields-nvda-spcx-crml-tsla-qcom-in-focus/cZDqO2yRBjp?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T22:09:32+00:00"
+    },
+    {
+      "title": "Financials Are 26.30% of DIA. No One Set That Target, Share Prices Did",
+      "summary": "Most investors buy DIA for its blue-chip reputation and walk away thinking they own a balanced slice of American business. But the math behind how its holdings are weighted quietly hands one sector a quarter of your money before you ever make a choice.",
+      "link": "https://247wallst.com/investing/etf/2026/10/05/financials-are-26-30-of-dia-no-one-set-that-target-share-prices-did/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-05T22:03:36+00:00"
+    },
+    {
+      "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+      "summary": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+      "link": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-05T22:00:01+00:00"
+    },
+    {
+      "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+      "summary": "Analysts highlight the stock’s cheap valuation and the chip maker’s central role in the AI ecosystem.",
+      "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-05T21:52:00+00:00"
+    },
+    {
+      "title": "This new AI model could help America close a technological gap with China",
+      "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
+      "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-05T21:43:00+00:00"
+    }
+  ]
+}
