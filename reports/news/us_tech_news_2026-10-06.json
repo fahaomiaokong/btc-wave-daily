@@ -1,0 +1,105 @@
+[
+  {
+    "title": "The Zacks Analyst Blog Highlights Lam, Taiwan, Marathon, NVIDIA, Micron and Alphabet",
+    "summary": "Lam Research, TSMC and Marathon Petroleum stand out ahead of Q3 earnings as AI demand, semiconductor growth and elevated oil prices drive estimates higher.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lam-052500097.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-06T05:25:00+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "TSM"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: NVIDIA's, Alphabet's, Meta, Expedia, Apple and MongoDB",
+    "summary": "NVIDIA's, Alphabet's, Meta, Expedia, Apple and MongoDB have been highlighted in this Investment Ideas article.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/zacks-investment-ideas-feature-highlights-042900612.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-06T04:29:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "GOOGL",
+      "META"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+    "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+    "link": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+    "source": "Tech",
+    "published": "2026-10-05T22:18:13+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "META"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Does Wall Street Think Gemini 4 Argon Stacks Up Against The Competition?",
+    "summary": "During a recent episode of The AI Investor Podcast, Eric Bleeker and Austin Smith broke down the recent release of Google's Gemini 4 Argon, and examined how it stacks up against the competition in areas such as coding. The duo also discussed what Wall Street appears to think about the release and what this could mean for the future of Alphabet's stock. With fierce competition from OpenAI as well as Anthropic's Muse, AI investors want to know which model will be able to separate itself from the pack in the coming years so that they can invest before it's too late.",
+    "link": "https://247wallst.com/videos/does-wall-street-think-gemini-4-argon-stacks-up-against-the-competition/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-06T05:30:10+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%",
+    "summary": "Dan Niles still likes Alphabet and Meta as Google Cloud grows 82% and Meta's Muse AI agent tops the App Store ranking.",
+    "link": "https://beincrypto.com/dan-niles-alphabet-meta-google-cloud/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-06T04:05:00+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "source": "The Verge",
+    "published": "2026-10-05T18:08:39+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Why Did NVDA, TSM, WBD Stocks Hit 52-Week Highs Today?",
+    "summary": "AI spending, potential Musk-linked chip manufacturing and merger progress boosted investor optimism across technology and media.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-nvda-tsm-wbd-stocks-hit-52-week-highs-today/cZDspORRBjy?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-06T03:28:28+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 12
+  },
+  {
+    "title": "All the drama around AI’s takeover of mathematics",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "source": "The Verge",
+    "published": "2026-10-05T19:42:41+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
