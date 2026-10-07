@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.16,
+      "previous_close": 39.970001220703125,
+      "change_pct": 2.977229779719126,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.72,
+      "previous_close": 110.41999816894531,
+      "change_pct": 1.1773246265279314,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.1,
+      "previous_close": 40.66999816894531,
+      "change_pct": 1.0572949358601758,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.8,
+      "previous_close": 81.04000091552734,
+      "change_pct": 0.9378073493173433,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 171.58,
+      "previous_close": 170.10000610351562,
+      "change_pct": 0.8700728062194907,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 202.0,
+      "previous_close": 200.92999267578125,
+      "change_pct": 0.5325274290659543,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.75,
+      "previous_close": 63.45000076293945,
+      "change_pct": 0.47281203065923094,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.73,
+      "previous_close": 49.5,
+      "change_pct": 0.46464646464645654,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.01,
+      "previous_close": 53.880001068115234,
+      "change_pct": 0.2412749244760093,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.65,
+      "previous_close": 111.61000061035156,
+      "change_pct": 0.03583853546249571,
+      "as_of": "2026-10-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 167.09,
+      "previous_close": 167.3699951171875,
+      "change_pct": -0.1672911067431504,
+      "as_of": "2026-10-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures were little changed early Wednesday as investors awaited the Federal Reserve’s September meeting minutes and weighed renewed geopolitical tensions surrounding the U.S.-Iran conflict. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Oct. 7 trading session....",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62208852/stock-market-will-sp-500-open-up-or-down-today-52?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-07T06:14:09+00:00"
+    },
+    {
+      "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+      "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+      "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T05:29:30+00:00"
+    },
+    {
+      "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+      "summary": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to Singapore state-owned investment giant Temasek.",
+      "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T05:25:29+00:00"
+    },
+    {
+      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+      "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+      "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T05:11:55+00:00"
+    },
+    {
+      "title": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
+      "summary": "Lake Balaton in south-west Hungary has been a popular vacation destination for decades, but average transaction prices are falling.",
+      "link": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T05:00:01+00:00"
+    },
+    {
+      "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+      "summary": "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
+      "link": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T04:12:27+00:00"
+    },
+    {
+      "title": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
+      "summary": "Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open.",
+      "link": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T02:10:52+00:00"
+    },
+    {
+      "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+      "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+      "link": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T00:49:34+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "A rally in tech stocks and cooler Treasury yields lifted the S&P 500 to an all-time high and a record close on Tuesday.",
+      "link": "https://www.cnbc.com/2026/10/06/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T23:51:26+00:00"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "“Both properties will be solely in his name.”",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-06T22:54:00+00:00"
+    },
+    {
+      "title": "S&P 500 And Nasdaq 100 Soar To Record Highs Amid Rising Bets Of Strong Quarterly Earnings — CEG, LCID, SPCX, MRVL In Focus",
+      "summary": "Constellation Energy was the top Nasdaq 100 gainer on its multi-year nuclear power deal with Google.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-soar-to-record-highs-amid-rising-bets-of-strong-quarterly-earnings-ceg-lcid-spcx-mrvl-in-focus/cZDtSxvRBlj?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T22:35:29+00:00"
+    },
+    {
+      "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+      "summary": "Millions of investors bought XLK expecting broad exposure to the companies reshaping the economy, but a closer look at its SEC filing reveals several of the most recognizable names in tech are nowhere inside it, and the ones that are create a concentration few buyers anticipate.",
+      "link": "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T22:33:44+00:00"
+    },
+    {
+      "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+      "summary": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom.",
+      "link": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T22:13:04+00:00"
+    },
+    {
+      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-06T21:52:00+00:00"
+    },
+    {
+      "title": "Trump hedges on paying back government for ads that already aired",
+      "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+      "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T21:32:32+00:00"
+    },
+    {
+      "title": "Is A Tech Bubble Brewing? BofA Analysts Think So; Advises To Buy QQQ Options As A Hedge",
+      "summary": "Bank of America market strategists suggest that investors worried about a swelling technology stock bubble can manage risk by using options contracts instead of buying stocks directly.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/is-a-tech-bubble-brewing-bof-a-analysts-think-so-advises-to-buy-qqq-options-as-a-hedge/cZDt0zGRBl1?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T21:21:30+00:00"
+    },
+    {
+      "title": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
+      "summary": "Uncertainty surrounds the death of an employee at a Russian anti-plague institute. Here's what infectious disease experts say about how worried you should be.",
+      "link": "https://www.cnbc.com/make-it/2026/10/06/russia-plague-global-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T21:13:30+00:00"
+    },
+    {
+      "title": "Shopping for a car on Amazon? Compare these auto lenders before financing",
+      "summary": "Amazon Autos offers financing through participating lenders, but shoppers should still compare auto loans to find the best rates and terms.",
+      "link": "https://www.cnbc.com/select/shopping-for-a-car-on-amazon-compare-auto-lenders-before-you-finance/",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-06T21:00:01+00:00"
+    },
+    {
+      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+      "summary": "Not just one, but two, major market turning points since 2000 have occurred on that day.",
+      "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-06T20:37:00+00:00"
+    },
+    {
+      "title": "How to Combine 5% Bond Returns with My Favorite ‘Lottery Ticket’ Options Trades for Maximum Portfolio Potential",
+      "summary": "I do not place these trades because I am certain they will work. I place them when technical setups offer highly favorable risk-reward tradeoffs.",
+      "link": "https://www.barchart.com/story/news/4992488/how-to-combine-5-bond-returns-with-my-favorite-lottery-ticket-options-trades-for-maximum-portfolio-potential?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-06T20:33:10+00:00"
+    }
+  ]
+}
