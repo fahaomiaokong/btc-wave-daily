@@ -1,0 +1,99 @@
+[
+  {
+    "title": "MSFT Stock On 4-Day Winning Streak: Microsoft Takes On Apple's Macs With Nvidia-Powered Surface Ultra, More On-Device AI",
+    "summary": "Microsoft is pushing Windows deeper into the local-AI era with Nvidia-powered Surface, on-device models and hybrid Copilot features.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/msft-stock-on-4-day-winning-streak-microsoft-takes-on-apple-s-macs-with-nvidia-powered-surface-ultra-more-on-device-ai/cZDUPNQRBZS?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-08T03:28:43+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+    "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
+    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "source": "The Verge",
+    "published": "2026-10-07T22:15:22+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "ARM"
+    ],
+    "score": 14
+  },
+  {
+    "title": "TSMC's September sales jump more than 50% year over year",
+    "summary": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "source": "Tech",
+    "published": "2026-10-08T06:31:37+00:00",
+    "tickers": [
+      "NET",
+      "TSM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "summary": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "source": "Tech",
+    "published": "2026-10-07T20:26:13+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch",
+    "published": "2026-10-07T20:22:37+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "TSMC Q3 sales beat estimates on surging AI chip demand",
+    "summary": "Investing.com-- Taiwan Semiconductor Manufacturing Co's (TW:2330) third-quarter revenue topped market expectations as surging demand for artificial intelligence chips continued to fuel growth at the world's largest contract chipmaker.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-q3-sales-beat-estimates-062509678.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-08T06:25:09+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 9
+  },
+  {
+    "title": "'Big Short' Michael Burry Says OpenAI, Anthropic Want To Join Big Tech's Oligopoly — But Much Of AI Spending May Become 'Sunk Cost'",
+    "summary": "AI infrastructure spending faces renewed scrutiny from Burry.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/big-short-michael-burry-says-open-ai-anthropic-want-to-join-big-tech-s-oligopoly-but-much-of-ai-spending-may-become-sunk-cost/cZDU3UsRBZF?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-08T04:56:42+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "published": "2026-10-07T14:15:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
