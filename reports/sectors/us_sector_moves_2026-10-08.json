@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.81,
+      "previous_close": 167.08999633789062,
+      "change_pct": 1.0293875754423754,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.15,
+      "previous_close": 41.15999984741211,
+      "change_pct": -0.02429506182989316,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 81.7,
+      "previous_close": 81.80000305175781,
+      "change_pct": -0.12225311494735713,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 201.39,
+      "previous_close": 202.0,
+      "change_pct": -0.30198019801981335,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.36,
+      "previous_close": 111.72000122070312,
+      "change_pct": -0.3222352459448574,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.26,
+      "previous_close": 111.6500015258789,
+      "change_pct": -0.34930722843609097,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 53.75,
+      "previous_close": 54.0099983215332,
+      "change_pct": -0.4813892420165944,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.36,
+      "previous_close": 63.75,
+      "change_pct": -0.6117647058823561,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.57,
+      "previous_close": 41.099998474121094,
+      "change_pct": -1.2895340481698825,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.98,
+      "previous_close": 49.72999954223633,
+      "change_pct": -1.5081430708627885,
+      "as_of": "2026-10-07"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.84,
+      "previous_close": 171.5800018310547,
+      "change_pct": -2.1797422724923687,
+      "as_of": "2026-10-07"
+    }
+  ],
+  "news": [
+    {
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+      "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+      "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T06:32:57+00:00"
+    },
+    {
+      "title": "TSMC's September sales jump more than 50% year over year",
+      "summary": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+      "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T06:31:37+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending slightly lower early Thursday as investors digest hawkish inflation survey data, rising Treasury yields, and reports that the Pentagon is preparing for potential military strikes in Iran. The Polymarket (CRYPTO: POL) crowd is nearly evenly...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62236979/stock-market-will-sp-500-open-up-or-down-today-53?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-08T06:12:35+00:00"
+    },
+    {
+      "title": "Stock futures move lower after S&P 500 retreats from record: Live updates",
+      "summary": "Stock futures edged lower early Thursday as higher yields dent investor appetite.",
+      "link": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T06:11:31+00:00"
+    },
+    {
+      "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+      "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+      "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T05:30:49+00:00"
+    },
+    {
+      "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+      "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
+      "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T05:28:40+00:00"
+    },
+    {
+      "title": "Barclays sees big haircare gains for this consumer stock as shoppers prioritize self-care",
+      "summary": "This consumer stock's burgeoning haircare segment is being overlooked despite consumers continuing to splurge on self-care routines, Barclays says.",
+      "link": "https://www.cnbc.com/2026/10/08/barclays-haircare-gains-self-care-consumers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T05:00:01+00:00"
+    },
+    {
+      "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
+      "summary": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+      "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T03:29:29+00:00"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "“Both properties will be solely in his name.”",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T02:00:00+00:00"
+    },
+    {
+      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T01:45:00+00:00"
+    },
+    {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "summary": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
+      "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T00:51:23+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño",
+      "summary": "The super El Niño weather phenomenon is emerging as the latest headwind for the Indian economy.",
+      "link": "https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T00:14:40+00:00"
+    },
+    {
+      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+      "summary": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang.",
+      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T23:10:54+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 slid from its record on Wednesday as elevated yields weighed on stocks. Tune into CNBC Thursday morning for Skydance's David Ellison and Ynon Kreiz.",
+      "link": "https://www.cnbc.com/2026/10/07/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T23:04:15+00:00"
+    },
+    {
+      "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",
+      "summary": "The 30-year bond yield hit its highest level since May 2002 at 5.732%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-slip-from-record-highs-amid-pressure-from-soaring-treasury-yields-spcx-amd-nvda-mrvl-in-focus/cZDvp0iRBZ9?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-07T22:50:51+00:00"
+    },
+    {
+      "title": "JEPQ Trailed the Nasdaq-100 by $17,970 on $300,000 Over One Year. The Covered Calls Are Why",
+      "summary": "Putting $300,000 into a high-yield Nasdaq fund that pays monthly sounds like a retiree's dream, but the number your account statement never shows tells a very different story about what those monthly checks actually cost you.",
+      "link": "https://247wallst.com/investing/etf/2026/10/07/jepq-trailed-the-nasdaq-100-by-17970-on-300000-over-one-year-the-covered-calls-are-why/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-07T22:33:16+00:00"
+    },
+    {
+      "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
+      "summary": "President Trump is giving awards to a number of top tech executives at a summit on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T22:32:14+00:00"
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-07T22:32:00+00:00"
+    },
+    {
+      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+      "summary": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
+      "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T22:29:41+00:00"
+    },
+    {
+      "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
+      "summary": "Jim Cramer said higher borrowing costs are splitting the market, putting pressure on credit-sensitive sectors while AI companies remain largely insulated.",
+      "link": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-07T22:22:32+00:00"
+    }
+  ]
+}
