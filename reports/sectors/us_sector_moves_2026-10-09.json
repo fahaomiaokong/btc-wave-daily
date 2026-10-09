@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.24,
+      "previous_close": 63.36000061035156,
+      "change_pct": 2.967170725281343,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.42,
+      "previous_close": 81.69999694824219,
+      "change_pct": 2.1052669718549133,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.23,
+      "previous_close": 53.75,
+      "change_pct": 0.8930232558139517,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.07,
+      "previous_close": 111.26000213623047,
+      "change_pct": 0.7280225132278328,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 40.85,
+      "previous_close": 40.56999969482422,
+      "change_pct": 0.6901659040719821,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.27,
+      "previous_close": 48.97999954223633,
+      "change_pct": 0.5920793394732504,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.4,
+      "previous_close": 167.83999633789062,
+      "change_pct": 0.33365328546719475,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.71,
+      "previous_close": 111.36000061035156,
+      "change_pct": 0.3142954272001841,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.07,
+      "previous_close": 41.150001525878906,
+      "change_pct": -0.19441439346872258,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 168.16,
+      "previous_close": 168.80999755859375,
+      "change_pct": -0.38504683845407284,
+      "as_of": "2026-10-08"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 197.78,
+      "previous_close": 201.38999938964844,
+      "change_pct": -1.7925415366151443,
+      "as_of": "2026-10-08"
+    }
+  ],
+  "news": [
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T06:30:01+00:00"
+    },
+    {
+      "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+      "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
+      "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T06:16:19+00:00"
+    },
+    {
+      "title": "Michael Burry Says Trump Will ‘Pull Out All The Stops’ For AI — ‘Dean Of Valuation’ Holds 5 Mag Seven Stocks, Adds Cash",
+      "summary": "Burry says the Fed has “fewer arrows” and warns Wall Street’s machinery could bring markets down quickly.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-trump-pull-out-stops-ai-dean-of-valuation-holds-5-mag-seven-stocks-adds-cash/cZD6hzXRBVm?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T06:05:56+00:00"
+    },
+    {
+      "title": "Are SaaS Stocks Making A Comeback? Autodesk, Intuit Outperform In Tough Week For Tech",
+      "summary": "Tech stocks broadly declined this week as escalating tensions over the Iran war fueled fresh uncertainty across financial markets.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/are-saa-s-stocks-making-a-comeback-autodesk-intuit-outperform-in-tough-week-for-tech/cZD6WT3RBVl?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T05:32:27+00:00"
+    },
+    {
+      "title": "New York City man shot in car with child present by ICE agents, mayor says",
+      "summary": "ICE agents shot and wounded a man in a Bronx car with a 5-year-old inside during a targeted immigration operation, officials said.",
+      "link": "https://www.cnbc.com/2026/10/09/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T04:18:41+00:00"
+    },
+    {
+      "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates",
+      "summary": "The Nasdaq Composite dropped more than 1% on Thursday, marking its biggest one-day loss since mid-August.",
+      "link": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T04:17:06+00:00"
+    },
+    {
+      "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+      "summary": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+      "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T04:11:59+00:00"
+    },
+    {
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T03:51:15+00:00"
+    },
+    {
+      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
+      "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+      "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T02:52:15+00:00"
+    },
+    {
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T00:52:00+00:00"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "summary": "Seven tips for painlessly moving in retirement.",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T00:03:00+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The artificial intelligence trade took a hit on Thursday after OpenAI's annualized revenue was revealed to be short of the amount previously signaled.",
+      "link": "https://www.cnbc.com/2026/10/08/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T23:47:52+00:00"
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T23:14:00+00:00"
+    },
+    {
+      "title": "Why Buy-and-Hold Investors Are Switching From QQQ to This Lower-Fee Alternative",
+      "summary": "Two Invesco funds track the exact same index, come from the same sponsor, and hold the identical portfolio, yet one quietly costs more than the other every single year. Before your next contribution lands in QQQ, there is a structural reason long-term investors are rerouting their money.",
+      "link": "https://247wallst.com/investing/etf/2026/10/08/why-buy-and-hold-investors-are-switching-from-qqq-to-this-lower-fee-alternative/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-08T23:03:06+00:00"
+    },
+    {
+      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+      "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-08T22:55:46+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
+      "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-08T22:55:19+00:00"
+    },
+    {
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+      "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T22:08:00+00:00"
+    },
+    {
+      "title": "The S&P 500 ETF You Know Charges 0.0945%. These 2 Charge 0.03%",
+      "summary": "Most investors default to the most famous S&P 500 ETF without realizing its fee structure puts them at a silent disadvantage compared to two funds holding the exact same 500 companies.",
+      "link": "https://247wallst.com/investing/etf/2026/10/08/the-sp-500-etf-you-know-charges-0-0945-these-2-charge-0-03/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-08T22:03:10+00:00"
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T22:00:00+00:00"
+    },
+    {
+      "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+      "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
+      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-08T21:56:00+00:00"
+    }
+  ]
+}
