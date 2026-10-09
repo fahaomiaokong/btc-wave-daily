@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+    "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "source": "Tech",
+    "published": "2026-10-08T21:19:14+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "ORCL"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Is SailPoint (SAIL) Fairly Valued After Its Latest Identity Security Launches?",
+    "summary": "SailPoint (SAIL) just rolled out a fresh batch of identity security features, tying its platform into tools like Microsoft Purview, BigID, and data warehouses such as Google BigQuery and AWS Redshift. Investors have been rewarding that story in recent months, with SailPoint’s share price showing a 46.02% 90-day return and a 12.54% 30-day share price return, even though the 1-year total shareholder return is still down 14.08%. Scan how SailPoint’s AI identity security story compares with other...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sailpoint-sail-fairly-valued-latest-031812595.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-09T03:18:12+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Nvidia Stock Faces Critical Warning Sign. Is the AI Trade Breaking?",
+    "summary": "Nvidia stock fell 2.94% to $230.48 as OpenAI's $50 billion revenue figure rattled AI stocks. Is the AI trade breaking?",
+    "link": "https://beincrypto.com/nvidia-stock-warning-sign-ai-trade/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-09T03:04:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Dow Jones Futures Rise After AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+    "summary": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
+    "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures-rise-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-09T04:52:28+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+    "summary": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "source": "Tech",
+    "published": "2026-10-08T06:50:42+00:00",
+    "tickers": [
+      "NET",
+      "TSM"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "summary": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "source": "Tech",
+    "published": "2026-10-08T11:49:39+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+    "summary": "Google may become a major AI chipmaker, and there are some clear winners from that development.",
+    "link": "https://www.fool.com/investing/2026/10/09/3-stocks-poised-to-gain-as-google-brings-its-ai-ch/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-09T05:57:00+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: Microsoft, Dell, HP, Lenovo and Nvidia",
+    "summary": "Microsoft, Dell, HP, Lenovo and Nvidia have been highlighted in this Investment Ideas article.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-044500352.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-09T04:45:00+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 8
+  }
+]
