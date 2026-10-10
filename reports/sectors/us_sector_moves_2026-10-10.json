@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.61,
+      "previous_close": 40.849998474121094,
+      "change_pct": 1.8604689210952374,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.81,
+      "previous_close": 168.16000366210938,
+      "change_pct": 1.5758779021052938,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.85,
+      "previous_close": 111.70999908447266,
+      "change_pct": 1.0205003355745257,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.73,
+      "previous_close": 54.22999954223633,
+      "change_pct": 0.921999745499269,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.41,
+      "previous_close": 41.06999969482422,
+      "change_pct": 0.8278556311229535,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 198.78,
+      "previous_close": 197.77999877929688,
+      "change_pct": 0.5056129168142132,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.25,
+      "previous_close": 168.39999389648438,
+      "change_pct": 0.5047542365340663,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.43,
+      "previous_close": 49.27000045776367,
+      "change_pct": 0.3247402897296192,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.43,
+      "previous_close": 83.41999816894531,
+      "change_pct": 0.011989728211747597,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.08,
+      "previous_close": 65.23999786376953,
+      "change_pct": -0.24524504752994059,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.38,
+      "previous_close": 112.06999969482422,
+      "change_pct": -1.507985811926682,
+      "as_of": "2026-10-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+      "summary": "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\"",
+      "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T05:00:01+00:00"
+    },
+    {
+      "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+      "summary": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.",
+      "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T05:00:01+00:00"
+    },
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "summary": "“I presume these are sophisticated investors taking a profit.”",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T03:15:00+00:00"
+    },
+    {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T02:09:00+00:00"
+    },
+    {
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T00:15:00+00:00"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "“Both properties will be solely in his name.”",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T23:15:00+00:00"
+    },
+    {
+      "title": "State Street (STT) Gains A Trump Account Tailwind, Is It Still 12% Below Fair Value?",
+      "summary": "The Treasury Department’s creation of nearly 70 million Trump Accounts for children, with default contributions into a State Street (STT) SPDR S&P 500 ETF, has quickly put State Street in investors’ crosshairs. That influx of Trump Account money is hitting State Street at an interesting moment, because the share price has slipped 8.82% over the past month even as the year-to-date share price return sits at 35.55% and the 1-year total shareholder return reaches 61.36%. This suggests strong...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-gains-trump-231320886.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T23:13:20+00:00"
+    },
+    {
+      "title": "Your QQQI Check Has Swung From $0.5309 to $0.6589 a Share While Your Bills Did Not",
+      "summary": "QQQI sends a different check every month, and the gap between its best and worst payments is wide enough to break a budget built around either one. Here is what that variability actually costs a retiree counting on it for real bills.",
+      "link": "https://247wallst.com/investing/etf/2026/10/09/your-qqqi-check-has-swung-from-0-5309-to-0-6589-a-share-while-your-bills-did-not/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T23:03:20+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
+      "summary": "Wall Street’s biggest banks, including JPMorgan, Morgan Stanley, and Wells Fargo, will report earnings next week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T22:53:11+00:00"
+    },
+    {
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "summary": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
+      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T22:41:00+00:00"
+    },
+    {
+      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
+      "summary": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+      "link": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T22:22:35+00:00"
+    },
+    {
+      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+      "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T22:00:00+00:00"
+    },
+    {
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+      "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T21:30:00+00:00"
+    },
+    {
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T21:27:00+00:00"
+    },
+    {
+      "title": "Microsoft is nearing a big milestone that solidifies its revival",
+      "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T21:24:00+00:00"
+    },
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T21:07:00+00:00"
+    },
+    {
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-09T21:00:00+00:00"
+    },
+    {
+      "title": "French yields are near levels not seen since 2002. Why that could give U.S. Treasurys a boost",
+      "summary": "French and other European bond yields are surging, which may prompt a flight to the U.S. Treasury market, investors and strategists told CNBC.",
+      "link": "https://www.cnbc.com/2026/10/09/french-bond-yields-us-treasurys.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T20:57:25+00:00"
+    },
+    {
+      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+      "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+      "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T20:51:25+00:00"
+    },
+    {
+      "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+      "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+      "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-09T20:16:58+00:00"
+    }
+  ]
+}
