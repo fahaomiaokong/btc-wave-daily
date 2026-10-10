@@ -1,0 +1,97 @@
+[
+  {
+    "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
+    "summary": "The Magnificent Seven are pursuing different AI strategies, from desktop agents and cloud-based assistants to wearable devices and custom chips.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-how-nvidia-microsoft-alphabet-meta-reshaped-ai-this-week/cZxT1H2RBn8?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-10T03:26:37+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "META"
+    ],
+    "score": 19
+  },
+  {
+    "title": "CrowdStrike Holdings (CRWD) Climbed, But What Is Behind The Attention Now?",
+    "summary": "CrowdStrike Holdings (CRWD) is back in focus after announcing that its Falcon cybersecurity platform is now available in the OpenAI Marketplace, giving enterprise customers another route to deploy its tools. The move into the OpenAI Marketplace comes at a time when momentum in CrowdStrike Holdings' shares remains strong, with a 30-day share price return of 32.36% and a 90-day gain of 46.94%. This has contributed to a 142.55% year-to-date share price increase and a 1-year total shareholder...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-climbed-behind-041834700.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-10T04:18:34+00:00",
+    "tickers": [
+      "MSFT",
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks — But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",
+    "summary": "The trades put some of Ark's better-known holdings on the sell side, including AMD, Alphabet, and SpaceX, while its genomics-focused ARK Genomic Revolution ETF continued to add to biotech companies.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-biotech-stocks-sells-amd-spcx-goog/cZxTVbERBnq?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-10T06:02:32+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Why Cloudflare (NET) Stock Is Up Today",
+    "summary": "Shares of cloud security and performance company Cloudflare (NYSE:NET) jumped 6% in the afternoon session after the company announced that the Deno team joined its platform to simplify self-hosting Workers and Durable Objects, while StreetInsider reported that Oppenheimer simultaneously raised its price target on the stock to $430 amid a broad tech sector recovery.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-stock-today-013110659.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-10T01:31:10+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch",
+    "published": "2026-10-09T16:56:42+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+    "summary": "AI labs have been looking to people with political experience as frontier tech is increasingly viewed as a national security issue.",
+    "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+    "source": "Tech",
+    "published": "2026-10-09T13:49:54+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "link": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "Tech",
+    "published": "2026-10-09T12:40:30+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
+    "summary": "An Anthropic IPO will boost several companies.",
+    "link": "https://www.fool.com/investing/2026/10/10/which-stocks-have-the-biggest-exposure-to-anthropi/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-10T04:20:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  }
+]
