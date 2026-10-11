@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.61,
+      "previous_close": 40.849998474121094,
+      "change_pct": 1.8604689210952374,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.81,
+      "previous_close": 168.16000366210938,
+      "change_pct": 1.5758779021052938,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.85,
+      "previous_close": 111.70999908447266,
+      "change_pct": 1.0205003355745257,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.73,
+      "previous_close": 54.22999954223633,
+      "change_pct": 0.921999745499269,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.41,
+      "previous_close": 41.06999969482422,
+      "change_pct": 0.8278556311229535,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 198.78,
+      "previous_close": 197.77999877929688,
+      "change_pct": 0.5056129168142132,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.25,
+      "previous_close": 168.39999389648438,
+      "change_pct": 0.5047542365340663,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.43,
+      "previous_close": 49.27000045776367,
+      "change_pct": 0.3247402897296192,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.43,
+      "previous_close": 83.41999816894531,
+      "change_pct": 0.011989728211747597,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.08,
+      "previous_close": 65.23999786376953,
+      "change_pct": -0.24524504752994059,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.38,
+      "previous_close": 112.06999969482422,
+      "change_pct": -1.507985811926682,
+      "as_of": "2026-10-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say",
+      "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
+      "link": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T23:13:02+00:00"
+    },
+    {
+      "title": "Isaias kills four and leaves about 670,000 without power after landfall",
+      "summary": "About 420,000 customers in Florida, 190,000 in Alabama, 43,000 in Georgia and 17,000 in Mississippi had no power, according to tracking firm PowerOutage.us.",
+      "link": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T21:08:50+00:00"
+    },
+    {
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T20:59:28+00:00"
+    },
+    {
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "summary": "Risk comes in many forms, even with “safe” investments.",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "summary": "Parental controls aren’t just for kids anymore",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+      "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+      "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "summary": "Seven tips for painlessly moving in retirement.",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T19:44:00+00:00"
+    },
+    {
+      "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+      "summary": "Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.",
+      "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T19:19:07+00:00"
+    },
+    {
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "summary": "“I presume these are sophisticated investors taking a profit.”",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T18:31:00+00:00"
+    },
+    {
+      "title": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
+      "summary": "The two earlier streaks like it both ended with a down year of over 30%. Is today's run built any differently?",
+      "link": "https://www.fool.com/investing/2026/10/10/the-nasdaq-100-has-gained-20-or-more-3-years-running-this-streak-rests-on-far-stronger-earnings-than-1999-s/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-10T18:18:01+00:00"
+    },
+    {
+      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
+      "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
+      "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-10T16:50:00+00:00"
+    },
+    {
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+      "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T15:00:01+00:00"
+    },
+    {
+      "title": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?",
+      "summary": "State Street's fund charges just 0.08% annually versus iShares' 0.32%, but performance and yield tell a more nuanced story.",
+      "link": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-10T14:30:02+00:00"
+    },
+    {
+      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+      "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T14:22:23+00:00"
+    },
+    {
+      "title": "How de-extincting dire wolves and woolly mammoths may extend human life",
+      "summary": "Colossal Biosciences CEO Ben Lamm says bringing extinct species back can contribute to conservation, healthcare and developmental biology.",
+      "link": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T14:00:01+00:00"
+    },
+    {
+      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+      "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-10T13:42:36+00:00"
+    }
+  ]
+}
