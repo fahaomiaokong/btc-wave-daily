@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.61,
+      "previous_close": 40.849998474121094,
+      "change_pct": 1.8604689210952374,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 170.81,
+      "previous_close": 168.16000366210938,
+      "change_pct": 1.5758779021052938,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.85,
+      "previous_close": 111.70999908447266,
+      "change_pct": 1.0205003355745257,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.73,
+      "previous_close": 54.22999954223633,
+      "change_pct": 0.921999745499269,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.41,
+      "previous_close": 41.06999969482422,
+      "change_pct": 0.8278556311229535,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 198.78,
+      "previous_close": 197.77999877929688,
+      "change_pct": 0.5056129168142132,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.25,
+      "previous_close": 168.39999389648438,
+      "change_pct": 0.5047542365340663,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.43,
+      "previous_close": 49.27000045776367,
+      "change_pct": 0.3247402897296192,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 83.43,
+      "previous_close": 83.41999816894531,
+      "change_pct": 0.011989728211747597,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 65.08,
+      "previous_close": 65.23999786376953,
+      "change_pct": -0.24524504752994059,
+      "as_of": "2026-10-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.38,
+      "previous_close": 112.06999969482422,
+      "change_pct": -1.507985811926682,
+      "as_of": "2026-10-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures point to a strong start to the week on Monday as Wall Street welcomes cooling energy prices and prepares for the official kickoff of third-quarter bank earnings. According to the Oct. 12 contract on Polymarket, a Polygon...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62291026/stock-market-will-sp-500-open-up-or-down-today-55?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T06:19:33+00:00"
+    },
+    {
+      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+      "summary": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
+      "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T06:02:18+00:00"
+    },
+    {
+      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said in a post on social media that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
+      "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T05:57:29+00:00"
+    },
+    {
+      "title": "Stocktwits Retail Therapy: Consumer Stocks Snap Losing Streaks As Planet Fitness, MercadoLibre And Genius Sports Rally",
+      "summary": "Consumer ETFs recovered after several weeks of losses, led by gains in Planet Fitness, MercadoLibre and Genius Sports. Meanwhile, weak delivery figures and lower price targets pressured Lucid, Polestar and Levi Strauss.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/consumer-stocks-rebound-xlp-xly-planet-fitness-mercadolibre-genius/cZx4CZtRBFK?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T05:36:33+00:00"
+    },
+    {
+      "title": "Is Walt Disney (DIS) a Good or Bad Investment at Today’s Price?",
+      "summary": "The Walt Disney Company (NYSE:DIS) closed at $108.05 on October 9. The stock has returned 6.8% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. Disney is two companies stapled together, one that prints cash from land and […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-good-bad-050201170.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T05:02:01+00:00"
+    },
+    {
+      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+      "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+      "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T04:24:33+00:00"
+    },
+    {
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "summary": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
+      "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T02:28:54+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: JNJ Earnings, Cancer Updates And Two FDA Target Dates — The Week’s Biotech Watchlist",
+      "summary": "JNJ reports third-quarter results on Tuesday, and Koyfin analysts expect modest revenue growth and lower earnings.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-jnj-earnings-cancer-updates-fda-target-dates-week-biotech-watchlist/cZx4H9CRBFa?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T02:17:14+00:00"
+    },
+    {
+      "title": "What is SBA Communications’ (SBAC) Economic Moat, and is it Widening or Narrowing?",
+      "summary": "SBA Communications Corporation (NASDAQ:SBAC) closed at $182.49 on October 9. The stock has returned -17.1% during the last 6 months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. A company can be impossible to compete with and still have nowhere left to […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-sbac-economic-moat-015145003.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T01:50:43+00:00"
+    },
+    {
+      "title": "What is Copart’s (CPRT) Economic Moat, and is it Widening or Narrowing?",
+      "summary": "Copart, Inc. (NASDAQ:CPRT) closed at $27.32 on October 9. The stock has returned -17.8% during the last 6 months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust. A business this profitable usually borrows against it. Copart has spent years doing the […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-economic-moat-widening-013511567.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T01:35:11+00:00"
+    },
+    {
+      "title": "What is Domino’s (DPZ) Economic Moat, and is it Widening or Narrowing?",
+      "summary": "Domino’s Pizza, Inc. (NASDAQ:DPZ) closed at $309.36 on October 9. The stock has returned -16% during the last 6 months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust. Domino’s has handed shareholders more than the entire book value of the company […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/domino-dpz-economic-moat-widening-011131749.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T01:11:31+00:00"
+    },
+    {
+      "title": "What is Philip Morris’ (PM) Economic Moat, and is it Widening or Narrowing?",
+      "summary": "Philip Morris International Inc. (NYSE:PM) closed at $201.19 on October 9. The stock has returned 25.4% during the last 6 months, compared to a 33.9% return for the Insider Monkey Billionaire Index and 18.2% for the State Street SPDR S&P 500 ETF Trust. The company’s stated plan is to stop selling cigarettes, which is the […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-pm-economic-moat-005705275.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T00:57:05+00:00"
+    },
+    {
+      "title": "Why China is importing a record amount of gold — and what it means for prices",
+      "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
+      "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T00:51:10+00:00"
+    },
+    {
+      "title": "BP (BP) vs Exxon Mobil (XOM): Which Oil Major is a Better Buy?",
+      "summary": "BP p.l.c. (NYSE:BP) closed at $46.25 on October 9. The stock has returned -0.4% during the last six months, compared to a 33.9% return for Insider Monkey Billionaire Index and 18.2% for the State Street SPDR S&P 500 ETF Trust. Exxon Mobil Corporation (NYSE:XOM) closed at $168.94 and has returned 10.8% over the same six […]",
+      "link": "https://finance.yahoo.com/energy/articles/bp-bp-vs-exxon-mobil-002332472.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T00:23:32+00:00"
+    },
+    {
+      "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
+      "summary": "The fact is, I don't have a strong case for owning stocks at the moment.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-12T00:23:07+00:00"
+    },
+    {
+      "title": "3 Stocks To Play The Nuclear Energy Boom",
+      "summary": "The market has been brutal with nuclear companies that are still years away from making real money, but there is a good alternative.",
+      "link": "https://finance.yahoo.com/energy/articles/3-stocks-play-nuclear-energy-230000227.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-11T23:00:00+00:00"
+    },
+    {
+      "title": "Trump Media advisor Katie Zacharia named White House press secretary",
+      "summary": "Trump named Katie Zacharia to take over as the next press secretary.",
+      "link": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-11T22:16:40+00:00"
+    },
+    {
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-11T21:30:45+00:00"
+    },
+    {
+      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+      "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
+      "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-11T20:18:38+00:00"
+    },
+    {
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-11T20:15:00+00:00"
+    }
+  ]
+}
