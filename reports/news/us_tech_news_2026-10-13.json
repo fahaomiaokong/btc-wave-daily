@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare?",
+    "summary": "On October 8, the Financial Times reported that OpenAI’s annualized revenue was about $50 billion, roughly $20 billion below figures widely reported in September. AI stocks sold off. Nvidia Corporation (NASDAQ:NVDA) dropped about 3%, erasing roughly $170 billion in value, while Broadcom Inc. (NASDAQ:AVGO) fell more than 4%. Just hours later, Bloomberg reported that OpenAI […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-vs-broadcom-avgo-204108303.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T03:22:08+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AVGO"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+    "summary": "Dow Jones Futures: Micron and Nvidia stock led the AI trade lower Monday. Apple and Meta rallied near buy points.",
+    "link": "https://finance.yahoo.com/m/1b66e790-9e3e-3d5c-a8bf-167703811db3/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T03:03:19+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Abishai Financial Asia Reports S&P 500 Tech-Led Advance",
+    "summary": "AI chipmakers Nvidia, AMD and Marvell carry the S&P 500 and Nasdaq to record closes as Treasury yields ease and third-quarter earnings growth forecasts near 30% test how far equity valuations can still stretchSINGAPORE, SG / ACCESS Newswire / October 13, 2026 / The S&P 500 sets a record this week, closing at 7,820.85 on Tuesday for its first finish above 7,800.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/abishai-financial-asia-reports-p-055000533.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T05:50:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "The Bull Case For CrowdStrike (CRWD) Could Change Following Falcon’s Launch In The OpenAI Marketplace",
+    "summary": "In late September 2026, CrowdStrike announced that its Falcon platform became available in the OpenAI Marketplace, allowing eligible OpenAI enterprise customers to allocate part of their existing OpenAI commitments toward purchasing CrowdStrike’s AI-powered cybersecurity services. This move not only broadens distribution for Falcon but also ties CrowdStrike more closely into enterprise AI spending as companies secure emerging AI agents. Next, we’ll examine how Falcon’s new availability...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/bull-case-crowdstrike-crwd-could-042955306.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T04:29:55+00:00",
+    "tickers": [
+      "MSFT",
+      "CRWD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    "summary": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+    "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+    "source": "Tech",
+    "published": "2026-10-12T14:04:16+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Broadcom Introduces VMware HyperArmor, Expanding Hypervisor Security and Protections for VMware Cloud Foundation",
+    "summary": "VMware HyperArmor offers unique, proactive zero day protection to VMware Cloud Foundation environments with no downtime, software upgrades, or in-guest agentsPALO ALTO, Calif., Oct. 13, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions, today introduced VMware HyperArmor, a new software solution to help further protect the VMware ESX hypervisor component of VMware Cloud Founda",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-introduces-vmware-hyperarmor-expanding-070000343.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T07:00:00+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters",
+    "summary": "Investing.com-- Nvidia’s share of Chinese artificial intelligence chips fell in the first half of 2026 amid U.S. export controls and advancements by Huawei, Reuters reported on Tuesday, citing a report from IDC.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-chip-share-china-061558719.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T06:15:58+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA",
+    "summary": "Intel's turnaround is burning cash while NVIDIA's margins hit 55.6%, leaving investors to weigh recovery risk against dominance.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/13/better-artificial-intelligence-stock-for-2026-intel-vs-nvidia/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T05:04:33+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
