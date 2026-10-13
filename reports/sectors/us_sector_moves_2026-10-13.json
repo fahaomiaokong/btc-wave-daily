@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 66.01,
+      "previous_close": 65.08000183105469,
+      "change_pct": 1.429007594928411,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.41,
+      "previous_close": 83.43000030517578,
+      "change_pct": 1.17463705050882,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 111.45,
+      "previous_close": 110.37999725341797,
+      "change_pct": 0.9693810230176458,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.92,
+      "previous_close": 41.61000061035156,
+      "change_pct": 0.745011740209689,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 171.99,
+      "previous_close": 170.80999755859375,
+      "change_pct": 0.690827503232927,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.05,
+      "previous_close": 54.72999954223633,
+      "change_pct": 0.584689311968134,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.63,
+      "previous_close": 41.40999984741211,
+      "change_pct": 0.5312730098974816,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.44,
+      "previous_close": 49.43000030517578,
+      "change_pct": 0.02023001165785132,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.15,
+      "previous_close": 169.25,
+      "change_pct": -0.05908419497784312,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.27,
+      "previous_close": 112.8499984741211,
+      "change_pct": -0.5139552343495168,
+      "as_of": "2026-10-12"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.36,
+      "previous_close": 198.77999877929688,
+      "change_pct": -1.2174256938112582,
+      "as_of": "2026-10-12"
+    }
+  ],
+  "news": [
+    {
+      "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+      "summary": "Protests in India demanding the removal of the chief election commissioner for alleged voter fraud have intensified.",
+      "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T07:04:26+00:00"
+    },
+    {
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T06:46:15+00:00"
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+      "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T06:20:55+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures were mixed early Tuesday, with Nasdaq 100 and S&P 500 futures lower while Dow futures gained as Wall Street prepares for the official start of third-quarter bank earnings while navigating political controversies over proposed dividend payments and...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62313960/stock-market-will-sp-500-open-up-or-down-today-56?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T05:48:41+00:00"
+    },
+    {
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
+      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T05:24:17+00:00"
+    },
+    {
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+      "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T04:54:07+00:00"
+    },
+    {
+      "title": "Michael Burry Flags ‘Bull Trap’ Risk, Holds Back On New Shorts — Why Trump’s Fannie-Freddie Call Matters To His Portfolio",
+      "summary": "Puts make up about 10% of Burry's portfolio and long positions and LEAPS account for most of the rest, with minimal cash.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bull-trap-risk-holds-back-new-shorts-trump-fannie-freddie-call/cZxBdKIRBob?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T04:49:14+00:00"
+    },
+    {
+      "title": "e.l.f. Beauty CEO Tarang Amin on why it ‘never hurts to have a conversation’",
+      "summary": "e.l.f. Beauty CEO Tarang Amin reflects on why he initially dismissed the opportunity to lead the cosmetics company before changing his mind, and how it reinforced his belief that it never hurts to have a conversation. He also discusses his immigrant upbringing, curiosity, leadership, diversity and the decisions that shaped his career.",
+      "link": "https://www.cnbc.com/video/2026/10/13/elf-beauty-ceo-tarang-amin-on-the-meeting-that-changed-his-mind.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T04:00:01+00:00"
+    },
+    {
+      "title": "Illumina’s (ILMN) Sequencing Business Is Recovering, But Is the Stock Getting Ahead of Itself?",
+      "summary": "Illumina, Inc. (NASDAQ:ILMN) has returned 118% over the past six months, compared to a 21.25% return for the Insider Monkey Billionaire Index and 14% for State Street SPDR S&P 500 ETF Trust. Illumina has given investors a reason to look at it differently in 2026. After years of dealing with growth challenges and strategic distractions, […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/illumina-ilmn-sequencing-business-recovering-035246371.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T03:52:46+00:00"
+    },
+    {
+      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+      "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T03:49:23+00:00"
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T02:58:11+00:00"
+    },
+    {
+      "title": "TransDigm (TDG) Has Negative Book Value of almost $168 a Share. Is That a Problem?",
+      "summary": "TransDigm Group Incorporated (NYSE:TDG) closed at $1,107.99 on October 9. The stock has returned -10.15% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. The accounts say the company is worth less than nothing and the shares trade […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-tdg-negative-book-value-024812228.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T02:48:12+00:00"
+    },
+    {
+      "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "summary": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
+      "link": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T02:37:08+00:00"
+    },
+    {
+      "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "summary": "Six Flags shares plunged more than 10% in after-hours trading Monday following reports of a deadly roller coaster incident at its Georgia amusement park.",
+      "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T02:29:14+00:00"
+    },
+    {
+      "title": "Ventas (VTR) Pays Out Over 370% of Its Earnings as Dividends, So What Actually Funds It?",
+      "summary": "Ventas, Inc. (NYSE:VTR) closed at $82.04 on October 9. The stock has returned -2.8% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. Ventas is paid to house people who are living longer, which is the one demographic […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ventas-vtr-pays-over-370-020603623.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T02:06:03+00:00"
+    },
+    {
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+      "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-13T02:00:00+00:00"
+    },
+    {
+      "title": "Charter Communications (CHTR) Trades at 2.69 Times Earnings With 41.52% of Its Float Sold Short. Which Side Is Reading It Right?",
+      "summary": "Charter Communications, Inc. (NASDAQ:CHTR) closed at $103.38 on October 9. The stock has returned -54.3% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust. Two groups are reading the same accounts here and reaching opposite conclusions. One […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-trades-2-015656570.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T01:56:56+00:00"
+    },
+    {
+      "title": "ServiceNow (NOW) Grew Revenue 24% While Earnings Fell 22.60%. Where Did the Profit Go?",
+      "summary": "ServiceNow, Inc. (NYSE:NOW) closed at $140.86 on October 9. The stock has returned 58.1% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. A company can add a quarter to its revenue and still report less profit, and […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-grew-revenue-24-014421273.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T01:44:21+00:00"
+    },
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+      "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T01:26:41+00:00"
+    },
+    {
+      "title": "Is Western Digital (WDC) a Good or Bad Investment at Today’s Price?",
+      "summary": "Western Digital Corporation (NASDAQ:WDC) closed at $397.28 on October 9. The stock has returned 13.4% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for State Street SPDR S&P 500 ETF Trust. Western Digital reports a net margin no hardware manufacturer has ever sustained. Storage has […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-good-bad-005720654.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T00:57:20+00:00"
+    }
+  ]
+}
