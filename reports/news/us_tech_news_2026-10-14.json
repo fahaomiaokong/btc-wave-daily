@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+    "summary": "The stock market edged lower Tuesday but Meta and AMD led five buys. AI chip giant ASML and the CPI inflation report loom.",
+    "link": "https://finance.yahoo.com/m/02b2fe19-36e5-3f96-ac0e-2dc2cf84ceb1/dow-jones-futures%3A-techs-rise.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-14T03:06:01+00:00",
+    "tickers": [
+      "META",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "source": "TechCrunch",
+    "published": "2026-10-13T20:36:44+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "NVIDIA Heads 3 Top Growth Stocks To Watch",
+    "summary": "Fresh regulatory crackdowns on money laundering at a major US bank highlight a simple truth. Investors are paying closer attention to transparency, balance sheet strength and clean compliance records. That raises the profile of financially sound businesses where analysts expect solid earnings growth over the next few years. This article walks through three stocks from this high potential screener that aim to combine resilience with room to grow. The three stocks highlighted here offer a...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-heads-3-top-growth-042950365.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-14T04:29:50+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+    "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+    "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+    "source": "TechCrunch",
+    "published": "2026-10-13T18:30:03+00:00",
+    "tickers": [
+      "AAPL",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
+    "published": "2026-10-13T16:30:00+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Asian markets mixed as tech firms claw back some losses",
+    "summary": "Asian stocks stuttered Wednesday as investors fought to claw back the previous day's steep tech losses, with focus turning to US inflation data and upcoming earnings from key AI-linked firms.The ructions felt in Seoul, Tokyo and Taipei -- which have big tech weightings -- saw giants SK hynix, Advantest and TSMC suffer huge losses, pushing them back towards levels last seen following their summer rout.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-tech-firms-025619455.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-14T02:56:19+00:00",
+    "tickers": [
+      "TSM"
+    ],
+    "score": 8
+  },
+  {
+    "title": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
+    "summary": "Roth Capital hiked the price target on Bloom Energy to $260 from $225, implying a downside potential of about 1% from its last close.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/be-stock-rises-overnight-after-oracle-reaffirms-project-jupiter-role-analyst-hikes-price-target-on-gaining-market-acceptance-ahead-of-q3-results/cZxfeTKRBYx?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-14T01:58:51+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+    "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to […]",
+    "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+    "source": "The Verge",
+    "published": "2026-10-13T19:01:42+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 8
+  }
+]
