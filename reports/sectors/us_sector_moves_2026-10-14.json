@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.2,
+      "previous_close": 66.01000213623047,
+      "change_pct": 1.802753863442752,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.28,
+      "previous_close": 111.44999694824219,
+      "change_pct": 0.7447313364604913,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.87,
+      "previous_close": 41.630001068115234,
+      "change_pct": 0.5765047459212802,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.72,
+      "previous_close": 49.439998626708984,
+      "change_pct": 0.5663458354947304,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.36,
+      "previous_close": 112.2699966430664,
+      "change_pct": 0.0801668830718194,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 196.28,
+      "previous_close": 196.36000061035156,
+      "change_pct": -0.04074180591917553,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.83,
+      "previous_close": 41.91999816894531,
+      "change_pct": -0.21469029789220606,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 84.19,
+      "previous_close": 84.41000366210938,
+      "change_pct": -0.260636953636495,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.67,
+      "previous_close": 169.14999389648438,
+      "change_pct": -0.28376820207166586,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.82,
+      "previous_close": 55.04999923706055,
+      "change_pct": -0.4178006180710514,
+      "as_of": "2026-10-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 169.66,
+      "previous_close": 171.99000549316406,
+      "change_pct": -1.354733076775605,
+      "as_of": "2026-10-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T05:28:18+00:00"
+    },
+    {
+      "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+      "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T05:19:36+00:00"
+    },
+    {
+      "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
+      "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
+      "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T04:44:40+00:00"
+    },
+    {
+      "title": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
+      "summary": "Singapore's Formula 1 race week is a major business draw as a growing number of conferences coincide with the Grand Prix.",
+      "link": "https://www.cnbc.com/2026/10/14/crypto-bosses-ceos-and-f1-singapore-events-boom-gathers-pace-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T04:41:29+00:00"
+    },
+    {
+      "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+      "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+      "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T04:24:28+00:00"
+    },
+    {
+      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T04:07:00+00:00"
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "The country's customs agency released September trade data on Wednesday.",
+      "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T03:41:36+00:00"
+    },
+    {
+      "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+      "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T03:14:48+00:00"
+    },
+    {
+      "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "summary": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T02:09:00+00:00"
+    },
+    {
+      "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+      "summary": "Korean car company Hyundai says India is a strategic core market",
+      "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T02:04:47+00:00"
+    },
+    {
+      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+      "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T01:35:51+00:00"
+    },
+    {
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T01:31:00+00:00"
+    },
+    {
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T01:25:00+00:00"
+    },
+    {
+      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "summary": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T00:28:34+00:00"
+    },
+    {
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T00:13:45+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 inched lower as traders mulled over the latest quarterly results from big banks. Tune in to CNBC on Wednesday for Goldman Sachs CEO David Solomon.",
+      "link": "https://www.cnbc.com/2026/10/13/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T23:52:56+00:00"
+    },
+    {
+      "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
+      "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-while-nasdaq-drops-as-memory-chipmakers-sell-off-bac-gme-spcx-arm-qcom-in-focus/cZxBUZgRBYr?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T23:37:15+00:00"
+    },
+    {
+      "title": "If You Own SPY, This Lower-Cost Fund Tracks Identical Holdings for Less Than Half the Fee",
+      "summary": "SPY built its reputation as the default S&P 500 fund, but a structural quirk in how it was originally designed quietly costs long-term holders money every single year compared to a fund holding the exact same stocks.",
+      "link": "https://247wallst.com/investing/etf/2026/10/13/if-you-own-spy-this-lower-cost-fund-tracks-identical-holdings-for-less-than-half-the-fee/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T23:33:53+00:00"
+    },
+    {
+      "title": "Is Spotify (SPOT) a Good or Bad Investment at Today’s Price?",
+      "summary": "Spotify Technology S.A. (NYSE:SPOT) closed at $527.45 on October 13. The stock has returned 4.6% over the last six months, compared to a 21.5% return by the Insider Monkey Billionaire Index and 14.0% for State Street SPDR S&P 500 ETF Trust. Spotify sells access to music it does not own. Every song someone plays sends […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-spot-good-bad-investment-231059679.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-13T23:10:59+00:00"
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-13T23:05:12+00:00"
+    }
+  ]
+}
