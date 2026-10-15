@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Dow Jones Futures: Techs Fall On Anthropic News After Dell, AMD, CoreWeave Lead AI-Led Sell-Off",
+    "summary": "Tech futures fall as Anthropic revenue jumps, but not enough? The stock market tested key levels on AI fears. Taiwan Semiconductor earnings loom.",
+    "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-15T03:10:01+00:00",
+    "tickers": [
+      "AMZN",
+      "AMD",
+      "TSM"
+    ],
+    "score": 17
+  },
+  {
+    "title": "The AI race is back on",
+    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge",
+    "published": "2026-10-15T00:16:12+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Broadcom And 2 Top AI Chip Stocks To Watch",
+    "summary": "AI specialist Anthropic just reported quarterly revenue of $16.8b and moved into profit, a reminder that demand for computing power can turn into real cash flow, not just headlines. The chips and tools that feed that appetite sit earlier in the chain, where investors often look for more direct ways to engage with the trend. This piece highlights three stocks from our semiconductor supply chain screener that may warrant a closer look. The three stocks in this piece are just a first pass, and...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-2-top-ai-chip-031733617.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-15T03:17:33+00:00",
+    "tickers": [
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 14
+  },
+  {
+    "title": "3 Cybersecurity Stocks With Market Caps Over $9 Billion",
+    "summary": "AI giant Anthropic reporting nearly $17b in quarterly revenue and turning profitable has put digital security back in the spotlight. Every new AI model and data center creates more points hackers might try to hit. That rising exposure is why investors are watching companies that guard data and networks. This article walks through three stocks from a cybersecurity-focused screener with stronger balance sheet health and sizeable market caps. The three cybersecurity stocks that follow are just a...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-cybersecurity-stocks-market-caps-042735483.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-15T04:27:35+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic Just Became the First Company in History To Reach This Milestone. Here's What It Means for AI Stocks",
+    "summary": "Anthropic just reported $16.8 billion in revenue in the third quarter.",
+    "link": "https://www.fool.com/investing/2026/10/15/anthropic-just-became-the-first-company-in-history-to-reach-this-milestone-here-s-what-it-means-for-ai-stocks/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-15T04:43:47+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus",
+    "summary": "Red-hot inflation data, triggered by soaring energy prices, weighed heavily on markets on Wednesday.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-decline-amid-hot-inflation-data-ai-selloff-crwv-nbis-nvda-ibrx-stocks-in-focus/cZxWKOLRBqU?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-15T03:16:56+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple’s new HomeView smart display is $10 cheaper at Amazon",
+    "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but […]",
+    "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+    "source": "The Verge",
+    "published": "2026-10-14T17:24:42+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+    "summary": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
+    "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+    "source": "Tech",
+    "published": "2026-10-15T03:48:58+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  }
+]
