@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 173.96,
+      "previous_close": 169.66000366210938,
+      "change_pct": 2.5344785129525205,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.06,
+      "previous_close": 84.19000244140625,
+      "change_pct": 2.221163445024499,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.63,
+      "previous_close": 67.19999694824219,
+      "change_pct": 0.6398855227463862,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.67,
+      "previous_close": 49.720001220703125,
+      "change_pct": -0.10056560634656986,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.72,
+      "previous_close": 41.869998931884766,
+      "change_pct": -0.3582491896615303,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.52,
+      "previous_close": 54.81999969482422,
+      "change_pct": -0.5472449771876553,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 111.5,
+      "previous_close": 112.36000061035156,
+      "change_pct": -0.7653974774652461,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.49,
+      "previous_close": 41.83000183105469,
+      "change_pct": -0.8128181118133959,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.04,
+      "previous_close": 168.6699981689453,
+      "change_pct": -0.9663829884628661,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.82,
+      "previous_close": 112.27999877929688,
+      "change_pct": -1.3003195539454282,
+      "as_of": "2026-10-14"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 190.43,
+      "previous_close": 196.27999877929688,
+      "change_pct": -2.9804355082938327,
+      "as_of": "2026-10-14"
+    }
+  ],
+  "news": [
+    {
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T05:19:09+00:00"
+    },
+    {
+      "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi slides 7%: Live updates",
+      "summary": "The moves come after a losing session on the back of hotter-than-expected U.S. inflation data.",
+      "link": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T05:08:49+00:00"
+    },
+    {
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+      "summary": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
+      "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T04:11:52+00:00"
+    },
+    {
+      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+      "summary": "Oil fell Thursday, as traders assessed attacks on ships passing through Hormuz, while digesting the International Energy Agency's latest monthly report.",
+      "link": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T04:09:18+00:00"
+    },
+    {
+      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+      "summary": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
+      "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T03:48:58+00:00"
+    },
+    {
+      "title": "Revisiting Former Stock Picks Casey’s General Stores, Tradeweb Markets, Motorola Solutions",
+      "summary": "Technical indicators are flashing bullish for the three stocks.",
+      "link": "https://finance.yahoo.com/m/1868ba1c-6f76-344f-83f7-dc0647436063/revisiting-former-stock-picks.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-15T02:34:00+00:00"
+    },
+    {
+      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+      "summary": "Jio's share sale will be India's largest ever in rupee terms, and second largest in dollar terms, trailing the Hyundai Motors IPO that raised $3.3 billion in 2024.",
+      "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T01:56:53+00:00"
+    },
+    {
+      "title": "FISV, NU, LPLA: Analyst Picks Top 3 Financial Stocks In ‘Forgettable Year’ For Sector",
+      "summary": "According to Morningstar’s Sean Dunlop, financial services have lagged in 2026 due to AI-disruption fears and rising interest rates.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-15T01:22:15+00:00"
+    },
+    {
+      "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+      "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-15T01:07:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+      "summary": "Jio Platforms, the company at the center of Musk’s remarks, is launching an IPO later this month.",
+      "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T00:30:13+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq See Worst Day In Over Two Months As Chipmaker Rout Deepens, CPI Data Comes In Hot — AAPL, SPCX, DRAM, SOXX In Focus",
+      "summary": "The consumer price index rose 3.7% in September, above what economists expected.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-see-worst-day-in-over-two-months-as-chipmaker-rout-deepens-cpi-data-comes-in-hot-aapl-spcx-dram-soxx-in-focus/cZxWQBlRBqs?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-15T00:07:26+00:00"
+    },
+    {
+      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+      "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
+      "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-15T00:02:00+00:00"
+    },
+    {
+      "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
+      "summary": "Two simple rules also keep Berkshire Hathaway, Visa, and Oracle out of the popular fund.",
+      "link": "https://www.fool.com/investing/2026/10/14/invesco-qqq-doesn-t-own-a-single-bank-and-that-s-not-the-only-thing-the-nasdaq-100-leaves-out/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-14T23:43:01+00:00"
+    },
+    {
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+      "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T23:36:00+00:00"
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T22:45:00+00:00"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": "”I earn $110,000 a year.”",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T22:30:00+00:00"
+    },
+    {
+      "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "summary": "For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.",
+      "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T22:25:00+00:00"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T22:24:00+00:00"
+    },
+    {
+      "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+      "summary": "The CEO’s the U.S.’s biggest banks all chimed in on the risks of related to the massive AI buildout, but how there’s still no sign that investments need to slow down.",
+      "link": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T22:23:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "summary": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested.",
+      "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-14T22:19:32+00:00"
+    }
+  ]
+}
