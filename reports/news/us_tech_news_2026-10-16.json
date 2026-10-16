@@ -1,0 +1,99 @@
+[
+  {
+    "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+    "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+    "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+    "source": "Tech",
+    "published": "2026-10-15T16:56:07+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "AMD",
+      "AVGO",
+      "TSM"
+    ],
+    "score": 22
+  },
+  {
+    "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+    "summary": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+    "link": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+    "source": "Tech",
+    "published": "2026-10-15T14:10:14+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+    "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "source": "Tech",
+    "published": "2026-10-15T20:33:24+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
+    "summary": "Microsoft reported strong quarterly results, with Azure revenue of more than US$100b for fiscal 2026 and Q4 Azure growth of 43%, supported by heavy AI and cloud spending and new offerings such as Copilot, E7 and first party Maia chips. Commercial cloud remaining performance obligations reached US$678b. Combined with broad Copilot adoption and new AI model launches, this points to a business increasingly tied to long term AI and cloud usage commitments. The focus now is on how Microsoft’s AI...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-impact-microsoft-msft-042905289.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-16T04:29:05+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI's 2026 Revenue Estimate Just Got Cut by $20 Billion. Anthropic's Quarterly Revenue Just Climbed to $16.8 Billion.",
+    "summary": "Anthropic is on the upswing, while OpenAI is struggling.",
+    "link": "https://www.fool.com/investing/2026/10/15/openais-revenue-estimate-just-got-cut-by-20-billio/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-16T03:20:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
+    "summary": "Broadcom recently introduced VMware HyperArmor for VMware Cloud Foundation and showcased high speed AI networking capabilities and Link Layer Retry interoperability at the OCP Global Summit, alongside sector wide pressure on semiconductor stocks. The combination of Hock Tan’s warning about speculative AI spending and Broadcom’s focus on AI security and networking highlights both execution risk around AI capital intensity and the firm's operational push to secure long term infrastructure...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-warning-change-broadcom-031330056.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-16T03:13:30+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge",
+    "published": "2026-10-15T22:43:23+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "3 High Growth Stocks For October 2026",
+    "summary": "AI heavyweights are reassessing how much they are willing to pay for growth, as shown by investors considering a sharp valuation cut for Anthropic after recent financial figures. When capital gets more selective, businesses with clear revenue potential and strong balance sheets start to look far more attractive. This article highlights three high growth candidates that analysts expect to grow quickly without relying on fragile finances. The three stocks below are just a sample, and the full...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-growth-stocks-october-042700479.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-16T04:27:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  }
+]
