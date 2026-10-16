@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 177.19,
+      "previous_close": 173.9600067138672,
+      "change_pct": 1.856744746765604,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.56,
+      "previous_close": 49.66999816894531,
+      "change_pct": 1.7918298044374392,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 113.41,
+      "previous_close": 111.5,
+      "change_pct": 1.7130044843049363,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 112.44,
+      "previous_close": 110.81999969482422,
+      "change_pct": 1.4618302739910938,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.27,
+      "previous_close": 54.52000045776367,
+      "change_pct": 1.3756411150754655,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.99,
+      "previous_close": 41.4900016784668,
+      "change_pct": 1.2051055707541725,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.68,
+      "previous_close": 86.05999755859375,
+      "change_pct": 0.720430465948052,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.89,
+      "previous_close": 167.0399932861328,
+      "change_pct": 0.5088641930266036,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.65,
+      "previous_close": 41.720001220703125,
+      "change_pct": -0.16778815593224694,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 189.19,
+      "previous_close": 190.42999267578125,
+      "change_pct": -0.6511540846889652,
+      "as_of": "2026-10-15"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 66.56,
+      "previous_close": 67.62999725341797,
+      "change_pct": -1.5821341074561235,
+      "as_of": "2026-10-15"
+    }
+  ],
+  "news": [
+    {
+      "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+      "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T05:07:20+00:00"
+    },
+    {
+      "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+      "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
+      "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T05:00:01+00:00"
+    },
+    {
+      "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+      "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts.",
+      "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T04:29:27+00:00"
+    },
+    {
+      "title": "S&P 500 futures are little changed as index heads for losing week: Live updates",
+      "summary": "The three major averages are coming off of a winning session on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T04:18:33+00:00"
+    },
+    {
+      "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+      "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
+      "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T03:53:48+00:00"
+    },
+    {
+      "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T03:47:50+00:00"
+    },
+    {
+      "title": "Tesla finally delivers on its promise to create a flying car",
+      "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+      "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T02:42:00+00:00"
+    },
+    {
+      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+      "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
+      "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T02:25:32+00:00"
+    },
+    {
+      "title": "Order to limit Starshield for Ukraine came from inside White House: Reuters reports",
+      "summary": "Officials say the White House ordered temporary limits on Ukraine’s Starshield service, affecting drone operations amid rising U.S.-Kyiv tensions.",
+      "link": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T01:35:22+00:00"
+    },
+    {
+      "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+      "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
+      "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T00:54:25+00:00"
+    },
+    {
+      "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+      "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
+      "link": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T00:06:48+00:00"
+    },
+    {
+      "title": "UnitedHealth Fell 51.32%, Then Rose 40.64%. DIA’s Exposure Followed Both Moves by Design",
+      "summary": "UnitedHealth's wild ride inside DIA was not an accident or a manager's call. The weighting rule baked into the Dow determined exactly how much of your money followed the stock up and down, and most investors have never read that single line in the prospectus.",
+      "link": "https://247wallst.com/investing/etf/2026/10/15/unitedhealth-fell-51-32-then-rose-40-64-dias-exposure-followed-both-moves-by-design/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T00:03:00+00:00"
+    },
+    {
+      "title": "Dow Sees Best Day In Over A Month As Investors Rotate Out Of AI Trade On Overspending Concerns — CRWV, META, SPCX, PEP In Focus",
+      "summary": "U.S. producer prices came in hot, growing at 6.3% in September, the highest since 2022, following heightened CPI data in the previous session.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-sees-best-day-in-over-a-month-as-investors-rotate-out-of-ai-trade-on-overspending-concerns-crwv-meta-spcx-pep-in-focus/cZxhfaTRBrN?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-15T23:53:03+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Investors shunned corners of the AI trade on Thursday. The Dow gained more than 550 points, benefiting from the rotation away from some tech names.",
+      "link": "https://www.cnbc.com/2026/10/15/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T23:49:14+00:00"
+    },
+    {
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-15T23:29:00+00:00"
+    },
+    {
+      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+      "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T23:08:05+00:00"
+    },
+    {
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+      "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T23:00:01+00:00"
+    },
+    {
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-15T22:48:12+00:00"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": "”I earn $110,000 a year.”",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-15T22:31:00+00:00"
+    },
+    {
+      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-15T22:15:00+00:00"
+    }
+  ]
+}
