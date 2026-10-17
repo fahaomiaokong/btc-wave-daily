@@ -1,0 +1,99 @@
+[
+  {
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "source": "The Verge",
+    "published": "2026-10-16T15:26:47+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "AMD",
+      "ARM"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "link": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "Tech",
+    "published": "2026-10-16T12:38:58+00:00",
+    "tickers": [
+      "AAPL",
+      "META",
+      "TSLA"
+    ],
+    "score": 12
+  },
+  {
+    "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+    "summary": "The AI chip leader's stock trades around 9% under its record, even after its chipmaker boosted its forecast again.",
+    "link": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-17T03:17:01+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week",
+    "summary": "Elon Musk said Tesla’s long-awaited Roadster will enter production in 2028, though he has acknowledged that the car is unlikely to materially affect the company’s revenue.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-17T02:46:45+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Are You Overpaying For AppLovin Stock Versus Its Rivals?",
+    "summary": "Over the past year, AppLovin (APP) stock has lost more than half its value. The shares now trade at 20.0 times earnings. That valuation sits below Meta Platforms and Magnite, two of the three competitors in its peer group. Yet the company leads all four businesses on both revenue growth and operating margin. So what do you get for your money at AppLovin, set against its rivals.",
+    "link": "https://www.trefis.com/articles/619001/are-you-overpaying-for-applovin-stock-versus-its-rivals/2026-10-16?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-17T02:36:39+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Was The Run In Super Micro Stock Hiding In Plain Sight?",
+    "summary": "Shares of Super Micro Computer (SMCI) rose 45.1% between July 17 and October 15, 2026. The S&P 500 gained 4.1% over the same period. During this window, the company reported a record order backlog and set a fiscal 2027 revenue target of $65 billion to $72 billion. That figure sits well above its fiscal 2026 sales. If investors could read this demand in advance, early signs would point to a company lacking capacity rather than customers. The evidence would also highlight a business securing the f",
+    "link": "https://www.trefis.com/articles/618988/was-the-run-in-super-micro-stock-hiding-in-plain-sight/2026-10-16?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-17T01:20:39+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
+    "published": "2026-10-16T21:22:28+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The new Apple TV 4K just got its first (very small) discount",
+    "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you […]",
+    "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+    "source": "The Verge",
+    "published": "2026-10-16T16:35:37+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 8
+  }
+]
