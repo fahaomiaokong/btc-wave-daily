@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.24,
+      "previous_close": 66.55999755859375,
+      "change_pct": 2.5240422220978997,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.21,
+      "previous_close": 41.650001525878906,
+      "change_pct": 1.3445341022932267,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.62,
+      "previous_close": 86.68000030517578,
+      "change_pct": 1.084448190487719,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.92,
+      "previous_close": 50.560001373291016,
+      "change_pct": 0.7120225809549963,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.52,
+      "previous_close": 55.27000045776367,
+      "change_pct": 0.4523241182662563,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.16,
+      "previous_close": 41.9900016784668,
+      "change_pct": 0.4048542861106341,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.76,
+      "previous_close": 167.88999938964844,
+      "change_pct": -0.0774312884156636,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 176.71,
+      "previous_close": 177.19000244140625,
+      "change_pct": -0.27089702285261197,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 113.41000366210938,
+      "change_pct": -0.837671837962195,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 112.44000244140625,
+      "change_pct": -1.8854521481454167,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.47,
+      "previous_close": 189.19000244140625,
+      "change_pct": -3.0234168653693994,
+      "as_of": "2026-10-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T22:33:05+00:00"
+    },
+    {
+      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T22:31:26+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
+      "summary": "The Philadelphia Semiconductor Index fell for an eighth straight day, the longest slide since 2008.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T22:15:34+00:00"
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:59:00+00:00"
+    },
+    {
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:43:00+00:00"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:35:00+00:00"
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:30:00+00:00"
+    },
+    {
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T21:26:15+00:00"
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:21:00+00:00"
+    },
+    {
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T21:15:00+00:00"
+    },
+    {
+      "title": "ETF Fund Flows: Small-Cap Focused IWM Nets $2.2 Billion",
+      "summary": "International and small-cap stocks attracted investors during a rocky week for markets. Here are the flows for Thursday, October 15th.",
+      "link": "http://www.etf.com/sections/daily-etf-flows/etf-fund-flows-small-cap-focused-iwm-nets-22-billion?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T21:00:04+00:00"
+    },
+    {
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T20:58:00+00:00"
+    },
+    {
+      "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
+      "summary": "Reports from Meta Platforms and Procter & Gamble are on deck as investors grow wary of the market.",
+      "link": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T20:50:39+00:00"
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T20:33:55+00:00"
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T20:28:10+00:00"
+    },
+    {
+      "title": "Double Size, Double Leverage: Why We Supercharged This QQQ Trade",
+      "summary": "In a choppy tape, you sometimes have to press your advantage when you have it.",
+      "link": "https://finance.yahoo.com/m/a534f0c7-1b8e-3efc-a9df-221f182ec68b/double-size%2C-double-leverage%3A.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T20:20:49+00:00"
+    },
+    {
+      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "summary": "Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
+      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-16T20:05:00+00:00"
+    },
+    {
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-16T20:02:21+00:00"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "summary": "Energy stocks were higher late Friday afternoon, with the NYSE Energy Sector Index rising 1.9% and t",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-200054695.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T20:00:54+00:00"
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+      "summary": "Healthcare stocks were lower late Friday afternoon, with the NYSE Healthcare Index down 0.1% and the",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-195630896.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:56:30+00:00"
+    }
+  ]
+}
