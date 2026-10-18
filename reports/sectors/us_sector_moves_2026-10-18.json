@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.24,
+      "previous_close": 66.55999755859375,
+      "change_pct": 2.5240422220978997,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.21,
+      "previous_close": 41.650001525878906,
+      "change_pct": 1.3445341022932267,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.62,
+      "previous_close": 86.68000030517578,
+      "change_pct": 1.084448190487719,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.92,
+      "previous_close": 50.560001373291016,
+      "change_pct": 0.7120225809549963,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.52,
+      "previous_close": 55.27000045776367,
+      "change_pct": 0.4523241182662563,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.16,
+      "previous_close": 41.9900016784668,
+      "change_pct": 0.4048542861106341,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.76,
+      "previous_close": 167.88999938964844,
+      "change_pct": -0.0774312884156636,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 176.71,
+      "previous_close": 177.19000244140625,
+      "change_pct": -0.27089702285261197,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 113.41000366210938,
+      "change_pct": -0.837671837962195,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 112.44000244140625,
+      "change_pct": -1.8854521481454167,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.47,
+      "previous_close": 189.19000244140625,
+      "change_pct": -3.0234168653693994,
+      "as_of": "2026-10-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+      "summary": "Anthropic's Jack Clark said international cooperation was needed to set \"unusual and serious rules\" for transformative technology.",
+      "link": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T23:04:00+00:00"
+    },
+    {
+      "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
+      "summary": "Trudy's center was expected to approach the coast on Saturday and pass near it into Sunday.",
+      "link": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T22:22:53+00:00"
+    },
+    {
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
+      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T20:53:00+00:00"
+    },
+    {
+      "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+      "summary": "Trump's self-proclaimed power clashes with voter frustration, with more Americans seeing the president as looking out for his own interests, not the country's.",
+      "link": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T19:54:13+00:00"
+    },
+    {
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T19:35:18+00:00"
+    },
+    {
+      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+      "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T18:52:00+00:00"
+    },
+    {
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T18:40:00+00:00"
+    },
+    {
+      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
+      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T18:40:00+00:00"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": "”I earn $110,000 a year.”",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T16:47:00+00:00"
+    },
+    {
+      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+      "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T16:45:15+00:00"
+    },
+    {
+      "title": "Tech Stock Sell-Off: 1 Unstoppable ETF to Buy on the Dip in 2026",
+      "summary": "The Invesco QQQ Trust is still a reliable long-term investment for growth-oriented investors.",
+      "link": "https://www.fool.com/investing/2026/10/17/tech-stock-sell-off-1-unstoppable-etf-to-buy-on-th/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-17T16:37:00+00:00"
+    },
+    {
+      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+      "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T16:31:06+00:00"
+    },
+    {
+      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T15:42:34+00:00"
+    },
+    {
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T15:11:30+00:00"
+    },
+    {
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+      "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T15:00:01+00:00"
+    },
+    {
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "summary": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+      "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T13:30:01+00:00"
+    },
+    {
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "summary": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+      "link": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T13:00:01+00:00"
+    },
+    {
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-17T13:00:00+00:00"
+    },
+    {
+      "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
+      "summary": "Bank of America says there are several technology stocks that have more room to run heading into their next quarterly results.",
+      "link": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T12:49:53+00:00"
+    },
+    {
+      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+      "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-17T12:46:21+00:00"
+    }
+  ]
+}
