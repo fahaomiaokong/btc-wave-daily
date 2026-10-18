@@ -1,0 +1,96 @@
+[
+  {
+    "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+    "summary": "A portfolio of these three leading AI stocks would triple by 2030.",
+    "link": "https://www.fool.com/investing/2026/10/17/3000-split-across-nvidia-broadcom-and-tsmc-could-b/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T00:20:00+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO",
+      "TSM"
+    ],
+    "score": 15
+  },
+  {
+    "title": "What Advanced Micro Devices Buyers Were Betting On Before A 137% Rally",
+    "summary": "If you only skimmed the headlines about AMD’s MI450 accelerators landing multi-gigawatt deals with Anthropic and Meta, the real surprise sat in the share chart. Holding Advanced Micro Devices from the start of the year would have returned 136.6%, including dividends. If you were deciding on 1 January 2026, before trillion dollar market caps and raised AI forecasts, what would you realistically have needed to believe about AMD’s data center push to press “buy”? The useful thing about a...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-buyers-were-041748578.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T04:17:48+00:00",
+    "tickers": [
+      "AMZN",
+      "META",
+      "AMD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+    "summary": "The S&P 500, Nasdaq and leading stocks broke key support. Can Meta, Tesla, SpaceX earnings and capex revive the AI sector?",
+    "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-loom-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T02:57:39+00:00",
+    "tickers": [
+      "META",
+      "TSLA"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
+    "published": "2026-10-17T18:48:08+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
+    "summary": "The cloud giant's stock looks cheap on earnings. So why would an index fund beat it?",
+    "link": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T00:06:02+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+    "summary": "Google and Unity Software previously announced a partnership to build an AI-powered game creation platform called Unity Spark, combining Google’s AI research, large consumer ecosystem, and Unity’s engine technology into accessible tools that support both simple text-prompt projects and higher-end 3D experiences. The arrangement directly ties Unity Software’s creation pipeline to Google’s distribution reach and community features, which could influence user acquisition costs, creator...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/unity-stock-focus-google-ai-021620952.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T02:16:20+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Mark Zuckerberg’s Second Act?",
+    "summary": "Meta had a big week as Muse continues to be the hottest product in AI. But is this another flash in the pan or a fundamental change in how the world uses technology?",
+    "link": "https://www.fool.com/investing/2026/10/17/mark-zuckerbergs-second-act/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T00:38:05+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’",
+    "summary": "Space Exploration Technologies Corp. CEO Elon Musk praised Nvidia Corp. CEO Jensen Huang as the two companies deepen their collaboration on AI computers designed to operate in space. Musk Praises Nvidia Partnership As SpaceX Develops AI Computers On X, Musk...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-jensen-huang-003013948.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-18T00:30:13+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 5
+  }
+]
