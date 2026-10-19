@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.24,
+      "previous_close": 66.55999755859375,
+      "change_pct": 2.5240422220978997,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.21,
+      "previous_close": 41.650001525878906,
+      "change_pct": 1.3445341022932267,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.62,
+      "previous_close": 86.68000030517578,
+      "change_pct": 1.084448190487719,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.92,
+      "previous_close": 50.560001373291016,
+      "change_pct": 0.7120225809549963,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.52,
+      "previous_close": 55.27000045776367,
+      "change_pct": 0.4523241182662563,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.16,
+      "previous_close": 41.9900016784668,
+      "change_pct": 0.4048542861106341,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.76,
+      "previous_close": 167.88999938964844,
+      "change_pct": -0.0774312884156636,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 176.71,
+      "previous_close": 177.19000244140625,
+      "change_pct": -0.27089702285261197,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 113.41000366210938,
+      "change_pct": -0.837671837962195,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.32,
+      "previous_close": 112.44000244140625,
+      "change_pct": -1.8854521481454167,
+      "as_of": "2026-10-16"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.47,
+      "previous_close": 189.19000244140625,
+      "change_pct": -3.0234168653693994,
+      "as_of": "2026-10-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
+      "summary": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+      "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T04:46:26+00:00"
+    },
+    {
+      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+      "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+      "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T04:36:39+00:00"
+    },
+    {
+      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+      "summary": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+      "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T04:19:30+00:00"
+    },
+    {
+      "title": "'Where there's smoke there's fire': Why BTIG is sounding the alarm on tech",
+      "summary": "Investors should use a potential rebound in semiconductor stocks to reduce exposure ahead of a decline that could stretch into 2027, according to BTIG.",
+      "link": "https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T04:17:15+00:00"
+    },
+    {
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+      "summary": "U.S. stock futures rebound after the Nasdaq’s worst week since early June, as investors look ahead to earnings from Netflix, Tesla and Meta.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-19T04:07:56+00:00"
+    },
+    {
+      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+      "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+      "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T03:56:03+00:00"
+    },
+    {
+      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+      "summary": "France’s worst unrest in years saw thousands arrested, prompting President Macron to vow an “uncompromising” response ahead of a critical budget vote.",
+      "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T03:18:51+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
+      "summary": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-moderna-merck-cancer-vaccine-spotlight-kidney-cancer-ms-data/cZx8JvJRBtx?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-19T03:15:13+00:00"
+    },
+    {
+      "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+      "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+      "link": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T03:00:33+00:00"
+    },
+    {
+      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+      "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+      "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T01:56:34+00:00"
+    },
+    {
+      "title": "Why I am taking the other side of the trade that crushed the market Friday",
+      "summary": "How did this happen so quickly? Where were the buyers? I have some answers.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-18T22:23:08+00:00"
+    },
+    {
+      "title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
+      "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
+      "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-18T20:52:41+00:00"
+    },
+    {
+      "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
+      "summary": "Macron blamed \"unrestrained violence\" on \"insurrectionist elements from radical far-left groups, joined by numerous criminals.\"",
+      "link": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-18T19:16:12+00:00"
+    },
+    {
+      "title": "At least 4 killed in major fire at Canadian military base",
+      "summary": "Prime Minister Mark Carney called the incident one of the worst peacetime tragedies ever for Canada's armed forces on home soil.",
+      "link": "https://www.cnbc.com/2026/10/18/deaths-confirmed-after-fire-at-canada-military-base-in-alberta.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-18T18:01:05+00:00"
+    },
+    {
+      "title": "Trump says he will close historic DC golf course for 15 months of renovations",
+      "summary": "A judge last week ordered a halt to Trump's plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course.",
+      "link": "https://www.cnbc.com/2026/10/18/trump-says-he-will-close-dc-golf-course-for-15-months-of-renovations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-18T17:03:12+00:00"
+    },
+    {
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-18T17:00:00+00:00"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": "”I earn $110,000 a year.”",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-18T16:15:00+00:00"
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-18T16:00:00+00:00"
+    },
+    {
+      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+      "summary": "Wall Street still sees more gains for stocks heading into the end of the year.",
+      "link": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-18T15:59:30+00:00"
+    },
+    {
+      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-18T15:15:00+00:00"
+    }
+  ]
+}
