@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+    "summary": "Futures rise after the S&P 500, Nasdaq and leading stocks broke key support. Can Meta, Tesla, SpaceX earnings and capex revive the AI sector?",
+    "link": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures-rebound.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T03:08:11+00:00",
+    "tickers": [
+      "META",
+      "TSLA"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+    "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+    "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+    "source": "Tech",
+    "published": "2026-10-18T12:00:01+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+    "summary": "U.S. stock futures rebound after the Nasdaq’s worst week since early June, as investors look ahead to earnings from Netflix, Tesla and Meta.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T04:07:56+00:00",
+    "tickers": [
+      "META",
+      "TSLA"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
+    "summary": "Editor’s note: The story has been updated to include a comment from Nvidia. President Donald Trump’s White House ballroom project donor list reportedly reveals companies and individuals linked to federal contracts, policy decisions, and a presidential pardon. NVIDIA Corp. and...",
+    "link": "https://finance.yahoo.com/technology/articles/trump-330-million-white-house-033011715.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T03:30:11+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 12
+  },
+  {
+    "title": "AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+    "summary": "Developments across technology, entertainment, retail investing, and the commercial space industry drew interest last week.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/aapl-tsla-nflx-gme-rklb-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZx8ICsRBtH?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T02:04:48+00:00",
+    "tickers": [
+      "AAPL",
+      "TSLA"
+    ],
+    "score": 11
+  },
+  {
+    "title": "OpenAI, Anthropic’s AI Lead Is ‘Very Perishable,’ IMD Professor Says: ‘You Don’t Need to Drive a Ferrari to Go to Walmart’",
+    "summary": "OpenAI and Anthropic may remain ahead of Chinese rivals in artificial intelligence and still find that technological lead worth less than expected, according to Howard Yu, LEGO Professor of Management and Innovation at IMD Business School. Asked about a roughly...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-ai-lead-very-023013634.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T02:30:13+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+    "summary": "Chipmakers recover as investors brace for major earnings reports.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-us-chip-stocks-rebound-after-worst-week-since-march/cZx8OKxRBMR?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T04:54:42+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Anthropic IPO: Musk Wants AI Firm To Hand Shares Directly To Public, Says 'This Is What I Will Be Doing'",
+    "summary": "Anthropic’s plan to set aside shares for public benefit faced doubts from former White House AI advisor David Sacks.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-ipo-musk-wants-ai-firm-to-hand-shares-directly-to-public-says-this-is-what-i-will-be-doing/cZx8BTGRBtU?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T03:22:42+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  }
+]
