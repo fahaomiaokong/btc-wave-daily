@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.46,
+      "previous_close": 112.45999908447266,
+      "change_pct": 1.7784109299388007,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.96,
+      "previous_close": 183.47000122070312,
+      "change_pct": 1.3571694351828034,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.95,
+      "previous_close": 50.91999816894531,
+      "change_pct": 0.05891954464560811,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.09,
+      "previous_close": 110.31999969482422,
+      "change_pct": -0.2084841329409559,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.21,
+      "previous_close": 87.62000274658203,
+      "change_pct": -0.46793281640022943,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 175.65,
+      "previous_close": 176.7100067138672,
+      "change_pct": -0.5998566428575658,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 166.68,
+      "previous_close": 167.75999450683594,
+      "change_pct": -0.6437735706959158,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.8,
+      "previous_close": 68.23999786376953,
+      "change_pct": -0.6447800081235688,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.06,
+      "previous_close": 55.52000045776367,
+      "change_pct": -0.8285310770370202,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 41.67,
+      "previous_close": 42.15999984741211,
+      "change_pct": -1.1622387314647598,
+      "as_of": "2026-10-19"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.36,
+      "previous_close": 42.209999084472656,
+      "change_pct": -2.0137386944065083,
+      "as_of": "2026-10-19"
+    }
+  ],
+  "news": [
+    {
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T05:27:53+00:00"
+    },
+    {
+      "title": "Stock futures mixed after tech shares rebound to start the week: Live updates",
+      "summary": "The S&P 500 and Nasdaq clawed back some of their steep losses from the week before.",
+      "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T05:16:13+00:00"
+    },
+    {
+      "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+      "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
+      "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T04:48:52+00:00"
+    },
+    {
+      "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
+      "summary": "Bank Indonesia faces growing pressure to raise rates after MSCI’s threat to cut its market to standalone status triggered a rout in stocks, weakened the rupiah.",
+      "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T03:59:35+00:00"
+    },
+    {
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+      "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+      "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T02:44:35+00:00"
+    },
+    {
+      "title": "Is Kinetik (KNTK) a Good or Bad Investment After Growing Earnings 65%?",
+      "summary": "Kinetik Holdings Inc. (NYSE:KNTK) closed at $55.30 on October 16. The stock has returned 18.9% during the last 6 months, compared to a 10.5% return for the Insider Monkey Billionaire Index and 9.3% for the State Street SPDR S&P 500 ETF Trust. Kinetik Holdings pays a high yield and grew earnings quickly last quarter. Income […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-good-bad-investment-170212242.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:37:12+00:00"
+    },
+    {
+      "title": "Is Kinder Morgan (KMI) a Good or Bad Investment at This Price?",
+      "summary": "Kinder Morgan, Inc. (NYSE:KMI) closed at $34.20 on October 16. The stock has returned 7.1% over the last 6 months, compared with a 10.5% return for the Insider Monkey Billionaire Index and 9.3% for the State Street SPDR S&P 500 ETF Trust. Kinder Morgan owns the largest natural gas network in the United States, and the market expects […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-good-bad-170321592.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:36:21+00:00"
+    },
+    {
+      "title": "Is DT Midstream (DTM) a Good or Bad Investment After Falling 19% From Its High?",
+      "summary": "A share price well below its high usually says something about the balance sheet behind it. For DT Midstream, Inc. (NYSE:DTM) it says nothing at all, because that balance sheet carries unusually little debt for a pipeline. The stock closed at $123.67 on October 16. It has returned -6.4% over the last 6 months, compared with […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dt-midstream-dtm-good-bad-170558707.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:24:58+00:00"
+    },
+    {
+      "title": "Why Is Enbridge (ENB) 18% Below Its High While Revenue Nearly Doubled?",
+      "summary": "Enbridge Inc. (NYSE:ENB) reported revenue close to twice the year-earlier figure and earnings a third lower. Both halves come from the same filing, and neither says what it first appears to. The stock closed at $48.10 on October 16. It has returned -7.9% during the last 6 months, compared to a 10.5% return for the […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-enbridge-enb-18-below-170451940.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:24:51+00:00"
+    },
+    {
+      "title": "What Is Antero Midstream’s (AM) Economic Moat, and Is One Customer Enough?",
+      "summary": "Antero Resources drills for natural gas in Appalachia. Antero Midstream Corporation (NYSE:AM) owns the pipe that takes it away, and it was carved out of that same producer to do exactly that job. The stock closed at $20.64 on October 16. It has returned -1.1% during the last 6 months, compared to a 10.5% return […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/antero-midstream-am-economic-moat-170655510.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:23:55+00:00"
+    },
+    {
+      "title": "What Is Williams’ (WMB) Economic Moat, and Is It Steel or Permits?",
+      "summary": "A moat is usually described as something a competitor cannot copy. The test for The Williams Companies, Inc. (NYSE:WMB) is narrower than that. Nobody doubts a rival could weld pipe. The doubt is whether anyone could get permission to lay it. The stock closed at $71.28 on October 16. It has returned 0.5% during the […]",
+      "link": "https://finance.yahoo.com/energy/articles/williams-wmb-economic-moat-steel-170903468.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:23:03+00:00"
+    },
+    {
+      "title": "Is ONEOK (OKE) Cheap at 14 Times Next Year’s Earnings?",
+      "summary": "ONEOK, Inc. (NYSE:OKE) closed at $93.31 on October 16. The stock has returned 11.4% over the last 6 months, compared with a 10.5% return for the Insider Monkey Billionaire Index and 9.3% for the State Street SPDR S&P 500 ETF Trust. ONEOK gathers and processes natural gas liquids across the midcontinent and the Permian, and has spent recent […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-cheap-14-times-170800201.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:23:00+00:00"
+    },
+    {
+      "title": "Targa (TRGP) Borrowed Five Times Its Equity and the Stock Nearly Doubled",
+      "summary": "Two things are true of Targa Resources Corp. (NYSE:TRGP) at once. It carries more debt against its equity than almost anything in midstream, and it has been one of the strongest performers in the business over the past year. The stock closed at $294.90 on October 16. It has returned 27.4% during the last 6 […]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-trgp-borrowed-five-times-171408878.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T02:19:08+00:00"
+    },
+    {
+      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+      "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T02:16:25+00:00"
+    },
+    {
+      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
+      "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T01:53:34+00:00"
+    },
+    {
+      "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+      "summary": "The timeline for startups to do initial public offerings has accelerated, according to Granite Asia's Jenny Lee",
+      "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T01:52:05+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "summary": "The Philadelphia Semiconductor Index added about 1.6%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-19T23:00:23+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+      "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
+      "link": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-19T23:00:02+00:00"
+    },
+    {
+      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+      "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
+      "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-19T21:58:00+00:00"
+    },
+    {
+      "title": "When should you dump your target-date funds?",
+      "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+      "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-19T21:37:00+00:00"
+    }
+  ]
+}
