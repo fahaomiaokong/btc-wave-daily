@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.82,
+      "previous_close": 175.64999389648438,
+      "change_pct": 2.374042839974777,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.38,
+      "previous_close": 41.66999816894531,
+      "change_pct": 1.7038681599554684,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 41.88,
+      "previous_close": 41.36000061035156,
+      "change_pct": 1.2572518906547092,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.72,
+      "previous_close": 55.060001373291016,
+      "change_pct": 1.198689811564635,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.5,
+      "previous_close": 114.45999908447266,
+      "change_pct": 0.90861517023062,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.75,
+      "previous_close": 87.20999908447266,
+      "change_pct": 0.6191961027362192,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.23,
+      "previous_close": 50.95000076293945,
+      "change_pct": 0.5495568849219978,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.97,
+      "previous_close": 67.80000305175781,
+      "change_pct": 0.25073295072333135,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 110.19,
+      "previous_close": 110.08999633789062,
+      "change_pct": 0.09083810104093537,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 166.8,
+      "previous_close": 166.67999267578125,
+      "change_pct": 0.071998637804227,
+      "as_of": "2026-10-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 185.44,
+      "previous_close": 185.9600067138672,
+      "change_pct": -0.27963362824959814,
+      "as_of": "2026-10-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+      "summary": "This earnings season could help propel stocks as the year winds down, said Christian Mueller-Glissmann, head of asset allocation for Goldman Sachs Research.",
+      "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T05:28:03+00:00"
+    },
+    {
+      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+      "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude.",
+      "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T04:47:43+00:00"
+    },
+    {
+      "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "summary": "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.",
+      "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T02:55:38+00:00"
+    },
+    {
+      "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+      "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
+      "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T01:02:36+00:00"
+    },
+    {
+      "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+      "summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters.",
+      "link": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T00:44:16+00:00"
+    },
+    {
+      "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+      "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
+      "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T00:42:08+00:00"
+    },
+    {
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
+      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T00:24:00+00:00"
+    },
+    {
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T00:15:00+00:00"
+    },
+    {
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T00:14:00+00:00"
+    },
+    {
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T00:12:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
+      "summary": "SpaceX reported solid earnings fueled by a big jump in its artificial-intelligence business.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-gain-as-earnings-season-sets-in-while-space-x-aids-nasdaq-after-hours-spcx-ba-mmm-nflx-qcom-in-focus/cZxAawhRBHX?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T23:47:57+00:00"
+    },
+    {
+      "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+      "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T23:34:14+00:00"
+    },
+    {
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts.",
+      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-20T23:10:00+00:00"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-20T22:45:00+00:00"
+    },
+    {
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-20T22:30:00+00:00"
+    },
+    {
+      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+      "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T22:29:45+00:00"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-20T22:27:00+00:00"
+    },
+    {
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+      "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
+      "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T22:01:11+00:00"
+    },
+    {
+      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
+      "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits.",
+      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-20T21:47:00+00:00"
+    },
+    {
+      "title": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
+      "summary": "Today's earnings show there's a cohort of the market that can thrive outside of the data center buildout.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-20T21:17:47+00:00"
+    }
+  ]
+}
