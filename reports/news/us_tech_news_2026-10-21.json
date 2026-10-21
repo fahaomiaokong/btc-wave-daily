@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
+    "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
+    "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T04:40:13+00:00",
+    "tickers": [
+      "META",
+      "TSLA",
+      "SMCI"
+    ],
+    "score": 16
+  },
+  {
+    "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane'",
+    "summary": "On Tuesday, Futurum Equities chief market strategist Shay Boloor highlighted comments from Elon Musk during Space Exploration Technologies Corp.’s (NASDAQ:SPCX) third-quarter earnings call, raising questions about whether the industry has enough infrastructure to meet surging demand. SpaceX Struggles to Find Available Chips During the earnings call, Musk stated that he expects the shortage of superintelligence computing capacity to persist for years, adding that SpaceX’s short-term compute contr",
+    "link": "https://finance.yahoo.com/technology/ai/articles/spacex-cant-spare-nvidia-google-041409215.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T04:14:09+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch",
+    "published": "2026-10-20T18:38:24+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Asian chip stocks rally as Super Micro forecast revives AI demand optimism",
+    "summary": "Investing.com -- Asian chipmakers and artificial intelligence-related stocks rallied on Wednesday after stronger-than-expected preliminary revenue guidance from Super Micro Computer offered relief to investors concerned about the sustainability of spending on AI infrastructure.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/asian-chip-stocks-rally-super-023854114.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T02:38:54+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
+    "summary": "Investing.com -- Asian stocks advanced on Wednesday as stronger-than-expected earnings from major beneficiaries of the artificial intelligence boom revived confidence in the technology trade, helping regional chipmakers rebound after last week’s selloff.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-rebound-spacex-super-041739951.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T04:17:39+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Will Federal Cloud Partnership Change Palantir Stock Narrative",
+    "summary": "In October 2026, Knox Systems announced a partnership with Palantir Technologies to combine Palantir's accredited infrastructure with Knox's fast FedRAMP and IL5 authorization path for secure U.S. government and defense workloads. The alliance positions Palantir Technologies as a key conduit for commercial software vendors seeking one streamlined route into highly regulated federal environments. This directly ties its AI platforms to mission-critical deployment timelines and compliance...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/federal-cloud-partnership-change-palantir-042501981.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T04:25:01+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
+    "summary": "Earnings from marquee names, including SpaceX, Netflix, 3M and GE Aerospace dominated the narrative on Tuesday.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T03:38:05+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Palantir Technologies (PLTR) Signs Knox Partnership, Is The Stock Fully Priced?",
+    "summary": "Palantir Technologies (PLTR) just signed a new partnership with Knox Systems that targets highly secure FedRAMP and IL5 government cloud environments, putting fresh attention on how this contract work might influence the stock. That Knox Systems deal lands at a time when Palantir Technologies has been on a strong run, with a 90-day share price return of 54.61% and a 30-day gain of 8.42%. This comes even though the stock has pulled back 7.70% over the past week and slipped 0.80% in the last...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-signs-knox-032018411.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-21T03:20:18+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 8
+  }
+]
