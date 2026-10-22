@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 188.54,
+      "previous_close": 185.44000244140625,
+      "change_pct": 1.6716984025996418,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.31,
+      "previous_close": 166.8000030517578,
+      "change_pct": 0.9052739332226833,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.04,
+      "previous_close": 55.720001220703125,
+      "change_pct": 0.5742978684249778,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.0,
+      "previous_close": 41.880001068115234,
+      "change_pct": 0.2865303935632557,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.16,
+      "previous_close": 67.97000122070312,
+      "change_pct": 0.27953328804561917,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.32,
+      "previous_close": 51.22999954223633,
+      "change_pct": 0.1756792086040848,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.53,
+      "previous_close": 115.5,
+      "change_pct": 0.02597402597401821,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 178.94,
+      "previous_close": 179.82000732421875,
+      "change_pct": -0.48938232030659723,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.11,
+      "previous_close": 87.75,
+      "change_pct": -0.7293447293447275,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.06,
+      "previous_close": 42.380001068115234,
+      "change_pct": -0.7550756490093291,
+      "as_of": "2026-10-21"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.97,
+      "previous_close": 110.19000244140625,
+      "change_pct": -1.1071807009487955,
+      "as_of": "2026-10-21"
+    }
+  ],
+  "news": [
+    {
+      "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T05:18:24+00:00"
+    },
+    {
+      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+      "summary": "The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.",
+      "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T04:35:54+00:00"
+    },
+    {
+      "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+      "summary": "The S&P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
+      "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T04:33:35+00:00"
+    },
+    {
+      "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+      "summary": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
+      "link": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T04:02:18+00:00"
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T03:15:00+00:00"
+    },
+    {
+      "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+      "summary": "Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.",
+      "link": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T02:20:50+00:00"
+    },
+    {
+      "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+      "summary": "Economists polled by Reuters had forecast the Bank of Korea to hold rates.",
+      "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T02:18:29+00:00"
+    },
+    {
+      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "summary": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
+      "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T02:01:48+00:00"
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T01:50:00+00:00"
+    },
+    {
+      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+      "summary": "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent.",
+      "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T01:21:10+00:00"
+    },
+    {
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T01:05:15+00:00"
+    },
+    {
+      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+      "summary": "Investors liked what they saw.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T00:53:01+00:00"
+    },
+    {
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+      "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T00:48:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+      "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T00:07:48+00:00"
+    },
+    {
+      "title": "Meta reports third-quarter revenue beat and issues strong guidance",
+      "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+      "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T23:45:42+00:00"
+    },
+    {
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "summary": "Tesla reported better-than-expected third-quarter results.",
+      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T23:32:04+00:00"
+    },
+    {
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T23:29:00+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+      "summary": "Meta reported earnings that beat expectations, while narrowing its capex plans.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-21T23:15:19+00:00"
+    },
+    {
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-21T23:07:00+00:00"
+    },
+    {
+      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+      "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-21T22:50:35+00:00"
+    }
+  ]
+}
