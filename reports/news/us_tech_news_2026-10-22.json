@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+    "source": "Tech",
+    "published": "2026-10-22T01:05:15+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+    "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent […]",
+    "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+    "source": "The Verge",
+    "published": "2026-10-21T23:20:33+00:00",
+    "tickers": [
+      "TSLA",
+      "NET"
+    ],
+    "score": 11
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source": "TechCrunch",
+    "published": "2026-10-21T17:59:12+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+    "summary": "OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.",
+    "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+    "source": "Tech",
+    "published": "2026-10-21T12:20:13+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Meta reports third-quarter revenue beat and issues strong guidance",
+    "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+    "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+    "source": "Tech",
+    "published": "2026-10-21T23:45:42+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Asia stocks slide as AI jitters hit Korean chipmakers",
+    "summary": "Investing.com -- Asian stocks fell on Thursday as mixed earnings from major U.S. technology companies failed to reassure investors about the returns on massive artificial intelligence investments, renewing pressure on semiconductor shares and Chinese equities.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slide-ai-jitters-042543916.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-22T04:25:43+00:00",
+    "tickers": [],
+    "score": 8
+  },
+  {
+    "title": "Meta to create a new class of shares to fund AI push",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, […]",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "source": "The Verge",
+    "published": "2026-10-21T21:30:02+00:00",
+    "tickers": [
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+    "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "source": "Tech",
+    "published": "2026-10-21T16:08:50+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 8
+  }
+]
