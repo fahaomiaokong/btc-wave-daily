@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 89.99,
+      "previous_close": 87.11000061035156,
+      "change_pct": 3.306163895613823,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.87,
+      "previous_close": 42.0,
+      "change_pct": 2.0714285714285685,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 181.3,
+      "previous_close": 178.94000244140625,
+      "change_pct": 1.3188764537803932,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.52,
+      "previous_close": 42.060001373291016,
+      "change_pct": 1.0936724005936371,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.65,
+      "previous_close": 56.040000915527344,
+      "change_pct": 1.088506556936264,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.69,
+      "previous_close": 51.31999969482422,
+      "change_pct": 0.7209670837412308,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.01,
+      "previous_close": 115.52999877929688,
+      "change_pct": -0.4500984893891058,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.57,
+      "previous_close": 68.16000366210938,
+      "change_pct": -0.8656156549436522,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 166.73,
+      "previous_close": 168.30999755859375,
+      "change_pct": -0.9387425473901034,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.42,
+      "previous_close": 108.97000122070312,
+      "change_pct": -1.42241094185529,
+      "as_of": "2026-10-22"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 182.34,
+      "previous_close": 188.5399932861328,
+      "change_pct": -3.2884234151443703,
+      "as_of": "2026-10-22"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
+      "summary": "The Nasdaq Composite posted its worst day since June as the tech sector sold off Thursday.",
+      "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T05:15:48+00:00"
+    },
+    {
+      "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+      "summary": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
+      "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T05:01:31+00:00"
+    },
+    {
+      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+      "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+      "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T04:55:59+00:00"
+    },
+    {
+      "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+      "summary": "Core inflation, which strips out prices of fresh food, was in line with the 2.1% forecast by economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T00:55:11+00:00"
+    },
+    {
+      "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+      "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+      "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T00:46:09+00:00"
+    },
+    {
+      "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
+      "summary": "A bout of volatility has hit the price of municipal bonds, but there are solid buying opportunities available — including one high-yielding corner.",
+      "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T23:59:27+00:00"
+    },
+    {
+      "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.",
+      "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T23:45:50+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
+      "summary": "Meta’s plan to boost capex reignited investor concerns as more tech firms look to raise debt to fund AI growth.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-clocks-worst-day-in-four-months/cZxwY21RBDl?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-22T23:44:48+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Nasdaq Composite dropped 2.6% on Thursday as worries over spending on artificial intelligence ramped up.",
+      "link": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T23:26:43+00:00"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T23:15:00+00:00"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T23:00:00+00:00"
+    },
+    {
+      "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+      "summary": "Stop listening to market pundits and start looking at market performance.",
+      "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T22:54:00+00:00"
+    },
+    {
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T22:21:08+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves in after hours: Western Digital, Bloom Energy, Deckers Outdoor & more",
+      "summary": "Here are some of the companies making headlines after the closing bell.",
+      "link": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-in-after-hours-wdc-be-deck.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T22:17:28+00:00"
+    },
+    {
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T22:17:00+00:00"
+    },
+    {
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+      "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-22T22:07:00+00:00"
+    },
+    {
+      "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+      "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T22:02:34+00:00"
+    },
+    {
+      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+      "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T21:58:42+00:00"
+    },
+    {
+      "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+      "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
+      "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T21:52:02+00:00"
+    },
+    {
+      "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-22T21:37:31+00:00"
+    }
+  ]
+}
