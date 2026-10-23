@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+    "source": "Tech",
+    "published": "2026-10-22T16:20:03+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Cloudflare (NET) Stock May Trade At A Rich Sales Premium",
+    "summary": "Cloudflare’s stock has surged over the past few years as investors have latched onto its role in web security and edge computing. With the shares now around US$303.61, the open question is whether that price tag is still supported by its sales base. Cloudflare has delivered a very large 3 year share price gain of about 4.5x, which makes the gap between its long term share performance and its underlying revenue scale an important issue to examine. The company’s rapid response to the PHP2Shell...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-stock-may-trade-042755323.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-23T04:27:55+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Teradyne Stock Faces A New Test As Warehouse Robotics Partnership Expands",
+    "summary": "Teradyne Robotics and Sereact announced a partnership that pairs Sereact’s Cortex physical AI platform with Universal Robots’ collaborative arms to automate complex logistics tasks such as returns handling for Zalando’s European fulfillment centers. The rollout of hundreds of dual arm UR systems and a live NVIDIA GTC Berlin demo signals that Teradyne is pushing robotics deeper into high volume, unstructured warehouse work that has been hard to automate. The focus now turns to how Teradyne’s...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stock-faces-test-warehouse-042632705.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-23T04:26:32+00:00",
+    "tickers": [
+      "NVDA",
+      "ARM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Google’s AI chip could become a $75 billion business",
+    "summary": "Wall Street sees a new rival to Nvidia hiding inside Google.",
+    "link": "https://www.thestreet.com/investing/google-ai-chip-could-become-75-billion-business?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-23T03:07:00+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Companies laying off staff this year include Meta, Amazon, and Visa — see the list",
+    "summary": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and Visa, as AI and economic conditions reshape the business landscape.",
+    "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-23T04:02:01+00:00",
+    "tickers": [
+      "AMZN",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch",
+    "published": "2026-10-23T04:00:00+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge",
+    "published": "2026-10-22T21:53:22+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "source": "The Verge",
+    "published": "2026-10-22T21:14:26+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA"
+    ],
+    "score": 9
+  }
+]
