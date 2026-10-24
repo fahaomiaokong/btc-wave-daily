@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 69.33,
+      "previous_close": 67.56999969482422,
+      "change_pct": 2.604706693983583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.23,
+      "previous_close": 182.33999633789062,
+      "change_pct": 0.4881011736229901,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.57,
+      "previous_close": 42.52000045776367,
+      "change_pct": 0.11759064369247785,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.56,
+      "previous_close": 42.869998931884766,
+      "change_pct": -0.7231139249089136,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.31,
+      "previous_close": 51.689998626708984,
+      "change_pct": -0.7351492296473583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.28,
+      "previous_close": 181.3000030517578,
+      "change_pct": -1.1141770643992466,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 164.62,
+      "previous_close": 166.72999572753906,
+      "change_pct": -1.265516572667047,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.9,
+      "previous_close": 56.650001525878906,
+      "change_pct": -1.3239214575065605,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 113.1,
+      "previous_close": 115.01000213623047,
+      "change_pct": -1.6607269809177594,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.51,
+      "previous_close": 107.41999816894531,
+      "change_pct": -1.7780657247278508,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 88.26,
+      "previous_close": 89.98999786376953,
+      "change_pct": -1.9224334979854873,
+      "as_of": "2026-10-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T01:57:24+00:00"
+    },
+    {
+      "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+      "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+      "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T22:49:42+00:00"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T22:49:00+00:00"
+    },
+    {
+      "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
+      "summary": "Brent crude rose 3.1% to end the session at $116.72 a barrel, the highest level since April.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-23T22:35:57+00:00"
+    },
+    {
+      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+      "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T22:27:06+00:00"
+    },
+    {
+      "title": "Wes Moss Says $1 Million in the S&P 500 Pays Just $12,000 a Year in Dividends. Here’s His Fix.",
+      "summary": "A million dollars in the S&P 500 generates far less dividend income than most retirees expect, and climbing toward higher yields introduces risks that only show up when markets turn ugly.",
+      "link": "https://247wallst.com/personal-finance/2026/10/23/wes-moss-says-1-million-in-the-sp-500-pays-just-12000-a-year-in-dividends-heres-his-fix/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-23T22:00:07+00:00"
+    },
+    {
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T22:00:00+00:00"
+    },
+    {
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+      "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T21:46:00+00:00"
+    },
+    {
+      "title": "All-America Economic Survey",
+      "summary": "All-America Economic Survey, Q3 2026",
+      "link": "https://www.cnbc.com/all-america-economic-survey/",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T21:31:22+00:00"
+    },
+    {
+      "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+      "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+      "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T21:26:59+00:00"
+    },
+    {
+      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T21:13:00+00:00"
+    },
+    {
+      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T21:11:00+00:00"
+    },
+    {
+      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+      "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T21:06:00+00:00"
+    },
+    {
+      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T20:52:23+00:00"
+    },
+    {
+      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+      "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T20:50:00+00:00"
+    },
+    {
+      "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+      "summary": "A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out.",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T20:19:00+00:00"
+    },
+    {
+      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+      "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+      "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-23T20:19:00+00:00"
+    },
+    {
+      "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+      "summary": "The Dow Industrials fell on Friday as Middle East tensions rose.",
+      "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T20:16:54+00:00"
+    },
+    {
+      "title": "Investors are starting to find opportunities in the battered bond market",
+      "summary": "Some market participants see reason for hope in a market bludgeoned this year.",
+      "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T20:09:36+00:00"
+    },
+    {
+      "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+      "summary": "The latest group of megacap earnings, a Federal Reserve meeting and a key inflation report are all on deck.",
+      "link": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-23T20:08:33+00:00"
+    }
+  ]
+}
