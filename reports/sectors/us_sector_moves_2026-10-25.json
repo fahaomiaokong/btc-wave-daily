@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 69.33,
+      "previous_close": 67.56999969482422,
+      "change_pct": 2.604706693983583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.23,
+      "previous_close": 182.33999633789062,
+      "change_pct": 0.4881011736229901,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.57,
+      "previous_close": 42.52000045776367,
+      "change_pct": 0.11759064369247785,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.56,
+      "previous_close": 42.869998931884766,
+      "change_pct": -0.7231139249089136,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.31,
+      "previous_close": 51.689998626708984,
+      "change_pct": -0.7351492296473583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.28,
+      "previous_close": 181.3000030517578,
+      "change_pct": -1.1141770643992466,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 164.62,
+      "previous_close": 166.72999572753906,
+      "change_pct": -1.265516572667047,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.9,
+      "previous_close": 56.650001525878906,
+      "change_pct": -1.3239214575065605,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 113.1,
+      "previous_close": 115.01000213623047,
+      "change_pct": -1.6607269809177594,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.51,
+      "previous_close": 107.41999816894531,
+      "change_pct": -1.7780657247278508,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 88.26,
+      "previous_close": 89.98999786376953,
+      "change_pct": -1.9224334979854873,
+      "as_of": "2026-10-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+      "summary": "The new assembly plant ⁠in ‌Georgia is expected to produce ⁠200,000 SUVs annually, a government official told Reuters.",
+      "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T02:17:24+00:00"
+    },
+    {
+      "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+      "summary": "Obama targeted GOP gubernatorial candidate Vivek Ramaswamy, who has doubled down on an ad featuring the estranged mother of Democratic rival Dr. Amy Acton.",
+      "link": "https://www.cnbc.com/2026/10/24/obama-ohio-midterm-elections.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T21:51:15+00:00"
+    },
+    {
+      "title": "Can Bitcoin Get Back Above $85,000 in November?",
+      "summary": "Bitcoin fell just $150 short of $85,000 before sellers took over, and now four price levels, restless ETF flows, spiking oil prices, and a looming election stand between the crypto and a November recovery.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/24/can-bitcoin-get-back-above-85000-in-november/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-24T21:40:39+00:00"
+    },
+    {
+      "title": "Trump casts his midterm election ballot early in Florida",
+      "summary": "Asked if he voted the Republican party line, Trump, who was wearing an \"I Voted\" sticker, said, \"Very much so.\"",
+      "link": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T21:28:44+00:00"
+    },
+    {
+      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+      "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+      "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T21:07:01+00:00"
+    },
+    {
+      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+      "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+      "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T20:38:30+00:00"
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T20:15:00+00:00"
+    },
+    {
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T20:00:00+00:00"
+    },
+    {
+      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+      "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+      "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T19:57:24+00:00"
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T19:45:00+00:00"
+    },
+    {
+      "title": "Violence flares in Paris after massive, largely peaceful protests across France",
+      "summary": "France's Interior Ministry said 410,000 people took part in protests nationwide, though unions said the true figure was twice as high.",
+      "link": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T18:49:38+00:00"
+    },
+    {
+      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T18:45:00+00:00"
+    },
+    {
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T18:03:00+00:00"
+    },
+    {
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T17:39:00+00:00"
+    },
+    {
+      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T17:23:00+00:00"
+    },
+    {
+      "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
+      "summary": "The theme park operator announced the extra safeguard after 42-year-old Hassan Jihad Ibn Kariem died after being ejected from his seat on the Goliath coaster.",
+      "link": "https://www.cnbc.com/2026/10/24/six-flags-seat-belts-roller-coaster.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-24T17:12:39+00:00"
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:59:00+00:00"
+    },
+    {
+      "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
+      "summary": "The gap between U.S. and Chinese stocks just broke a record stretching back decades, and Beijing's state-backed funds are still sitting on their hands while blue-chip shares slide into bear market territory.",
+      "link": "https://247wallst.com/investing/2026/10/24/chinas-stock-market-is-trailing-the-u-s-by-the-widest-margin-in-history/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-24T16:57:56+00:00"
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:46:00+00:00"
+    },
+    {
+      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "summary": "Store aisles are getting a digital makeover.",
+      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:18:00+00:00"
+    }
+  ]
+}
