@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 69.33,
+      "previous_close": 67.56999969482422,
+      "change_pct": 2.604706693983583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 183.23,
+      "previous_close": 182.33999633789062,
+      "change_pct": 0.4881011736229901,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.57,
+      "previous_close": 42.52000045776367,
+      "change_pct": 0.11759064369247785,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.56,
+      "previous_close": 42.869998931884766,
+      "change_pct": -0.7231139249089136,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.31,
+      "previous_close": 51.689998626708984,
+      "change_pct": -0.7351492296473583,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.28,
+      "previous_close": 181.3000030517578,
+      "change_pct": -1.1141770643992466,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 164.62,
+      "previous_close": 166.72999572753906,
+      "change_pct": -1.265516572667047,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.9,
+      "previous_close": 56.650001525878906,
+      "change_pct": -1.3239214575065605,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 113.1,
+      "previous_close": 115.01000213623047,
+      "change_pct": -1.6607269809177594,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.51,
+      "previous_close": 107.41999816894531,
+      "change_pct": -1.7780657247278508,
+      "as_of": "2026-10-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 88.26,
+      "previous_close": 89.98999786376953,
+      "change_pct": -1.9224334979854873,
+      "as_of": "2026-10-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
+      "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T05:22:30+00:00"
+    },
+    {
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+      "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T05:18:01+00:00"
+    },
+    {
+      "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+      "summary": "Traders looked ahead to a busy week with the Federal Reserve's policy decision due on Wednesday.",
+      "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T05:13:11+00:00"
+    },
+    {
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+      "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T04:56:16+00:00"
+    },
+    {
+      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T04:09:41+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: Big Pharma Earnings, Cancer Updates And 2 FDA Deadlines — The Week’s Biotech Watchlist",
+      "summary": "Lilly and Merck report earnings on Thursday, followed by AbbVie on Friday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-big-pharma-earnings-cancer-updates-2-fda-deadlines/cZUdZVhRBUH?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T02:28:29+00:00"
+    },
+    {
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-26T01:50:00+00:00"
+    },
+    {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T00:37:51+00:00"
+    },
+    {
+      "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+      "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T00:28:36+00:00"
+    },
+    {
+      "title": "Goldman Sachs slashes Kospi target to 9,000 but still sees over 60% upside",
+      "summary": "Goldman Sachs cut its Kospi target by 25% to 9,000 but maintained its bullish outlook on Korean equities.",
+      "link": "https://www.cnbc.com/2026/10/26/goldman-slashes-kospi-target-korea-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T00:00:03+00:00"
+    },
+    {
+      "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
+      "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+      "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T23:55:22+00:00"
+    },
+    {
+      "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+      "summary": "Michigan has one of the nation's most competitive U.S. Senate races heading into the Nov. 3 midterm elections.",
+      "link": "https://www.cnbc.com/2026/10/25/trump-invokes-911-in-urging-michigan-voters-to-oppose-el-sayed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T21:54:11+00:00"
+    },
+    {
+      "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+      "summary": "It was a seismic political shift in the Balkan country where Vucic led with virtually absolute power for 14 years.",
+      "link": "https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T21:42:33+00:00"
+    },
+    {
+      "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
+      "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T21:13:50+00:00"
+    },
+    {
+      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T20:28:55+00:00"
+    },
+    {
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-25T20:15:00+00:00"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-25T20:00:00+00:00"
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-25T19:30:00+00:00"
+    },
+    {
+      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "summary": "Venezuela's opposition leader Edmundo Gonzalez wrote on X, confirming Machado's arrival and saying he would be next to her \"very soon.\"",
+      "link": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T18:26:50+00:00"
+    },
+    {
+      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-25T18:18:49+00:00"
+    }
+  ]
+}
