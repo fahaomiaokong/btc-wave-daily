@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+    "summary": "The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
+    "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-rise-with.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T04:20:36+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 16
+  },
+  {
+    "title": "3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing",
+    "summary": "Microsoft, Alphabet and Amazon report earnings this week, with cloud growth and AI spending in focus for investors.",
+    "link": "https://beincrypto.com/top-3-big-tech-earnings-reports-october-final-week/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T01:09:54+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 15
+  },
+  {
+    "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+    "summary": "Strong AI demand supported growth at some technology companies last week, while merger speculation lifted interest in others.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/spcx-smci-nok-tsla-nflx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZUdmy9RBUu?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T02:02:17+00:00",
+    "tickers": [
+      "TSLA",
+      "SMCI"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Now you can watch Instagram Reels on your Apple TV",
+    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
+    "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+    "source": "The Verge",
+    "published": "2026-10-25T16:20:17+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+    "summary": "Nvidia says each gigawatt of AI capacity is now worth 60% more to it with Vera Rubin, and that could extend its growth runway even if customers don't add more power.",
+    "link": "https://www.fool.com/investing/2026/10/26/jensen-huang-says-nvidias-next-gen-vera-rubin-chip/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T04:20:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Elon Musk Met Xi Jinping and Took Tesla FSD to China — Now His CFO Says Getting the Green Light for Unsupervised Driving Is ‘Hard’",
+    "summary": "Tesla Inc. is working to secure broader approval for its Full Self-Driving (FSD) technology in China, Chief Financial Officer Vaibhav Taneja said during the company’s third-quarter 2026 earnings call on Wednesday, as CEO Elon Musk separately said Tesla was pushing...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-met-xi-jinping-013004695.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T01:30:04+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
+    "summary": "NVIDIA has been one of the defining AI hardware stories of the past few years, and after a huge multi year rally the live question is whether the current share price is still grounded in the cash the business can generate. A recent pullback has not erased the long run gains, which puts extra focus on what the company’s cash flows can support from here. Over the past 5 years, NVIDIA has returned about 7x, which puts a lot of future cash generation and durability assumptions under the...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-still-looks-010644376.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-26T01:06:44+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+    "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]",
+    "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+    "source": "The Verge",
+    "published": "2026-10-25T20:16:19+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 6
+  }
+]
