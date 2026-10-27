@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Meta announces $95 billion stock offering to fund AI expansion",
+    "summary": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+    "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+    "source": "Tech",
+    "published": "2026-10-26T14:05:36+00:00",
+    "tickers": [
+      "NVDA",
+      "META",
+      "AMD",
+      "AVGO"
+    ],
+    "score": 19
+  },
+  {
+    "title": "Apple vs. Taiwan Semiconductor: Which Tech Stock Is a Better Buy in 2026?",
+    "summary": "Apple has tremendous brand power, while Taiwan Semiconductor is growing revenue at almost twice the rate.",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/26/apple-vs-taiwan-semiconductor-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-27T04:00:02+00:00",
+    "tickers": [
+      "AAPL",
+      "TSM"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Banks Reportedly Got Cold Feet on ‘Project North Star’ Until Hock Tan Stepped In: Broadcom’s $63 Billion Anthropic Financing Back on Track",
+    "summary": "Bank of America Corp. (NYSE:BAC), Blackstone Inc. (NYSE:BX), Citigroup Inc. (NYSE:C) and Morgan Stanley (NYSE:MS) committed $63 billion to finance Broadcom Inc’s (NASDAQ:AVGO) artificial intelligence chips and networking gear for Anthropic, in a deal some lenders reportedly weighed walking away from in recent weeks. Inside the $63 Billion Structure A newly formed special purpose vehicle will use the committed financing to buy Broadcom’s XPU AI accelerators and networking products and lease them",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-reportedly-got-cold-feet-032746843.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-27T03:27:46+00:00",
+    "tickers": [
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
+    "summary": "Anthropic's IPO filing lifts Nvidia 2.4% and the Nasdaq 0.8%, but the $2 trillion valuation target splits Wall Street.",
+    "link": "https://beincrypto.com/anthropic-ipo-filing-lifts-chip-stocks/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-27T03:21:13+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging",
+    "summary": "TSMC is reportedly seeing the demand for advanced packaging shoot up, leading to capacity constraints.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-chipmakers-face-higher-costs-tsmc-reportedly-plans-up-to-20-price-hike-for-advanced-chip-packaging/cZUIDHERBzm?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-27T05:00:30+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
+    "summary": "Investing.com-- Asian chipmakers and artificial intelligence-related stocks rallied on Tuesday after Anthropic filed for an initial public offering, reviving optimism about AI demand.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-ai-stocks-surge-040959441.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-27T04:09:59+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
+    "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+    "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+    "source": "Tech",
+    "published": "2026-10-27T00:27:46+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+    "source": "TechCrunch",
+    "published": "2026-10-26T21:05:11+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 8
+  }
+]
