@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 186.32,
+      "previous_close": 183.22999572753906,
+      "change_pct": 1.6864074357430647,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 166.96,
+      "previous_close": 164.6199951171875,
+      "change_pct": 1.4214584814844278,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 114.26,
+      "previous_close": 113.0999984741211,
+      "change_pct": 1.025642388619774,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.8,
+      "previous_close": 42.56999969482422,
+      "change_pct": 0.5402873075513348,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 69.64,
+      "previous_close": 69.33000183105469,
+      "change_pct": 0.44713422870048536,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.02,
+      "previous_close": 55.900001525878906,
+      "change_pct": 0.21466631636055666,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.38,
+      "previous_close": 51.310001373291016,
+      "change_pct": 0.13642296791172015,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.28,
+      "previous_close": 179.27999877929688,
+      "change_pct": 6.808919650325151e-07,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.55,
+      "previous_close": 42.560001373291016,
+      "change_pct": -0.023499466560861215,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.96,
+      "previous_close": 88.26000213623047,
+      "change_pct": -0.33990723880498175,
+      "as_of": "2026-10-26"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 103.85,
+      "previous_close": 105.51000213623047,
+      "change_pct": -1.5733125794909375,
+      "as_of": "2026-10-26"
+    }
+  ],
+  "news": [
+    {
+      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+      "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+      "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T05:30:10+00:00"
+    },
+    {
+      "title": "Michael Burry Says Anthropic’s IPO Filing Changes Nothing About His AI Bear Case — Flags Financial Risks Beyond The Tech",
+      "summary": "Burry said the prospectus misses developer-market changes and the pullback in tokenmaxxing.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-anthropic-ipo-filing-ai-bear-case-financial-risks-beyond-tech/cZUIx7dRBzZ?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T05:15:16+00:00"
+    },
+    {
+      "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+      "summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+      "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T05:09:59+00:00"
+    },
+    {
+      "title": "Morningstar CEO Kunal Kapoor on making career choices that help you grow",
+      "summary": "Morningstar CEO Kunal Kapoor reflects on turning down a better-paid job to join the investment research firm despite advice from those closest to him. He explains why he trusted his instincts and how his experience shaped his belief in seeking out opportunities for personal growth. He also discusses leadership, company culture, mistakes, AI and the decisions that shaped his career.",
+      "link": "https://www.cnbc.com/video/2026/10/27/morningstar-ceo-kunal-kapoor-on-personal-growth-and-career-choices.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T05:00:01+00:00"
+    },
+    {
+      "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
+      "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
+      "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T04:45:39+00:00"
+    },
+    {
+      "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+      "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+      "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T04:40:30+00:00"
+    },
+    {
+      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "summary": "The judge ordered that Maurene Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant U.S. attorney.",
+      "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T04:12:50+00:00"
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-27T04:01:00+00:00"
+    },
+    {
+      "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+      "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T03:34:08+00:00"
+    },
+    {
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+      "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T03:30:04+00:00"
+    },
+    {
+      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T02:37:31+00:00"
+    },
+    {
+      "title": "Anthropic’s S-1 Draws Reactions: Investor Says $100B ARR Could Be Possible By Year-End",
+      "summary": "Anthropic’s S-1 filing drew broadly positive comments from analysts and investors and contributed to gains in tech stocks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-s-1-draws-reactions-investor-says-100-b-arr-could-be-possible-by-year-end/cZUIsqyRBzg?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T02:27:36+00:00"
+    },
+    {
+      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T01:24:28+00:00"
+    },
+    {
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T01:05:06+00:00"
+    },
+    {
+      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+      "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+      "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T00:17:44+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "summary": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+      "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T23:10:16+00:00"
+    },
+    {
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T22:50:07+00:00"
+    },
+    {
+      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "summary": "Tens of thousands of Israelis are returning home to vote in a tight election.",
+      "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-26T22:46:35+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",
+      "summary": "Investors now look forward to quarterly earnings from Microsoft, Amazon, and Alphabet due this week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-begin-week-higher-as-anthropic-ipo-filing-rekindles-ai-enthusiasm-msft-aapl-cart-vz-in-focus/cZU3LuaRBz7?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T22:35:16+00:00"
+    },
+    {
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-26T22:30:00+00:00"
+    }
+  ]
+}
