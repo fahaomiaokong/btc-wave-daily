@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Meta Platforms (META) Could Be 39% Undervalued Following Its AI Funding Push",
+    "summary": "Meta’s fresh capital raise and AI alliances put Muse at the center of the story Meta Platforms (META) has just completed a US$25b follow on offering of Class A stock and a US$12.5b convertible preferred deal, tying that cash directly to an aggressive artificial intelligence buildout. Those financings land alongside deepening collaborations with Nvidia and AMD around Meta’s Muse agent and data center hardware. Together, these moves frame how the business is trying to fund, build and scale its...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-could-39-051201606.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T05:12:01+00:00",
+    "tickers": [
+      "NVDA",
+      "META",
+      "AMD"
+    ],
+    "score": 15
+  },
+  {
+    "title": "What Constellation Energy Stock's $5b DOE Loan Means For Shareholders",
+    "summary": "Constellation Energy secured a conditional loan commitment of up to US$5b from the U.S. Department of Energy to help fund nuclear uprates at eight existing clean energy centers, supporting projects that would add roughly 1.1 gigawatts of capacity using current plant sites and infrastructure. The federal backing, combined with long term agreements with Google, Amazon and Meta, suggests that Constellation Energy is focusing on contracted, carbon free output from its existing nuclear fleet...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stocks-5b-doe-044043503.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T04:40:43+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+    "summary": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+    "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+    "source": "Tech",
+    "published": "2026-10-27T14:19:36+00:00",
+    "tickers": [
+      "NVDA",
+      "META",
+      "AMD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch",
+    "published": "2026-10-27T14:59:09+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+    "summary": "U.S. stock futures are trading mixed early Wednesday as Wall Street braces for a monumental session featuring the Federal Reserve’s latest interest rate decision, blockbuster earnings from Microsoft Corp. (NASDAQ:MSFT) and Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), and skyrocketing costs from the...",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62643298/stock-market-will-sp-500-open-up-or-down-today-67?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T05:36:20+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Micron Technology And 2 High Growth Stocks To Watch",
+    "summary": "AI fever is back in the headlines as Anthropic’s planned mega IPO and large cloud contracts signal how quickly new winners can emerge when technology spending accelerates. That kind of backdrop can reward businesses that already look financially healthy yet still have room to grow earnings sharply. This article highlights three stocks from a screener focused on strong balance sheets and analyst expectations for rapid profit expansion. The three stocks highlighted here offer a compelling...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-2-high-growth-044453302.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T04:44:53+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs",
+    "summary": "OpenAI plans to buy Google's tensor processing units (TPUs), The Information reported.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/googl-stock-inches-higher-on-buzz-around-open-ai-eying-tp-us/cZU9cxyRB6Q?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T04:59:22+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+    "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+    "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+    "source": "Tech",
+    "published": "2026-10-27T21:15:35+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  }
+]
