@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 189.49,
+      "previous_close": 186.32000732421875,
+      "change_pct": 1.7013699823793527,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.45,
+      "previous_close": 114.26000213623047,
+      "change_pct": 1.0414824448810256,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.78,
+      "previous_close": 51.380001068115234,
+      "change_pct": 0.7785109450552108,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.85,
+      "previous_close": 42.54999923706055,
+      "change_pct": 0.7050546846500527,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.92,
+      "previous_close": 166.9600067138672,
+      "change_pct": 0.5749839767184683,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.18,
+      "previous_close": 179.27999877929688,
+      "change_pct": -0.055777989724314914,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.88,
+      "previous_close": 56.02000045776367,
+      "change_pct": -0.24991156126323855,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 103.58,
+      "previous_close": 103.8499984741211,
+      "change_pct": -0.2599889052365967,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.44,
+      "previous_close": 42.79999923706055,
+      "change_pct": -0.8411197277518268,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 87.15,
+      "previous_close": 87.95999908447266,
+      "change_pct": -0.9208720928870928,
+      "as_of": "2026-10-27"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.21,
+      "previous_close": 69.63999938964844,
+      "change_pct": -2.0534167176644247,
+      "as_of": "2026-10-27"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are mixed as traders await Fed decision, Big Tech earnings: Live updates",
+      "summary": "The moves came after stocks were broadly higher on Tuesday, fueled by gains among semiconductor companies.",
+      "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T06:21:26+00:00"
+    },
+    {
+      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T06:08:16+00:00"
+    },
+    {
+      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+      "summary": "Shares of South Korean chipmaker SK Hynix soared over 10% on Wednesday as third-quarter profit sharply beats estimates.",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T05:54:33+00:00"
+    },
+    {
+      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+      "summary": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+      "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T05:52:51+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trading mixed early Wednesday as Wall Street braces for a monumental session featuring the Federal Reserve’s latest interest rate decision, blockbuster earnings from Microsoft Corp. (NASDAQ:MSFT) and Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL), and skyrocketing costs from the...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62643298/stock-market-will-sp-500-open-up-or-down-today-67?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T05:36:20+00:00"
+    },
+    {
+      "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+      "summary": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+      "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T05:16:41+00:00"
+    },
+    {
+      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "summary": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
+      "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T04:29:20+00:00"
+    },
+    {
+      "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+      "summary": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
+      "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T03:33:53+00:00"
+    },
+    {
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "summary": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+      "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T03:02:44+00:00"
+    },
+    {
+      "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+      "summary": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
+      "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T02:57:36+00:00"
+    },
+    {
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T02:15:55+00:00"
+    },
+    {
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "summary": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
+      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-28T02:15:00+00:00"
+    },
+    {
+      "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+      "summary": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T00:14:24+00:00"
+    },
+    {
+      "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+      "summary": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+      "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T23:50:03+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
+      "summary": "The Federal Reserve’s October monetary policy meeting announcement is due on Wednesday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-jump-on-chipmaker-strength-as-investors-eye-october-fed-decision/cZUe8u8RB6G?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T23:45:11+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 posted back-to-back gains on Tuesday as tech shares rose.",
+      "link": "https://www.cnbc.com/2026/10/27/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T23:32:46+00:00"
+    },
+    {
+      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T23:03:09+00:00"
+    },
+    {
+      "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "summary": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
+      "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-27T22:51:00+00:00"
+    },
+    {
+      "title": "CNBC 2026 Workforce Executive Summit takeaways: How AI is transforming jobs, hiring, and employee benefits",
+      "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
+      "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T22:42:36+00:00"
+    },
+    {
+      "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+      "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-27T22:35:25+00:00"
+    }
+  ]
+}
