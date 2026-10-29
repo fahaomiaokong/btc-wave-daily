@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Asia stocks fall as Alphabet, Samsung results disappoint; more tech earnings loom",
+    "summary": "Investing.com-- Asian stocks fell on Thursday, surrendering early gains as disappointing results from Alphabet and a sell-off in Samsung Electronics weighed on technology shares, while investors awaited earnings from Amazon and Intel for further clues on the outlook for artificial intelligence investment.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-fall-alphabet-samsung-043113035.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T04:31:13+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+    "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "source": "TechCrunch",
+    "published": "2026-10-28T15:53:21+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Alphabet Q3 Earnings Call Highlights",
+    "summary": "Alphabet (NASDAQ:GOOG) reported third-quarter 2026 revenue of $127.6 billion, up 25% from a year earlier, as growth in Search, Google Cloud and subscriptions helped drive its 13th consecutive quarter of double-digit revenue growth. CEO Sundar Pichai said the company had reached a half-trillion-dolla",
+    "link": "https://www.marketbeat.com/instant-alerts/transcript-alphabet-q3-earnings-call-highlights-2026-10-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T05:04:16+00:00",
+    "tickers": [
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Gene Munster 'More Concerned' About Amazon and Alphabet — Says AI Bots Mean Shopping Edge 'Will Increasingly Be Under Attack'",
+    "summary": "Personalized AI bots could threaten Amazon.com, Inc.‘s (NASDAQ:AMZN) hold on online shopping and Alphabet Inc.‘s (NASDAQ:GOOG) (NASDAQ:GOOGL) grip on search, investor Gene Munster warned on Wednesday. Bots Could Reshape Where Shoppers Start Munster said in a post on X that bots will make it easy to find what you’re looking for, making them “a logical starting point for anything we buy.” Amazon’s edge rests on helping customers find what they want, delivering fast and earning their trust, Munster",
+    "link": "https://finance.yahoo.com/technology/ai/articles/gene-munster-more-concerned-amazon-045110770.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T04:51:10+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "What Microsoft (MSFT) Said on Its Q1 Earnings Call",
+    "summary": "Microsoft (NASDAQ:MSFT) reported a fast start to fiscal 2027, with first-quarter revenue of $92.3 billion, up 19% from a year earlier, as demand for cloud infrastructure and artificial intelligence services lifted results above the company’s expectations. Chief Financial Officer Amy Hood said opera",
+    "link": "https://www.marketbeat.com/instant-alerts/transcript-what-microsoft-msft-said-on-its-q1-earnings-call-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T04:04:15+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Broadcom Stock Is 29% Below Its Record. After Its New Anthropic Deal, I'd Consider Buying It a Little at a Time.",
+    "summary": "The chip designer is backstopping up to $43 billion of the deal. Is the stock's discount big enough?",
+    "link": "https://www.fool.com/investing/2026/10/28/broadcom-stock-is-29-below-its-record-after-its-new-anthropic-deal-i-d-consider-buying-it-a-little-at-a-time/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T03:12:02+00:00",
+    "tickers": [
+      "AMZN",
+      "AVGO"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+    "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
+    "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-29T03:06:19+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+    "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]",
+    "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+    "source": "The Verge",
+    "published": "2026-10-28T22:47:29+00:00",
+    "tickers": [
+      "MSFT",
+      "NET"
+    ],
+    "score": 10
+  }
+]
