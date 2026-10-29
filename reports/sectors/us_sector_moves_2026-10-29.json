@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 191.0,
+      "previous_close": 189.49000549316406,
+      "change_pct": 0.7968729025607635,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.13,
+      "previous_close": 55.880001068115234,
+      "change_pct": 0.4473853384147741,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.45,
+      "previous_close": 68.20999908447266,
+      "change_pct": 0.35185591372040026,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.49,
+      "previous_close": 167.9199981689453,
+      "change_pct": 0.3394484500179651,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.72,
+      "previous_close": 179.17999267578125,
+      "change_pct": 0.30137702103598674,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.86,
+      "previous_close": 51.779998779296875,
+      "change_pct": 0.15450216799757222,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.33,
+      "previous_close": 115.44999694824219,
+      "change_pct": -0.10393845943190705,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 86.84,
+      "previous_close": 87.1500015258789,
+      "change_pct": -0.35571029311668445,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 103.14,
+      "previous_close": 103.58000183105469,
+      "change_pct": -0.4247941912304265,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.13,
+      "previous_close": 42.439998626708984,
+      "change_pct": -0.7304397661169748,
+      "as_of": "2026-10-28"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.49,
+      "previous_close": 42.849998474121094,
+      "change_pct": -0.8401364922766774,
+      "as_of": "2026-10-28"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are mixed early Thursday as Wall Street navigates a tech-led pullback, critical PCE inflation data, and retreating oil prices amid renewed diplomatic hopes in the Middle East. Thursday follows the Federal Reserve decision to hold the benchmark...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62682843/stock-market-will-sp-500-open-up-or-down-today-68?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T06:04:17+00:00"
+    },
+    {
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T06:03:35+00:00"
+    },
+    {
+      "title": "Judge says Trump's bid to set aside California ballots would ‘wreak havoc’ on democracy",
+      "summary": "A U.S. judge rejected the DOJ’s bid to block California from counting mail ballots from over 20,000 voters it alleges may be noncitizens.",
+      "link": "https://www.cnbc.com/2026/10/29/trump-california-election-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T05:28:32+00:00"
+    },
+    {
+      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+      "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
+      "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T04:55:17+00:00"
+    },
+    {
+      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+      "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
+      "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T04:29:32+00:00"
+    },
+    {
+      "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
+      "summary": "Alphabet reported a disappointing third quarter, and shares tumbled after the results were released.",
+      "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T04:03:06+00:00"
+    },
+    {
+      "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+      "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+      "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T04:00:51+00:00"
+    },
+    {
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T02:49:39+00:00"
+    },
+    {
+      "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T02:14:14+00:00"
+    },
+    {
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-29T01:58:00+00:00"
+    },
+    {
+      "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T00:32:02+00:00"
+    },
+    {
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "summary": "An agreement between the companies could come next week, Bloomberg reported",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-29T00:20:00+00:00"
+    },
+    {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T00:16:39+00:00"
+    },
+    {
+      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-29T00:15:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+      "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-29T00:11:14+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+      "summary": "The Federal Reserve left interest rates unchanged in its October policy meeting.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-dip-as-weaker-than-expected-alphabet-earnings-reignite-ai-spending-worries-googl-msft-orcl-nvda-mrvl-in-focus/cZUQ2gwR9Gq?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T00:10:28+00:00"
+    },
+    {
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-29T00:10:00+00:00"
+    },
+    {
+      "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+      "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
+      "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T23:53:58+00:00"
+    },
+    {
+      "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+      "summary": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
+      "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-28T23:38:00+00:00"
+    },
+    {
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-28T23:18:00+00:00"
+    }
+  ]
+}
