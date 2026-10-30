@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.04,
+      "previous_close": 179.72000122070312,
+      "change_pct": 2.4037384542367812,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.06,
+      "previous_close": 42.130001068115234,
+      "change_pct": 2.207450530041899,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 88.18,
+      "previous_close": 86.83999633789062,
+      "change_pct": 1.5430719928815728,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.14,
+      "previous_close": 42.4900016784668,
+      "change_pct": 1.5297677002978682,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.94,
+      "previous_close": 56.130001068115234,
+      "change_pct": 1.4430766372190318,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.53,
+      "previous_close": 51.86000061035156,
+      "change_pct": 1.2919386458987159,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.13,
+      "previous_close": 168.49000549316406,
+      "change_pct": 0.9733482422507711,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.2,
+      "previous_close": 115.33000183105469,
+      "change_pct": 0.7543554627006399,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 68.71,
+      "previous_close": 68.44999694824219,
+      "change_pct": 0.37984377406825587,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 188.74,
+      "previous_close": 191.0,
+      "change_pct": -1.1832460732984273,
+      "as_of": "2026-10-29"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 101.21,
+      "previous_close": 103.13999938964844,
+      "change_pct": -1.871242390022887,
+      "as_of": "2026-10-29"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
+      "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+      "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T06:35:21+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending lower early Friday as Wall Street digests an over 12% post-earnings plunge in Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL) shares, escalating geopolitical tensions in the Middle East, and ongoing concerns about rising energy costs. The Polymarket traders,...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62727776/stock-market-will-sp-500-open-up-or-down-today-69?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-30T06:21:23+00:00"
+    },
+    {
+      "title": "A pharma giant is moving past one patent cliff — but another is already looming",
+      "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
+      "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T06:00:01+00:00"
+    },
+    {
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T04:40:17+00:00"
+    },
+    {
+      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
+      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T04:29:03+00:00"
+    },
+    {
+      "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "summary": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
+      "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T04:19:38+00:00"
+    },
+    {
+      "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+      "summary": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
+      "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T03:28:10+00:00"
+    },
+    {
+      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T03:16:00+00:00"
+    },
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T01:46:36+00:00"
+    },
+    {
+      "title": "Warren Buffett Says Doing Nothing Beats Doing Something. History Says He's Right.",
+      "summary": "Investing is one of the few things where doing less is actually doing more.",
+      "link": "https://www.fool.com/investing/2026/10/29/warren-buffett-nothing-beat-something-history-says/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-30T01:35:00+00:00"
+    },
+    {
+      "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
+      "summary": "Further downside is certainly possible, but selling now won't erase the losses we've taken.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T01:06:07+00:00"
+    },
+    {
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T00:39:52+00:00"
+    },
+    {
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T00:38:13+00:00"
+    },
+    {
+      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+      "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T00:28:45+00:00"
+    },
+    {
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+      "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T00:15:00+00:00"
+    },
+    {
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T00:14:00+00:00"
+    },
+    {
+      "title": "How elections worldwide are testing Trump’s influence abroad",
+      "summary": "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
+      "link": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T00:13:22+00:00"
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
+      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T00:06:00+00:00"
+    },
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T00:05:00+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment — AMZN, INTC, SBUX, PLTR, ASTS In Focus",
+      "summary": "Amazon’s Q3 earnings and revenue fell short of expectations.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-dip-on-weak-intel-amazon-earnings-with-bloated-capex-worries-weighing-on-sentiment-amzn-intc-sbux-pltr-asts-in-focus/cZUXcXOR9Ri?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T23:54:15+00:00"
+    }
+  ]
+}
