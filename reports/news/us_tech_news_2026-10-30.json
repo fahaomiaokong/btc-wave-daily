@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter — How It Stacks Up With MSFT, TSLA, GOOGL",
+    "summary": "Tech stocks have fallen sharply in October, signaling growing fears of an AI bubble.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/big-tech-capex-scorecard-amazon-spends-over-77-b-in-one-quarter-how-it-stacks-up-with-msft-tsla-googl/cZUh1oAR9Rr?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-30T05:16:10+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "TSLA"
+    ],
+    "score": 19
+  },
+  {
+    "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+    "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+    "source": "Tech",
+    "published": "2026-10-30T00:38:13+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+    "summary": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
+    "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+    "source": "Tech",
+    "published": "2026-10-29T21:59:31+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META"
+    ],
+    "score": 15
+  },
+  {
+    "title": "CrowdStrike (CRWD) Flags 129% Law Firm Attack Jump As AI Security Push Deepens",
+    "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) released its 2026 Legal Threat Landscape Report, highlighting a 129% surge in cyberattacks on U.S. law firms. The report describes attackers combining digital intrusions with physical tactics to access confidential legal and deal-related information. CrowdStrike also announced an AI-native security integration with NVIDIA that aims to protect AI agents at software and silicon levels. The jump in law firm threats and the new NVIDIA AI security tie-up only...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-flags-129-law-052107083.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-30T05:21:07+00:00",
+    "tickers": [
+      "NVDA",
+      "CRWD"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Microsoft (MSFT) Stock Shrugs Off Q1 Earnings As AI Spending Looms",
+    "summary": "Microsoft stock barely moved today, slipping 0.2% to about US$530 after a year where the shares climbed strongly and traders had already priced in big expectations. The latest Q1 FY27 earnings drop was anything but sleepy. Revenue reached US$92.3b and basic earnings per share came in at US$4.93, both backed by a powerful cloud and artificial intelligence engine. In the short term, that muted price reaction can look underwhelming. Over a longer horizon, the focus shifts to the gap between a...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-shrugs-off-032056445.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-30T03:20:56+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Amazon Stock Takes a Beating, but Munster Sees AI Powerhouse, Jim Cramer Calls Earnings ‘Very, Very Good’",
+    "summary": "On Thursday, Amazon.com, Inc. (NASDAQ:AMZN) drew sharply different reactions after its third-quarter earnings report, with analysts highlighting booming AI demand and AWS growth. Amazon shares fell 4.25% to close at $243.79 during Thursday’s regular session and dropped another 7.30% to $225.99 in after-hours trading, according to Benzinga Pro. Amazon’s AI Infrastructure Spending Draws Attention Shay Boloor, chief market strategist at Futurum Equities, highlighted CEO Andy Jassy’s comments that A",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-takes-beating-munster-031842546.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-30T03:18:42+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer says Microsoft is winning the AI spending battle — and Alphabet is paying the price",
+    "summary": "Cramer called Microsoft a buy after strong earnings, while remaining more cautious on Alphabet.",
+    "link": "https://www.cnbc.com/2026/10/29/cramer-microsoft-alphabet-ai-spending.html",
+    "source": "Tech",
+    "published": "2026-10-29T22:12:10+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+    "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout.",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+    "source": "Tech",
+    "published": "2026-10-29T16:20:51+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  }
+]
