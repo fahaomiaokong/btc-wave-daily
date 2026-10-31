@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+    "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+    "source": "Tech",
+    "published": "2026-10-30T00:38:13+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 17
+  },
+  {
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge",
+    "published": "2026-10-30T22:04:23+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+    "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+    "source": "Tech",
+    "published": "2026-10-30T22:17:13+00:00",
+    "tickers": [
+      "AAPL",
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+    "summary": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+    "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    "source": "Tech",
+    "published": "2026-10-30T15:14:27+00:00",
+    "tickers": [
+      "META",
+      "TSLA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm?",
+    "summary": "CPUs still have a lot of growth potential even with weakness in PCs.",
+    "link": "https://www.fool.com/investing/2026/10/30/intel-drags-down-cpu-rivals-is-it-a-buying-opportunity-for-the-amd-and-arm/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-31T03:20:01+00:00",
+    "tickers": [
+      "AMD",
+      "ARM"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+    "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 […]",
+    "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+    "source": "The Verge",
+    "published": "2026-10-30T15:29:02+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Broadcom Heads These 3 Top Undervalued Stocks To Watch",
+    "summary": "With the euro zone still managing growth despite costly energy and higher borrowing costs, investors are again paying close attention to cash generation and valuation. Solid cash flows can act like a shock absorber when conditions turn. That creates a window for you to look at businesses whose projected cash streams appear underpriced. This article highlights three such stocks that our cash flow focused screen currently flags as potentially mispriced. The three examples below are just a...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-021202308.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-31T02:12:02+00:00",
+    "tickers": [
+      "AVGO"
+    ],
+    "score": 7
+  },
+  {
+    "title": "‘Hard to Know If We’re in an AI Bubble’ Jeff Bezos Says, But Should a Retiree Buy AI Stocks? — ‘I Would Usually Tell a Retiree to Buy the S&P 500’",
+    "summary": "Amazon founder Jeff Bezos won’t call the top of the AI boom, but he knows exactly what he’d tell someone living off their savings. Fox News host Bret Baier asked Bezos whether the industry is in a bubble. “It’s hard...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hard-know-ai-bubble-jeff-013019732.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-31T01:30:19+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  }
+]
