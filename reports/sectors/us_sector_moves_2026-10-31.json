@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 70.02,
+      "previous_close": 68.70999908447266,
+      "change_pct": 1.906565176804631,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 89.42,
+      "previous_close": 88.18000030517578,
+      "change_pct": 1.4062142101755493,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.43,
+      "previous_close": 43.13999938964844,
+      "change_pct": 0.6722313733299456,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.87,
+      "previous_close": 184.0399932861328,
+      "change_pct": 0.45099257995340203,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.74,
+      "previous_close": 52.529998779296875,
+      "change_pct": 0.39977389222003445,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.17,
+      "previous_close": 43.060001373291016,
+      "change_pct": 0.2554543037641688,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.38,
+      "previous_close": 116.19999694824219,
+      "change_pct": -0.7056772545419587,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.51,
+      "previous_close": 56.939998626708984,
+      "change_pct": -0.7551784985595056,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 99.9,
+      "previous_close": 101.20999908447266,
+      "change_pct": -1.2943376112268257,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.4,
+      "previous_close": 170.1300048828125,
+      "change_pct": -1.6046580876153849,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 179.51,
+      "previous_close": 188.74000549316406,
+      "change_pct": -4.890328083358231,
+      "as_of": "2026-10-30"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "summary": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+      "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T06:00:02+00:00"
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T04:30:00+00:00"
+    },
+    {
+      "title": "Investors Have Poured a Record $2.24 Trillion Into ETFs This Year. Three Firms Collected Nearly Half of It",
+      "summary": "A record $2.24 trillion has flooded into ETFs worldwide this year, yet despite thousands of funds competing for that money, nearly half of it ended up in the hands of just three companies running essentially the same idea.",
+      "link": "https://247wallst.com/investing/etf/2026/10/30/investors-have-poured-a-record-2-24-trillion-into-etfs-this-year-three-firms-collected-nearly-half-of-it/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-31T00:03:47+00:00"
+    },
+    {
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T23:14:00+00:00"
+    },
+    {
+      "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+      "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T22:57:55+00:00"
+    },
+    {
+      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+      "summary": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+      "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T22:52:04+00:00"
+    },
+    {
+      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "summary": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
+      "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T22:42:26+00:00"
+    },
+    {
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T22:20:00+00:00"
+    },
+    {
+      "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+      "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+      "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T22:17:13+00:00"
+    },
+    {
+      "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "summary": "CNBC examines unusual price spikes in election prediction markets and how low-volume contracts can be moved by relatively small trades.",
+      "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T22:00:53+00:00"
+    },
+    {
+      "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+      "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+      "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T21:53:10+00:00"
+    },
+    {
+      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+      "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T21:45:52+00:00"
+    },
+    {
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T21:30:00+00:00"
+    },
+    {
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T21:23:00+00:00"
+    },
+    {
+      "title": "$6.3 billion Binance hack is largest crypto theft on record",
+      "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T21:21:17+00:00"
+    },
+    {
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "summary": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T20:52:00+00:00"
+    },
+    {
+      "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T20:48:00+00:00"
+    },
+    {
+      "title": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
+      "summary": "A US appeals court on Friday rejected the Trump admin's request that it temporarily block the state from counting mail ballots from more than 20,000 registered voters.",
+      "link": "https://www.cnbc.com/2026/10/30/trump-california-counting-alleged-noncitizen-votes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T20:43:57+00:00"
+    },
+    {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-30T20:42:00+00:00"
+    },
+    {
+      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-30T20:30:57+00:00"
+    }
+  ]
+}
