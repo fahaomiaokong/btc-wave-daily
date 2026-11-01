@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 70.02,
+      "previous_close": 68.70999908447266,
+      "change_pct": 1.906565176804631,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 89.42,
+      "previous_close": 88.18000030517578,
+      "change_pct": 1.4062142101755493,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.43,
+      "previous_close": 43.13999938964844,
+      "change_pct": 0.6722313733299456,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.87,
+      "previous_close": 184.0399932861328,
+      "change_pct": 0.45099257995340203,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.74,
+      "previous_close": 52.529998779296875,
+      "change_pct": 0.39977389222003445,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.17,
+      "previous_close": 43.060001373291016,
+      "change_pct": 0.2554543037641688,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.38,
+      "previous_close": 116.19999694824219,
+      "change_pct": -0.7056772545419587,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.51,
+      "previous_close": 56.939998626708984,
+      "change_pct": -0.7551784985595056,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 99.9,
+      "previous_close": 101.20999908447266,
+      "change_pct": -1.2943376112268257,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.4,
+      "previous_close": 170.1300048828125,
+      "change_pct": -1.6046580876153849,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 179.51,
+      "previous_close": 188.74000549316406,
+      "change_pct": -4.890328083358231,
+      "as_of": "2026-10-30"
+    }
+  ],
+  "news": [
+    {
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
+      "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T23:56:40+00:00"
+    },
+    {
+      "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+      "summary": "Sunday's online meeting of seven core OPEC+ members comes as Gulf members have been boosting exports disrupted for months by the war with Iran.",
+      "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T22:44:11+00:00"
+    },
+    {
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T22:27:56+00:00"
+    },
+    {
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T20:15:00+00:00"
+    },
+    {
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T20:12:37+00:00"
+    },
+    {
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T19:56:23+00:00"
+    },
+    {
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T19:30:00+00:00"
+    },
+    {
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+      "summary": "The group did not release a joint communique but will rather rely on a chairman's statement, which U.S Secretary of State Rubio said he would release Saturday.",
+      "link": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T19:04:28+00:00"
+    },
+    {
+      "title": "This is where most people go wrong in their 30s and 40s",
+      "summary": "These big life decisions will determine just how well you retire.",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T19:02:00+00:00"
+    },
+    {
+      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T18:50:00+00:00"
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T18:33:00+00:00"
+    },
+    {
+      "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T18:10:00+00:00"
+    },
+    {
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T17:26:00+00:00"
+    },
+    {
+      "title": "80% of workers make this 401(k) mistake when they retire",
+      "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T16:46:00+00:00"
+    },
+    {
+      "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+      "summary": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
+      "link": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T16:13:06+00:00"
+    },
+    {
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+      "summary": "Sam Altman's OpenAI is seeking about $20 billion with a desired valuation of $1.25 trillion, down from $1.4 billion, FT reported, citing people familiar.",
+      "link": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T16:08:55+00:00"
+    },
+    {
+      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+      "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
+      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-31T16:02:00+00:00"
+    },
+    {
+      "title": "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+      "summary": "Stocks have been shaky as technology takes a hit, but the Fed's latest move to hold rates steady signals that policymakers will support the markets if the going gets tough.",
+      "link": "https://finance.yahoo.com/markets/article/the-fed-put-is-very-much-back-wall-street-strategists-weigh-central-banks-next-move-155353732.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-31T15:53:53+00:00"
+    },
+    {
+      "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+      "summary": "Big Tech earnings reignited AI spending fears, sending investors into defensive stocks.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-10-31T15:37:11+00:00"
+    }
+  ]
+}
