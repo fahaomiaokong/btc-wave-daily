@@ -1,0 +1,91 @@
+[
+  {
+    "title": "AMZN Q3 deep dive: cloud surge and AI investments drive mixed market reception",
+    "summary": "Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) met Wall Street’s revenue expectations in Q3 2026, with sales up 12.1% year on year to $201.9 billion. The company expects next quarter’s revenue to be around $243.5 billion, close to analysts’ estimates. Its non-GAAP profit of $1.89 per share was 3.4% below analysts’ consensus estimates.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amzn-q3-deep-dive-cloud-043500791.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T04:35:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+    "summary": "Techs led another stock market sell-off. It's a time to be defensive. Apple, Palantir, jobs and midterm elections loom.",
+    "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T02:44:14+00:00",
+    "tickers": [
+      "AAPL",
+      "PLTR"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Before Buying Anthropic Stock, Here's What History Says About Investing in IPOs",
+    "summary": "Instead of worrying about day-one gains, investors should focus on how long it will take to build real wealth from Anthropic.",
+    "link": "https://www.fool.com/investing/2026/10/31/before-buying-anthropic-stock-heres-what-history-s/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T03:20:00+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Microsoft (MSFT) Lands $25 Billion Bond Deal As AI Push Deepens",
+    "summary": "Microsoft (NasdaqGS:MSFT) completed a record US$25b multi-tranche bond sale, its first major issuance in nearly a decade. The company said proceeds will support long term funding for AI infrastructure and continued investment in its cloud platforms. Microsoft also expanded its AI collaboration with The Estée Lauder Companies to apply data and decision intelligence across global beauty brands. Microsoft's US$25b bond raise and new Estée Lauder AI partnership deserve a close look alongside the...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-lands-25-billion-011021686.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T01:10:21+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock",
+    "summary": "Amazon.com Inc. is expanding its Bedrock AI platform with China’s Kimi and GLM open models, while CEO Andy Jassy outlined ambitions for the service to eventually match Amazon’s massive EC2 cloud business. Amazon disclosed the additions during its third-quarter earnings...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/andy-jassy-says-west-very-233005253.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-10-31T23:30:05+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
+    "summary": "Tesla is expanding its Cybercab autonomous ride service, with regulators in Texas and Nevada authorizing larger robotaxi fleets and operational pilots across key U.S. cities. This push toward low cost, software heavy robotaxi miles strengthens Tesla's effort to build recurring service revenue on top of its EV base. We will look at how Tesla's long term, autonomy heavy investment narrative is shaped by this new Cybercab expansion in Texas. Scan how Tesla's robotaxi and FSD push compares with...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cybercab-expansion-might-change-case-051614061.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T05:16:14+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Prediction: This Will Be Intel's Stock Price by Year-End 2027",
+    "summary": "Intel just started shipping chips on its most advanced manufacturing process yet, and the billions the U.S. government, Nvidia, and SoftBank bet on it last year suggest the comeback might be real.",
+    "link": "https://www.fool.com/investing/2026/10/31/prediction-this-will-be-intels-stock-price-by-year/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-01T02:20:00+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "source": "TechCrunch",
+    "published": "2026-10-31T01:20:05+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
