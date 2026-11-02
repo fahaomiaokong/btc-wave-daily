@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 70.02,
+      "previous_close": 68.70999908447266,
+      "change_pct": 1.906565176804631,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 89.42,
+      "previous_close": 88.18000030517578,
+      "change_pct": 1.4062142101755493,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.43,
+      "previous_close": 43.13999938964844,
+      "change_pct": 0.6722313733299456,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.87,
+      "previous_close": 184.0399932861328,
+      "change_pct": 0.45099257995340203,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.74,
+      "previous_close": 52.529998779296875,
+      "change_pct": 0.39977389222003445,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.17,
+      "previous_close": 43.060001373291016,
+      "change_pct": 0.2554543037641688,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.38,
+      "previous_close": 116.19999694824219,
+      "change_pct": -0.7056772545419587,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.51,
+      "previous_close": 56.939998626708984,
+      "change_pct": -0.7551784985595056,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 99.9,
+      "previous_close": 101.20999908447266,
+      "change_pct": -1.2943376112268257,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 167.4,
+      "previous_close": 170.1300048828125,
+      "change_pct": -1.6046580876153849,
+      "as_of": "2026-10-30"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 179.51,
+      "previous_close": 188.74000549316406,
+      "change_pct": -4.890328083358231,
+      "as_of": "2026-10-30"
+    }
+  ],
+  "news": [
+    {
+      "title": "Palantir’s Q3 Report To Test Stock Defensiveness Amid AI Panic — What Analysts Are Expecting",
+      "summary": "Palantir is viewed as one of the key beneficiaries of the AI boom.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/palantir-s-q3-report-to-test-stock-defensiveness-amid-ai-panic-what-analysts-are-expecting/cNG9FfPR92V?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02T06:37:02+00:00"
+    },
+    {
+      "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
+      "summary": "Investors geared up for another batch of earnings results and the upcoming midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T06:30:44+00:00"
+    },
+    {
+      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+      "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
+      "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T06:02:03+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures point to a solid rebound early Monday as Wall Street shakes off a bruising October close. Investors are weighing cooling energy prices after President Donald Trump suggested an impending end to the Iran conflict, alongside a highly...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62767926/stock-market-will-sp-500-open-up-or-down-today-70?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02T05:47:19+00:00"
+    },
+    {
+      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
+      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T05:09:45+00:00"
+    },
+    {
+      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+      "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
+      "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T04:09:34+00:00"
+    },
+    {
+      "title": "Stocktwits Pharma Pulse: Biotech Beats The Broader Market — Novo, Pfizer And Moderna Earnings Up Next",
+      "summary": "Moderna will report on Friday, while the SITC meeting will bring fresh cancer-treatment findings from Immunocore and Candel.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-biotech-beats-market-novo-pfizer-moderna-earnings/cNG9jx6R92W?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-02T03:52:37+00:00"
+    },
+    {
+      "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "summary": "How to manage “giving while living” without endangering your own retirement.",
+      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-02T03:23:00+00:00"
+    },
+    {
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
+      "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T02:58:53+00:00"
+    },
+    {
+      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+      "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T02:39:35+00:00"
+    },
+    {
+      "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died",
+      "summary": "A pilot declared an emergency and issued distress calls. The plane banked sharply to the right before crashing to the ground.",
+      "link": "https://www.cnbc.com/2026/11/01/jet-nosedives-erupts-into-fireball-near-busy-roadway-in-south-florida.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T02:01:42+00:00"
+    },
+    {
+      "title": "Goldman raises oil price forecast for December and 2027. Here's why",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/11/02/goldman-raises-oil-price-forecasts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T01:35:50+00:00"
+    },
+    {
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-02T00:22:00+00:00"
+    },
+    {
+      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+      "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-02T00:21:00+00:00"
+    },
+    {
+      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+      "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+      "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-01T23:17:57+00:00"
+    },
+    {
+      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+      "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+      "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-01T21:06:42+00:00"
+    },
+    {
+      "title": "The best high-yield savings accounts of November 2026: Earn up to 5.0%",
+      "summary": "Earn the most interest with our top-rated high-yield savings accounts.",
+      "link": "https://www.cnbc.com/select/best-high-yield-savings-accounts/",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-01T20:06:01+00:00"
+    },
+    {
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-01T20:00:00+00:00"
+    },
+    {
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-01T19:20:00+00:00"
+    },
+    {
+      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+      "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+      "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-01T19:10:12+00:00"
+    }
+  ]
+}
