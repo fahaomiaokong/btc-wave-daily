@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.16,
+      "previous_close": 115.37999725341797,
+      "change_pct": 2.409432148343793,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.56,
+      "previous_close": 56.5099983215332,
+      "change_pct": 1.8580812416458592,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.67,
+      "previous_close": 52.7400016784668,
+      "change_pct": 1.763364224375663,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.83,
+      "previous_close": 89.41999816894531,
+      "change_pct": 1.5768305300014607,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.71,
+      "previous_close": 167.39999389648438,
+      "change_pct": 1.3799320117921177,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.64,
+      "previous_close": 43.16999816894531,
+      "change_pct": 1.08872330551264,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.67,
+      "previous_close": 43.43000030517578,
+      "change_pct": 0.5526126943075749,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 100.26,
+      "previous_close": 99.9000015258789,
+      "change_pct": 0.36035882744991365,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.6,
+      "previous_close": 184.8699951171875,
+      "change_pct": -0.14604593731738502,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 174.22,
+      "previous_close": 179.50999450683594,
+      "change_pct": -2.9469080656868374,
+      "as_of": "2026-11-02"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 67.25,
+      "previous_close": 70.0199966430664,
+      "change_pct": -3.9560079632490197,
+      "as_of": "2026-11-02"
+    }
+  ],
+  "news": [
+    {
+      "title": "Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 3, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\") is pleased to announce that it has completed the acquisition of a 100% interest in the North Island Copper Project, located near Port Hardy on Vancouver Island, British Columbia, having acquired the remaining 49% interest under its option agreement. With full ownership secured, Questcorp has complete control over exploration decisions as it",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-mining-completes-acquisition-100-070100734.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T07:01:00+00:00"
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T06:32:10+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are leaning slightly lower early Tuesday as Americans head to the polls for the midterm elections and Wall Street parses mixed signals regarding a potential ceasefire in the U.S.-Iran conflict. The Polymarket traders, a Polygon (CRYPTO: POL)...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62806278/stock-market-will-sp-500-open-up-or-down-today-71?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T06:16:52+00:00"
+    },
+    {
+      "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+      "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T05:23:04+00:00"
+    },
+    {
+      "title": "Lovable CEO says AI is collapsing barriers to starting a business",
+      "summary": "Lovable CEO Anton Osika joins Arjun Kharpal to discuss how AI is making it easier to build apps, start businesses and turn ideas into products. They explore vibe coding, AI agents, the future of developers and whether Europe can compete in the global AI race.",
+      "link": "https://www.cnbc.com/video/2026/11/03/lovable-ceo-ai-vibe-coding.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T05:00:01+00:00"
+    },
+    {
+      "title": "Trump's ‘Mr. Veto’ Threat Hangs Over Wall Street: Tech Sell-Off Is ‘More Than Just A Correction,’ Analyst Says",
+      "summary": "Tuesday’s midterm elections arrive after a rough month for tech stocks, and investors are preparing for two years of political gridlock if Democrats win. ‘Mr. Veto’ Looms Over the Market Market commentator The Kobeissi Letter said in a post on X Monday that the sell-off is “more than just a correction in tech stocks,” arguing that investors are also “pricing in two years of political gridlock.” Traders on Polygon (CRYPTO: POL)-based Polymarket give Democrats a 95% chance of controlling the House",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trumps-mr-veto-threat-hangs-045029541.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T04:50:29+00:00"
+    },
+    {
+      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+      "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+      "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T04:27:41+00:00"
+    },
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T03:46:20+00:00"
+    },
+    {
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+      "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T02:47:57+00:00"
+    },
+    {
+      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+      "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows.",
+      "link": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T02:31:00+00:00"
+    },
+    {
+      "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
+      "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
+      "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T01:50:46+00:00"
+    },
+    {
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T01:32:13+00:00"
+    },
+    {
+      "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+      "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
+      "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-03T00:59:00+00:00"
+    },
+    {
+      "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+      "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+      "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-03T00:52:00+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 and the Nasdaq Composite opened November's trading with losses as investors sold off tech stocks on Monday.",
+      "link": "https://www.cnbc.com/2026/11/02/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T00:45:32+00:00"
+    },
+    {
+      "title": "If You Own SPY, Schwab’s Large-Cap ETF Costs $60 Less a Year on $100K",
+      "summary": "Two large-cap ETFs cover similar ground, but one quietly drains more from your balance every single year. Before you consider switching, there is a tax trap that could cost far more than you save.",
+      "link": "https://247wallst.com/investing/etf/2026/11/02/if-you-own-spy-schwabs-large-cap-etf-costs-60-less-a-year-on-100k/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T00:33:34+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope — ORCL, META, PLTR, AAPL In Focus",
+      "summary": "The U.S. midterm elections will be held on Tuesday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T00:22:35+00:00"
+    },
+    {
+      "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+      "summary": "The “tech wreck” from October continues. Is a bear market next?",
+      "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-03T00:03:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+      "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
+      "link": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-02T23:54:27+00:00"
+    },
+    {
+      "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+      "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-02T23:39:00+00:00"
+    }
+  ]
+}
