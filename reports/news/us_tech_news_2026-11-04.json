@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Stock Market Election Night: Dow Futures, AI Stocks Slash Losses; CoreWeave, SpaceX, Tesla Off Lows (Live)",
+    "summary": "Arista Networks and AMD are rising on earnings.",
+    "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T06:31:12+00:00",
+    "tickers": [
+      "TSLA",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Apple (AAPL) Stock Faces Q4 Earnings Margin Squeeze",
+    "summary": "Apple shareholders woke up to a red screen. The stock is trading around $331.90, about 1.9% below the previous close, even though the tech giant just posted another record September quarter with roughly $114.5b in revenue and a fresh high for full year earnings per share. Short term traders are reacting to the price tick. Long term holders are more likely focused on the bigger tension, a business printing about $132.2b in trailing net income while the share price still carries a rich 36.6x...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-faces-q4-062318560.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T06:23:18+00:00",
+    "tickers": [
+      "AAPL",
+      "NET"
+    ],
+    "score": 12
+  },
+  {
+    "title": "AMD Has a PC Problem Just Like Intel: Chip Giant Warns of Weaker Demand as It Plans for a ‘Double-Digit’ Market Decline in 2027",
+    "summary": "View more earnings on AMD Advanced Micro Devices Inc. (NASDAQ:AMD) has a PC problem, the same one Intel Corp. flagged days ago: higher memory costs are reducing demand. Even so, AMD shares rose about 5% in after-hours trading Tuesday after the chipmaker beat third-quarter estimates and guided fourth-quarter revenue above expectations. Memory Costs Weigh on PC Demand “Higher memory and component costs weighed on demand,” CEO Lisa Su told analysts on the company’s earnings call, as PC sales slowed",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-pc-problem-just-intel-050711600.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T05:07:11+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+    "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "source": "Tech",
+    "published": "2026-11-03T23:04:37+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
+    "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
+    "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+    "source": "Tech",
+    "published": "2026-11-03T01:50:46+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "PLTR Slides More Despite Strong Results And Forecast — Cathie Wood’s ARK Buys The Dip As Analysts Raise Price Targets",
+    "summary": "Shares slid sharply in Tuesday’s overnight session as the broader market sold off on reports that Democrats, seen as more supportive of data-center regulations, were heading towards a majority in Congress.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/pltr-slides-more-despite-strong-results-and-forecast-cathie-wood-s-ark-buys-the-dip-as-analysts-raise-price-targets/cNGh6fxR9dH?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T05:11:00+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Palantir sinks after earnings as analysts point to slowdown in total contract value",
+    "summary": "The software giant's stock fell after earnings failed to impress investors.",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "source": "Tech",
+    "published": "2026-11-03T21:23:58+00:00",
+    "tickers": [
+      "PLTR"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Apple AI tools come to China after two-year delay",
+    "summary": "Apple began on Wednesday a long-delayed trial rollout of in-house artificial intelligence tools for Chinese users, playing catch-up to homegrown smartphone makers in a major market for the US giant.The long-anticipated Chinese rollout of Apple Intelligence \"fills a long-standing gap in Apple's AI offering\", said Ivan Lam, a senior analyst at Counterpoint Research.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/apple-ai-tools-come-china-051903490.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T05:45:51+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 7
+  }
+]
