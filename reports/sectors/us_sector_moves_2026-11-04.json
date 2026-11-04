@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 176.51,
+      "previous_close": 174.22000122070312,
+      "change_pct": 1.3144293211178937,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 101.44,
+      "previous_close": 100.26000213623047,
+      "change_pct": 1.1769378003465336,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 171.32,
+      "previous_close": 169.7100067138672,
+      "change_pct": 0.9486731615344635,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.67,
+      "previous_close": 43.63999938964844,
+      "change_pct": 0.06874567087797878,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.02,
+      "previous_close": 184.60000610351562,
+      "change_pct": -0.31419614536218887,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.42,
+      "previous_close": 43.66999816894531,
+      "change_pct": -0.5724712146269129,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.19,
+      "previous_close": 57.560001373291016,
+      "change_pct": -0.6428098757181533,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.33,
+      "previous_close": 118.16000366210938,
+      "change_pct": -0.7024404505630022,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 66.68,
+      "previous_close": 67.25,
+      "change_pct": -0.8475836431226624,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.59,
+      "previous_close": 53.66999816894531,
+      "change_pct": -2.0122940297960024,
+      "as_of": "2026-11-03"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 88.95,
+      "previous_close": 90.83000183105469,
+      "change_pct": -2.069802700820722,
+      "as_of": "2026-11-03"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
+      "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T07:00:15+00:00"
+    },
+    {
+      "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+      "summary": "Follow 2026 midterm elections live updates, including House and Senate races in Texas, Georgia, Ohio and Minnesota, and key results.",
+      "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T06:59:59+00:00"
+    },
+    {
+      "title": "Novo raises full-year outlook as Wegovy pill sales impress",
+      "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates",
+      "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T06:55:08+00:00"
+    },
+    {
+      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+      "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T06:50:22+00:00"
+    },
+    {
+      "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+      "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
+      "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-04T06:27:00+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are pointing to a broadly lower open early Wednesday as Wall Street digests early midterm election results showing key Democratic Senate victories and a shifting geopolitical landscape. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform,...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62851581/stock-market-will-sp-500-open-up-or-down-today-72?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-04T05:57:08+00:00"
+    },
+    {
+      "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+      "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
+      "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T05:53:30+00:00"
+    },
+    {
+      "title": "Trump Claims GOP Would Have Won ‘Landslide’ With Him On Ballot — Analyst Sees ‘Absolute Bloodbath’ For AI Stocks",
+      "summary": "Nicholas Mugalli warned of an investor “bloodbath,” particularly for AI stocks, citing risks of tougher regulation.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/trump-gop-won-landslide-ballot-analyst-absolute-bloodbath-ai-stocks/cNGLGfqR9dD?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-04T05:49:33+00:00"
+    },
+    {
+      "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+      "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T03:38:08+00:00"
+    },
+    {
+      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+      "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+      "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-04T01:16:00+00:00"
+    },
+    {
+      "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+      "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-04T01:12:00+00:00"
+    },
+    {
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T01:07:01+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 rose on Election Day, ending a 3-day stretch of losses as semiconductor stocks staged a comeback.",
+      "link": "https://www.cnbc.com/2026/11/03/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-04T00:12:42+00:00"
+    },
+    {
+      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+      "summary": "Cramer said a new group of technology stocks may be emerging as market leaders.",
+      "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T23:58:09+00:00"
+    },
+    {
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "summary": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer.",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T23:37:07+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day — META, AAPL, AMD, SKHY In Focus",
+      "summary": "The U.S. midterm elections are underway.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T23:29:55+00:00"
+    },
+    {
+      "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+      "summary": "Nancy Bass Wyden, whose grandfather founded the New York City bookstore, had signed off on the PPP, which was off-limits because she is a senator's wife.",
+      "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T23:28:01+00:00"
+    },
+    {
+      "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+      "summary": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
+      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T23:26:39+00:00"
+    },
+    {
+      "title": "Suze Orman Says Doing Nothing Can Be the Right Move When Stocks Fall",
+      "summary": "When stocks drop, most investors feel compelled to act fast, but Suze Orman argues that impulse could be quietly destroying your long-term returns in ways the math makes painfully clear.",
+      "link": "https://247wallst.com/personal-finance/2026/11/03/suze-orman-says-doing-nothing-can-be-the-right-move-when-stocks-fall/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-03T23:08:27+00:00"
+    },
+    {
+      "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+      "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-03T23:04:37+00:00"
+    }
+  ]
+}
