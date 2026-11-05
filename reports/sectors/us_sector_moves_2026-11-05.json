@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 122.33,
+      "previous_close": 117.33000183105469,
+      "change_pct": 4.2614830741628085,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 59.2,
+      "previous_close": 57.189998626708984,
+      "change_pct": 3.51460294029855,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.96,
+      "previous_close": 101.44000244140625,
+      "change_pct": 3.4700290554773527,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.94,
+      "previous_close": 88.94999694824219,
+      "change_pct": 3.361442556875649,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 45.12,
+      "previous_close": 43.66999816894531,
+      "change_pct": 3.3203615567948708,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 189.66,
+      "previous_close": 184.02000427246094,
+      "change_pct": 3.064881858815993,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.9,
+      "previous_close": 52.59000015258789,
+      "change_pct": 2.4909675672393883,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.41999816894531,
+      "change_pct": 0.4375906012602737,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 176.5,
+      "previous_close": 176.50999450683594,
+      "change_pct": -0.005662289471974891,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.46,
+      "previous_close": 171.32000732421875,
+      "change_pct": -1.085691830901414,
+      "as_of": "2026-11-04"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.52,
+      "previous_close": 66.68000030517578,
+      "change_pct": -4.739052625544893,
+      "as_of": "2026-11-04"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+      "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+      "link": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T07:28:37+00:00"
+    },
+    {
+      "title": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
+      "summary": "NextDC shares surged nearly 51% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake.",
+      "link": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T07:15:43+00:00"
+    },
+    {
+      "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
+      "summary": "Wall Street veteran Jared Dillian says the biggest problem is many investors these days have not lived through a major downturn. He’s got a portfolio that offers protection.",
+      "link": "https://www.marketwatch.com/story/most-investors-are-blind-to-the-possibility-of-a-market-crash-here-is-the-five-part-strategy-to-survive-one-a1762911?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T07:15:00+00:00"
+    },
+    {
+      "title": "Stock futures mixed after big rally following Democrats' decisive midterm wins",
+      "summary": "The Dow Industrials posted its best day since April 2025, surging 3% after Democrats decisively swept Congress and oil prices fell.",
+      "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T07:08:28+00:00"
+    },
+    {
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T06:54:52+00:00"
+    },
+    {
+      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+      "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T05:58:33+00:00"
+    },
+    {
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T03:53:18+00:00"
+    },
+    {
+      "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+      "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
+      "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T03:11:58+00:00"
+    },
+    {
+      "title": "Citi employee killed in shooting at Florida office, suspect dead",
+      "summary": "A Citigroup C.N employee was killed in a shooting at the bank's office in Tampa, Florida. Authorities said the suspect involved was also dead.",
+      "link": "https://www.cnbc.com/2026/11/05/citi-employee-killed-in-shooting-at-florida-office-suspect-dead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T03:00:33+00:00"
+    },
+    {
+      "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+      "summary": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
+      "link": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T02:07:35+00:00"
+    },
+    {
+      "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+      "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
+      "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T01:11:26+00:00"
+    },
+    {
+      "title": "Qualcomm’s stock falls as twin forces pressure sales",
+      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
+      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T01:06:00+00:00"
+    },
+    {
+      "title": "At 68, He Will Sell the S&P 500 Fund He Bought in 1996 to Move Into Bonds. The $310,000 Gain Will Push Him Into a Higher Medicare Premium Bracket in 2028",
+      "summary": "Selling a decades-old index fund to shift into bonds sounds like a straightforward retirement move, but a capital gains windfall can quietly trigger a Medicare surcharge that arrives two years later and costs far more than most retirees ever anticipate.",
+      "link": "https://247wallst.com/personal-finance/2026/11/04/at-68-he-will-sell-the-sp-500-fund-he-bought-in-1996-to-move-into-bonds-the-310000-gain-will-push-him-into-a-higher-medicare-premium-bracket-in-2028/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-05T01:05:04+00:00"
+    },
+    {
+      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
+      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T01:05:00+00:00"
+    },
+    {
+      "title": "Is the Market Bottoming? 3 Tells to Watch",
+      "summary": "While the initial post-election capitulation and rapid reversal signal a promising attempt to carve out a stock market bottom, investors should avoid mistaking a single-day rally for a guaranteed recovery.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-bottoming-3-tells-watch-010300254.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-05T01:03:00+00:00"
+    },
+    {
+      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T01:03:00+00:00"
+    },
+    {
+      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+      "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
+      "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T01:01:00+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials gained more than 1,500 points, or 3%, on Wednesday for its best session since April 2025 after Democrats swept the midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/04/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T00:42:58+00:00"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T00:38:00+00:00"
+    },
+    {
+      "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+      "summary": "Foreign investors are losing their appetite for Indian equities, with their holdings touching an all-time low of 14%.",
+      "link": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T00:04:36+00:00"
+    }
+  ]
+}
