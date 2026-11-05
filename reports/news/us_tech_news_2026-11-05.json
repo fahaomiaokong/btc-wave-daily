@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+    "summary": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
+    "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+    "source": "Tech",
+    "published": "2026-11-04T19:37:43+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "GOOGL",
+      "AMZN",
+      "META"
+    ],
+    "score": 23
+  },
+  {
+    "title": "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
+    "summary": "Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers Qualcomm and Arm amid growing concerns over returns on artificial intelligence investments.",
+    "link": "https://finance.yahoo.com/technology/articles/asian-chip-stocks-slide-disappointing-045137047.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-05T04:51:37+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Why Did AAPL, MSFT, AMC Stocks Surge To 52-Week Highs?",
+    "summary": "U.S. stocks rose across the board on Wednesday, with several major companies hitting new highs as investors grew more confident after the midterm elections.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-msft-amc-stocks-surge-to-52-week-highs/cNG1I0fR9Ei?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-05T05:48:44+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "source": "The Verge",
+    "published": "2026-11-04T22:42:15+00:00",
+    "tickers": [
+      "AMZN",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Companies laying off staff this year include Meta, Amazon, and Dropbox — see the list",
+    "summary": "Layoffs have hit over 35 companies in 2026, including Meta, Walmart, and American Express, as AI and economic conditions reshape the business landscape.",
+    "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-05T05:01:01+00:00",
+    "tickers": [
+      "AMZN",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "AMD Stock Jumped After Its Report. I'd Wait for a Lower Price to Buy.",
+    "summary": "The chipmaker now expects its revenue to rise over 80% next year. What's a fair price to pay for that?",
+    "link": "https://www.fool.com/investing/2026/11/04/amd-stock-jumped-after-its-report-i-d-wait-for-a-lower-price-to-buy/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-05T04:37:01+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "ARM Holdings PLC (ARM) (Q2 2027) Earnings Call Highlights: Record Revenue, Surging AI ...",
+    "summary": "ARM Holdings PLC (ARM) posted a record $1.44 billion in Q2 revenue with licensing up 50%, data center royalties doubling, and raised confidence in its Arm AGI CPU outlook.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-plc-arm-q2-051314396.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-05T05:13:14+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 7
+  },
+  {
+    "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+    "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+    "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "source": "Tech",
+    "published": "2026-11-04T14:23:01+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  }
+]
