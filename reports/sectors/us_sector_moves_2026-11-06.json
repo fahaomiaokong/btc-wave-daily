@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.34,
+      "previous_close": 104.95999908447266,
+      "change_pct": -0.590700352401563,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.3,
+      "previous_close": 43.61000061035156,
+      "change_pct": -0.710847525826408,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.25,
+      "previous_close": 91.94000244140625,
+      "change_pct": -0.7504920851464925,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.3,
+      "previous_close": 45.119998931884766,
+      "change_pct": -1.817373562270419,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.91,
+      "previous_close": 189.66000366210938,
+      "change_pct": -2.5044835866247284,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.5,
+      "previous_close": 59.20000076293945,
+      "change_pct": -2.871622873362689,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.33,
+      "previous_close": 53.900001525878906,
+      "change_pct": -2.912804232714361,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.63,
+      "previous_close": 63.52000045776367,
+      "change_pct": -2.9754415052631877,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.64,
+      "previous_close": 122.33000183105469,
+      "change_pct": -3.8338933710896805,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.47,
+      "previous_close": 169.4600067138672,
+      "change_pct": -4.124871023798438,
+      "as_of": "2026-11-05"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 162.38,
+      "previous_close": 176.5,
+      "change_pct": -8.000000000000007,
+      "as_of": "2026-11-05"
+    }
+  ],
+  "news": [
+    {
+      "title": "The 'World's Best Airline' is updating its business and first-class experience",
+      "summary": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options that are part of an over $2 billion Singapore dollar investment.",
+      "link": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T07:19:29+00:00"
+    },
+    {
+      "title": "Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
+      "summary": "A bout of hard selling took hold of the market on Thursday, dragging the three major averages down to their worst session since April 2025.",
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T06:54:01+00:00"
+    },
+    {
+      "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+      "summary": "Over the last month, India's Nifty 50 has gained nearly 9%, while markets with heavy AI exposure, including the U.S., Japan, South Korea and Taiwan are deep in the red.",
+      "link": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T06:02:36+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are mixed early Friday as Wall Street awaits the critical October nonfarm payrolls report and tech shares attempt to rebound from their worst session since 2020. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62966566/stock-market-will-sp-500-open-up-or-down-today-74?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T05:56:08+00:00"
+    },
+    {
+      "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+      "summary": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
+      "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T05:27:24+00:00"
+    },
+    {
+      "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
+      "summary": "Oil prices rose Friday as investors weighed the risk of renewed U.S.-Iran military escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+      "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T05:06:56+00:00"
+    },
+    {
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "summary": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+      "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T03:20:43+00:00"
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T03:15:00+00:00"
+    },
+    {
+      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T03:00:00+00:00"
+    },
+    {
+      "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+      "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+      "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T02:58:02+00:00"
+    },
+    {
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T02:40:15+00:00"
+    },
+    {
+      "title": "IRS announces new federal income tax brackets for 2027",
+      "summary": "The IRS has announced higher federal income tax brackets and standard deductions for 2027. Here's what taxpayers need to know.",
+      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T01:21:08+00:00"
+    },
+    {
+      "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+      "summary": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
+      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T01:07:00+00:00"
+    },
+    {
+      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
+      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T01:06:00+00:00"
+    },
+    {
+      "title": "IRS unveils higher capital gains tax brackets for 2027",
+      "summary": "The IRS has announced higher long-term capital gains brackets for 2027. Here's what investors need to know.",
+      "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T01:00:10+00:00"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Dow Industrials tumbled more than 1,800 points, or 3.4%, and the Nasdaq Composite slid into correction territory as tech names tanked on Thursday.",
+      "link": "https://www.cnbc.com/2026/11/05/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T00:50:48+00:00"
+    },
+    {
+      "title": "Costco is taking aim at its May record high — how it got here and where's it going",
+      "summary": "Costco is finally back.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/costco-is-taking-aim-at-its-may-record-high-how-it-got-here-and-wheres-going.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T23:56:24+00:00"
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-05T23:48:00+00:00"
+    },
+    {
+      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+      "summary": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T23:39:32+00:00"
+    },
+    {
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "summary": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+      "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-05T23:25:02+00:00"
+    }
+  ]
+}
