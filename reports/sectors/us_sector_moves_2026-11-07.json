@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 164.74,
+      "previous_close": 162.3800048828125,
+      "change_pct": 1.4533779075143416,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.79,
+      "previous_close": 104.33999633789062,
+      "change_pct": 0.4312858710978862,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.67,
+      "previous_close": 162.47000122070312,
+      "change_pct": 0.12309889690047537,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.62,
+      "previous_close": 61.630001068115234,
+      "change_pct": -0.016227596855278303,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.58,
+      "previous_close": 117.63999938964844,
+      "change_pct": -0.051002541618272446,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.8,
+      "previous_close": 184.91000366210938,
+      "change_pct": -0.05949037906590737,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.13,
+      "previous_close": 43.29999923706055,
+      "change_pct": -0.39260794470186156,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.16,
+      "previous_close": 57.5,
+      "change_pct": -0.5913043478260938,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.0,
+      "previous_close": 44.29999923706055,
+      "change_pct": -0.6771991923863796,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.95,
+      "previous_close": 52.33000183105469,
+      "change_pct": -0.726164375612881,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.08,
+      "previous_close": 91.25,
+      "change_pct": -1.2821917808219174,
+      "as_of": "2026-11-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "Jim Cramer Says the AI Sell-Off “Is Not Like 2000.” Here’s His Case",
+      "summary": "Data center stocks are tumbling and the Nasdaq has slipped into correction, yet Jim Cramer insists this is no repeat of the dot-com crash. He sees one real threat hiding in the debt, and a few warning signs could prove him wrong.",
+      "link": "https://247wallst.com/investing/2026/11/06/jim-cramer-says-the-ai-sell-off-is-not-like-2000-heres-his-case/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-07T00:09:10+00:00"
+    },
+    {
+      "title": "Dave Ramsey Says You’ll “Never Touch” Your Retirement Principal If You Withdraw Less Than 12%. Here’s the Catch",
+      "summary": "Dave Ramsey says living on less than your portfolio earns means you will never touch the principal. Run the same average returns in a different order, and a million-dollar nest egg tells a very different story.",
+      "link": "https://247wallst.com/personal-finance/2026/11/06/dave-ramsey-says-youll-never-touch-your-retirement-principal-if-you-withdraw-less-than-12-heres-the-catch/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T23:08:35+00:00"
+    },
+    {
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+      "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T22:25:58+00:00"
+    },
+    {
+      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+      "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T22:22:53+00:00"
+    },
+    {
+      "title": "Charlie Bilello Says “Some Sanity Has Returned to the Market.” What That Means for Your Portfolio",
+      "summary": "The market's wildest bets just lost billions in paper gains, and one data watcher calls the wreckage healthy. Before you cheer or panic, see which three moves could protect your retirement accounts and what to watch before year-end.",
+      "link": "https://247wallst.com/investing/2026/11/06/charlie-bilello-says-some-sanity-has-returned-to-the-market-what-that-means-for-your-portfolio/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T22:07:28+00:00"
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:45:00+00:00"
+    },
+    {
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:45:00+00:00"
+    },
+    {
+      "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+      "summary": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
+      "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T21:40:09+00:00"
+    },
+    {
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:37:00+00:00"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:24:00+00:00"
+    },
+    {
+      "title": "Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates",
+      "summary": "A bout of hard selling battered the stock market Thursday, sending the three major averages to their worst session since April 2025.",
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T21:22:40+00:00"
+    },
+    {
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+      "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T21:15:47+00:00"
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:15:00+00:00"
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T21:15:00+00:00"
+    },
+    {
+      "title": "Further turmoil could be in store for tech stocks. What to watch in the week ahead",
+      "summary": "Investors wrapped up a topsy-turvy week in markets, and that volatility isn't expected to be over just yet.",
+      "link": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T21:12:41+00:00"
+    },
+    {
+      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+      "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
+      "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-06T21:07:07+00:00"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Friday",
+      "summary": "Financial stocks fell Friday with the NYSE Financial Index and the State Street Financial Select Sec",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-friday-210442308.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T21:04:42+00:00"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Lower Late Afternoon",
+      "summary": "Energy stocks were softer late Friday afternoon, with the NYSE Energy Sector Index easing 0.1% and t",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-205956608.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T20:59:56+00:00"
+    },
+    {
+      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+      "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-06T20:58:00+00:00"
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Edge Lower Late Afternoon",
+      "summary": "Healthcare stocks edged lower late Friday afternoon, with the NYSE Healthcare Index and the State St",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-edge-lower-205338223.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-06T20:53:38+00:00"
+    }
+  ]
+}
