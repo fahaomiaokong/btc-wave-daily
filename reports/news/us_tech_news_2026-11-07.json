@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY",
+    "summary": "The latest round of trades touched multiple ARK ETFs, spanning artificial intelligence, semiconductors, biotechnology, defense and space-related companies.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-goog-amd-nvda-biotech-stocks-sell-crwv-avgo-lly/cNGVV2wR9Ii?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T06:00:20+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "AVGO"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
+    "summary": "Microsoft (NasdaqGS:MSFT) is winding down several neocloud data center capacity deals, including a non-renewal of its Oracle arrangement. The company is exiting relationships with operators such as Nscale and IREN, reducing outsourced capacity tied to neocloud hubs. Management is refocusing on more flexible, in-house data centers as regulators, cost pressures, sustainability rules, and anti-AI protests reshape project economics. The decision to pull back from neocloud data center deals is...",
+    "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-pulling-back-key-031936381.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T03:19:36+00:00",
+    "tickers": [
+      "MSFT",
+      "ORCL"
+    ],
+    "score": 11
+  },
+  {
+    "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+    "summary": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
+    "link": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+    "source": "Tech",
+    "published": "2026-11-06T18:35:08+00:00",
+    "tickers": [
+      "MSFT",
+      "ARM"
+    ],
+    "score": 11
+  },
+  {
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "source": "The Verge",
+    "published": "2026-11-06T23:46:18+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Cloudflare (NET) Stock Looks Overvalued Following Its 326% Three Year Run",
+    "summary": "Cloudflare has delivered huge share price gains over the past few years, yet the stock has recently pulled back and sits in the spotlight again after fresh headlines. With so much of the story tied to rapid revenue expansion, the key issue for you as an investor is whether the current valuation can be explained by its sales power alone. Cloudflare shares are up 326.0% over the past three years. This puts real pressure on the question of how much sales strength is already reflected in the...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-stock-looks-overvalued-042243597.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T04:22:43+00:00",
+    "tickers": [
+      "NET"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Tesla (TSLA) Stock Trades At An Expensive Price For Sales",
+    "summary": "Tesla, Inc. https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla has seen its share price fall 18.2% year to date to US$358.22, even though the stock is still up 66.9% over three years. This puts fresh attention on whether that price is properly anchored to the revenue the business is generating. A 66.9% gain over three years leaves long term holders with meaningful accumulated profits. The question now is how much ongoing sales can support that kind of move. Tesla is pivoting away...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-trades-expensive-021229427.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T02:12:29+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "A Retiree Who Bought 1,000 Nvidia Shares at $122 Just Watched Chips Have Their Worst Day Since 2020",
+    "summary": "Chip stocks had their worst day since 2020. Here is what it did to one retiree's 1,000 Nvidia shares, and the case for holding or trimming.",
+    "link": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T05:06:52+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "CoreWeave (CRWV) Shares Just Moved, So What Is Going On?",
+    "summary": "CoreWeave (CRWV) just deepened its relationship with CrowdStrike, rolling out a joint security offering that wraps Falcon Cloud Security, 24/7 threat hunting, and managed response around mission critical AI workloads on CoreWeave’s cloud. CoreWeave’s share price has been under pressure despite the CrowdStrike partnership and rapid global buildout, with a 30 day share price return of down 47.54% and a year to date share price return of down 41.50%, while the 1 year total shareholder return is...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-shares-just-moved-021502326.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T02:15:02+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 8
+  }
+]
