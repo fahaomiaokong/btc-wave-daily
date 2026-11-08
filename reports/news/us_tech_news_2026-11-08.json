@@ -1,0 +1,94 @@
+[
+  {
+    "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+    "summary": "Artificial intelligence arms races rarely move in straight lines. The latest spending plans from Meta, OpenAI partners and Anthropic are pouring billions into chips, cloud and power, and that flood of capital can lift some stocks while squeezing others that misjudge demand or pricing. Investors watching this AGI push risk missing the early read through. This article walks through 3 stocks exposed to that news and how the story might matter for your portfolio. The stocks covered next are just...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-2-ai-infrastructure-002240662.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T00:22:40+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "META",
+      "TSM"
+    ],
+    "score": 23
+  },
+  {
+    "title": "Dow Jones Futures: Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
+    "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings fell.",
+    "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T03:19:56+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+    "summary": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+    "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+    "source": "Tech",
+    "published": "2026-11-07T12:00:01+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Arm (ARM) Stock Sees Modest Fair Value Cut As Analysts Trim Multiples",
+    "summary": "Arm Holdings is entering its latest chapter with a slightly lower estimated fair value, shifting from US$290.71 to US$279.31. Recent analyst research links this reset mainly to sector wide pressure on P/E multiples, even as many firms still highlight solid licensing execution and keep positive ratings in place. In the sections that follow, you will see how these changing price targets fit into the broader story and how to keep track of the evolving Arm Holdings narrative. Analyst Price...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-sees-modest-021256821.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T02:12:56+00:00",
+    "tickers": [
+      "ARM"
+    ],
+    "score": 9
+  },
+  {
+    "title": "What are the AI lab compute commitments?",
+    "summary": "Investing.com -- OpenAI’s artificial intelligence computing commitments could translate into $614 billion of infrastructure spending through 2030, substantially below widely cited figures of $750 billion, according to Bernstein analyst Mark Moerdler, who sees limited immediate risk for major cloud providers.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ai-lab-compute-commitments-033556017.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T03:35:56+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 8
+  },
+  {
+    "title": "AMD Stock Just Fell Below the Price I Said I'd Pay for It.",
+    "summary": "The chipmaker's 2027 outlook didn't change on Thursday, yet its stock dropped 17%. How should a buyer get in?",
+    "link": "https://www.fool.com/investing/2026/11/07/amd-stock-just-fell-below-the-price-i-said-i-d-pay-for-it/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-08T00:58:02+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "5 Worst Dow Stocks To Buy According to Analysts",
+    "summary": "Yahoo Finance reported on November 5 that the Dow Jones Industrial Average tumbled 3.4%, or more than 1,800 points, while the S&P 500 fell 4.4% and the Nasdaq Composite sank 5.5% into correction territory. Chip stocks took the brunt of the damage, as the leading AI chipmaker fell 9% to pace Dow decliners and another […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-worst-dow-stocks-buy-232028142.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-07T23:20:28+00:00",
+    "tickers": [],
+    "score": 6
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch",
+    "published": "2026-11-07T21:17:08+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
