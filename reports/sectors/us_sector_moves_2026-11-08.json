@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 164.74,
+      "previous_close": 162.3800048828125,
+      "change_pct": 1.4533779075143416,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.79,
+      "previous_close": 104.33999633789062,
+      "change_pct": 0.4312858710978862,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.67,
+      "previous_close": 162.47000122070312,
+      "change_pct": 0.12309889690047537,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.62,
+      "previous_close": 61.630001068115234,
+      "change_pct": -0.016227596855278303,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.58,
+      "previous_close": 117.63999938964844,
+      "change_pct": -0.051002541618272446,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.8,
+      "previous_close": 184.91000366210938,
+      "change_pct": -0.05949037906590737,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.13,
+      "previous_close": 43.29999923706055,
+      "change_pct": -0.39260794470186156,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.16,
+      "previous_close": 57.5,
+      "change_pct": -0.5913043478260938,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.0,
+      "previous_close": 44.29999923706055,
+      "change_pct": -0.6771991923863796,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.95,
+      "previous_close": 52.33000183105469,
+      "change_pct": -0.726164375612881,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.08,
+      "previous_close": 91.25,
+      "change_pct": -1.2821917808219174,
+      "as_of": "2026-11-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+      "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+      "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-08T06:00:01+00:00"
+    },
+    {
+      "title": "Trump offers UFC chief Dana White press secretary job",
+      "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T23:13:38+00:00"
+    },
+    {
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+      "summary": "The gunman aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said.",
+      "link": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T22:39:10+00:00"
+    },
+    {
+      "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "summary": "Eisenkot, who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel's longest-serving premier.",
+      "link": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T22:36:37+00:00"
+    },
+    {
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+      "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T22:17:52+00:00"
+    },
+    {
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+      "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T22:01:17+00:00"
+    },
+    {
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+      "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T21:59:10+00:00"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T20:48:00+00:00"
+    },
+    {
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T20:36:00+00:00"
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T19:48:00+00:00"
+    },
+    {
+      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "summary": "Don’t sit on the sidelines during open enrollment.",
+      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T19:20:00+00:00"
+    },
+    {
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "summary": "There are many ideas for saving Social Security. All of them will hurt.",
+      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T17:43:00+00:00"
+    },
+    {
+      "title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+      "summary": "A fourth straight weekly loss looks bad, but the S&P 500's record rests on a technicality, and the real damage hit one corner of the market. With CPI and NVIDIA earnings looming, your index fund may own more of that risk than you think.",
+      "link": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-07T17:33:39+00:00"
+    },
+    {
+      "title": "Odds of a December Rate Hike Jump to 77% After a Blowout Jobs Report",
+      "summary": "Stocks shrugged, Treasuries barely twitched, and yet the two-year yield told a different story. One hot jobs print has Fed watchers rethinking December, and the next CPI release could decide whether SPY holds its ground.",
+      "link": "https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-07T17:33:01+00:00"
+    },
+    {
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "summary": "Math may be cold and unemotional — but finances are not.",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T17:33:00+00:00"
+    },
+    {
+      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T17:04:00+00:00"
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T17:01:00+00:00"
+    },
+    {
+      "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
+      "summary": "Task Force Iron Gate will focus in part on halting the flow of dual-use technologies used by Iran and stemming what Washington calls illegal revenue streams.",
+      "link": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T16:56:33+00:00"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "summary": "The large-cap index is nowhere near as diversified as you think.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-07T16:40:00+00:00"
+    },
+    {
+      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-07T16:31:00+00:00"
+    }
+  ]
+}
