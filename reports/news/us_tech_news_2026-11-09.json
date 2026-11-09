@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Apple is racing to make Siri more agentic",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge",
+    "published": "2026-11-08T19:18:19+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "META"
+    ],
+    "score": 13
+  },
+  {
+    "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
+    "summary": "AMD and Intel stocks have both seen major pullbacks in the past month.",
+    "link": "https://www.fool.com/investing/2026/11/09/amd-vs-intel-which-is-the-better-ai-chip-stock-to/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T05:20:00+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+    "summary": "Geopolitics just crashed into the chip aisle. Nvidia’s internal probe into CEO Jensen Huang and fresh scrutiny around China-linked AI hardware sales are turning abstract export rules into very real portfolio questions. That disruption can punish some stocks and open the door for others. This article walks through three large US semiconductor and chip-equipment picks exposed to this news and explains how the risks and potential openings could matter for you. The stocks covered below are just a...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-probe-puts-china-exposed-051236166.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T05:12:36+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Tech stocks recover after midterms rout as Nvidia takes centre stage",
+    "summary": "Tech firms rose on Monday to claw back some of last week's painful losses fuelled by AI regulation worries, though traders were keeping an eye on a probe into Nvidia boss Jensen Huang.View on euronews",
+    "link": "https://www.euronews.com/2026/11/09/tech-stocks-recover-after-midterms-rout-as-nvidia-takes-centre-stage?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T06:34:28+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia CEO row: Bernstein sees ‘heavy distraction’ at best, ‘ammunition’ at worst",
+    "summary": "Investing.com -- Allegations that Nvidia (NASDAQ:NVDA) CEO Jensen Huang had a relationship with a suspected Chinese intelligence source will at best be a \"heavy distraction\" and at worst give \"significant ammunition\" to lawmakers on both sides of the aisle, brokerage Bernstein said on Monday.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-row-bernstein-sees-062039338.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T06:20:39+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Chinese robotics stock surge on Apple robotics research",
+    "summary": "Investing.com-- Chinese robotics stocks rose sharply on Monday after Apple published a research paper unveiling an autonomous humanoid robot control system using technology from Unitree Robotics.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/chinese-robotics-stock-surge-apple-061332775.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T06:13:32+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears",
+    "summary": "NVIDIA has just come through a sharp pullback, with the stock down over the past month and year after a very large multiyear rise. This leaves a straightforward question for you as an investor: Are today’s cash flows, and the ones buyers expect over time, enough to support the current share price after this reset? Over the past 5 years, NVIDIA has returned roughly 5x. This means a lot of future cash generation is already embedded in expectations and needs to be weighed carefully against the...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-bargain-060738189.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T06:07:38+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Oracle Stock Is on Pace for Its Worst Year Since 2001. Here's What Followed Its Only 2 Worse Years.",
+    "summary": "The year after one of them, shares climbed 84%. The year after the other, they kept sliding.",
+    "link": "https://www.fool.com/investing/2026/11/09/oracle-stock-is-on-pace-for-its-worst-year-since-2001-here-s-what-followed-its-only-2-worse-years/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-09T05:40:02+00:00",
+    "tickers": [
+      "ORCL"
+    ],
+    "score": 6
+  }
+]
