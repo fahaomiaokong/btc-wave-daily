@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 164.74,
+      "previous_close": 162.3800048828125,
+      "change_pct": 1.4533779075143416,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.79,
+      "previous_close": 104.33999633789062,
+      "change_pct": 0.4312858710978862,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.67,
+      "previous_close": 162.47000122070312,
+      "change_pct": 0.12309889690047537,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.62,
+      "previous_close": 61.630001068115234,
+      "change_pct": -0.016227596855278303,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.58,
+      "previous_close": 117.63999938964844,
+      "change_pct": -0.051002541618272446,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.8,
+      "previous_close": 184.91000366210938,
+      "change_pct": -0.05949037906590737,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.13,
+      "previous_close": 43.29999923706055,
+      "change_pct": -0.39260794470186156,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.16,
+      "previous_close": 57.5,
+      "change_pct": -0.5913043478260938,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.0,
+      "previous_close": 44.29999923706055,
+      "change_pct": -0.6771991923863796,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.95,
+      "previous_close": 52.33000183105469,
+      "change_pct": -0.726164375612881,
+      "as_of": "2026-11-06"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.08,
+      "previous_close": 91.25,
+      "change_pct": -1.2821917808219174,
+      "as_of": "2026-11-06"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
+      "summary": "Key inflation data and AI earnings could set the tone for markets this week.",
+      "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T07:17:45+00:00"
+    },
+    {
+      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+      "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
+      "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T05:00:01+00:00"
+    },
+    {
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T02:50:22+00:00"
+    },
+    {
+      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T01:21:00+00:00"
+    },
+    {
+      "title": "Biotech Beats SPY And QQQ In Market Rout — Now Hims Earnings And Summit’s FDA Test Take Center Stage ‘",
+      "summary": "Hims & Hers will report results on Monday after its Lilly agreement expanded access to Zepbound and Foundayo.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/biotech-beats-spy-qqq-hims-earnings-summit-fda-test-center-stage/cNGAtt7R9Iw?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-09T01:16:16+00:00"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "summary": "The large-cap index is nowhere near as diversified as you think.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T00:40:00+00:00"
+    },
+    {
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T00:30:00+00:00"
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T00:02:00+00:00"
+    },
+    {
+      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+      "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T00:00:00+00:00"
+    },
+    {
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "summary": "The math should actually start with “if” — not “how much.”",
+      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-08T23:50:00+00:00"
+    },
+    {
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "summary": "Math may be cold and unemotional — but finances are not.",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-08T23:49:00+00:00"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-08T23:35:00+00:00"
+    },
+    {
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "summary": "Apply the wisdom of investment pros to develop your own consistent methodology.",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-08T23:15:00+00:00"
+    },
+    {
+      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+      "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
+      "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-08T23:05:00+00:00"
+    },
+    {
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-08T22:53:57+00:00"
+    },
+    {
+      "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+      "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-08T21:53:02+00:00"
+    },
+    {
+      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+      "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-08T18:57:56+00:00"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "CoreWeave earnings and inflation data will take center stage.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-08T17:40:15+00:00"
+    },
+    {
+      "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
+      "summary": "Investors stampeded into downside protection in a single session, shattering a record set during last spring's turmoil. The scramble exposes how quickly AI-fueled confidence cracked, and history suggests this kind of panic can mean two very different things.",
+      "link": "https://247wallst.com/investing/2026/11/08/wall-street-just-set-a-record-that-could-signal-trouble-for-the-stock-market/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-08T16:47:47+00:00"
+    },
+    {
+      "title": "Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different",
+      "summary": "Intel just posted its strongest data center growth in 15 years, and the stock got cut in half anyway. Foundry losses, a cash-hungry 2027, and a few unnamed customers now decide whether the selloff was a mistake.",
+      "link": "https://247wallst.com/investing/2026/11/08/intel-stock-has-gone-nowhere-in-8-years-why-this-time-could-be-different/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-08T16:29:58+00:00"
+    }
+  ]
+}
