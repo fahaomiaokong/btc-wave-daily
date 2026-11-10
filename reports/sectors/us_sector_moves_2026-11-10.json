@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.89,
+      "previous_close": 162.6699981689453,
+      "change_pct": 3.823693306121956,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 170.88,
+      "previous_close": 164.74000549316406,
+      "change_pct": 3.7270816450778232,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 121.01,
+      "previous_close": 117.58000183105469,
+      "change_pct": 2.9171611800735686,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.36,
+      "previous_close": 104.79000091552734,
+      "change_pct": 2.4525232007053477,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.33,
+      "previous_close": 184.8000030517578,
+      "change_pct": 1.910171477244793,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.94,
+      "previous_close": 51.95000076293945,
+      "change_pct": 1.9056770404646484,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.79,
+      "previous_close": 43.130001068115234,
+      "change_pct": 1.5302548470667254,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.64,
+      "previous_close": 44.0,
+      "change_pct": 1.454545454545464,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.99,
+      "previous_close": 57.15999984741211,
+      "change_pct": 1.4520646515107982,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.89,
+      "previous_close": 90.08000183105469,
+      "change_pct": 0.8991986595032087,
+      "as_of": "2026-11-09"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.94,
+      "previous_close": 61.619998931884766,
+      "change_pct": 0.5193136541092214,
+      "as_of": "2026-11-09"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+      "summary": "Traders awaited the October consumer price index reading, due Tuesday morning.",
+      "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T07:37:22+00:00"
+    },
+    {
+      "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+      "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+      "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T07:32:45+00:00"
+    },
+    {
+      "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+      "summary": "“Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
+      "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T07:00:02+00:00"
+    },
+    {
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T06:52:30+00:00"
+    },
+    {
+      "title": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
+      "summary": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances.",
+      "link": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T06:19:09+00:00"
+    },
+    {
+      "title": "TSMC's October sales jump as global chip boom rolls on",
+      "summary": "TSMC reports its monthly sales figures for October on Tuesday.",
+      "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T05:42:42+00:00"
+    },
+    {
+      "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+      "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T05:03:55+00:00"
+    },
+    {
+      "title": "Former BP CEO Lord John Browne reflects on the crisis that ended his tenure",
+      "summary": "Former BP CEO Lord John Browne reflects on how his mother's experiences as a Holocaust survivor influenced his decision to conceal his sexuality, and how his fears persisted even as attitudes around him changed. He discusses his resignation from BP, the importance of questioning long-held assumptions and the lessons he learned from that period. Browne also looks back on his landmark 1997 climate speech, the transformation of BP and the decisions that shaped his career.",
+      "link": "https://www.cnbc.com/video/2026/11/10/former-bp-ceo-lord-john-browne-on-secrecy-and-his-resignation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T05:00:01+00:00"
+    },
+    {
+      "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+      "summary": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks set to commence later today in Abu Dhabi.",
+      "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T04:46:37+00:00"
+    },
+    {
+      "title": "Billionaire tax measure on California ballot defeated",
+      "summary": "A billionaire tax U.S. Senator Bernie Sanders and other progressives championed as an antidote to economic inequality was defeated in California.",
+      "link": "https://www.cnbc.com/2026/11/10/billionaire-tax-measure-on-california-ballot-defeated.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T04:27:58+00:00"
+    },
+    {
+      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+      "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+      "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T03:58:46+00:00"
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-10T03:38:00+00:00"
+    },
+    {
+      "title": "He Watches the Nasdaq Plunge 5.5% at 63. Claiming Social Security to Avoid Selling Stocks Could Lock In a Smaller Check for Life",
+      "summary": "A brutal Nasdaq selloff tempts a 63-year-old to start Social Security and leave his shrinking stocks alone. The move feels safe today, but a quiet trade-off could follow him into his 80s and reach his spouse too.",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/11/09/he-watches-the-nasdaq-plunge-5-5-at-63-claiming-social-security-to-avoid-selling-stocks-could-lock-in-a-smaller-check-for-life/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-10T02:07:23+00:00"
+    },
+    {
+      "title": "One Bad Day: A levered-QQQ ETF Case Study",
+      "summary": "Big surprise moves in the market often serve as great lessons in how market structure actually works.",
+      "link": "http://www.etf.com/sections/equity/one-bad-day-levered-qqq-etf-case-study?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-10T01:03:17+00:00"
+    },
+    {
+      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+      "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
+      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-10T00:48:00+00:00"
+    },
+    {
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T23:54:21+00:00"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-09T23:52:00+00:00"
+    },
+    {
+      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+      "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T23:31:17+00:00"
+    },
+    {
+      "title": "Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang",
+      "summary": "Cramer warned that his long-standing \"own it, don't trade it\" status for Nvidia could be at risk.",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T23:24:05+00:00"
+    },
+    {
+      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+      "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-09T23:14:38+00:00"
+    }
+  ]
+}
