@@ -1,0 +1,97 @@
+[
+  {
+    "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
+    "summary": "AI chip stocks are being pulled in opposite directions right now as hotter October inflation, surging Treasury yields, and fresh Nvidia headlines collide with a powerful upswing in reported demand, including TSMC’s October revenue at nearly six times last year’s level. That mix creates real pressure but also potential mispricing. This article examines three stocks exposed to these shocks so you can evaluate where risk and opportunity might be shifting. The stocks highlighted in this article...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-11T05:14:34+00:00",
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Meta Platforms (META) Wins JPMorgan Backing, Is It Still 37% Below Fair Value?",
+    "summary": "JPMorgan’s endorsement of Meta Platforms (META) as its preferred internet stock, driven by AI-powered advertising performance and expected Family of Apps ad revenue relative to Google Search, has sharpened investor focus on Meta’s equity story. The recent optimism around Meta Platforms comes after a mixed stretch for the share price. The stock is up 10.8% over 90 days but down 10.8% over the past month and slightly lower year to date. The 1-year total shareholder return of 2.6% and roughly...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-wins-jpmorgan-061321646.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-11T06:13:21+00:00",
+    "tickers": [
+      "GOOGL",
+      "META"
+    ],
+    "score": 11
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T20:52:13+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google’s Pixel Tag tracker is now available",
+    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag […]",
+    "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+    "source": "The Verge",
+    "published": "2026-11-10T20:02:54+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T18:49:52+00:00",
+    "tickers": [
+      "MSFT",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+    "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+    "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T18:49:19+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "published": "2026-11-10T15:29:30+00:00",
+    "tickers": [
+      "AAPL",
+      "META"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Dow Jones Futures Rise, Techs Jump On CoreWeave Earnings; Look For This Bullish Signal",
+    "summary": "Futures rose while AI stocks rallied overnight on CoreWeave earnings: The stock market fell on Nvidia and surging Treasury yields.",
+    "link": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-11T06:09:55+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
