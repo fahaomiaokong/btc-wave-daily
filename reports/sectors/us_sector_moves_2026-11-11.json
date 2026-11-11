@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.29,
+      "previous_close": 57.9900016784668,
+      "change_pct": 0.5173276648560599,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 62.21,
+      "previous_close": 61.939998626708984,
+      "change_pct": 0.4359079420040324,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.76,
+      "previous_close": 107.36000061035156,
+      "change_pct": 0.37257767080329796,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.88,
+      "previous_close": 188.3300018310547,
+      "change_pct": 0.2920395919916663,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.03,
+      "previous_close": 90.88999938964844,
+      "change_pct": 0.15403301935494884,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 121.05,
+      "previous_close": 121.01000213623047,
+      "change_pct": 0.0330533534942834,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.73,
+      "previous_close": 168.88999938964844,
+      "change_pct": -0.09473585779303795,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.58,
+      "previous_close": 44.63999938964844,
+      "change_pct": -0.13440723671325205,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.73,
+      "previous_close": 43.790000915527344,
+      "change_pct": -0.13701967178099128,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.85,
+      "previous_close": 52.939998626708984,
+      "change_pct": -0.17000118821985932,
+      "as_of": "2026-11-10"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 168.91,
+      "previous_close": 170.8800048828125,
+      "change_pct": -1.152858629752207,
+      "as_of": "2026-11-10"
+    }
+  ],
+  "news": [
+    {
+      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "summary": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+      "link": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T07:02:45+00:00"
+    },
+    {
+      "title": "Stock futures rise as market tries to recover from Nvidia-led decline: Live updates",
+      "summary": "The Dow pulled back more than 150 points in regular trading, while the S&P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
+      "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T06:43:37+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are surging early Wednesday as tech shares lead a broad market rally amid ongoing diplomatic maneuvering in the Middle East and hawkish Federal Reserve chatter. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are heavily...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63130550/stock-market-will-sp-500-open-up-or-down-today-75?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T06:19:23+00:00"
+    },
+    {
+      "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+      "summary": "Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.",
+      "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T06:00:01+00:00"
+    },
+    {
+      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+      "summary": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T05:15:50+00:00"
+    },
+    {
+      "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+      "summary": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
+      "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T04:06:47+00:00"
+    },
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T03:08:17+00:00"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-11T02:15:00+00:00"
+    },
+    {
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-11T01:54:00+00:00"
+    },
+    {
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "summary": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+      "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T01:52:56+00:00"
+    },
+    {
+      "title": "SPY Is Still a Unit Investment Trust. Here’s Why That Quirk Matters (and When It Doesn’t)",
+      "summary": "The first U.S. ETF still runs on a 1993 legal blueprint, and its biggest rival just abandoned that setup. Is the old wrapper quietly costing SPY investors, or does something else decide the question?",
+      "link": "https://247wallst.com/investing/etf/2026/11/10/spy-is-still-a-unit-investment-trust-heres-why-that-quirk-matters-and-when-it-doesnt/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T01:33:07+00:00"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-11T01:12:00+00:00"
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-11T00:30:00+00:00"
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "title": "Hegseth impeachment effort torpedoed in House",
+      "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
+      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T23:46:41+00:00"
+    },
+    {
+      "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+      "summary": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T23:46:35+00:00"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-10T23:25:00+00:00"
+    },
+    {
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T23:16:15+00:00"
+    },
+    {
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T23:11:34+00:00"
+    },
+    {
+      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+      "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-10T22:39:30+00:00"
+    }
+  ]
+}
