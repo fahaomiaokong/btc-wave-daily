@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 174.36,
+      "previous_close": 168.91000366210938,
+      "change_pct": 3.2265681248772715,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.37,
+      "previous_close": 62.209999084472656,
+      "change_pct": 1.8646534843252738,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 170.97,
+      "previous_close": 168.72999572753906,
+      "change_pct": 1.3275673141591504,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.6,
+      "previous_close": 107.76000213623047,
+      "change_pct": 0.7795080244222596,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.63,
+      "previous_close": 58.290000915527344,
+      "change_pct": 0.5832888645264989,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.45,
+      "previous_close": 91.02999877929688,
+      "change_pct": 0.4613877033234015,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 53.02,
+      "previous_close": 52.849998474121094,
+      "change_pct": 0.3216679863522698,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.82,
+      "previous_close": 43.72999954223633,
+      "change_pct": 0.2058094184902659,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.95,
+      "previous_close": 188.8800048828125,
+      "change_pct": 0.03705798145807737,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.59,
+      "previous_close": 44.58000183105469,
+      "change_pct": 0.022427475402997388,
+      "as_of": "2026-11-11"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 120.99,
+      "previous_close": 121.05000305175781,
+      "change_pct": -0.04956881474191821,
+      "as_of": "2026-11-11"
+    }
+  ],
+  "news": [
+    {
+      "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
+      "summary": "Treasury yields rose as bond markets reopened following Veterans Day.",
+      "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T07:38:45+00:00"
+    },
+    {
+      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+      "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
+      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T07:30:00+00:00"
+    },
+    {
+      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+      "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T06:11:16+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are leaning lower early Thursday as Wall Street processes shocking news of a potential leadership shakeup at Nvidia Corp. (NASDAQ:NVDA), while monitoring sliding crude oil prices. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, have...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63172206/stock-market-will-sp-500-open-up-or-down-today-76?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T06:00:43+00:00"
+    },
+    {
+      "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates",
+      "summary": "All three of the major averages rallied on Wednesday, driven by gains in CoreWeave and a rebound in Nvidia.",
+      "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T05:28:35+00:00"
+    },
+    {
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T04:41:00+00:00"
+    },
+    {
+      "title": "The Nasdaq Just Did Something For Just the 5th Time Ever. History Says This Could Happen Next.",
+      "summary": "The tech-heavy index has been unusually volatile lately.",
+      "link": "https://www.fool.com/investing/2026/11/11/the-nasdaq-just-did-something-that-s-only-happened-4-times-before-history-says-this-happens-next/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T04:20:02+00:00"
+    },
+    {
+      "title": "The world's super-rich are piling into alternative investments. Here's why",
+      "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
+      "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T03:36:44+00:00"
+    },
+    {
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+      "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T03:25:05+00:00"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T03:15:00+00:00"
+    },
+    {
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T03:10:00+00:00"
+    },
+    {
+      "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+      "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T03:02:03+00:00"
+    },
+    {
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T02:52:00+00:00"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T02:45:00+00:00"
+    },
+    {
+      "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+      "summary": "News of the probe comes after the CFTC ordered Kalshi to take down a sports-related \"mention markets\" back in August.",
+      "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T02:43:09+00:00"
+    },
+    {
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T02:31:00+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "CoreWeave shares soared on the back of its earnings report, reviving the tech trade and lifting the Nasdaq Composite on Wednesday.",
+      "link": "https://www.cnbc.com/2026/11/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T01:14:32+00:00"
+    },
+    {
+      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+      "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T01:14:21+00:00"
+    },
+    {
+      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "summary": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+      "link": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T00:46:08+00:00"
+    },
+    {
+      "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+      "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
+      "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-11T23:57:38+00:00"
+    }
+  ]
+}
