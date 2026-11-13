@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.33,
+      "previous_close": 63.369998931884766,
+      "change_pct": 1.514914130181877,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.81,
+      "previous_close": 43.81999969482422,
+      "change_pct": -0.02281993357794443,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 173.77,
+      "previous_close": 174.36000061035156,
+      "change_pct": -0.3383807113364501,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.06,
+      "previous_close": 91.44999694824219,
+      "change_pct": -0.4264592249936472,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 120.46,
+      "previous_close": 120.98999786376953,
+      "change_pct": -0.43805097373941226,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.36,
+      "previous_close": 44.59000015258789,
+      "change_pct": -0.5158110603292854,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 187.83,
+      "previous_close": 188.9499969482422,
+      "change_pct": -0.5927477990639862,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.21,
+      "previous_close": 58.630001068115234,
+      "change_pct": -0.7163586226568319,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 169.44,
+      "previous_close": 170.97000122070312,
+      "change_pct": -0.8948945486220494,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.56,
+      "previous_close": 108.5999984741211,
+      "change_pct": -0.9576413340087853,
+      "as_of": "2026-11-12"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.34,
+      "previous_close": 53.02000045776367,
+      "change_pct": -1.2825357447994845,
+      "as_of": "2026-11-12"
+    }
+  ],
+  "news": [
+    {
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T07:26:19+00:00"
+    },
+    {
+      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T07:15:01+00:00"
+    },
+    {
+      "title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates",
+      "summary": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
+      "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T06:31:37+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are nearly flat early Friday as Wall Street digests an intense week of geopolitical maneuvering, inflation data, and the dramatic resignation of Nvidia Corp.‘s (NASDAQ:NVDA) CEO. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63229873/stock-market-will-sp-500-open-up-or-down-today-77?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T06:26:11+00:00"
+    },
+    {
+      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T05:51:34+00:00"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T04:46:00+00:00"
+    },
+    {
+      "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days – Here’s Where The Money Went",
+      "summary": "According to The Kobeissi Letter, the 10 major U.S. equity ETFs have attracted over $37.5 billion over five trading days ending Tuesday.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-equity-etf-inflows-37-billion-nvidia-stock-selloff/cNbbpApR9Ok?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T04:38:16+00:00"
+    },
+    {
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T04:07:44+00:00"
+    },
+    {
+      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+      "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T03:59:40+00:00"
+    },
+    {
+      "title": "The best CD rates of November 2026: Earn up to 5.05% APY",
+      "summary": "The best CD rates rival high-yield savings accounts — and your return is locked in.",
+      "link": "https://www.cnbc.com/select/best-certificates-of-deposits/",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T03:47:35+00:00"
+    },
+    {
+      "title": "Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer",
+      "summary": "Democratic U.S. Senator Chris Van Hollen said on Thursday he would run to be the Senate majority leader, challenging Senator Chuck Schumer.",
+      "link": "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T02:59:38+00:00"
+    },
+    {
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+      "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T02:43:26+00:00"
+    },
+    {
+      "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+      "summary": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T02:32:05+00:00"
+    },
+    {
+      "title": "The world's super-rich are piling into alternative investments. Here's why",
+      "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
+      "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T02:25:02+00:00"
+    },
+    {
+      "title": "What If You Had Invested $10,000 in Bitcoin 5 Years Ago?",
+      "summary": "One investor bought Bitcoin near its 2021 peak, then watched most of the money vanish after the FTX collapse. Five years later, how does that patient bet stack up against gold and the S&P 500?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/12/what-if-you-had-invested-10000-in-bitcoin-5-years-ago/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T23:29:56+00:00"
+    },
+    {
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "summary": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T23:14:56+00:00"
+    },
+    {
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
+      "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T22:57:00+00:00"
+    },
+    {
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+      "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-12T22:47:28+00:00"
+    },
+    {
+      "title": "Opening trading-card packs has become a $2 billion market",
+      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-12T22:38:00+00:00"
+    },
+    {
+      "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
+      "summary": "Kelly Intelligence founder, CEO, and CCO Kevin Kelly joins Yahoo Finance Senior Reporter Brooke DiPalma at Yahoo Finance's 2026 Invest conference to offer some insight for investors who might be worried about how Nvidia (NVDA) stock is impacting their portfolios and retirement accounts.",
+      "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T22:19:25+00:00"
+    }
+  ]
+}
