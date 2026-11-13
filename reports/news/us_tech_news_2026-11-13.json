@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "source": "Tech",
+    "published": "2026-11-13T02:43:26+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "ORCL"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Donald Trump really wants Tim Cook to run Nvidia",
+    "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]",
+    "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+    "source": "The Verge",
+    "published": "2026-11-13T00:51:25+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 10
+  },
+  {
+    "title": "China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs",
+    "summary": "Investing.com -- Chinese artificial intelligence stocks came under renewed pressure on Friday as Nvidia's leadership crisis heightened fears that Washington could tighten restrictions on China's access to advanced AI computing.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/china-ai-stocks-tumble-nvidia-064035259.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T06:40:35+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "source": "TechCrunch",
+    "published": "2026-11-12T16:12:44+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Nvidia Funded AI Boom Under Jensen Huang, but Gary Marcus Questions if New CEO Will Keep Writing the Checks: ‘Whole Thing Might Collapse’",
+    "summary": "Nvidia Corp.’s (NASDAQ:NVDA) leadership shake-up could change how aggressively the chipmaker funds the artificial intelligence industry, potentially putting an already cash-hungry AI ecosystem at risk, NYU Professor Emeritus Gary Marcus warned. Nvidia’s New Leadership Could Rethink AI Investments On Thursday, speaking on CNBC’s “Fast Money,” Marcus said Jensen Huang’s departure could introduce uncertainty into the network of investments and financing arrangements that have helped fuel the AI boo",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-funded-ai-boom-under-054839907.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T05:48:39+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
+    "summary": "Colette Kress joined Nvidia in 2013 after nearly 25 years in finance roles at Cisco, Microsoft and other tech companies.",
+    "link": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html",
+    "source": "Tech",
+    "published": "2026-11-12T18:36:30+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Asian shares are mixed as investors assess impact of Nvidia's fallout on global AI development",
+    "summary": "HONG KONG (AP) — Asian shares were mixed Friday as investors assess what Jensen Huang’s resignation as Nvidia CEO means for the global artificial intelligence industry. futures edged higher despite earlier losses on Wall Street, which saw Nvidia falling more than 4% after Huang’s exit from the company.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T05:37:08+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Microsoft (MSFT) Unveiled An Enterprise AI Agent Platform",
+    "summary": "Microsoft (NasdaqGS:MSFT) and IBM launched the Imagine Enterprise AI agent platform for sector specific deployments in regulated industries. The Imagine Enterprise platform is designed to embed governance, security and compliance controls directly into enterprise AI agent workflows. A recent global Microsoft outage disrupted Outlook, Teams, Microsoft 365, Copilot and the Microsoft Store for more than 130,000 users. The Imagine Enterprise launch and the large scale outage highlight how...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unveiled-enterprise-ai-051528313.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T05:15:28+00:00",
+    "tickers": [
+      "MSFT"
+    ],
+    "score": 7
+  }
+]
