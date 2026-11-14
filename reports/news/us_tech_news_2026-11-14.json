@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Nvidia CEO out — 10 stocks to buy before S&P 500 hits 8,000",
+    "summary": "Nvidia (NVDA) is down over 30% from the highs with CEO Jensen Huang stepping down, yet Blanke Schein Wealth Management CIO Robert Schein says the stock is still a buy. He also names Broadcom (AVGO), Apple (AAPL), and Eli Lilly (LLY) among his top picks before the S&P 500 reaches 8,000.",
+    "link": "https://www.thestreet.com/video/nvidia-ceo-out-10-stock-to-buy-before-sp-500-hits-8000?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-14T03:33:08+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "AVGO"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
+    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "source": "Tech",
+    "published": "2026-11-13T16:23:43+00:00",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "ORCL"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+    "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+    "source": "Tech",
+    "published": "2026-11-13T15:03:10+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Fermi (FRMI) is Regaining Its Power Thanks to This Tech Giant",
+    "summary": "Fermi Inc. (NASDAQ:FRMI) is one of the 10 Stocks Defying Tech Market Turmoil. Fermi extended its winning streak to a third consecutive day on Friday, soaring 26.7 percent to close at $2.61 apiece, as investor sentiment was bolstered by reports that it revived talks with Amazon for an earlier botched power capacity supply. A report […]",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/fermi-frmi-regaining-power-thanks-050134508.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-14T05:01:34+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The new Apple TV has a YouTube problem",
+    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In […]",
+    "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+    "source": "The Verge",
+    "published": "2026-11-13T16:55:57+00:00",
+    "tickers": [
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "FormFactor (FORM) Dropped, So What Is Behind The Move?",
+    "summary": "FormFactor (FORM) moved back into focus after a rough session for semiconductor stocks, as investors reacted to Nvidia CEO Jensen Huang’s resignation and reassessed exposure across the artificial-intelligence supply chain. FormFactor’s share price closed at $87.53 after a 1-day share price return that declined 5.19%. The stock still shows a 7.90% 7-day share price gain and a year-to-date share price return of 47.88%, while the 1-year total shareholder return of 74.54% hints at strong longer...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-form-dropped-behind-move-051120513.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-14T05:11:20+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Can the Anthropic IPO Save the AI Rally?",
+    "summary": "AI stocks have had a rough month. Anthropic's debut offers some hope.",
+    "link": "https://www.fool.com/investing/2026/11/13/can-the-anthropic-ipo-save-the-ai-rally/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-14T02:20:02+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+    "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+    "source": "Tech",
+    "published": "2026-11-13T08:27:07+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  }
+]
