@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.35,
+      "previous_close": 91.05999755859375,
+      "change_pct": 1.4166510827942513,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.69,
+      "previous_close": 107.55999755859375,
+      "change_pct": 1.0505787161167124,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.96,
+      "previous_close": 64.33000183105469,
+      "change_pct": 0.979322479423872,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.68,
+      "previous_close": 58.209999084472656,
+      "change_pct": 0.8074229907567787,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.85,
+      "previous_close": 187.8300018310547,
+      "change_pct": 0.5430432619932368,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.04,
+      "previous_close": 43.810001373291016,
+      "change_pct": 0.5249911424316966,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.37,
+      "previous_close": 44.36000061035156,
+      "change_pct": 0.022541455164226676,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.23,
+      "previous_close": 52.34000015258789,
+      "change_pct": -0.21016460119833713,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.78,
+      "previous_close": 169.44000244140625,
+      "change_pct": -0.38951984885298163,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.98,
+      "previous_close": 120.45999908447266,
+      "change_pct": -0.3984717650014735,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 170.28,
+      "previous_close": 173.77000427246094,
+      "change_pct": -2.0084043198783763,
+      "as_of": "2026-11-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+      "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T06:00:01+00:00"
+    },
+    {
+      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T05:08:24+00:00"
+    },
+    {
+      "title": "Franklin Templeton Is Seeing a Turnaround. The Stock Is, Too.",
+      "summary": "The global asset manager has been benefiting from improving operating performance and stronger client inflows.",
+      "link": "https://finance.yahoo.com/m/1727fcd4-7c38-3b11-9f95-51fcfe969ee9/franklin-templeton-is-seeing.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-14T04:15:00+00:00"
+    },
+    {
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T02:42:00+00:00"
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T01:58:00+00:00"
+    },
+    {
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T01:34:11+00:00"
+    },
+    {
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+      "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T01:18:51+00:00"
+    },
+    {
+      "title": "Will ETF Buying Change Meta Stock Narrative",
+      "summary": "Large ETFs including SPY, XLC and SPYM recently added to Meta Platforms positions over several days, alongside fresh fixed income offerings and expanded sustainability agreements tied to green steel, clean cement and zero emission trucking. The combination of strong ETF buying and growing use of AI to sharpen Meta Platforms advertising engine reinforces how central data driven ad performance remains to the business story, even as it layers on heavy capex and new financing to fund AI and...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-14T00:20:17+00:00"
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T23:42:18+00:00"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
+      "summary": "Nvidia saw its worst week since April last year after Jensen Huang stepped down as CEO, and its board is looking for candidates.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-13T23:37:29+00:00"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T23:12:00+00:00"
+    },
+    {
+      "title": "4 expert tips for signing up for Medicare",
+      "summary": "A day in the life of a Medicare counselor",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T22:45:00+00:00"
+    },
+    {
+      "title": "Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
+      "summary": "A tanker struck a New Orleans river cruise with 129 passengers on board on Friday, partially submerging the boat.",
+      "link": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T22:31:41+00:00"
+    },
+    {
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T22:21:00+00:00"
+    },
+    {
+      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T22:18:43+00:00"
+    },
+    {
+      "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
+      "summary": "Researchers from the Digital Inquiry Group say that two habits that take just \"a few seconds up front\" can help keep you from being \"duped\" online.",
+      "link": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T22:06:55+00:00"
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T22:04:00+00:00"
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-13T22:00:00+00:00"
+    },
+    {
+      "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
+      "summary": "While co-leading the offering, Goldman also wants a shot at managing the billions of dollars in new wealth that the deal creates. It's not the only one.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T21:44:07+00:00"
+    },
+    {
+      "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
+      "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+      "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-13T21:34:28+00:00"
+    }
+  ]
+}
