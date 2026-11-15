@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.35,
+      "previous_close": 91.05999755859375,
+      "change_pct": 1.4166510827942513,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.69,
+      "previous_close": 107.55999755859375,
+      "change_pct": 1.0505787161167124,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.96,
+      "previous_close": 64.33000183105469,
+      "change_pct": 0.979322479423872,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.68,
+      "previous_close": 58.209999084472656,
+      "change_pct": 0.8074229907567787,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.85,
+      "previous_close": 187.8300018310547,
+      "change_pct": 0.5430432619932368,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.04,
+      "previous_close": 43.810001373291016,
+      "change_pct": 0.5249911424316966,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.37,
+      "previous_close": 44.36000061035156,
+      "change_pct": 0.022541455164226676,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.23,
+      "previous_close": 52.34000015258789,
+      "change_pct": -0.21016460119833713,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.78,
+      "previous_close": 169.44000244140625,
+      "change_pct": -0.38951984885298163,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.98,
+      "previous_close": 120.45999908447266,
+      "change_pct": -0.3984717650014735,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 170.28,
+      "previous_close": 173.77000427246094,
+      "change_pct": -2.0084043198783763,
+      "as_of": "2026-11-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-15T06:00:01+00:00"
+    },
+    {
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+      "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-15T02:53:59+00:00"
+    },
+    {
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "summary": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
+      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-15T00:33:00+00:00"
+    },
+    {
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+      "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T23:10:14+00:00"
+    },
+    {
+      "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+      "summary": "He bought an S&P 500 index fund to avoid betting on any single AI winner. One quirk in how the fund lists its holdings means he may be carrying far more risk in one company than he realizes.",
+      "link": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-14T23:03:46+00:00"
+    },
+    {
+      "title": "$180 million Van Gogh tests the art market and collector confidence",
+      "summary": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
+      "link": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T22:34:07+00:00"
+    },
+    {
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T21:31:00+00:00"
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T21:00:00+00:00"
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T20:00:00+00:00"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T19:30:00+00:00"
+    },
+    {
+      "title": "Italy fines Meta $887 million over Android users' data access",
+      "summary": "Italy fined ⁠Meta Platforms $887 million ‌for allegedly ​accessing Android users' photographs ⁠and ‌videos ‌without obtaining ⁠consent ⁠or informing ⁠them.",
+      "link": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T18:49:11+00:00"
+    },
+    {
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T18:48:39+00:00"
+    },
+    {
+      "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+      "summary": "Video from the scene showed the much larger Atlantic Asphalt tanker hit the American Heritage cruise boat while it was docked.",
+      "link": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T18:31:24+00:00"
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T18:30:00+00:00"
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T18:00:00+00:00"
+    },
+    {
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+      "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-14T17:46:06+00:00"
+    },
+    {
+      "title": "Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
+      "summary": "Soros Fund Management bought Intel aggressively over the summer, then watched a guidance shock wipe out the thesis. The filing reveals what the fund held, but the bigger question is what it still owns today.",
+      "link": "https://247wallst.com/investing/2026/11/14/soros-fund-made-intel-its-biggest-stock-bet-right-before-it-halved/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-14T17:34:54+00:00"
+    }
+  ]
+}
