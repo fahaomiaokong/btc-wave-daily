@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Nvidia Earnings Could Shift Focus To Cloudflare Stock And AI Cost Control",
+    "summary": "AI infrastructure spending is exploding, yet the real story is shifting to the quieter software players helping firms control cloud bills and monitor complex models. With Nvidia’s Nov. 17 earnings and the Anthropic IPO set to test how durable this AI buildout really is, investors risk watching from the sidelines. This article unpacks how those catalysts could impact three stocks exposed to that news. The stocks in this article are only a starting sample, and the full screen surfaced 24 more...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-could-shift-focus-001832576.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T00:18:32+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "NET"
+    ],
+    "score": 18
+  },
+  {
+    "title": "EXCLUSIVE: Anthropic IPO Could Follow SpaceX’s ‘Almost Perfectly’ Handled Offering, Market Expert Jay Woods Says",
+    "summary": "The Anthropic IPO, planned for the Nasdaq under the ticker ANT, is highly anticipated, but it comes at an interesting time with technology stocks trading lower and Nvidia Corp. facing a scandal involving CEO Jensen Huang. Market expert Jay Woods...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropic-ipo-could-spacex-003005078.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T00:30:05+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
+    "summary": "Despite its best week in two months, the Nasdaq closed below a key level. Nvidia earnings and the Anthropic IPO loom.",
+    "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T04:05:44+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "AMD Has Two Big Catalysts Lined Up For 2027 — And Nvidia Should Be Watching, Says IO Fund",
+    "summary": "The firm believes the convergence of these two catalysts could strengthen AMD's challenge to Nvidia, even without overtaking the chipmaking giant in GPU market share.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/amd-two-big-catalysts-2027-nvidia-watching/cNbEERhR9Q8?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T05:53:25+00:00",
+    "tickers": [
+      "NVDA",
+      "AMD"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+    "summary": "Alphabet could buy Uber Technologies, combining its Waymo robotaxi business with America’s largest ride-hailing network, Reuters Breakingviews columnist Jennifer Saba argued Tuesday. The deal could benefit both companies. Waymo would gain Uber’s customers and expertise in running a ride-hailing service,...",
+    "link": "https://finance.yahoo.com/technology/articles/google-could-buy-uber-win-033038440.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T03:30:38+00:00",
+    "tickers": [
+      "GOOGL",
+      "TSLA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "published": "2026-11-14T17:30:00+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
+    "summary": "Broadcom may be able to capitalize on Nvidia's misstep.",
+    "link": "https://www.fool.com/investing/2026/11/14/broadcom-jumped-as-nvidia-fell-this-is-what-has-investors-excited/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T02:20:02+00:00",
+    "tickers": [
+      "NVDA",
+      "AVGO"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Evercore explains why Apple has the right assets to win the personal agents race",
+    "summary": "Investing.com -- Apple Inc (NASDAQ:AAPL) has the technology, user base, and payment infrastructure to become a leading player in personal AI agents, potentially generating billions in new revenue, according to Evercore ISI analyst Amit Daryanani.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-15T02:08:04+00:00",
+    "tickers": [
+      "AAPL"
+    ],
+    "score": 8
+  }
+]
