@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.35,
+      "previous_close": 91.05999755859375,
+      "change_pct": 1.4166510827942513,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 108.69,
+      "previous_close": 107.55999755859375,
+      "change_pct": 1.0505787161167124,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 64.96,
+      "previous_close": 64.33000183105469,
+      "change_pct": 0.979322479423872,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.68,
+      "previous_close": 58.209999084472656,
+      "change_pct": 0.8074229907567787,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 188.85,
+      "previous_close": 187.8300018310547,
+      "change_pct": 0.5430432619932368,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.04,
+      "previous_close": 43.810001373291016,
+      "change_pct": 0.5249911424316966,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.37,
+      "previous_close": 44.36000061035156,
+      "change_pct": 0.022541455164226676,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.23,
+      "previous_close": 52.34000015258789,
+      "change_pct": -0.21016460119833713,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 168.78,
+      "previous_close": 169.44000244140625,
+      "change_pct": -0.38951984885298163,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.98,
+      "previous_close": 120.45999908447266,
+      "change_pct": -0.3984717650014735,
+      "as_of": "2026-11-13"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 170.28,
+      "previous_close": 173.77000427246094,
+      "change_pct": -2.0084043198783763,
+      "as_of": "2026-11-13"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures slip as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+      "summary": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+      "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T06:48:08+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are sinking early Monday as Wall Street braces for continued geopolitical shockwaves, mounting uncertainty in the tech sector, and post-midterm congressional maneuvering. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are leaning distinctly bearish for...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63279199/stock-market-will-sp-500-open-up-or-down-today-78?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T06:27:59+00:00"
+    },
+    {
+      "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+      "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+      "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T06:20:55+00:00"
+    },
+    {
+      "title": "Bitcoin may drop 40% or more as it nears technical warning level, strategist says",
+      "summary": "Bitcoin started the year around $90,000, and neared $98,000 in January before falling into the $60,000s in February.",
+      "link": "https://www.cnbc.com/2026/11/16/bitcoin-technical-warning-level.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T06:18:46+00:00"
+    },
+    {
+      "title": "Michael Burry's Puts on the Nasdaq-100 Run to April 2027. I'm Not Following Him.",
+      "summary": "The Big Short investor has bet almost all his short book on a tech top within months. Should Nasdaq-100 fund holders hedge too?",
+      "link": "https://www.fool.com/investing/2026/11/15/michael-burry-s-puts-on-the-nasdaq-100-run-to-april-2027-i-m-not-following-him/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T04:47:02+00:00"
+    },
+    {
+      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+      "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T04:34:00+00:00"
+    },
+    {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-16T04:15:00+00:00"
+    },
+    {
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T03:53:59+00:00"
+    },
+    {
+      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T03:35:09+00:00"
+    },
+    {
+      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+      "summary": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-16T03:11:00+00:00"
+    },
+    {
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T02:56:24+00:00"
+    },
+    {
+      "title": "Three FDA Decisions Loom After Summit’s Rejection — Capricor, Savara, Alzheimer’s Data Top Biotech’s Watchlist",
+      "summary": "Capricor and Savara face Nov.22 FDA deadlines, while Beren Therapeutics awaits a Tuesday decision on Adrabetadex.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/three-fda-decisions-summit-rejection-capricor-savara-alzheimer-data-biotech-watchlist/cNb7eF1R9XR?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T02:25:30+00:00"
+    },
+    {
+      "title": "$180 million Van Gogh tests the art market and collector confidence",
+      "summary": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
+      "link": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T02:22:04+00:00"
+    },
+    {
+      "title": "Consumer Defensive Stocks Extend Winning Streak To 6 Weeks As SPY, QQQ Rebound: TTD, CHTR, TSLA Lead Gains",
+      "summary": "Consumer ETFs continued to rise as the broader market recovered. Strong earnings, cost-cutting plans and merger talks helped some stocks post gains.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/consumer-defensive-stocks-extend-winning-streak-to-6-weeks-as-spy-qqq-rebound-ttd-chtr-tsla-lead-gains/cNb7EqoR9QC?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T01:13:20+00:00"
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-15T23:30:00+00:00"
+    },
+    {
+      "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
+      "summary": "Caterpillar is an established business with exposure to the infrastructure needed to power AI and the broader economy.",
+      "link": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-15T23:11:26+00:00"
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-15T23:00:00+00:00"
+    },
+    {
+      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-15T22:33:26+00:00"
+    },
+    {
+      "title": "Are Wall Street Analysts Predicting General Mills Stock Will Climb or Sink?",
+      "summary": "General Mills has significantly underperformed the broader market and consumer staples sector, amid declining earnings, cautious guidance, and increasingly bearish analyst sentiment.",
+      "link": "https://www.barchart.com/story/news/8845622/are-wall-street-analysts-predicting-general-mills-stock-will-climb-or-sink?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-15T22:06:38+00:00"
+    },
+    {
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-15T21:32:00+00:00"
+    }
+  ]
+}
