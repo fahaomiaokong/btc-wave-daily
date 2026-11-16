@@ -1,0 +1,100 @@
+[
+  {
+    "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook",
+    "summary": "The orders extend Google TPU shipment visibility to 2029, while Nvidia GPUs and other AI accelerators mostly have visibility through 2027 or 2028, according to Ming-Chi Kuo.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T05:03:30+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 19
+  },
+  {
+    "title": "U.S. plans to name Nvidia among AI ‘national champions’, WSJ reports",
+    "summary": "Investing.com-- The Trump administration plans to designate more than two dozen companies, including Nvidia (NASDAQ:NVDA), Amazon (NASDAQ:AMZN), Microsoft (NASDAQ:MSFT), OpenAI and Anthropic, as artificial intelligence \"national champions\" to help them expand overseas and compete with Chinese technology firms, the Wall Street Journal reported on Sunday.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T05:30:52+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 15
+  },
+  {
+    "title": "Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hooked This Week",
+    "summary": "The most important report for this earnings season lands on Tuesday, and assumes greater significance in light of the departure of Jensen Huang.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-all-important-q3-report-china-tech-results-anthropic-ipo-and-microsoft-ignite-to-keep-investors-hooked-this-week/cNb7WXNR9Xg?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T06:37:05+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Stocks extend losses as traders digest Nvidia fallout",
+    "summary": "Asian stocks mostly fell Monday as the tech sector struggled to recover from the crisis at Nvidia after boss Jensen Huang stepped down, with the company's earnings this week and market debut of Anthropic keeping the AI trade in focus.Nvidia is due to report its earnings Tuesday, giving a fresh view on the outlook for the AI trade, while the listing of Anthropic -- creator of the Claude chatbot -- will provide some insight into investors' sentiment.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-extend-losses-traders-digest-030006305.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T07:14:41+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO",
+    "summary": "Stocks extended losses overnight as traders await Nvidia earnings this week and Anthropic IPO developments.View on euronews",
+    "link": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T05:45:29+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Microsoft (MSFT) Strikes AI Deal That Broadens Its Chip Supplier Base",
+    "summary": "Microsoft (NasdaqGS:MSFT) has entered a new AI partnership with Cerebras that shifts part of its chip focus away from Nvidia. The arrangement centers on Cerebras AI hardware and software being used within Microsoft's AI infrastructure to support future AI workloads. The deal introduces another specialist AI chip supplier into Microsoft's ecosystem, increasing supplier diversity in high performance computing. Microsoft's move toward Cerebras chips should not be the only factor in how you...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-strikes-ai-deal-061353570.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T06:13:53+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 11
+  },
+  {
+    "title": "3 Stocks Tied To Governance Spending As Nvidia Fallout Puts Compliance In Focus",
+    "summary": "When a $4t giant like Nvidia is rocked by leadership turmoil, export control questions, and potential disclosure issues, the shockwaves do not stop at the chip sector. They push boards, regulators, and courts to scrutinise governance and compliance much more closely, which can create fresh demand for certain service providers and risks for others. This article unpacks that story through three stocks exposed to this Nvidia fallout. The three stocks below are a starting sample of how listed...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-tied-governance-spending-051619159.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T05:16:19+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  },
+  {
+    "title": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
+    "summary": "Investing.com-- China’s ZAI and Minimax led losses across local artificial intelligence stocks on Monday, extending recent declines as a leadership crisis at Nvidia sparked more fears of tighter U.S. chip restrictions against Beijing.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/china-zai-minimax-tumble-nvidia-050901809.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-16T05:09:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  }
+]
