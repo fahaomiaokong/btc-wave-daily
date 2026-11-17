@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.6,
+      "previous_close": 92.3499984741211,
+      "change_pct": 0.2707109150077214,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 44.12,
+      "previous_close": 44.040000915527344,
+      "change_pct": 0.18165096005811066,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.25,
+      "previous_close": 44.369998931884766,
+      "change_pct": -0.2704506080087654,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 187.88,
+      "previous_close": 188.85000610351562,
+      "change_pct": -0.5136383755179441,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 58.18,
+      "previous_close": 58.68000030517578,
+      "change_pct": -0.8520795885743726,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.47,
+      "previous_close": 52.22999954223633,
+      "change_pct": -1.4551015678676116,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 118.15,
+      "previous_close": 119.9800033569336,
+      "change_pct": -1.5252569642704827,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 106.82,
+      "previous_close": 108.69000244140625,
+      "change_pct": -1.7204916730168995,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 165.66,
+      "previous_close": 168.77999877929688,
+      "change_pct": -1.8485595460731696,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.69,
+      "previous_close": 64.95999908447266,
+      "change_pct": -1.9550478792667136,
+      "as_of": "2026-11-16"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 164.76,
+      "previous_close": 170.27999877929688,
+      "change_pct": -3.2417188271486097,
+      "as_of": "2026-11-16"
+    }
+  ],
+  "news": [
+    {
+      "title": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
+      "summary": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
+      "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T08:33:21+00:00"
+    },
+    {
+      "title": "Treasury yields are broadly flat as investors await retail sales data",
+      "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+      "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T08:23:51+00:00"
+    },
+    {
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T07:07:35+00:00"
+    },
+    {
+      "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+      "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
+      "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T06:59:42+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are mixed early Tuesday as Wall Street anticipates a historic earnings report from Nvidia Corp. (NASDAQ:NVDA), closely monitors geopolitical shifts involving North Korea, and digests the latest economic data. The Polymarket traders, a Polygon (CRYPTO: POL) based...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63330216/stock-market-will-sp-500-open-up-or-down-today-79?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T06:14:40+00:00"
+    },
+    {
+      "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+      "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+      "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T05:51:13+00:00"
+    },
+    {
+      "title": "Chart of the Day: Walmart Is a Defensive Giant With Offensive Upside",
+      "summary": "Walmart stock is holding up well as market uncertainty weighs on investor sentiment and risk appetite.",
+      "link": "https://finance.yahoo.com/m/166e5e75-b575-3afe-83d4-6bb484f29683/chart-of-the-day%3A-walmart-is.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-17T05:07:00+00:00"
+    },
+    {
+      "title": "Payward co-CEO says stock markets will move to 24/7 trading as tokenized equities grow",
+      "summary": "Payward co-CEO Dave Ripley joins Arjun Kharpal to discuss tokenized equities, stablecoins and why he believes traditional stock exchanges will eventually move to 24/7 trading. They also explore AI agents, crypto security and the outlook for digital assets.",
+      "link": "https://www.cnbc.com/video/2026/11/17/payward-ceo-dave-ripley-on-tokenized-stocks-and-247-trading.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T05:00:01+00:00"
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-17T02:30:00+00:00"
+    },
+    {
+      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T00:42:33+00:00"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The Nasdaq Composite extended its decline to a third day as Nvidia sold off once more on Monday.",
+      "link": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T00:32:44+00:00"
+    },
+    {
+      "title": "United Airlines resolves system outage that affected departing flights",
+      "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
+      "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-17T00:00:49+00:00"
+    },
+    {
+      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+      "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-16T23:42:00+00:00"
+    },
+    {
+      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
+      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-16T23:28:00+00:00"
+    },
+    {
+      "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+      "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T23:23:47+00:00"
+    },
+    {
+      "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+      "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T23:05:12+00:00"
+    },
+    {
+      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+      "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+      "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-16T23:04:00+00:00"
+    },
+    {
+      "title": "Your $300,000 in XLY Holds $125,585 in Amazon and Tesla Alone",
+      "summary": "A fund named for everyday American spending looks diversified until you open its holdings filing. Two familiar companies quietly steer the whole ride, and you may already own them twice without realizing it.",
+      "link": "https://247wallst.com/investing/etf/2026/11/16/your-300000-in-xly-holds-125585-in-amazon-and-tesla-alone/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-16T23:03:19+00:00"
+    },
+    {
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+      "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T23:01:19+00:00"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+      "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+      "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-16T23:00:01+00:00"
+    }
+  ]
+}
