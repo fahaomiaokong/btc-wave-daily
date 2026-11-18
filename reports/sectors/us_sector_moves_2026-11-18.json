@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 63.36,
+      "previous_close": 63.689998626708984,
+      "change_pct": -0.5181325699865846,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 164.75,
+      "previous_close": 165.66000366210938,
+      "change_pct": -0.5493200784695618,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.1,
+      "previous_close": 118.1500015258789,
+      "change_pct": -0.8887020840612769,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 163.26,
+      "previous_close": 164.75999450683594,
+      "change_pct": -0.910411845621728,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.84,
+      "previous_close": 51.470001220703125,
+      "change_pct": -1.2240163313804509,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.46,
+      "previous_close": 92.5999984741211,
+      "change_pct": -1.2310998843479415,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 185.24,
+      "previous_close": 187.8800048828125,
+      "change_pct": -1.4051547872053538,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.26,
+      "previous_close": 106.81999969482422,
+      "change_pct": -1.460400392511707,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.59,
+      "previous_close": 44.25,
+      "change_pct": -1.4915254237288011,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.42,
+      "previous_close": 44.119998931884766,
+      "change_pct": -1.5865796664353171,
+      "as_of": "2026-11-17"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.07,
+      "previous_close": 58.18000030517578,
+      "change_pct": -1.9078726355335474,
+      "as_of": "2026-11-17"
+    }
+  ],
+  "news": [
+    {
+      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
+      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T08:00:05+00:00"
+    },
+    {
+      "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+      "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+      "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T07:41:03+00:00"
+    },
+    {
+      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+      "summary": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
+      "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T07:24:06+00:00"
+    },
+    {
+      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T07:17:11+00:00"
+    },
+    {
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T07:16:14+00:00"
+    },
+    {
+      "title": "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
+      "summary": "South Korea moves to crack down on exam cheating with emergency alerts and $75,000 rewards.",
+      "link": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T07:00:39+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending modestly higher early Wednesday as Wall Street digests a massive earnings beat from Nvidia Corp. (NASDAQ:NVDA) alongside ongoing geopolitical tensions in the Middle East. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63376257/stock-market-will-sp-500-open-up-or-down-today-80?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T06:37:13+00:00"
+    },
+    {
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T06:18:11+00:00"
+    },
+    {
+      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+      "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+      "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T05:24:54+00:00"
+    },
+    {
+      "title": "Democrat Mary Peltola wins Alaska Senate election",
+      "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
+      "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T04:18:13+00:00"
+    },
+    {
+      "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
+      "summary": "U.S. President Donald Trump has withdrawn the nomination of Heidi Overton to lead the Food and Drug Administration due to insufficient support in Congress.",
+      "link": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T03:09:36+00:00"
+    },
+    {
+      "title": "The Nasdaq-100 Is Doing Something It Did Only in 2000 and 2018. Here’s What Happened Next Both Times",
+      "summary": "The Nasdaq-100 fund QQQ has now fallen 10% from a record three times in 2026. Only 2000 and 2018 matched that, and they ended very differently.",
+      "link": "https://247wallst.com/investing/2026/11/17/the-nasdaq-100-is-doing-something-it-did-only-in-2000-and-2018-heres-what-happened-next-both-times/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T02:51:00+00:00"
+    },
+    {
+      "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T02:50:16+00:00"
+    },
+    {
+      "title": "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
+      "summary": "LeBron James sued an AI-powered sports betting startup over alleged unauthorized use of his likeness.",
+      "link": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T02:02:02+00:00"
+    },
+    {
+      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+      "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-18T01:59:00+00:00"
+    },
+    {
+      "title": "Medicare Part B premiums rise due higher healthcare spending",
+      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-18T01:45:00+00:00"
+    },
+    {
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "summary": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an OpenAI conference room.",
+      "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T01:31:37+00:00"
+    },
+    {
+      "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+      "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-18T01:28:00+00:00"
+    },
+    {
+      "title": "Nvidia takes positive step forward with stronger sales outlook. Here’s our thoughts on the stock",
+      "summary": "",
+      "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T01:18:41+00:00"
+    },
+    {
+      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-18T01:17:17+00:00"
+    }
+  ]
+}
