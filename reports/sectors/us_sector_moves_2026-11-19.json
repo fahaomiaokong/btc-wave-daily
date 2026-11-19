@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.2,
+      "previous_close": 117.0999984741211,
+      "change_pct": 1.793340352897621,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 163.81,
+      "previous_close": 163.25999450683594,
+      "change_pct": 0.33688932480089306,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.58,
+      "previous_close": 105.26000213623047,
+      "change_pct": 0.30400708462401393,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.55,
+      "previous_close": 43.41999816894531,
+      "change_pct": 0.29940542730759745,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.62,
+      "previous_close": 43.59000015258789,
+      "change_pct": 0.06882277427642247,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 164.66,
+      "previous_close": 164.75,
+      "change_pct": -0.05462822458269789,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.18,
+      "previous_close": 91.45999908447266,
+      "change_pct": -0.30614376478841354,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.46,
+      "previous_close": 50.84000015258789,
+      "change_pct": -0.7474432561907607,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.42,
+      "previous_close": 57.06999969482422,
+      "change_pct": -1.1389516353601192,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 181.17,
+      "previous_close": 185.24000549316406,
+      "change_pct": -2.1971525439812623,
+      "as_of": "2026-11-18"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.29,
+      "previous_close": 63.36000061035156,
+      "change_pct": -3.267046386381145,
+      "as_of": "2026-11-18"
+    }
+  ],
+  "news": [
+    {
+      "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million",
+      "summary": "Vincent van Gogh's 1890 painting \"Chataigniers en Fleurs,\" unseen in public for more than 50 years, was sold for $190.4 million.",
+      "link": "https://www.cnbc.com/2026/11/19/sothebys-van-gogh-painting-record-auction.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T07:48:46+00:00"
+    },
+    {
+      "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
+      "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+      "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T07:39:51+00:00"
+    },
+    {
+      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+      "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T07:38:29+00:00"
+    },
+    {
+      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "summary": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
+      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T07:32:56+00:00"
+    },
+    {
+      "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+      "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T06:29:34+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending modestly higher early Thursday as Wall Street awaits Anthropic’s listing and a fresh slate of economic data and retail earnings. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are heavily bullish for the...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63418031/stock-market-will-sp-500-open-up-or-down-today-81?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-19T06:10:52+00:00"
+    },
+    {
+      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+      "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+      "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T06:07:29+00:00"
+    },
+    {
+      "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts",
+      "summary": "Deutsche Bank sees some greenback strength in the first half of next year, then modest weakness in the second half — overall the currency will stay at elevated levels.",
+      "link": "https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T05:34:08+00:00"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T03:45:00+00:00"
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T03:45:00+00:00"
+    },
+    {
+      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
+      "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T03:43:38+00:00"
+    },
+    {
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T03:30:00+00:00"
+    },
+    {
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+      "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T02:49:35+00:00"
+    },
+    {
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T01:13:20+00:00"
+    },
+    {
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T01:02:00+00:00"
+    },
+    {
+      "title": "Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
+      "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
+      "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T00:35:59+00:00"
+    },
+    {
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "summary": "The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year.",
+      "link": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T00:31:00+00:00"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T00:30:00+00:00"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 fell for a fifth consecutive session on Wednesday, notching its longest losing streak since June.",
+      "link": "https://www.cnbc.com/2026/11/18/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T00:14:21+00:00"
+    },
+    {
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T00:08:14+00:00"
+    }
+  ]
+}
