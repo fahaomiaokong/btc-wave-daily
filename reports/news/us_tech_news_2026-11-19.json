@@ -1,0 +1,97 @@
+[
+  {
+    "title": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
+    "summary": "OpenAI President Greg Brockman said the company’s artificial intelligence models helped Advanced Micro Devices Inc. (NASDAQ:AMD) achieve \"roughly an additional year of progress\" in chip development in less than five months, with improvements already incorporated into a manufacturing-ready design. Brockman Hails Unprecedented AMD Chip Breakthrough Brockman wrote in an X post on Wednesday that OpenAI’s models achieved \"roughly an additional year of progress on @AMD’s chip achieved in less than 5 m",
+    "link": "https://finance.yahoo.com/technology/ai/articles/unprecedented-results-amd-packs-chip-061204255.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T06:12:04+00:00",
+    "tickers": [
+      "MSFT",
+      "AMD"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Tech firms rise after record Anthropic IPO but Nvidia casts shadow",
+    "summary": "Tech firms mostly rose Thursday following a record IPO from Claude-creator Anthropic, but trading was cautious as investors deal with the fallout from the crisis engulfing AI titan Nvidia.\"Anthropic's IPO is a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning,\" Dan Ives of Yorkville Ives & Co said in a note, adding that Nvidia's troubles had cast a shadow over the sector.",
+    "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-anthropics-record-025108034.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T07:16:21+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Anthropic's record IPO lands as Nvidia suffers its worst run since 2008",
+    "summary": "Anthropic priced its record IPO at $83 a share ahead of Thursday's debut, as Nvidia heads for a seventh weekly loss and Washington tightens AI chip exports.View on euronews",
+    "link": "https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T05:53:05+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down",
+    "summary": "Investing.com -- Taiwan stocks tumbled on Thursday, with the benchmark TAIEX falling to a two-week low as a broad selloff in semiconductor and artificial-intelligence supply-chain shares intensified, despite Nvidia delivering stronger-than-expected quarterly results.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-stocks-plunge-4-6-070831391.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T07:08:31+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
+    "summary": "CNBC's Jim Cramer warned that Anthropic's highly anticipated IPO presents another headwind for Nvidia.",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
+    "source": "Tech",
+    "published": "2026-11-18T23:46:32+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
+    "summary": "Big market moments for the tech sector bring back the bulls",
+    "link": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
+    "source": "Tech",
+    "published": "2026-11-18T13:05:24+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic’s Cash Pile Tops Amazon And Nvidia Combined After Record IPO – Meet The New ETF Tracking ANT-Linked Companies",
+    "summary": "Anthropic’s IPO was roughly 7 times oversubscribed, according to Bloomberg.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-cash-pile-tops-amazon-and-nvidia-combined-after-record-ipo-meet-the-new-etf-tracking-ant-linked-companies/cNbLyKgR9i1?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-19T05:47:57+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "source": "TechCrunch",
+    "published": "2026-11-18T23:17:28+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT"
+    ],
+    "score": 9
+  }
+]
