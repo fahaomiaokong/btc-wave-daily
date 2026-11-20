@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch",
+    "published": "2026-11-20T00:56:01+00:00",
+    "tickers": [
+      "MSFT",
+      "AAPL",
+      "META",
+      "AMD"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+    "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+    "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+    "source": "Tech",
+    "published": "2026-11-19T19:43:08+00:00",
+    "tickers": [
+      "NVDA",
+      "TSLA",
+      "PLTR"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen",
+    "summary": "Cathie Wood’s ARK made a 935,000-share bet on Anthropic across six ETFs on its record-setting Nasdaq debut day",
+    "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-s-ark-invest-loads-up-anthropic-shares-dumps-nvidia-as-china-chip-sale-woes-deepen/cNbS5zBR9KI?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-20T05:22:06+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Stocks, gold and silver fall after blockbuster Anthropic IPO",
+    "summary": "Anthropic shares rose 17% on their Nasdaq debut, but the record IPO failed to halt a Wall Street sell-off. Asian stocks followed US markets lower on Friday, while gold and silver fell as investors braced for a US rate rise.View on euronews",
+    "link": "https://www.euronews.com/2026/11/20/stocks-gold-and-silver-fall-after-blockbuster-anthropic-ipo?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-20T05:48:38+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "CrowdStrike (CRWD) Brings Apple Device Automation Into Falcon Foundry Through A New Tie Up",
+    "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) and Jamf announced a new integration that links Jamf device management with the Falcon Foundry platform. The partnership brings Jamf workflows for Apple device configuration, compliance checks, and remediation into CrowdStrike security automation pipelines. Enterprises using Mac, iPhone, and iPad fleets can now coordinate security and management actions directly through Falcon Foundry playbooks. This new Jamf and CrowdStrike Falcon Foundry integration is...",
+    "link": "https://finance.yahoo.com/technology/articles/crowdstrike-crwd-brings-apple-device-051725940.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-20T05:17:25+00:00",
+    "tickers": [
+      "AAPL",
+      "CRWD"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+    "summary": "Jim Cramer warned that Nvidia's leadership crisis is overshadowing Anthropic's historic IPO.",
+    "link": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+    "source": "Tech",
+    "published": "2026-11-19T23:22:53+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "source": "TechCrunch",
+    "published": "2026-11-19T14:54:39+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+    "summary": "Shares price above the expected range, raising over $81 billion",
+    "link": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+    "source": "Tech",
+    "published": "2026-11-19T12:30:29+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 10
+  }
+]
