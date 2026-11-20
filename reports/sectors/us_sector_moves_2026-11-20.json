@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.89,
+      "previous_close": 61.290000915527344,
+      "change_pct": -0.6526364978826527,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.01,
+      "previous_close": 43.54999923706055,
+      "change_pct": -1.239952345627171,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 89.86,
+      "previous_close": 91.18000030517578,
+      "change_pct": -1.4476862258804513,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.58,
+      "previous_close": 56.41999816894531,
+      "change_pct": -1.4888305498167553,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.88,
+      "previous_close": 43.619998931884766,
+      "change_pct": -1.6964671022581035,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 160.69,
+      "previous_close": 163.80999755859375,
+      "change_pct": -1.9046441640277467,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 161.36,
+      "previous_close": 164.66000366210938,
+      "change_pct": -2.0041319013214265,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 177.46,
+      "previous_close": 181.1699981689453,
+      "change_pct": -2.0477994184697423,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.42,
+      "previous_close": 50.459999084472656,
+      "change_pct": -2.0610366693262216,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 102.76,
+      "previous_close": 105.58000183105469,
+      "change_pct": -2.67096209712816,
+      "as_of": "2026-11-19"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 115.88,
+      "previous_close": 119.19999694824219,
+      "change_pct": -2.7852324104368664,
+      "as_of": "2026-11-19"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
+      "summary": "The major averages fell more than 2% each in regular trading.",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T07:35:55+00:00"
+    },
+    {
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T07:23:06+00:00"
+    },
+    {
+      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+      "summary": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+      "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T07:08:36+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are trending lower early Friday as Wall Street reacts to a broader tech selloff after Anthropic PBC’s (NASDAQ:ANT) blockbuster IPO debut and a severe market downturn across Asia. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63464111/stock-market-will-sp-500-open-up-or-down-today-82?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T06:05:08+00:00"
+    },
+    {
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T06:00:01+00:00"
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T06:00:01+00:00"
+    },
+    {
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "summary": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.",
+      "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T05:09:52+00:00"
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T03:56:17+00:00"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-20T03:31:00+00:00"
+    },
+    {
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T01:49:03+00:00"
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-20T01:30:00+00:00"
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-20T01:22:00+00:00"
+    },
+    {
+      "title": "2 Newer Monthly Paycheck ETFs vs. a Veteran: Does a Short Track Record Matter?",
+      "summary": "A monthly check looks reliable until you ask which markets it has actually survived. Two young income ETFs and a 2003 veteran reveal what a payment history hides, and the answer may change how retirees read every distribution table.",
+      "link": "https://247wallst.com/investing/etf/2026/11/19/2-newer-monthly-paycheck-etfs-vs-a-veteran-does-a-short-track-record-matter/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T01:03:54+00:00"
+    },
+    {
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T00:53:55+00:00"
+    },
+    {
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T00:16:30+00:00"
+    },
+    {
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T00:08:34+00:00"
+    },
+    {
+      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T00:04:56+00:00"
+    },
+    {
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T00:00:38+00:00"
+    },
+    {
+      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-19T23:56:00+00:00"
+    },
+    {
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+      "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-19T23:21:23+00:00"
+    }
+  ]
+}
