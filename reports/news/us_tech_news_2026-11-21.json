@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+    "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+    "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+    "source": "Tech",
+    "published": "2026-11-20T22:59:33+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "AAPL",
+      "GOOGL"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought",
+    "summary": "Hedge fund manager Dan Loeb was buying shares of Nvidia, Space Exploration Technologies, Microsoft, and Meta Platforms in Q3 2026.",
+    "link": "https://www.fool.com/investing/2026/11/21/follow-the-smart-money-4-ai-stocks-billionaire-dan-loeb-just-bought/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T05:20:02+00:00",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "META"
+    ],
+    "score": 16
+  },
+  {
+    "title": "Dan Ives Says Anthropic IPO Sees 'Very Strong Appetite,' Calls It A 'Big Win' for Tech Sector After 'White-Knuckle' Nvidia Period",
+    "summary": "Dan Ives, partner and senior managing director at Yorkville Ives, said investor appetite around Anthropic’s initial public offering signals a \"big win\" for the technology sector following what he described as a \"white-knuckle\" period surrounding NVIDIA Corp. and the broader...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-anthropic-ipo-033013948.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T03:30:13+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
+    "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+    "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+    "source": "Tech",
+    "published": "2026-11-20T21:06:45+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Zscaler (ZS) Draws Takeover Interest In Reported Acquisition Talks",
+    "summary": "CrowdStrike Holdings is reportedly in talks to acquire Zscaler (NasdaqGS: ZS) in a major cybersecurity sector deal. The potential transaction would be one of the largest mergers in cloud and AI driven security so far. Discussions reportedly focus on combining Zscaler's zero trust network security platform with CrowdStrike's endpoint and AI security tools. This reported CrowdStrike bid for Zscaler is only one piece of the story investors need to weigh. We have also spotted 3 other big wins...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-draws-takeover-interest-071557894.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T07:15:57+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+    "summary": "Nasdaq futures trade lower after steep declines extend across global tech stocks",
+    "link": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
+    "source": "Tech",
+    "published": "2026-11-20T11:26:37+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+    "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+    "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "source": "Tech",
+    "published": "2026-11-20T07:23:06+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
+    "summary": "CoreWeave (CRWV) is back in focus after publishing fresh MLPerf Training v6.1 results that feature the first multi-rack NVIDIA Vera Rubin NVL72 benchmarks from any cloud provider, highlighting its AI infrastructure capabilities. Despite CoreWeave’s latest MLPerf results and recent product launches, sentiment has cooled, with the share price at $39.46 and the stock recording a 1-day share price return of down 12.1%, a 30-day share price return of down 36.2%, and a 1-year total shareholder...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fairly-valued-fresh-031612848.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-21T03:16:12+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  }
+]
