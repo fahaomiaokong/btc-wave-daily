@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.46,
+      "previous_close": 89.86000061035156,
+      "change_pct": 0.6677046356255101,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 177.24,
+      "previous_close": 177.4600067138672,
+      "change_pct": -0.12397537785621138,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.51,
+      "previous_close": 60.88999938964844,
+      "change_pct": -0.6240752068607192,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.69,
+      "previous_close": 43.0099983215332,
+      "change_pct": -0.7440091467592502,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.46,
+      "previous_close": 42.880001068115234,
+      "change_pct": -0.9794800784824087,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.57,
+      "previous_close": 55.58000183105469,
+      "change_pct": -1.8172036663920421,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.34,
+      "previous_close": 49.41999816894531,
+      "change_pct": -2.1853464365847786,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 100.03,
+      "previous_close": 102.76000213623047,
+      "change_pct": -2.656677772944438,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 115.87999725341797,
+      "change_pct": -2.9513266607512745,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 156.37,
+      "previous_close": 161.36000061035156,
+      "change_pct": -3.092464422085184,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 149.01,
+      "previous_close": 160.69000244140625,
+      "change_pct": -7.268655338819374,
+      "as_of": "2026-11-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "$1 Million In Cash: Buy Stocks Now Or Wait?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "link": "https://www.trefis.com/stock/spy/articles/626553/1-million-in-cash-buy-stocks-now-or-wait/2026-11-20?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T06:32:47+00:00"
+    },
+    {
+      "title": "How China is using summits to expand its global influence",
+      "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T06:00:02+00:00"
+    },
+    {
+      "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+      "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+      "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T06:00:02+00:00"
+    },
+    {
+      "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+      "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+      "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T06:00:02+00:00"
+    },
+    {
+      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
+      "summary": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T01:30:25+00:00"
+    },
+    {
+      "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T23:46:18+00:00"
+    },
+    {
+      "title": "She Moves $250,000 of Her 401(k) Into a Nasdaq-100 Fund at 60 to Own Anthropic From Its Debut Thursday. Nasdaq’s Fast-Entry Rule Keeps Her Fund From Buying Until Dec. 21, After Any First-Month Pop",
+      "summary": "She put $250,000 of her 401(k) into a Nasdaq-100 fund to own Anthropic from day one, but her fund sits out the debut. The calendar, the math, and a Medicare lookback could turn this AI bet into something she didn't plan.",
+      "link": "https://247wallst.com/personal-finance/2026/11/20/she-moves-250000-of-her-401k-into-a-nasdaq-100-fund-at-60-to-own-anthropic-from-its-debut-thursday-nasdaqs-fast-entry-rule-keeps-her-fund-from-buying-until-dec-21-after-any-first-month-pop/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T23:02:13+00:00"
+    },
+    {
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T22:59:33+00:00"
+    },
+    {
+      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+      "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T22:08:41+00:00"
+    },
+    {
+      "title": "Anthropic’s IPO Is Triggering a Selloff. How to Play It Now.",
+      "summary": "The IPO set fire to the AI ecosystem and technology stock valuations, creating a historic selloff that should scare investors.",
+      "link": "https://finance.yahoo.com/m/54889cad-03e6-3a63-8ae5-965b8aa2e1fa/anthropic%E2%80%99s-ipo-is-triggering.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T21:46:00+00:00"
+    },
+    {
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T21:35:24+00:00"
+    },
+    {
+      "title": "Traveling soon? Here’s how to decide whether to fly or drive",
+      "summary": "CNBC Select compares driving vs. flying some of the most popular travel routes and what to consider before deciding.",
+      "link": "https://www.cnbc.com/select/drive-fly-travel-costs/",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T21:22:32+00:00"
+    },
+    {
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T21:10:48+00:00"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks were lower in late Friday afternoon trading, with the NYSE Financial Index shedding",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-210945260.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T21:09:45+00:00"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Fall Friday",
+      "summary": "Energy stocks fell Friday with the NYSE Energy Sector Index declining 0.4% and the State Street Ener",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-friday-210529089.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T21:05:29+00:00"
+    },
+    {
+      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T21:04:48+00:00"
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+      "summary": "Healthcare stocks were higher late Friday afternoon, with the NYSE Healthcare Index and the State St",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-210224167.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T21:02:24+00:00"
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "summary": "Consumer stocks were mixed late Friday afternoon, with the State Street Consumer Staples Select Sect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-210003046.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T21:00:03+00:00"
+    },
+    {
+      "title": "Sector Update: Tech Stocks Tumble Late Afternoon",
+      "summary": "Tech stocks were sharply lower late Friday afternoon, with the State Street Technology Select Sector",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-tumble-afternoon-205448210.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T20:54:48+00:00"
+    },
+    {
+      "title": "Trump says he still has confidence in Lutnick",
+      "summary": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick.",
+      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-20T20:52:08+00:00"
+    }
+  ]
+}
