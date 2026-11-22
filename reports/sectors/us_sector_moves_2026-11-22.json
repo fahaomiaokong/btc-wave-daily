@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.46,
+      "previous_close": 89.86000061035156,
+      "change_pct": 0.6677046356255101,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 177.24,
+      "previous_close": 177.4600067138672,
+      "change_pct": -0.12397537785621138,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.51,
+      "previous_close": 60.88999938964844,
+      "change_pct": -0.6240752068607192,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.69,
+      "previous_close": 43.0099983215332,
+      "change_pct": -0.7440091467592502,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.46,
+      "previous_close": 42.880001068115234,
+      "change_pct": -0.9794800784824087,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.57,
+      "previous_close": 55.58000183105469,
+      "change_pct": -1.8172036663920421,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.34,
+      "previous_close": 49.41999816894531,
+      "change_pct": -2.1853464365847786,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 100.03,
+      "previous_close": 102.76000213623047,
+      "change_pct": -2.656677772944438,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 115.87999725341797,
+      "change_pct": -2.9513266607512745,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 156.37,
+      "previous_close": 161.36000061035156,
+      "change_pct": -3.092464422085184,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 149.01,
+      "previous_close": 160.69000244140625,
+      "change_pct": -7.268655338819374,
+      "as_of": "2026-11-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+      "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-22T06:00:01+00:00"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T01:15:00+00:00"
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T00:03:00+00:00"
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T23:05:00+00:00"
+    },
+    {
+      "title": "Williams Companies Slashed Its Dividend in 2016. Here’s What $1,000 Invested Then Is Worth Today",
+      "summary": "A pipeline giant gutted its payout and left income investors reeling. A decade later, one number shows whether patience beat the market, but the story behind it hides a catch that could still threaten the dividend.",
+      "link": "https://247wallst.com/investing/2026/11/21/williams-companies-slashed-its-dividend-in-2016-heres-what-1000-invested-then-is-worth-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T22:47:28+00:00"
+    },
+    {
+      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+      "summary": "For over 20 years, according to the U.S. officials, his criminal organization smuggled heroin, methamphetamine, cocaine, and marijuana into the U.S.",
+      "link": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T22:09:16+00:00"
+    },
+    {
+      "title": "His Indexed Annuity Tracks the S&P 500. The Fine Print Says “Price Return,” Which Means It Leaves Out Every Dividend the 500 Companies Pay",
+      "summary": "A new retiree signs up for \"S&P 500\" upside with no losses, then spots two words in the contract that change what he actually earns. Before you buy any indexed annuity, find out what that phrase hides and which questions expose it.",
+      "link": "https://247wallst.com/personal-finance/2026/11/21/his-indexed-annuity-tracks-the-sp-500-the-fine-print-says-price-return-which-means-it-leaves-out-every-dividend-the-500-companies-pay/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T21:03:49+00:00"
+    },
+    {
+      "title": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
+      "summary": "Twenty Wall Street firms set their 2026 year-end S&P 500 targets last December, and Friday's selloff left every one of them out of reach. History says a rescue rally is rare, and the strategists' own process may explain why they keep missing.",
+      "link": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T20:42:00+00:00"
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T20:15:00+00:00"
+    },
+    {
+      "title": "The S&P 500 Is Having the Longest Losing Streak Since February 2020",
+      "summary": "Nearly a year of gains vanished in about six weeks, and the selling keeps getting heavier. One equal-weight fund is holding up far better than the big index fund, and the gap points to a specific risk.",
+      "link": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-having-the-longest-losing-streak-since-february-2020/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T20:02:04+00:00"
+    },
+    {
+      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+      "summary": "The Sparta II was damaged in international waters west of Russia's Gogland island, Finland's Defence Forces said.",
+      "link": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T19:56:12+00:00"
+    },
+    {
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T19:45:00+00:00"
+    },
+    {
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T19:45:00+00:00"
+    },
+    {
+      "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year",
+      "summary": "DoubleLine's Jeffrey Gundlach fired off two terse posts about stocks and cash, then offered no numbers. We ran them ourselves, dividends included, and the results raise a pointed question about where your idle money belongs before the Fed's December meeting.",
+      "link": "https://247wallst.com/investing/2026/11/21/t-bills-are-beating-the-nasdaq-sp-500-and-dow-this-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T19:22:53+00:00"
+    },
+    {
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "summary": "This one, simple, low-pain tax solves all the problems.",
+      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T18:20:00+00:00"
+    },
+    {
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T18:19:00+00:00"
+    },
+    {
+      "title": "The Nasdaq-100 Is Now Just 49 Points From a Bear Market",
+      "summary": "A single Friday wiped out more than a decade of weekly gains for tech's biggest index, and chip stocks are taking the blame. One small move on Monday could change what the headlines say, but does the label actually matter to your portfolio?",
+      "link": "https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T17:42:02+00:00"
+    },
+    {
+      "title": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
+      "summary": "Pump prices are tumbling toward a possible Thanksgiving record, yet the 2008 comparison breaks down on closer inspection. Behind the cheaper fill-ups sits a shipping lane that could squeeze the biggest energy fund even harder.",
+      "link": "https://247wallst.com/investing/2026/11/21/gas-prices-are-dropping-at-a-2008-pace-right-before-thanksgiving/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-21T17:22:55+00:00"
+    },
+    {
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "summary": "This would make the second recent intrusion into the FBI system.",
+      "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-21T16:57:34+00:00"
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-21T16:50:00+00:00"
+    }
+  ]
+}
