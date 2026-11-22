@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off?",
+    "summary": "Tepper was selling shares of AMD, Broadcom, and Alphabet in Q3, while buying Nvidia and Micron.",
+    "link": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T03:20:02+00:00",
+    "tickers": [
+      "NVDA",
+      "GOOGL",
+      "AMD",
+      "AVGO"
+    ],
+    "score": 19
+  },
+  {
+    "title": "3 Top AI Stocks With At Least 14% ROE",
+    "summary": "The recent plunge in AI linked stocks, including Nvidia and Anthropic, has reminded investors that story alone is not enough. Profit matters. That selloff has pushed attention toward companies already earning solid cash flows from AI rather than just promising future breakthroughs. This article spotlights three profitable AI focused stocks from our screener that are turning heavy AI spending into real earnings and potentially more resilient business models. The three stocks below are just a...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-least-031239184.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T03:12:39+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+    "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+    "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "source": "Tech",
+    "published": "2026-11-21T16:40:05+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 11
+  },
+  {
+    "title": "Nvidia Shock Puts MongoDB Stock And Cloud Software Names Back In Focus",
+    "summary": "AI infrastructure just absorbed a shock, with Nvidia’s leadership turmoil, customer investigations and eye catching Q3 FY2027 numbers all hitting at once, and that ripple now runs straight through the cloud and data center operators that power this boom. Pricing for compute is changing, expectations are resetting and some stocks are suddenly being repriced. This article walks through three companies exposed to this Nvidia story and why each one merits a closer look today. The three stocks...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-shock-puts-mongodb-stock-051540855.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T05:15:40+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
+    "summary": "According to TheFly, Jefferies analysts see significant merit in the reported deal, arguing that combining the two cybersecurity companies could strengthen CrowdStrike’s capabilities.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/crowdstrike-zscaler-merger-versus-palo-alto-networks/cNbn1VWR91Y?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T04:59:48+00:00",
+    "tickers": [
+      "CRWD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Can Anthropic afford to put safety first?",
+    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source": "The Verge",
+    "published": "2026-11-21T13:29:45+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Super Micro: 3 Key Takeaways for Long-Term Investors",
+    "summary": "Super Micro's profitability gains trace to its modular DCBBS building blocks, a lever that sits apart from raw AI demand.",
+    "link": "https://www.fool.com/earnings/takeaways/2026/11/22/super-micro-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T07:11:16+00:00",
+    "tickers": [
+      "SMCI"
+    ],
+    "score": 5
+  },
+  {
+    "title": "Chamath Palihapitiya Praises Jensen Huang As ‘Biblically Good,’ But Warns Bringing Him Back At Nvidia Could Put ‘Everybody’ At Risk",
+    "summary": "Palihapitiya argued that any decision to reinstate Huang could raise serious corporate governance concerns.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/chamath-palihapitiya-praises-jensen-huang-biblically-good-nvidia-risk/cNbnmnOR91r?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-22T06:52:25+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 5
+  }
+]
