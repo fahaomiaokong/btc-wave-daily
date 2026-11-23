@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.46,
+      "previous_close": 89.86000061035156,
+      "change_pct": 0.6677046356255101,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 177.24,
+      "previous_close": 177.4600067138672,
+      "change_pct": -0.12397537785621138,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.51,
+      "previous_close": 60.88999938964844,
+      "change_pct": -0.6240752068607192,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 42.69,
+      "previous_close": 43.0099983215332,
+      "change_pct": -0.7440091467592502,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.46,
+      "previous_close": 42.880001068115234,
+      "change_pct": -0.9794800784824087,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 54.57,
+      "previous_close": 55.58000183105469,
+      "change_pct": -1.8172036663920421,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 48.34,
+      "previous_close": 49.41999816894531,
+      "change_pct": -2.1853464365847786,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 100.03,
+      "previous_close": 102.76000213623047,
+      "change_pct": -2.656677772944438,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 112.46,
+      "previous_close": 115.87999725341797,
+      "change_pct": -2.9513266607512745,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 156.37,
+      "previous_close": 161.36000061035156,
+      "change_pct": -3.092464422085184,
+      "as_of": "2026-11-20"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 149.01,
+      "previous_close": 160.69000244140625,
+      "change_pct": -7.268655338819374,
+      "as_of": "2026-11-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+      "summary": "Last week, the major indexes tumbled as worries about the artificial intelligence trade continued to spook investors, despite Anthropic's record debut.",
+      "link": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T08:13:34+00:00"
+    },
+    {
+      "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+      "summary": "Tata Steel will buy a 26.4% stake in India's leading structural steel pipes and tubes maker to boost downstream capacity.",
+      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T07:25:24+00:00"
+    },
+    {
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "summary": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
+      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T06:50:48+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are surging early Monday as Wall Street looks past a brutal week for the technology sector, seeking stability after South Korea announced emergency measures to rescue its slumping stock market. The Polymarket traders, a Polygon (CRYPTO: POL)...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63518745/stock-market-will-sp-500-open-up-or-down-today-83?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-23T06:16:44+00:00"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T05:08:03+00:00"
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T03:52:17+00:00"
+    },
+    {
+      "title": "Biotech Funds Slide Into Thanksgiving Week — Capricor’s FDA Fight And Back-To-Back Drug Decisions Top Watchlist",
+      "summary": "Capricor will face investors on Monday after the FDA rejected its Duchenne therapy, citing concerns about the reliability of its trial data.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/biotech-funds-slide-thanksgiving-week-capricor-fda-fight-back-to-back-drug-decisions/cNbYVM2R9Sc?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-23T03:07:37+00:00"
+    },
+    {
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-23T00:42:54+00:00"
+    },
+    {
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-22T23:49:44+00:00"
+    },
+    {
+      "title": "His 401(k) Hit $900,000 Before the Market Crash, Enough to Retire at 64. A 19.8% Slide in His Nasdaq 100 Fund Erased $178,200 Weeks Before His Last Day",
+      "summary": "A crash weeks before retirement wrecks the withdrawal math, but it also opens a narrow tax window most savers never see. The smartest moves happen before his last paycheck, and one of them turns the damage into a discount.",
+      "link": "https://247wallst.com/personal-finance/2026/11/22/his-401k-hit-900000-before-the-market-crash-enough-to-retire-at-64-a-19-8-slide-in-his-nasdaq-100-fund-erased-178200-weeks-before-his-last-day/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-22T23:03:16+00:00"
+    },
+    {
+      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T21:51:00+00:00"
+    },
+    {
+      "title": "Ron Johnson’s Social Security gaffe buried important news",
+      "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+      "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T21:28:00+00:00"
+    },
+    {
+      "title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
+      "summary": "The Nasdaq 100 slipped past a line it hasn't touched in over a year, then barely escaped at the closing bell. If you hold no Nasdaq fund, your retirement account may still be more exposed than you think.",
+      "link": "https://247wallst.com/investing/2026/11/22/charlie-bilello-flags-the-nasdaq-100s-first-bear-market-since-april-2025/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-22T21:17:16+00:00"
+    },
+    {
+      "title": "Social Security should be shut down, this Republican senator says",
+      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T20:26:00+00:00"
+    },
+    {
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T19:24:00+00:00"
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-22T18:55:05+00:00"
+    },
+    {
+      "title": "Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",
+      "summary": "Ray Dalio's fund sold billions in the market's most popular index funds last quarter, yet one of them still sits at the top of its holdings. The filing hides more than it shows, and the real lesson has nothing to do with the sales.",
+      "link": "https://247wallst.com/investing/2026/11/22/billionaire-ray-dalios-bridgewater-keeps-16-of-its-23-billion-stock-portfolio-in-sp-500-index-funds-even-after-cutting-them/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-22T18:43:15+00:00"
+    },
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-22T18:23:00+00:00"
+    },
+    {
+      "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+      "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
+      "link": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-22T17:33:25+00:00"
+    }
+  ]
+}
