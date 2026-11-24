@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 162.38,
+      "previous_close": 149.00999450683594,
+      "change_pct": 8.972556194913949,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 116.93,
+      "previous_close": 112.45999908447266,
+      "change_pct": 3.974747423010183,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.47,
+      "previous_close": 156.3699951171875,
+      "change_pct": 3.901007273320567,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 103.6,
+      "previous_close": 100.02999877929688,
+      "change_pct": 3.5689305850936437,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 49.9,
+      "previous_close": 48.34000015258789,
+      "change_pct": 3.2271407581462075,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 55.65,
+      "previous_close": 54.56999969482422,
+      "change_pct": 1.9791099710748439,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.32,
+      "previous_close": 42.689998626708984,
+      "change_pct": 1.4757587106054793,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 179.42,
+      "previous_close": 177.24000549316406,
+      "change_pct": 1.2299675238500285,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 42.9,
+      "previous_close": 42.459999084472656,
+      "change_pct": 1.0362716086073753,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 90.38,
+      "previous_close": 90.45999908447266,
+      "change_pct": -0.08843586699349704,
+      "as_of": "2026-11-23"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 59.87,
+      "previous_close": 60.5099983215332,
+      "change_pct": -1.057673672592807,
+      "as_of": "2026-11-23"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
+      "summary": "On Monday, the S&P 500 and Nasdaq Composite posted their best sessions since April 2025 as the artificial intelligence trade roared back to life.",
+      "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T10:20:03+00:00"
+    },
+    {
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T10:17:31+00:00"
+    },
+    {
+      "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
+      "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T09:46:01+00:00"
+    },
+    {
+      "title": "ANT Stock Drops Further Despite Tech Rally — Why This Analyst Thinks Jensen Huang’s Return As Nvidia CEO Is A ‘Threat To Anthropic’",
+      "summary": "Nvidia CEO Jensen Huang's return could accelerate the push for open-source AI models, posing a threat to the Claude maker, analyst Patrick Moorhead said.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ant-stock-drops-further-despite-tech-rally-why-this-analyst-thinks-jensen-huang-s-return-as-nvidia-ceo-is-a-threat-to-anthropic/cNbsciDR9ka?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T09:03:05+00:00"
+    },
+    {
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T08:35:16+00:00"
+    },
+    {
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
+      "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T07:25:41+00:00"
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T07:12:33+00:00"
+    },
+    {
+      "title": "Why France is at risk of recession — and what could keep it out of one",
+      "summary": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+      "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T06:55:36+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are edging higher early Tuesday as Wall Street builds on a historic tech-led relief rally triggered by Jensen Huang’s stunning return as CEO of Nvidia Corp. (NASDAQ:NVDA), alongside a sharp rebound across Asian markets. The Polymarket traders,...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63568369/stock-market-will-sp-500-open-up-or-down-today-84?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T06:10:37+00:00"
+    },
+    {
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+      "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T05:07:16+00:00"
+    },
+    {
+      "title": "The 10-Year Topped 5% For The First Time Since 2007. What Happened Next?",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "link": "https://www.trefis.com/stock/spy/articles/627401/the-10-year-topped-5-for-the-first-time-since-2007-what-happened-next/2026-11-23?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T05:06:42+00:00"
+    },
+    {
+      "title": "Stocks Opened Up, Then Fell 3% By The Close. What Happened The Last 45 Times?",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "link": "https://www.trefis.com/stock/spy/articles/627441/stocks-opened-up-then-fell-3-by-the-close-what-happened-the-last-45-times/2026-11-23?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T05:06:42+00:00"
+    },
+    {
+      "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "link": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T05:06:42+00:00"
+    },
+    {
+      "title": "The Inflation Math, Updated: The Fed Is Fighting Oil",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "link": "https://www.trefis.com/stock/spy/articles/627433/the-inflation-math-updated-the-fed-is-fighting-oil/2026-11-23?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T05:06:42+00:00"
+    },
+    {
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+      "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T05:05:08+00:00"
+    },
+    {
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "summary": "China is increasingly focused on containing India economically rather than through military actions.",
+      "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T04:27:38+00:00"
+    },
+    {
+      "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
+      "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
+      "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T03:32:26+00:00"
+    },
+    {
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
+      "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T02:37:39+00:00"
+    },
+    {
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
+      "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-24T02:20:44+00:00"
+    },
+    {
+      "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
+      "summary": "A retiree who counts on a portfolio to cover groceries and utilities faces a quiet choice between two popular ETFs. One sends cash on its own, while the other forces you to sell shares, even in a month when prices are tumbling.",
+      "link": "https://247wallst.com/investing/etf/2026/11/23/qqq-paid-a-300000-holder-1524-in-dividends-over-the-past-year-while-vym-paid-7164/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-24T02:03:39+00:00"
+    }
+  ]
+}
