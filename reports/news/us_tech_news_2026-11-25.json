@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "source": "TechCrunch",
+    "published": "2026-11-24T15:51:07+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "source": "Tech",
+    "published": "2026-11-25T01:13:56+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+    "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+    "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+    "source": "Tech",
+    "published": "2026-11-24T21:04:03+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Amazon is knocking almost $50 off six months of Apple TV",
+    "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]",
+    "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+    "source": "The Verge",
+    "published": "2026-11-24T14:52:20+00:00",
+    "tickers": [
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 8
+  },
+  {
+    "title": "1 Reason to Buy AMD Stock Before 2027",
+    "summary": "AMD has been caught in the AI chip sell-off despite surging demand, and its chiplet approach may give it an edge that the market is overlooking.",
+    "link": "https://www.fool.com/investing/2026/11/25/1-reason-to-buy-amd-stock-before-2027/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-25T08:26:02+00:00",
+    "tickers": [
+      "AMD"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch",
+    "published": "2026-11-24T18:30:42+00:00",
+    "tickers": [
+      "AMZN"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Will Nvidia Exec Kimberly Powell Leave? Crypto Bettors Weigh Exit Odds Amid Alleged Jensen Huang Affair",
+    "summary": "Cryptocurrency punters are scaling back odds that Nvidia Corp. (NASDAQ:NVDA) executive Kimberly Powell will leave the company following reports of her alleged affair with CEO Jensen Huang. The Fate of Kimberly Powell Polygon (CRYPTO: POL)-based Polymarket currently prices a 23%...",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63614804/nvidia-vp-kimberly-powell-jensen-huang-affair-polymarket-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-25T07:59:05+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "SK hynix (NasdaqGS:SKHY) Sell Off Puts Undervalued Narrative Back In Focus",
+    "summary": "SK hynix (NasdaqGS:SKHY) is back in focus after Nvidia’s board reversed course and reinstated Jensen Huang as CEO, a decision that sparked sharp moves across AI linked memory suppliers. SK hynix has been pulled into the broader AI sell off, with the share price down 9.90% over the last day and 18.27% over 30 days. This has contributed to a 33.35% year to date share price decline that signals fading momentum despite recent rallies around buyback plans and Nvidia linked headlines. Spot...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-sell-070941477.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-25T07:09:41+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
