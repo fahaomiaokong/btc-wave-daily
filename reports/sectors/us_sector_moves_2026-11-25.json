@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.72,
+      "previous_close": 179.4199981689453,
+      "change_pct": 2.9539638196095064,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 91.88,
+      "previous_close": 90.37999725341797,
+      "change_pct": 1.659662306003562,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.46,
+      "previous_close": 42.900001525878906,
+      "change_pct": 1.3053577021046925,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.45,
+      "previous_close": 59.869998931884766,
+      "change_pct": 0.9687674602685714,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.11,
+      "previous_close": 55.650001525878906,
+      "change_pct": 0.8265920242736646,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 104.45,
+      "previous_close": 103.5999984741211,
+      "change_pct": 0.8204648054036756,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.72,
+      "previous_close": 116.93000030517578,
+      "change_pct": 0.6756176282924686,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 50.17,
+      "previous_close": 49.900001525878906,
+      "change_pct": 0.5410790899095907,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.4,
+      "previous_close": 43.31999969482422,
+      "change_pct": 0.1846729126024016,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 161.61,
+      "previous_close": 162.47000122070312,
+      "change_pct": -0.529329238777354,
+      "as_of": "2026-11-24"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 157.09,
+      "previous_close": 162.3800048828125,
+      "change_pct": -3.2577932773374507,
+      "as_of": "2026-11-24"
+    }
+  ],
+  "news": [
+    {
+      "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+      "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T09:20:15+00:00"
+    },
+    {
+      "title": "Most Covered Call ETFs Fall Just as Hard in a Selloff. This One Didn’t",
+      "summary": "Selling calls for juicy income feels like armor, but the premium shrinks fast when stocks truly tumble. A backtest of three S&P 500 funds reveals which options strategy actually cushioned the fall, and what that protection costs in payouts.",
+      "link": "https://247wallst.com/investing/etf/2026/11/25/most-covered-call-etfs-fall-just-as-hard-in-a-selloff-this-one-didnt/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T09:03:09+00:00"
+    },
+    {
+      "title": "Treasury yields fall as investors await key inflation signal",
+      "summary": "Bond yields moved lower Wednesday as investors awaited key inflation and spending data during a holiday-shortened week.",
+      "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T07:44:24+00:00"
+    },
+    {
+      "title": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
+      "summary": "Jensen Huang’s return as Nvidia CEO, the continued slide in Anthropic shares, and Democrats’ midterm election win have each added a new dimension to the AI trade.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-concerns-resurface-orcl-googl-spcx-crwv-credit-default-swap-spreads-hit-records-as-nvda-ant-tumble/cNbHEEAR9lZ?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T06:56:18+00:00"
+    },
+    {
+      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "summary": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T06:29:46+00:00"
+    },
+    {
+      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+      "summary": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
+      "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T06:09:44+00:00"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are sliding early Wednesday as Wall Street braces for a packed pre-Thanksgiving economic data dump—headlined by the Fed’s preferred PCE inflation gauge—alongside intensifying political and regulatory scrutiny surrounding Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang’s reinstatement. Polymarket traders,...",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63614091/stock-market-will-sp-500-open-up-or-down-today-85?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T06:06:17+00:00"
+    },
+    {
+      "title": "Cramer Turns Eyes to Retail Stocks and Highlights His 2 Favorites",
+      "summary": "Jim Cramer sorts six retail stocks after Tuesday earnings and praises 2 as the sector outpaces tech this quarter.",
+      "link": "https://beincrypto.com/cramer-retail-stocks-two-favorites-earnings/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T05:00:00+00:00"
+    },
+    {
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T04:06:01+00:00"
+    },
+    {
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T03:58:32+00:00"
+    },
+    {
+      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T03:52:03+00:00"
+    },
+    {
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T02:43:33+00:00"
+    },
+    {
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T02:36:43+00:00"
+    },
+    {
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T02:09:45+00:00"
+    },
+    {
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-25T02:00:00+00:00"
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T01:13:56+00:00"
+    },
+    {
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-25T01:11:00+00:00"
+    },
+    {
+      "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+      "summary": "A fund labeled communication services sounds like a broad bet on telecom, media, and entertainment. The latest SEC filing shows something far narrower, and one company hides in plain sight by appearing on the holdings list twice.",
+      "link": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T01:04:06+00:00"
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "The S&P 500 and the Nasdaq Composite slid on Tuesday as Nvidia unwound some of its gains from the previous session.",
+      "link": "https://www.cnbc.com/2026/11/24/wednesday-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-25T00:12:45+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs — NVDA, DELL, TSLA, TGTX In Focus",
+      "summary": "The Trump administration is reportedly preparing to roll out new tariffs targeting China and dozens of trading partners.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T00:12:12+00:00"
+    }
+  ]
+}
