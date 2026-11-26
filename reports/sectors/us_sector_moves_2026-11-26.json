@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.21,
+      "previous_close": 50.16999816894531,
+      "change_pct": 2.0729556886817546,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.86,
+      "previous_close": 43.459999084472656,
+      "change_pct": 0.9203886883427437,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.38,
+      "previous_close": 104.44999694824219,
+      "change_pct": 0.8903811191288469,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.95,
+      "previous_close": 161.61000061035156,
+      "change_pct": 0.8291562307949141,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.9,
+      "previous_close": 60.45000076293945,
+      "change_pct": 0.7444156019538628,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.51,
+      "previous_close": 56.11000061035156,
+      "change_pct": 0.7128843081399605,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.400001525878906,
+      "change_pct": 0.48386743487986994,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.3,
+      "previous_close": 91.87999725341797,
+      "change_pct": 0.4571209829530076,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.49,
+      "previous_close": 117.72000122070312,
+      "change_pct": -0.1953799000323886,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 183.68,
+      "previous_close": 184.72000122070312,
+      "change_pct": -0.5630149490203462,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 155.79,
+      "previous_close": 157.08999633789062,
+      "change_pct": -0.827548773439668,
+      "as_of": "2026-11-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T08:42:26+00:00"
+    },
+    {
+      "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+      "summary": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
+      "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T08:25:47+00:00"
+    },
+    {
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+      "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T08:09:39+00:00"
+    },
+    {
+      "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+      "summary": "Startups Atoco and Ahbstra are moving water-from-air machines toward commercial use, including for data centers and drought-hit communities.",
+      "link": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T08:06:48+00:00"
+    },
+    {
+      "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "summary": "The 20,000-square-meter mega factory will be able to produce up to 500 satellites annually, making it the world's third-largest satellite production site.",
+      "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T07:45:05+00:00"
+    },
+    {
+      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+      "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T07:30:11+00:00"
+    },
+    {
+      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+      "summary": "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
+      "link": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T07:23:42+00:00"
+    },
+    {
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-26T07:16:00+00:00"
+    },
+    {
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T06:39:34+00:00"
+    },
+    {
+      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "summary": "Kim Jong Un called for wider use of tactical nuclear weapons and an expanded arsenal, rejecting international denuclearization pressure.",
+      "link": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T05:50:34+00:00"
+    },
+    {
+      "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+      "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+      "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T05:36:01+00:00"
+    },
+    {
+      "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+      "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+      "link": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T04:20:18+00:00"
+    },
+    {
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+      "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T04:12:18+00:00"
+    },
+    {
+      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "summary": "A judge has blocked the FCC's early license renewal process for Disney-owned ABC stations in 'important victory for the First Amendment'",
+      "link": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T04:00:15+00:00"
+    },
+    {
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+      "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T03:32:53+00:00"
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T03:19:44+00:00"
+    },
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T03:13:43+00:00"
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+      "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T03:09:47+00:00"
+    },
+    {
+      "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+      "summary": "Michael Burry‘s move to a portfolio that is almost entirely long was discussed on financial news just as U.S. stocks reversed off their lows on Wednesday, the ‘Big Short’ investor noted. Timing Of His Portfolio Review Burry told subscribers of his Substack, ‘Cassandra Unchained,’ earlier Wednesday that his portfolio is more long and less short than it has been in some time. “My portfolio review was discussed on CNBC about the time the market reversed off its lows today,” he said in a post on X.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T02:58:25+00:00"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T02:35:39+00:00"
+    }
+  ]
+}
