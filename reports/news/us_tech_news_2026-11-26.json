@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+    "summary": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvda-jensen-huang-return-stock-upgrades-crwd-li-amba-dkng/cNbxi4aR9ZF?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T08:43:12+00:00",
+    "tickers": [
+      "NVDA",
+      "CRWD"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Apple Is November's Mag7 Winner — Nvidia Takes The Biggest Hit",
+    "summary": "The Anthropic IPO and Nvidia CEO’s ouster and rehiring flummoxed AI investors this month.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/apple-is-november-s-mag7-winner-nvidia-takes-the-biggest-hit/cNbxWaAR9Zm?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T07:32:42+00:00",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "AMZN"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
+    "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+    "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+    "source": "Tech",
+    "published": "2026-11-25T21:04:57+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 12
+  },
+  {
+    "title": "CoreWeave (CRWV) Debt Sale Wins Investment Grade Ratings",
+    "summary": "CoreWeave (NasdaqGS:CRWV) is marketing a planned US$4.5b debt sale secured by GPU assets tied to a Meta Platforms contract. The GPU-backed financing is expected to be rated investment grade even though CoreWeave itself currently holds a junk credit rating. Deal structure links lender protection to specific hardware and contract cash flows rather than CoreWeave’s broader corporate balance sheet. The investment grade treatment of this GPU-backed Meta contract financing signals a wider shift...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-debt-sale-wins-080908581.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T08:09:08+00:00",
+    "tickers": [
+      "NVDA",
+      "META"
+    ],
+    "score": 10
+  },
+  {
+    "title": "SpaceX Reportedly Slashes Some Nvidia Chip Rents — AI Researcher Sees Musk’s Edge In A GPU Glut",
+    "summary": "SpaceX is reportedly seeking a new renter for 50,000 H200 chips leased to Anthropic.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/spacex-reportedly-slashes-nvidia-chip-rents-ai-researcher-musk-edge-gpu-glut/cNbxOPgR9ZQ?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T05:32:55+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "2 Ways Anthropic's IPO Pays Off for Alphabet Investors",
+    "summary": "A large equity stake and nearly guaranteed cloud sales make Anthropic's future success a boon for Alphabet.",
+    "link": "https://www.fool.com/investing/2026/11/26/2-ways-anthropic-s-ipo-pays-off-for-alphabet-investors/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T05:20:02+00:00",
+    "tickers": [
+      "GOOGL",
+      "AMZN"
+    ],
+    "score": 10
+  },
+  {
+    "title": "Nvidia Reportedly Halts AI Server Shipments To Southeast Asia Ahead Of Jensen Huang's Congress Testimony",
+    "summary": "Dell and Super Micro informed buyers that pending orders cannot be shipped, according to a report in The Financial Times.",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-reportedly-halts-ai-server-shipments-to-southeast-asia-ahead-of-jensen-huang-s-congress-testimony/cNbxLXJR9ZN?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T08:11:47+00:00",
+    "tickers": [
+      "NVDA",
+      "SMCI"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+    "summary": "Investing.com -- Kioxia Holdings shares surged on Thursday, extending a sharp rebound in Japanese semiconductor stocks after the memory chipmaker announced a collaboration with Nvidia to expand effective GPU memory capacity using its solid-state drives.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-26T06:28:44+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 9
+  }
+]
