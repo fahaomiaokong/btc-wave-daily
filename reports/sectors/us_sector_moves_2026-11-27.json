@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 51.21,
+      "previous_close": 50.16999816894531,
+      "change_pct": 2.0729556886817546,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 43.86,
+      "previous_close": 43.459999084472656,
+      "change_pct": 0.9203886883427437,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 105.38,
+      "previous_close": 104.44999694824219,
+      "change_pct": 0.8903811191288469,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 162.95,
+      "previous_close": 161.61000061035156,
+      "change_pct": 0.8291562307949141,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 60.9,
+      "previous_close": 60.45000076293945,
+      "change_pct": 0.7444156019538628,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 56.51,
+      "previous_close": 56.11000061035156,
+      "change_pct": 0.7128843081399605,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.61,
+      "previous_close": 43.400001525878906,
+      "change_pct": 0.48386743487986994,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.3,
+      "previous_close": 91.87999725341797,
+      "change_pct": 0.4571209829530076,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 117.49,
+      "previous_close": 117.72000122070312,
+      "change_pct": -0.1953799000323886,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 183.68,
+      "previous_close": 184.72000122070312,
+      "change_pct": -0.5630149490203462,
+      "as_of": "2026-11-25"
+    },
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 155.79,
+      "previous_close": 157.08999633789062,
+      "change_pct": -0.827548773439668,
+      "as_of": "2026-11-25"
+    }
+  ],
+  "news": [
+    {
+      "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+      "summary": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
+      "link": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T08:05:09+00:00"
+    },
+    {
+      "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+      "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T07:15:44+00:00"
+    },
+    {
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+      "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T07:15:13+00:00"
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T06:50:38+00:00"
+    },
+    {
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T06:09:51+00:00"
+    },
+    {
+      "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+      "summary": "Nike, Adidas and Puma are betting big on Formula 1 as the sport's cultural influence grows and younger audiences fuel its appeal.",
+      "link": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T05:46:04+00:00"
+    },
+    {
+      "title": "Is the stock market open on Black Friday?",
+      "summary": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T05:01:00+00:00"
+    },
+    {
+      "title": "This 170-year historical study says ‘major market collapse’ is coming",
+      "summary": "The artificial intelligence boom is flashing warning signs of speculative excess that rival those seen at the height of the dot-com bubble.",
+      "link": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T04:07:07+00:00"
+    },
+    {
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+      "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+      "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T03:30:23+00:00"
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T01:15:00+00:00"
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T01:00:00+00:00"
+    },
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T00:31:00+00:00"
+    },
+    {
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+      "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T00:22:29+00:00"
+    },
+    {
+      "title": "Dave Ramsey Is 66 and Owns Zero Bonds. Should Retirees Follow Him?",
+      "summary": "Dave Ramsey compares bonds to taking Xanax and says the data backs his all-stock portfolio. The numbers do favor him on growth, but one detail about his own finances shows why most retirees can't copy him safely.",
+      "link": "https://247wallst.com/personal-finance/2026/11/26/dave-ramsey-is-66-and-owns-zero-bonds-should-retirees-follow-him/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T23:07:11+00:00"
+    },
+    {
+      "title": "Jim Lebenthal Says This Is “a Correction, Not Something Worse.” Why He’s Buying More Alphabet",
+      "summary": "Jim Lebenthal sees a dip and keeps buying, betting on a handful of businesses firing at once. The filings back much of his case, but one number in Alphabet's latest quarter could decide whether his optimism holds.",
+      "link": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T22:07:55+00:00"
+    },
+    {
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-26T22:00:00+00:00"
+    },
+    {
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-26T21:45:00+00:00"
+    },
+    {
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-26T21:13:17+00:00"
+    },
+    {
+      "title": "Is Bitcoin a Good Investment for Building Wealth After a 50% Drop?",
+      "summary": "Bitcoin buyers from 2016 turned small bets into fortunes, yet those who bought just five years ago are trailing a plain index fund. Before you treat this crash as a bargain, see what separates the winners from everyone else.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/26/is-bitcoin-a-good-investment-for-building-wealth-after-a-50-drop/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-26T20:50:17+00:00"
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-26T19:00:00+00:00"
+    }
+  ]
+}
