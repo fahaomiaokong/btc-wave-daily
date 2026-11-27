@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs",
+    "summary": "\"The Big Short\" investor Michael Burry has drawn attention to concerns that rising borrowing risks among major AI companies and data center developers could threaten the financing behind the industry’s massive infrastructure expansion. AI Credit Risks Rise as CDS Spreads Widen The warning comes from a Groundbreaker analysis titled \"Mark to Swap: How the Market is Mispricing the AI Boom,\" which Burry shared on X while clarifying that it was not his own work. \"Must read. This is not me. But it mus",
+    "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T06:31:28+00:00",
+    "tickers": [
+      "NVDA",
+      "META",
+      "ORCL"
+    ],
+    "score": 14
+  },
+  {
+    "title": "Prediction: This Will Be Anthropic’s Stock Price by the End of 2026",
+    "summary": "Anthropic is getting caught up in the Nvidia sell-off.",
+    "link": "https://www.fool.com/investing/2026/11/27/prediction-this-will-be-anthropic-s-stock-price-by-the-end-of-2026/?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T07:23:02+00:00",
+    "tickers": [
+      "NVDA",
+      "AMZN"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Elon Musk Offers Samsung Long-Term Chip Deals and Factory Funding, Gets Brushed Off: 'Everyone Else Was Offering That'",
+    "summary": "Samsung Electronics Co. Ltd. (OTC:SSNLF) was reportedly unmoved by offers from Tesla Inc. CEO Elon Musk (NASDAQ:TSLA) for long-term chip purchase commitments and guarantees to fund new factories. Capital Group Recalls Musk’s Samsung Talks Musk offered Samsung a long-term chip purchase commitment, but executive chairman Lee Jae-yong replied that “everyone else was offering him that,” according to a Wall Street Journal report on Wednesday that cited Carl Kawaja, a Capital Group portfolio manager.",
+    "link": "https://finance.yahoo.com/technology/articles/elon-musk-offers-samsung-long-064455133.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T06:44:55+00:00",
+    "tickers": [
+      "TSLA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+    "summary": "Analysts have reset their fair value estimate for Nvidia from about US$320 to about US$242, which marks a clear change in how the stock’s long term potential is being framed. This shift comes alongside fresh Street research that points to renewed confidence in Jensen Huang’s leadership and AI execution, while still flagging governance and regulatory risks that could influence how closely market prices track these updated targets. As you read on, you will see how these moving pieces fit...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T04:23:01+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+    "summary": "Nvidia reinstated founder Jensen Huang as CEO and president in late November while multiple US investigations into export controls, governance and disclosure practices continue. Kioxia also announced a collaboration with Nvidia to use SCADA software and high performance SSDs to extend effective GPU memory capacity to roughly 1.1 PB at rack scale. The Kioxia partnership around Nvidia’s Storage Next initiative highlights how the business is trying to tackle AI data bottlenecks at the system...",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T05:14:09+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+    "summary": "Investing.com-- Singapore has not yet confirmed whether Nvidia has stopped supplying advanced chips to the country, Deputy Prime Minister Gan Kim Yong said on Friday.",
+    "link": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html?.tsrc=rss",
+    "source": "Yahoo Finance",
+    "published": "2026-11-27T04:14:19+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch",
+    "published": "2026-11-26T20:03:54+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  },
+  {
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+    "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+    "source": "Tech",
+    "published": "2026-11-26T03:19:44+00:00",
+    "tickers": [
+      "NVDA"
+    ],
+    "score": 6
+  }
+]
