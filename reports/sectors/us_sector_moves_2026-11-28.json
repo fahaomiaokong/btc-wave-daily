@@ -1,0 +1,234 @@
+{
+  "moves": [
+    {
+      "symbol": "XLK",
+      "name": "科技",
+      "price": 160.15,
+      "previous_close": 155.7899932861328,
+      "change_pct": 2.7986436239581636,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLY",
+      "name": "可选消费",
+      "price": 119.97,
+      "previous_close": 117.48999786376953,
+      "change_pct": 2.1108197985551413,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLC",
+      "name": "通信服务",
+      "price": 107.48,
+      "previous_close": 105.37999725341797,
+      "change_pct": 1.9927906636132642,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLB",
+      "name": "材料",
+      "price": 52.15,
+      "previous_close": 51.209999084472656,
+      "change_pct": 1.835580809085302,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLI",
+      "name": "工业",
+      "price": 165.56,
+      "previous_close": 162.9499969482422,
+      "change_pct": 1.601720221318459,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLE",
+      "name": "能源",
+      "price": 61.67,
+      "previous_close": 60.900001525878906,
+      "change_pct": 1.2643652788643989,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLF",
+      "name": "金融",
+      "price": 57.16,
+      "previous_close": 56.5099983215332,
+      "change_pct": 1.1502419001472752,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLRE",
+      "name": "房地产",
+      "price": 44.14,
+      "previous_close": 43.86000061035156,
+      "change_pct": 0.6383934923666068,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLP",
+      "name": "必选消费",
+      "price": 92.68,
+      "previous_close": 92.30000305175781,
+      "change_pct": 0.41169765512261147,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLV",
+      "name": "医疗保健",
+      "price": 184.2,
+      "previous_close": 183.67999267578125,
+      "change_pct": 0.283105044073384,
+      "as_of": "2026-11-27"
+    },
+    {
+      "symbol": "XLU",
+      "name": "公用事业",
+      "price": 43.73,
+      "previous_close": 43.61000061035156,
+      "change_pct": 0.2751648428547693,
+      "as_of": "2026-11-27"
+    }
+  ],
+  "news": [
+    {
+      "title": "U.S. military repelled drones at UK airbase this month, FT reports",
+      "summary": "The newspaper, citing people familiar with the matter, said the U.S. deployed counter-drone technology to repel the unmanned aerial systems.",
+      "link": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-28T07:40:14+00:00"
+    },
+    {
+      "title": "Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
+      "summary": "A hedge fund activist says a Chemring overhaul could unlock up to 80% share upside in the defense stock.",
+      "link": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-28T06:15:09+00:00"
+    },
+    {
+      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-28T06:00:01+00:00"
+    },
+    {
+      "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "link": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-28T06:00:01+00:00"
+    },
+    {
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T23:30:00+00:00"
+    },
+    {
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T23:15:00+00:00"
+    },
+    {
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "summary": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
+      "link": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T23:07:13+00:00"
+    },
+    {
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T22:00:57+00:00"
+    },
+    {
+      "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+      "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T21:29:46+00:00"
+    },
+    {
+      "title": "Why JPMorgan Chase Fans May Look To ETFs Right Now",
+      "summary": "If you like JPMorgan Chase for its global reach and mix of banking services, owning the stock outright means living with its company specific issues on their own. Simply Wall St points out that heavier long term spending on marketing, technology and artificial intelligence could grow faster than revenue and squeeze profit margins. Holding JPMorgan Chase inside an exchange traded fund spreads that single company risk across a basket of businesses, and also reduces how much its performance can...",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-chase-fans-may-211349086.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T21:13:49+00:00"
+    },
+    {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T20:16:00+00:00"
+    },
+    {
+      "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+      "summary": "The intrusion was discovered within the past month or so during work to upgrade the system, people familiar with the matter told Reuters.",
+      "link": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T20:03:08+00:00"
+    },
+    {
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T19:55:00+00:00"
+    },
+    {
+      "title": "Fidelity Counted 654,000 401(k) Millionaires in the Third Quarter of 2025, Up From 544,000 a Year Earlier",
+      "summary": "Seven-figure 401(k) accounts are multiplying, yet the typical saver holds a fraction of that. The age-by-age balances and one long-term habit reveal how wide the gap runs and what separates the two groups.",
+      "link": "https://247wallst.com/personal-finance/2026/11/27/fidelity-counted-654000-401k-millionaires-in-the-third-quarter-of-2025-up-from-544000-a-year-earlier/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-27T19:03:16+00:00"
+    },
+    {
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T18:46:20+00:00"
+    },
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-11-27T18:40:00+00:00"
+    },
+    {
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T18:24:06+00:00"
+    },
+    {
+      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T18:20:32+00:00"
+    },
+    {
+      "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
+      "summary": "U.S. equities rose on Friday as investors wrapped up a turbulent, holiday-shortened trading week.",
+      "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "source": "US Top News and Analysis",
+      "published": "2026-11-27T18:11:52+00:00"
+    }
+  ]
+}
